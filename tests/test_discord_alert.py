@@ -21,7 +21,7 @@ DISCORD_WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK_URL")
 def simulate_detection():
     # 1. VISUAL PROOF: The Console Log
     # This mimics the exact output of uni_scraper.py so it looks authentic in a screenshot.
-    print("[*] Starting Intelligence Scan of CPCC...")
+    print("[*] Starting Intelligence Scan of All Schools...")
     time.sleep(1.5)  # Fake loading time
     print("    [*] Scanning Page 1...")
     time.sleep(0.5)
@@ -39,47 +39,105 @@ def simulate_detection():
         return
 
     # Fake Data Payload
-    dummy_grant = {
-        "School": "CPCC",
-        "Name": grant_name,
-        "Amount": "$2,500.00",
-        "Deadline": "05/15/2026",
-        "Link": "https://cpcc.academicworks.com/opportunities/merancas-technical-careers",
-        "First_Seen": timestamp,
-    }
+    dummy_grants = [
+        {
+            "School": "CPCC",
+            "Name": grant_name,
+            "Amount": "$2,500.00",
+            "Deadline": "05/15/2026",
+            "Link": "https://cpcc.academicworks.com/opportunities/merancas-technical-careers",
+            "First_Seen": timestamp,
+        },
+        {
+            "School": "NC State",
+            "Name": "NC State Engineering Scholarship",
+            "Amount": "$5,000",
+            "Deadline": "2026-08-15",
+            "Link": "https://ncsu.academicworks.com/opportunities/12345",
+            "First_Seen": timestamp,
+        },
+        {
+            "School": "UNCG",
+            "Name": "UNCG Business Scholarship",
+            "Amount": "$2,000",
+            "Deadline": "2026-09-01",
+            "Link": "https://uncg.academicworks.com/opportunities/67890",
+            "First_Seen": timestamp,
+        },
+        {
+            "School": "App State",
+            "Name": "App State Computer Science Scholarship",
+            "Amount": "$3,000",
+            "Deadline": "2026-07-20",
+            "Link": "https://appstate.academicworks.com/opportunities/13579",
+            "First_Seen": timestamp,
+        },
+    ]
 
-    payload = {
-        "username": "Scholarship Sentinel",
-        "embeds": [
-            {
-                "title": f"💰 New {dummy_grant['School']} Grant: {dummy_grant['Name']}",
-                "url": dummy_grant["Link"],
-                "color": 5763719,  # CPCC Green
-                "fields": [
-                    {"name": "Amount", "value": dummy_grant["Amount"], "inline": True},
-                    {
-                        "name": "Deadline",
-                        "value": dummy_grant["Deadline"],
-                        "inline": True,
-                    },
-                    {
-                        "name": "Detected At (EST)",
-                        "value": dummy_grant["First_Seen"],
-                        "inline": False,
-                    },
-                ],
-                "footer": {
-                    "text": f"{dummy_grant['School']} Intelligence Feed • SIMULATION MODE"
-                },
-            }
-        ],
-    }
+    for dummy_grant in dummy_grants:
+        # --- DYNAMIC BRANDING ---
+        school_branding = {
+            "CPCC": {"color": 5763719, "emoji": "🟢"},
+            "UNCC": {"color": 11964228, "emoji": "🟡"},
+            "NC State": {"color": 16711680, "emoji": "🐺"},
+            "UNCG": {"color": 127, "emoji": "⚔️"},
+            "App State": {"color": 0, "emoji": "🏔️"},
+            "ECU": {"color": 5046202, "emoji": "🏴‍☠️"},
+            "UNCW": {"color": 127, "emoji": "🌊"},
+            "Wake Tech": {"color": 48868, "emoji": "🦅"},
+            "Fay Tech": {"color": 135, "emoji": "✈️"},
+            "Clemson": {"color": 16744448, "emoji": "🐅"},
+            "UofSC": {"color": 7506194, "emoji": "🐔"},
+            "CofC": {"color": 13421772, "emoji": "🐾"},
+            "Gvltec": {"color": 16776960, "emoji": "🔧"},
+            "Trident Tech": {"color": 16777215, "emoji": "🔱"},
+            "Default": {"color": 808080, "emoji": "🎓"},
+        }
+        branding = school_branding.get(
+            dummy_grant["School"], school_branding["Default"]
+        )
+        embed_color = branding["color"]
+        school_emoji = branding["emoji"]
 
-    try:
-        requests.post(DISCORD_WEBHOOK_URL, json=payload)
-        print("    [*] Alert sent to Discord.")
-    except Exception as e:
-        print(f"    [!] Failed to send Discord alert: {e}")
+        payload = {
+            "username": "Scholarship Sentinel",
+            "embeds": [
+                {
+                    "title": f"{school_emoji} New {dummy_grant['School']} Grant: {dummy_grant['Name']}",
+                    "url": dummy_grant["Link"],
+                    "color": embed_color,
+                    "fields": [
+                        {
+                            "name": "Amount",
+                            "value": dummy_grant["Amount"],
+                            "inline": True,
+                        },
+                        {
+                            "name": "Deadline",
+                            "value": dummy_grant["Deadline"],
+                            "inline": True,
+                        },
+                        {
+                            "name": "Detected At (EST)",
+                            "value": dummy_grant["First_Seen"],
+                            "inline": False,
+                        },
+                    ],
+                    "footer": {
+                        "text": f"{dummy_grant['School']} Intelligence Feed • SIMULATION MODE"
+                    },
+                }
+            ],
+        }
+
+        try:
+            requests.post(DISCORD_WEBHOOK_URL, json=payload)
+            print(f"    [*] Alert sent to Discord for {dummy_grant['School']}.")
+            time.sleep(1)
+        except Exception as e:
+            print(
+                f"    [!] Failed to send Discord alert for {dummy_grant['School']}: {e}"
+            )
 
 
 if __name__ == "__main__":

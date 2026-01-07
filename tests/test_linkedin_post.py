@@ -40,7 +40,34 @@ def run_test():
             "Match_Reason": "Integration Test",
             "First_Seen": datetime.now().isoformat(),
             "School": "TEST_LAB",
-        }
+        },
+        "TEST_ENTRY_002": {
+            "Name": "NC State Engineering Scholarship",
+            "Amount": "$5,000",
+            "Deadline": "2026-08-15",
+            "Link": "https://ncsu.academicworks.com/opportunities/12345",
+            "Match_Reason": "Engineering",
+            "First_Seen": datetime.now().isoformat(),
+            "School": "NC State",
+        },
+        "TEST_ENTRY_003": {
+            "Name": "UNCG Business Scholarship",
+            "Amount": "$2,000",
+            "Deadline": "2026-09-01",
+            "Link": "https://uncg.academicworks.com/opportunities/67890",
+            "Match_Reason": "Business",
+            "First_Seen": datetime.now().isoformat(),
+            "School": "UNCG",
+        },
+        "TEST_ENTRY_004": {
+            "Name": "App State Computer Science Scholarship",
+            "Amount": "$3,000",
+            "Deadline": "2026-07-20",
+            "Link": "https://appstate.academicworks.com/opportunities/13579",
+            "Match_Reason": "Computer Science",
+            "First_Seen": datetime.now().isoformat(),
+            "School": "App State",
+        },
     }
 
     # Define the path to the state file
