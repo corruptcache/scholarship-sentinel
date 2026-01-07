@@ -1,0 +1,59 @@
+name: Daily Scholarship Sentinel
+
+on:
+  schedule:
+    # Runs at 14:00 UTC (9:00 AM EST / 10:00 AM EDT)
+    # This aligns with peak business hours for maximum engagement.
+    - cron: "0 14 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run-sentinel:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          pip install -r scholarship-sentinel/requirements.txt || pip install -r requirements.txt
+
+      - name: Run Scraper (Get Intel)
+        run: |
+          if [ -f "scholarship-sentinel/uni_scraper.py" ]; then
+            python scholarship-sentinel/uni_scraper.py
+          else
+            python uni_scraper.py
+          fi
+
+      - name: Run Poster (Distribute Intel)
+        env:
+          LINKEDIN_ACCESS_TOKEN: ${{ secrets.LINKEDIN_ACCESS_TOKEN }}
+        run: |
+          if [ -f "scholarship-sentinel/linkedin_poster.py" ]; then
+            python scholarship-sentinel/linkedin_poster.py
+          else
+            python linkedin_poster.py
+          fi
+
+      - name: Commit and Push State
+        run: |
+          git config --global user.name "Scholarship Sentinel Bot"
+          git config --global user.email "bot@sentinel.local"
+
+          if [[ `git status --porcelain` ]]; then
+            git add .
+            git commit -m "🤖 Update sentinel state [skip ci]"
+            git push
+          else
+            echo "No changes to state. Sentinel sleeping."
+          fi
