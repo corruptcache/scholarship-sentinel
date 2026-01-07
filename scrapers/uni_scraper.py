@@ -13,12 +13,26 @@ from bs4 import BeautifulSoup
 # Use absolute paths relative to the script location to appease linters/IDE resolution
 SCRIPT_DIR = Path(__file__).parent
 TARGETS = {
+    # North Carolina
+    "NC State": "https://ncsu.academicworks.com/opportunities",
+    "UNCG": "https://uncg.academicworks.com/opportunities",
+    "App State": "https://appstate.academicworks.com/opportunities",
+    "ECU": "https://ecu.academicworks.com/opportunities",
+    "UNCW": "https://uncw.academicworks.com/opportunities",
+    "Wake Tech": "https://waketech.academicworks.com/opportunities",
+    "Fay Tech": "https://faytechcc.academicworks.com/opportunities",
     "CPCC": "https://cpcc.academicworks.com/opportunities",
     "UNCC": "https://ninerscholars.uncc.edu/opportunities",
+    # South Carolina
+    "Clemson": "https://clemson.academicworks.com/opportunities",
+    "UofSC": "https://sc.academicworks.com/opportunities",
+    "CofC": "https://cofc.academicworks.com/opportunities",
+    "Gvltec": "https://gvltec.academicworks.com/opportunities",
+    "Trident Tech": "https://tridenttech.academicworks.com/opportunities",
 }
 
-OUTPUT_FILE = SCRIPT_DIR / "scholarship_targets.csv"
-STATE_FILE = SCRIPT_DIR / "scholarship_state.json"
+OUTPUT_FILE = SCRIPT_DIR.parent / "data" / "scholarship_targets.csv"
+STATE_FILE = SCRIPT_DIR.parent / "data" / "scholarship_state.json"
 
 KEYWORDS = [
     "cyber",
@@ -41,7 +55,7 @@ KEYWORDS = [
 try:
     from dotenv import load_dotenv
 
-    load_dotenv(dotenv_path=SCRIPT_DIR / ".env")
+    load_dotenv(dotenv_path=SCRIPT_DIR.parent / ".env")
 except (ImportError, ModuleNotFoundError):
     pass
 
@@ -99,9 +113,31 @@ def send_discord_alert(scholarship):
         return
 
     sch_school = scholarship.get("School", "Unknown")
-    # Brand colors: Green for CPCC, Gold for UNCC
-    embed_color = 5763719 if sch_school == "CPCC" else 11964228
-    school_emoji = "🟢" if sch_school == "CPCC" else "🟡"
+
+    # --- DYNAMIC BRANDING ---
+    # Define a dictionary to map schools to their branding
+    school_branding = {
+        "CPCC": {"color": 5763719, "emoji": "🟢"},
+        "UNCC": {"color": 11964228, "emoji": "🟡"},
+        "NC State": {"color": 16711680, "emoji": "🐺"},
+        "UNCG": {"color": 127, "emoji": "⚔️"},
+        "App State": {"color": 0, "emoji": "🏔️"},
+        "ECU": {"color": 5046202, "emoji": "🏴‍☠️"},
+        "UNCW": {"color": 127, "emoji": "🌊"},
+        "Wake Tech": {"color": 48868, "emoji": "🦅"},
+        "Fay Tech": {"color": 135, "emoji": "✈️"},
+        "Clemson": {"color": 16744448, "emoji": "🐅"},
+        "UofSC": {"color": 7506194, "emoji": "🐔"},
+        "CofC": {"color": 13421772, "emoji": "🐾"},
+        "Gvltec": {"color": 16776960, "emoji": "🔧"},
+        "Trident Tech": {"color": 16777215, "emoji": "🔱"},
+        "Default": {"color": 808080, "emoji": "🎓"},
+    }
+
+    # Get the branding for the school, or use the default
+    branding = school_branding.get(sch_school, school_branding["Default"])
+    embed_color = branding["color"]
+    school_emoji = branding["emoji"]
 
     payload = {
         "username": "Scholarship Sentinel",

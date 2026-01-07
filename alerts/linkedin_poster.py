@@ -8,12 +8,12 @@ from dotenv import load_dotenv
 
 # 1. ROBUST ENVIRONMENT LOADING
 script_dir = Path(__file__).parent
-env_path = script_dir / ".env"
+env_path = script_dir.parent / ".env"
 load_dotenv(dotenv_path=env_path)
 
 # --- CONFIGURATION ---
 LINKEDIN_ACCESS_TOKEN = os.getenv("LINKEDIN_ACCESS_TOKEN", "").strip()
-STATE_FILES = [script_dir / "scholarship_state.json"]
+STATE_FILES = [script_dir.parent / "data" / "scholarship_state.json"]
 GITHUB_REPO_URL = "https://github.com/corruptcache/scholarship-sentinel"
 
 
@@ -88,7 +88,7 @@ def format_linkedin_post(loot_list):
     post_text += (
         "\"Financial aid isn't a scarcity problem; it's a visibility problem.\"\n\n"
     )
-    post_text += f"My automated sentinel just intercepted {total_found} new funding opportunities for NC students. Today's top picks:\n\n"
+    post_text += f"My automated sentinel just intercepted {total_found} new funding opportunities for NC and SC students. Today's top picks:\n\n"
 
     for item in display_items:
         # School Tagging ([CPCC] or [UNCC])
@@ -103,10 +103,16 @@ def format_linkedin_post(loot_list):
         post_text += f"🔍 ...and {total_found - 3} more detected today!\n\n"
 
     # CTAs
-    post_text += "🚀 **Follow me for daily automated updates** on Cyber Security and IT scholarships at CPCC and UNCC! 🎓\n\n"
+    post_text += "🚀 **Follow me for daily automated updates** on Cyber Security and IT scholarships in the Carolinas! 🎓\n\n"
     post_text += f"🛠️ **Built with Open Source:** Check out the code, star the repo, or contribute here:\n{GITHUB_REPO_URL}\n\n"
 
-    post_text += "#CyberSecurity #Scholarships #OSINT #CPCC #UNCC #IT #Automation"
+    # Dynamic Hashtags
+    hashtags = {"#CyberSecurity", "#Scholarships", "#OSINT", "#IT", "#Automation"}
+    for item in loot_list:
+        school_tag = f"#{item.get('School', '').replace(' ', '')}"
+        hashtags.add(school_tag)
+
+    post_text += " ".join(hashtags)
     return post_text
 
 

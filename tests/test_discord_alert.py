@@ -1,6 +1,7 @@
 import os
 import time
 from datetime import datetime
+from pathlib import Path
 
 import requests
 
@@ -8,7 +9,9 @@ import requests
 try:
     from dotenv import load_dotenv
 
-    load_dotenv()
+    script_dir = Path(__file__).parent
+    dotenv_path = script_dir.parent / ".env"
+    load_dotenv(dotenv_path=dotenv_path)
 except ImportError:
     pass
 

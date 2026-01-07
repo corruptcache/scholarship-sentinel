@@ -17,14 +17,23 @@ This project uses a Serverless CI/CD Pipeline (GitHub Actions) to execute a spec
 * **The Signal:** When new funding is detected, the system pipes a rich-text payload to a Discord Webhook (Real-time).  
 * **The Community:** A secondary bot formats the intelligence into a LinkedIn update to inform the wider student body.
 
+## 📂 File Structure
+
+The repository is organized into the following directories:
+
+*   `scrapers/`: Contains the scripts for scraping scholarship data.
+*   `alerts/`: Contains the scripts for sending alerts to Discord and LinkedIn.
+*   `tests/`: Contains test scripts for the scrapers and alerts.
+*   `data/`: Stores the generated scholarship data (JSON and CSV).
+
 ## 🛠️ The Toolkit
 
 This repository contains distinct modules for targeted intelligence gathering:
 
 | Module | Target | Technique |
 | :---- | :---- | :---- |
-| uni\_scraper.py | CPCC & UNCC | BeautifulSoup scraping of Blackbaud portals. Features Timezone-Adjusted Timestamping to track administrative schedules. |
-| linkedin\_poster.py | Social Signal | Automates community distribution via the LinkedIn UGC API. |
+| `scrapers/uni_scraper.py` | CPCC & UNCC | BeautifulSoup scraping of Blackbaud portals. Features Timezone-Adjusted Timestamping to track administrative schedules. |
+| `alerts/linkedin_poster.py` | Social Signal | Automates community distribution via the LinkedIn UGC API. |
 
 ## 🧪 Testing & Integration
 
@@ -32,10 +41,8 @@ To verify connectivity and formatting without waiting for the daily cron job, us
 
 | Script | Purpose |
 | :---- | :---- |
-| test\_discord\_alert.py | Simulates a scholarship detection to verify Discord Webhook connectivity and embed styling. |
-| test\_linkedin\_post.py | Injects mock data into the local state and generates a preview of the LinkedIn post. Optionally posts to your feed. |
-
-**Note on Quiet Periods:** By default, linkedin_poster.py will stay quiet if no new scholarships are detected in the last 25 hours. This prevents "spamming" your network with empty updates. If you require a "Heartbeat" to ensure proper functionality, check the logs in GitHub Actions.
+| `tests/test_discord_alert.py` | Simulates a scholarship detection to verify Discord Webhook connectivity and embed styling. |
+| `tests/test_linkedin_post.py` | Injects mock data into the local state and generates a preview of the LinkedIn post. Optionally posts to your feed. |
 
 ## 🚀 Deployment
 
@@ -44,7 +51,7 @@ To verify connectivity and formatting without waiting for the daily cron job, us
 This project is optimized for GitHub Actions. You do not need a server.
 
 1. **Fork this Repository.**  
-2. **Configure Secrets:** Go to Settings \-\> Secrets and variables \-\> Actions and add:  
+2. **Configure Secrets:** Go to Settings \-> Secrets and variables \-> Actions and add:  
 ```env
    DISCORD_WEBHOOK_URL: Your Discord Webhook.  
    LINKEDIN_ACCESS_TOKEN: Your LinkedIn API access token.  
@@ -70,7 +77,7 @@ DISCORD_WEBHOOK_URL=https://discord.com/api/webhook
 ```
 4. Run the Scanner  
 ```bash
-python uni_scraper.py
+python scrapers/uni_scraper.py
 ```
 ## 📊 Sample Output
 
@@ -80,7 +87,7 @@ The bot detects a grant added at 4:45 PM on a Friday.
 
 ## 📈 Note on Quiet Periods
 
-By default, linkedin_poster.py will stay quiet if no new scholarships are detected in the last 25 hours. This prevents "spamming" your network with empty updates. If you require a "Heartbeat" to ensure proper functionality, check the logs in GitHub Actions.
+By default, `alerts/linkedin_poster.py` will stay quiet if no new scholarships are detected in the last 25 hours. This prevents "spamming" your network with empty updates. If you require a "Heartbeat" to ensure proper functionality, check the logs in GitHub Actions.
 
 ## ⚖️ Ethical Design
 

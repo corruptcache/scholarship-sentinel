@@ -2,12 +2,15 @@ import json
 import os
 import sys
 from datetime import datetime
+from pathlib import Path
 
 # 1. LOAD ENV (Crucial for local testing)
 try:
     from dotenv import load_dotenv
 
-    load_dotenv()
+    script_dir = Path(__file__).parent
+    dotenv_path = script_dir.parent / ".env"
+    load_dotenv(dotenv_path=dotenv_path)
 except ImportError:
     pass
 
@@ -40,17 +43,21 @@ def run_test():
         }
     }
 
+    # Define the path to the state file
+    state_file_path = "data/scholarship_state.json"
+    os.makedirs("data", exist_ok=True)
+
     # Backup existing state
     backup_state = None
-    if os.path.exists("scholarship_state.json"):
-        with open("scholarship_state.json", "r") as f:
+    if os.path.exists(state_file_path):
+        with open(state_file_path, "r") as f:
             backup_state = f.read()
 
     # Write Mock Data
-    with open("scholarship_state.json", "w") as f:
+    with open(state_file_path, "w") as f:
         json.dump(mock_data, f)
 
-    print("[*] Injected mock data into scholarship_state.json")
+    print(f"[*] Injected mock data into {state_file_path}")
 
     try:
         # 5. Refresh Module Globals (in case env loaded after import)
@@ -91,13 +98,13 @@ def run_test():
     finally:
         # 8. Cleanup
         if backup_state:
-            with open("scholarship_state.json", "w") as f:
+            with open(state_file_path, "w") as f:
                 f.write(backup_state)
-            print("[*] Restored original scholarship_state.json")
+            print(f"[*] Restored original {state_file_path}")
         else:
-            if os.path.exists("scholarship_state.json"):
-                os.remove("scholarship_state.json")
-                print("[*] Cleaned up mock state file.")
+            if os.path.exists(state_file_path):
+                os.remove(state_file_path)
+                print(f"[*] Cleaned up mock state file at {state_file_path}.")
 
 
 if __name__ == "__main__":
