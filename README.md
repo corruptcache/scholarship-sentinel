@@ -46,8 +46,8 @@ This project is optimized for GitHub Actions. You do not need a server.
 1. **Fork this Repository.**  
 2. **Configure Secrets:** Go to Settings \-\> Secrets and variables \-\> Actions and add:  
 ```env
-   * DISCORD_WEBHOOK_URL: Your Discord Webhook.  
-   * LINKEDIN_ACCESS_TOKEN: Your LinkedIn API access token.  
+   DISCORD_WEBHOOK_URL: Your Discord Webhook.  
+   LINKEDIN_ACCESS_TOKEN: Your LinkedIn API access token.  
 ```
 3. **Enable the Workflow:** Go to the "Actions" tab and enable the scan.  
 4. **Done:** The bot will now run every morning at 08:00 UTC.
@@ -66,7 +66,7 @@ pip install -r requirements.txt
 ```
 3. Set Environment Variables (.env file) 
 ```env
-DISCORD\_WEBHOOK\_URL=https://discord.com/api/webhooks/...
+DISCORD_WEBHOOK_URL=https://discord.com/api/webhook
 ```
 4. Run the Scanner  
 ```bash
@@ -86,9 +86,13 @@ By default, linkedin_poster.py will stay quiet if no new scholarships are detect
 
 This tool is designed with Responsible Automation principles:
 
-* **Rate Limiting:** All scripts include time.sleep() delays to prevent server load.  
-* **Passive Recon:** The GitHub Action runs only once per day, respecting standard robots.txt crawl frequencies.  
-* **Public Benefit:** The data collected is not sold or gated. It is open-sourced to improve financial literacy for the student community.
+*   **Rate Limiting:** All scripts include time.sleep() delays to prevent server load.
+    
+*   **Passive Recon:** The GitHub Action runs only once per day, respecting standard robots.txt crawl frequencies.
+    
+*   **Spam Prevention:** The LinkedIn bot only posts when new data exists. It does not post "No Update" messages to social feeds.
+    
+*   **Public Benefit:** The data collected is not sold or gated. It is open-sourced to improve financial literacy for the student community.
 
 ## 📄 License
 
