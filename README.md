@@ -1,8 +1,9 @@
-# 🛡️Scholarship Sentinel: Open Source Grant Intelligence 🛡️
+# 🛡️ Scholarship Sentinel 🛡️
+### Open Source Grant Intelligence
 
 >"Financial aid isn't a scarcity problem; it's a visibility problem."
 
-### Scholarship Sentinel is an automated Open Source Intelligence (OSINT) architecture designed to democratize access to workforce development funding. By monitoring institutional databases 24/7, it eliminates the "information asymmetry" that keeps students in debt.
+##### Scholarship Sentinel is an automated Open Source Intelligence (OSINT) architecture designed to democratize access to workforce development funding. By monitoring institutional databases 24/7, it eliminates the "information asymmetry" that keeps students in debt.
 
 ### Follow Me On [LinkedIn](https://www.linkedin.com/in/johnaknowles/) For Scholarship Updates!
 
