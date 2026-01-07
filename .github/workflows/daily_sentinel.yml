@@ -24,26 +24,15 @@ jobs:
           python-version: "3.10"
 
       - name: Install dependencies
-        run: |
-          pip install -r scholarship-sentinel/requirements.txt || pip install -r requirements.txt
+        run: pip install -r requirements.txt
 
       - name: Run Scraper (Get Intel)
-        run: |
-          if [ -f "scholarship-sentinel/uni_scraper.py" ]; then
-            python scholarship-sentinel/uni_scraper.py
-          else
-            python uni_scraper.py
-          fi
+        run: python scrapers/uni_scraper.py
 
       - name: Run Poster (Distribute Intel)
         env:
           LINKEDIN_ACCESS_TOKEN: ${{ secrets.LINKEDIN_ACCESS_TOKEN }}
-        run: |
-          if [ -f "scholarship-sentinel/linkedin_poster.py" ]; then
-            python scholarship-sentinel/linkedin_poster.py
-          else
-            python linkedin_poster.py
-          fi
+        run: python alerts/linkedin_poster.py
 
       - name: Commit and Push State
         run: |
