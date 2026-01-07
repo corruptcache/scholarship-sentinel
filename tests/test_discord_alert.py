@@ -42,7 +42,7 @@ def simulate_detection():
     dummy_grants = [
         {
             "School": "CPCC",
-            "Name": grant_name,
+            "Name": grant_name + " [SIMULATION]",
             "Amount": "$2,500.00",
             "Deadline": "05/15/2026",
             "Link": "https://cpcc.academicworks.com/opportunities/merancas-technical-careers",
@@ -50,7 +50,7 @@ def simulate_detection():
         },
         {
             "School": "NC State",
-            "Name": "NC State Engineering Scholarship",
+            "Name": "NC State Engineering Scholarship [SIMULATION]",
             "Amount": "$5,000",
             "Deadline": "2026-08-15",
             "Link": "https://ncsu.academicworks.com/opportunities/12345",
@@ -58,7 +58,7 @@ def simulate_detection():
         },
         {
             "School": "UNCG",
-            "Name": "UNCG Business Scholarship",
+            "Name": "UNCG Business Scholarship [SIMULATION]",
             "Amount": "$2,000",
             "Deadline": "2026-09-01",
             "Link": "https://uncg.academicworks.com/opportunities/67890",
@@ -66,7 +66,7 @@ def simulate_detection():
         },
         {
             "School": "App State",
-            "Name": "App State Computer Science Scholarship",
+            "Name": "App State Computer Science Scholarship [SIMULATION]",
             "Amount": "$3,000",
             "Deadline": "2026-07-20",
             "Link": "https://appstate.academicworks.com/opportunities/13579",

@@ -33,7 +33,7 @@ def run_test():
     # 4. Create Mock "Fresh" Data
     mock_data = {
         "TEST_ENTRY_001": {
-            "Name": "Sentinel Connectivity Test Grant",
+            "Name": "Sentinel Connectivity Test Grant [SIMULATION]",
             "Amount": "$13,337",
             "Deadline": "2026-12-31",
             "Link": "https://github.com/corruptcache/scholarship-sentinel",
@@ -42,7 +42,7 @@ def run_test():
             "School": "TEST_LAB",
         },
         "TEST_ENTRY_002": {
-            "Name": "NC State Engineering Scholarship",
+            "Name": "NC State Engineering Scholarship [SIMULATION]",
             "Amount": "$5,000",
             "Deadline": "2026-08-15",
             "Link": "https://ncsu.academicworks.com/opportunities/12345",
@@ -51,7 +51,7 @@ def run_test():
             "School": "NC State",
         },
         "TEST_ENTRY_003": {
-            "Name": "UNCG Business Scholarship",
+            "Name": "UNCG Business Scholarship [SIMULATION]",
             "Amount": "$2,000",
             "Deadline": "2026-09-01",
             "Link": "https://uncg.academicworks.com/opportunities/67890",
@@ -60,7 +60,7 @@ def run_test():
             "School": "UNCG",
         },
         "TEST_ENTRY_004": {
-            "Name": "App State Computer Science Scholarship",
+            "Name": "App State Computer Science Scholarship [SIMULATION]",
             "Amount": "$3,000",
             "Deadline": "2026-07-20",
             "Link": "https://appstate.academicworks.com/opportunities/13579",
