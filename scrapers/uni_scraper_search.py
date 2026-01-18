@@ -1,5 +1,6 @@
 import csv
 import json
+import logging
 import os
 import random
 import re
@@ -16,6 +17,15 @@ sys.path.append(str(Path(__file__).resolve().parent.parent))
 from alerts.discord_alert import send_summary_alert
 from alerts.linkedin_poster import main as linkedin_main
 
+# --- LOGGING CONFIGURATION ---
+LOG_FILE = Path(__file__).resolve().parent.parent / "logs" / "sentinel.log"
+LOG_FILE.parent.mkdir(exist_ok=True)
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(message)s",
+    handlers=[logging.FileHandler(LOG_FILE), logging.StreamHandler()],
+)
+
 # --- CONFIGURATION ---
 # Use absolute paths relative to the script location to appease linters/IDE resolution
 SCRIPT_DIR = Path(__file__).parent
@@ -26,11 +36,11 @@ def build_target_urls():
         base_targets = json.load(f)
 
     final_targets = {}
-    print("[*] Dynamically discovering target URLs...")
+    logging.info("Dynamically discovering target URLs...")
     for school_name, base_url in base_targets.items():
         # The base URL is always a target
         final_targets[school_name] = base_url
-        print(f"  [+] Added base target: {school_name} - {base_url}")
+        logging.info(f"Added base target: {school_name} - {base_url}")
 
         suffixes = ["flexible", "external"]
         for suffix in suffixes:
@@ -40,16 +50,16 @@ def build_target_urls():
                 if response.status_code == 200:
                     target_name = f"{school_name}-{suffix.capitalize()}"
                     final_targets[target_name] = url_to_check
-                    print(
-                        f"    [+] Discovered and added: {target_name} - {url_to_check}"
+                    logging.info(
+                        f"Discovered and added: {target_name} - {url_to_check}"
                     )
                 else:
-                    print(
-                        f"    [!] Checked {url_to_check} - Status: {response.status_code}"
+                    logging.warning(
+                        f"Checked {url_to_check} - Status: {response.status_code}"
                     )
             except requests.RequestException as e:
-                print(f"    [!] Error checking {url_to_check}: {e}")
-    print("[*] Target discovery complete.")
+                logging.error(f"Error checking {url_to_check}: {e}")
+    logging.info("Target discovery complete.")
     return final_targets
 
 
@@ -127,7 +137,7 @@ def save_state(state_data):
         with open(STATE_FILE, "w", encoding="utf-8") as f:
             json.dump(state_data, f, indent=4)
     except IOError as e:
-        print(f"[!] Could not save state file: {e}")
+        logging.error(f"Could not save state file: {e}")
 
 
 def generate_markdown_page(scholarships):
@@ -163,9 +173,9 @@ def scan_opportunities():
     updated_findings = []
 
     for school_name, base_url in TARGETS.items():
-        print(f"[*] Starting Scan of {school_name}...")
+        logging.info(f"Starting Scan of {school_name}...")
         for keyword in KEYWORDS:
-            print(f"  [*] Searching for keyword: '{keyword}'")
+            logging.info(f"Searching for keyword: '{keyword}'")
             for page_num in range(1, 100):  # Loop through a large number of pages
                 headers = {
                     "User-Agent": (
@@ -181,13 +191,13 @@ def scan_opportunities():
                         base_url, headers=headers, timeout=15, params=params
                     )
                     if response.status_code == 404:
-                        print(
-                            f"    [!] Page {page_num} not found for keyword '{keyword}'. Ending scan."
+                        logging.warning(
+                            f"Page {page_num} not found for keyword '{keyword}'. Ending scan."
                         )
                         break
                     if response.status_code != 200:
-                        print(
-                            f"    [!] Error fetching page {page_num} for keyword '{keyword}': {response.status_code}"
+                        logging.error(
+                            f"Error fetching page {page_num} for keyword '{keyword}': {response.status_code}"
                         )
                         break
 
@@ -202,14 +212,14 @@ def scan_opportunities():
                             and "No opportunities matched your search"
                             in cols[0].get_text()
                         ):
-                            print(
-                                f"    [!] No results for '{keyword}' on page {page_num}. Moving to next keyword."
+                            logging.info(
+                                f"No results for '{keyword}' on page {page_num}. Moving to next keyword."
                             )
                             break
 
                     if not table_rows:
-                        print(
-                            f"    [!] No table rows found on page {page_num} for '{keyword}'. Ending scan."
+                        logging.warning(
+                            f"No table rows found on page {page_num} for '{keyword}'. Ending scan."
                         )
                         break
 
@@ -263,7 +273,7 @@ def scan_opportunities():
                         current_scan_results[scholarship_id] = scholarship_data
 
                         if scholarship_id not in seen_history:
-                            print(f"        [!!!] NEW {school_name} TARGET: {name}")
+                            logging.warning(f"NEW {school_name} TARGET: {name}")
                             new_findings.append(scholarship_data)
 
                         else:
@@ -272,33 +282,33 @@ def scan_opportunities():
                                 "Deadline"
                             )
                             if previous_deadline and previous_deadline != deadline:
-                                print(
-                                    f"        [!!!] DEADLINE CHANGED for {name}: {previous_deadline} -> {deadline}"
+                                logging.warning(
+                                    f"DEADLINE CHANGED for {name}: {previous_deadline} -> {deadline}"
                                 )
                                 scholarship_data["Previous_Deadline"] = (
                                     previous_deadline
                                 )
                                 updated_findings.append(scholarship_data)
                             else:
-                                print(f"        [+] Existing {school_name}: {name}")
+                                logging.info(f"Existing {school_name}: {name}")
 
                     if not scholarships_found_on_page:
-                        print(
-                            f"    [!] No valid scholarship data on page {page_num}. Ending scan for '{keyword}'."
+                        logging.warning(
+                            f"No valid scholarship data on page {page_num}. Ending scan for '{keyword}'."
                         )
                         break
 
                     time.sleep(random.uniform(1.0, 2.5))
 
                 except (requests.exceptions.RequestException, ConnectionError) as e:
-                    print(
-                        f"    [!] Network Error on {school_name} page {page_num} for '{keyword}': {e}"
+                    logging.error(
+                        f"Network Error on {school_name} page {page_num} for '{keyword}': {e}"
                     )
                     break
                 except Exception as e:
-                    print(f"    [!] Unexpected Error during scan: {e}")
+                    logging.error(f"Unexpected Error during scan: {e}")
                     break
-        print(f"  [*] Finished keyword searches for {school_name}.")
+        logging.info(f"Finished keyword searches for {school_name}.")
 
     # Send summary alert for new, live scholarships
     live_new_findings = [s for s in new_findings if s.get("Live", False)]
@@ -307,15 +317,15 @@ def scan_opportunities():
     all_findings = live_new_findings + live_updated_findings
 
     if all_findings:
-        print(
-            f"[*] Sending summary alert for {len(all_findings)} new/updated live scholarships."
+        logging.info(
+            f"Sending summary alert for {len(all_findings)} new/updated live scholarships."
         )
         send_summary_alert(all_findings)
         markdown_content = generate_markdown_page(all_findings)
         with open("docs/index.md", "w", encoding="utf-8") as f:
             f.write(markdown_content)
     else:
-        print("[*] No new or updated live scholarships found to alert.")
+        logging.info("No new or updated live scholarships found to alert.")
 
     # Save State and Export
     seen_history.update(current_scan_results)
@@ -339,9 +349,9 @@ def scan_opportunities():
                 writer.writeheader()
                 writer.writerows(current_scan_results.values())
         except IOError as e:
-            print(f"[!] Could not export CSV: {e}")
+            logging.error(f"Could not export CSV: {e}")
 
-    print(f"[*] Scan Complete. {len(new_findings)} new targets identified.")
+    logging.info(f"Scan Complete. {len(new_findings)} new targets identified.")
 
     return all_findings
 

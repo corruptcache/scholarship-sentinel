@@ -1,4 +1,5 @@
 import json
+import logging
 import os
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -20,7 +21,7 @@ GITHUB_REPO_URL = "https://github.com/corruptcache/scholarship-sentinel"
 def resolve_user_urn():
     """Determines the Author URN via OIDC or Legacy API with robust checks."""
     if not LINKEDIN_ACCESS_TOKEN:
-        print("[!] No Access Token found. Cannot resolve URN.")
+        logging.warning("No Access Token found. Cannot resolve URN.")
         return None
 
     headers = {"Authorization": f"Bearer {LINKEDIN_ACCESS_TOKEN}"}
@@ -79,7 +80,7 @@ def get_fresh_loot():
                 if first_seen_dt > cutoff_time:
                     fresh_loot.append(item)
         except Exception as e:
-            print(f"[!] Error reading state file: {e}")
+            logging.error(f"Error reading state file: {e}")
     return fresh_loot
 
 
@@ -202,16 +203,16 @@ def post_to_linkedin(text, author_urn):
     try:
         response = requests.post(api_url, headers=headers, json=payload, timeout=15)
         if response.status_code == 201:
-            print("[*] LinkedIn Post Successful!")
+            logging.info("LinkedIn Post Successful!")
         else:
-            print(f"[!] Post Failed: {response.status_code}\n{response.text}")
+            logging.error(f"Post Failed: {response.status_code}\n{response.text}")
     except Exception as e:
-        print(f"[!] Connection Error: {e}")
+        logging.error(f"Connection Error: {e}")
 
 
 def main(scholarships=None):
     """Main function to run the LinkedIn poster bot."""
-    print("[*] Waking up Scholarship Sentinel social bot...")
+    logging.info("Waking up Scholarship Sentinel social bot...")
     user_urn = resolve_user_urn()
 
     if user_urn:
@@ -220,16 +221,16 @@ def main(scholarships=None):
             loot = get_fresh_loot()
 
         if loot:
-            print(f"[*] Found {len(loot)} items. Posting digest...")
+            logging.info(f"Found {len(loot)} items. Posting digest...")
             post_body = format_linkedin_post(loot)
             if post_body:
                 post_to_linkedin(post_body, user_urn)
             else:
-                print("[*] Post body is empty. Staying quiet.")
+                logging.info("Post body is empty. Staying quiet.")
         else:
-            print("[*] No new intel today. Staying quiet.")
+            logging.info("No new intel today. Staying quiet.")
     else:
-        print("[!] Aborting. Could not determine User ID.")
+        logging.warning("Aborting. Could not determine User ID.")
 
 
 if __name__ == "__main__":

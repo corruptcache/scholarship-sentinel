@@ -1,3 +1,4 @@
+import logging
 import os
 import time
 from datetime import datetime
@@ -16,7 +17,7 @@ DISCORD_WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK_URL")
 def send_summary_alert(scholarships):
     """Pushes a single message with multiple embeds to Discord, summarizing all new scholarships."""
     if not DISCORD_WEBHOOK_URL:
-        print("[!] DISCORD_WEBHOOK_URL not found. Cannot send summary alert.")
+        logging.warning("DISCORD_WEBHOOK_URL not found. Cannot send summary alert.")
         return
 
     # Filter out scholarships with "Ended" or missing deadlines
@@ -25,7 +26,7 @@ def send_summary_alert(scholarships):
     ]
 
     if not scholarships:
-        print("[+] No new, valid scholarships to report in summary.")
+        logging.info("No new, valid scholarships to report in summary.")
         return
 
     # Group scholarships by school
@@ -89,7 +90,7 @@ def send_summary_alert(scholarships):
         embeds.append(embed)
 
     if not embeds:
-        print("[+] No embeds to send.")
+        logging.info("No embeds to send.")
         return
 
     for embed in embeds:
@@ -97,7 +98,7 @@ def send_summary_alert(scholarships):
         try:
             resp = requests.post(DISCORD_WEBHOOK_URL, json=payload, timeout=10)
             resp.raise_for_status()
-            print(f"[+] Discord summary alert sent for a chunk of scholarships.")
+            logging.info("Discord summary alert sent for a chunk of scholarships.")
             time.sleep(1)  # sleep for 1 second between each request
         except requests.exceptions.RequestException as e:
-            print(f"[!] Failed to send Discord summary alert: {e}")
+            logging.error(f"Failed to send Discord summary alert: {e}")
