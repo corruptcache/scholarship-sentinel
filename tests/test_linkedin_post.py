@@ -1,138 +1,90 @@
-import json
 import os
 import sys
-from datetime import datetime
 from pathlib import Path
 
-# 1. LOAD ENV (Crucial for local testing)
-try:
-    from dotenv import load_dotenv
+import pytest
 
-    script_dir = Path(__file__).parent
-    dotenv_path = script_dir.parent / ".env"
-    load_dotenv(dotenv_path=dotenv_path)
-except ImportError:
-    pass
+# Add project root to path
+sys.path.append(str(Path(__file__).resolve().parent.parent))
 
-# 2. IMPORT BOT LOGIC
-try:
-    import linkedin_poster
-except ImportError:
-    sys.path.append(os.path.dirname(os.path.abspath(__file__)))
-    import linkedin_poster
+from alerts.linkedin_poster import create_post_text
+from alerts.linkedin_poster import main as linkedin_main
 
 
-def run_test():
-    print("[*] Starting LinkedIn Integration Test...")
-
-    # 3. VERIFY KEYS
-    if not os.getenv("LINKEDIN_ACCESS_TOKEN"):
-        print("[!] WARNING: LINKEDIN_ACCESS_TOKEN is missing from .env")
-        return
-
-    # 4. Create Mock "Fresh" Data
-    mock_data = {
-        "TEST_ENTRY_001": {
-            "Name": "Sentinel Connectivity Test Grant [SIMULATION]",
-            "Amount": "$13,337",
-            "Deadline": "2026-12-31",
-            "Link": "https://github.com/corruptcache/scholarship-sentinel",
-            "Match_Reason": "Integration Test",
-            "First_Seen": datetime.now().isoformat(),
-            "School": "TEST_LAB",
+def test_create_post_text_quick_glance():
+    """Tests the quick glance logic in the post text creation."""
+    scholarships = [
+        {
+            "School": "CPCC",
+            "Name": "Test 1",
+            "Amount": "$1",
+            "Deadline": "01/15/2027",
+            "Link": "http://a.com",
         },
-        "TEST_ENTRY_002": {
-            "Name": "NC State Engineering Scholarship [SIMULATION]",
-            "Amount": "$5,000",
-            "Deadline": "2026-08-15",
-            "Link": "https://ncsu.academicworks.com/opportunities/12345",
-            "Match_Reason": "Engineering",
-            "First_Seen": datetime.now().isoformat(),
+        {
+            "School": "CPCC",
+            "Name": "Test 2",
+            "Amount": "$2",
+            "Deadline": "01/10/2027",
+            "Link": "http://b.com",
+        },
+        {
+            "School": "CPCC",
+            "Name": "Test 3",
+            "Amount": "$3",
+            "Deadline": "01/10/2027",
+            "Link": "http://c.com",
+            "Previous_Deadline": "01/01/2027",
+        },
+        {
             "School": "NC State",
+            "Name": "Test 4",
+            "Amount": "$4",
+            "Deadline": "02/01/2027",
+            "Link": "http://d.com",
         },
-        "TEST_ENTRY_003": {
-            "Name": "UNCG Business Scholarship [SIMULATION]",
-            "Amount": "$2,000",
-            "Deadline": "2026-09-01",
-            "Link": "https://uncg.academicworks.com/opportunities/67890",
-            "Match_Reason": "Business",
-            "First_Seen": datetime.now().isoformat(),
-            "School": "UNCG",
-        },
-        "TEST_ENTRY_004": {
-            "Name": "App State Computer Science Scholarship [SIMULATION]",
-            "Amount": "$3,000",
-            "Deadline": "2026-07-20",
-            "Link": "https://appstate.academicworks.com/opportunities/13579",
-            "Match_Reason": "Computer Science",
-            "First_Seen": datetime.now().isoformat(),
-            "School": "App State",
-        },
-    }
+    ]
 
-    # Define the path to the state file
-    state_file_path = "data/scholarship_state.json"
-    os.makedirs("data", exist_ok=True)
+    post_text = create_post_text(scholarships)
 
-    # Backup existing state
-    backup_state = None
-    if os.path.exists(state_file_path):
-        with open(state_file_path, "r") as f:
-            backup_state = f.read()
-
-    # Write Mock Data
-    with open(state_file_path, "w") as f:
-        json.dump(mock_data, f)
-
-    print(f"[*] Injected mock data into {state_file_path}")
-
-    try:
-        # 5. Refresh Module Globals (in case env loaded after import)
-        linkedin_poster.LINKEDIN_ACCESS_TOKEN = os.getenv(
-            "LINKEDIN_ACCESS_TOKEN", ""
-        ).strip()
-        linkedin_poster.LINKEDIN_USER_ID = os.getenv("LINKEDIN_USER_ID", "").strip()
-
-        # 6. Run the logic
-        loot = linkedin_poster.get_fresh_loot()
-
-        if not loot:
-            print("[!] Logic Error: No fresh loot found despite injection.")
-            return
-
-        print(f"[*] Detected {len(loot)} fresh items.")
-        post_body = linkedin_poster.format_linkedin_post(loot)
-
-        print("\n" + "=" * 40)
-        print("PREVIEW OF LINKEDIN POST:")
-        print("=" * 40)
-        print(post_body)
-        print("=" * 40 + "\n")
-
-        # 7. Interactive Send
-        confirm = input("Do you want to actually post this to LinkedIn? (y/N): ")
-        if confirm.lower() == "y":
-            # NO FETCHING. DIRECT ENV LOOKUP.
-            user_urn = linkedin_poster.resolve_user_urn()
-
-            if user_urn:
-                linkedin_poster.post_to_linkedin(post_body, user_urn)
-            else:
-                print("[!] Could not find User URN in .env. Aborting post.")
-        else:
-            print("[*] Post skipped.")
-
-    finally:
-        # 8. Cleanup
-        if backup_state:
-            with open(state_file_path, "w") as f:
-                f.write(backup_state)
-            print(f"[*] Restored original {state_file_path}")
-        else:
-            if os.path.exists(state_file_path):
-                os.remove(state_file_path)
-                print(f"[*] Cleaned up mock state file at {state_file_path}.")
+    assert "**CPCC** - Earliest Deadline: 2027-01-10" in post_text
+    assert "Test 2" in post_text
+    assert "DEADLINE EXTENDED!" in post_text
+    assert "**NC State**" in post_text
+    assert "For the full list of 4 scholarships" in post_text
 
 
-if __name__ == "__main__":
-    run_test()
+def test_linkedin_main_no_loot(requests_mock, monkeypatch):
+    """Tests the main function when there are no scholarships."""
+    monkeypatch.setenv("LINKEDIN_ACCESS_TOKEN", "test_token")
+    requests_mock.get("https://api.linkedin.com/v2/userinfo", text='{"sub": "123"}')
+
+    linkedin_main([])
+
+    # The userinfo is called, but no post is made
+    assert requests_mock.call_count == 1
+    assert "userinfo" in requests_mock.last_request.url
+
+
+def test_linkedin_main_with_loot(requests_mock, monkeypatch):
+    """Tests the main function when there are scholarships."""
+    monkeypatch.setenv("LINKEDIN_ACCESS_TOKEN", "test_token")
+    requests_mock.get("https://api.linkedin.com/v2/userinfo", text='{"sub": "123"}')
+    requests_mock.post("https://api.linkedin.com/rest/posts", text="ok")
+
+    scholarships = [
+        {
+            "School": "CPCC",
+            "Name": "Test",
+            "Amount": "$1",
+            "Deadline": "01/15/2027",
+            "Link": "http://a.com",
+        }
+    ]
+
+    linkedin_main(scholarships)
+
+    assert requests_mock.call_count == 2
+    assert "posts" in requests_mock.last_request.url
+    payload = requests_mock.last_request.json()
+    assert "Test" in payload["commentary"]
