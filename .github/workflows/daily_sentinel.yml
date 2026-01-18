@@ -31,13 +31,10 @@ jobs:
           black . --check
           ruff check .
 
-      - name: Run Scraper (Get Intel)
-        run: python scrapers/uni_scraper.py
-
-      - name: Run Poster (Distribute Intel)
+      - name: Run Scraper and Poster
         env:
           LINKEDIN_ACCESS_TOKEN: ${{ secrets.LINKEDIN_ACCESS_TOKEN }}
-        run: python alerts/linkedin_poster.py
+        run: python scrapers/blackbaud_scraper.py
 
       - name: Commit and Push State
         run: |

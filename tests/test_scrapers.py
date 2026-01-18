@@ -4,7 +4,7 @@ from pathlib import Path
 # Add project root to path
 sys.path.append(str(Path(__file__).resolve().parent.parent))
 
-from scrapers.uni_scraper_search import is_opportunity_live
+from scrapers.blackbaud_scraper import is_opportunity_live
 
 
 # Test specific logic functions

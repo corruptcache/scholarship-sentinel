@@ -1,4 +1,5 @@
 # 🛡️ Scholarship Sentinel 🛡️
+[![Daily Scholarship Sentinel](https://github.com/corruptcache/scholarship-sentinel/actions/workflows/daily_sentinel.yml/badge.svg)](https://github.com/corruptcache/scholarship-sentinel/actions/workflows/daily_sentinel.yml)
 ### Open Source Grant Intelligence
 
 >"Financial aid isn't a scarcity problem; it's a visibility problem."
@@ -8,6 +9,14 @@
 ### Follow Me On [LinkedIn](https://www.linkedin.com/in/johnaknowles/) For Scholarship Updates!
 
 ## 🏗️ The Architecture
+
+```mermaid
+graph TD
+    A[GitHub Actions] --> B(blackbaud_scraper.py);
+    B --> C{scholarship_state_search.json};
+    B --> D[Discord Alert];
+    B --> E[LinkedIn Alert];
+```
 
 Most students check scholarship portals once a semester. This system runs a sentinel every morning.
 
@@ -25,6 +34,7 @@ The repository is organized into the following directories:
 *   `alerts/`: Contains the scripts for sending alerts to Discord and LinkedIn.
 *   `tests/`: Contains test scripts for the scrapers and alerts.
 *   `data/`: Stores the generated scholarship data (JSON and CSV).
+*   `config/`: Contains configuration files for the scrapers.
 
 ## 🛠️ The Toolkit
 
@@ -32,8 +42,8 @@ This repository contains distinct modules for targeted intelligence gathering:
 
 | Module | Target | Technique |
 | :---- | :---- | :---- |
-| `scrapers/uni_scraper.py` | CPCC & UNCC | BeautifulSoup scraping of Blackbaud portals. Features Timezone-Adjusted Timestamping to track administrative schedules. |
-| `alerts/linkedin_poster.py` | Social Signal | Automates community distribution via the LinkedIn UGC API. |
+| `scrapers/blackbaud_scraper.py` | CPCC & UNCC | BeautifulSoup scraping of Blackbaud portals. Features Timezone-Adjusted Timestamping to track administrative schedules. |
+| `alerts/linkedin_alert.py` | Social Signal | Automates community distribution via the LinkedIn UGC API. |
 
 ## 🧪 Testing & Integration
 
@@ -41,8 +51,8 @@ To verify connectivity and formatting without waiting for the daily cron job, us
 
 | Script | Purpose |
 | :---- | :---- |
-| `tests/test_discord_alert.py` | Simulates a scholarship detection to verify Discord Webhook connectivity and embed styling. |
-| `tests/test_linkedin_post.py` | Injects mock data into the local state and generates a preview of the LinkedIn post. Optionally posts to your feed. |
+| `tests/test_discord_alert.py` | Unit tests for the Discord alert logic. |
+| `tests/test_linkedin_alert.py` | Unit tests for the LinkedIn alert logic. |
 
 ## 🚀 Deployment
 
@@ -77,7 +87,7 @@ DISCORD_WEBHOOK_URL=https://discord.com/api/webhook
 ```
 4. Run the Scanner  
 ```bash
-python scrapers/uni_scraper.py
+python scrapers/blackbaud_scraper.py
 ```
 ## 📊 Sample Output
 
@@ -87,7 +97,7 @@ The bot detects a grant added at 4:45 PM on a Friday.
 
 ## 📈 Note on Quiet Periods
 
-By default, `alerts/linkedin_poster.py` will stay quiet if no new scholarships are detected in the last 25 hours. This prevents "spamming" your network with empty updates. If you require a "Heartbeat" to ensure proper functionality, check the logs in GitHub Actions.
+By default, `alerts/linkedin_alert.py` will stay quiet if no new scholarships are detected in the last 25 hours. This prevents "spamming" your network with empty updates. If you require a "Heartbeat" to ensure proper functionality, check the logs in GitHub Actions.
 
 ## ⚖️ Ethical Design
 

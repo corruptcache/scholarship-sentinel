@@ -50,7 +50,7 @@ def resolve_user_urn():
 
 
 def get_fresh_loot():
-    """Finds items detected in the last 25 hours from scholarship_state.json."""
+    """Finds items detected or updated in the last 25 hours from scholarship_state.json."""
     fresh_loot = []
     cutoff_time = datetime.now(timezone.utc) - timedelta(hours=25)
 
@@ -65,20 +65,35 @@ def get_fresh_loot():
                     continue
 
                 # Filter out ended or missing deadlines
-                deadline = item.get("Deadline")
-                if not deadline or deadline == "Ended":
+                if not item.get("Deadline") or item.get("Deadline") == "Ended":
                     continue
+
+                is_new = False
+                is_updated = False
 
                 first_seen_str = item.get("First_Seen")
-                if not first_seen_str:
-                    continue
+                if first_seen_str:
+                    first_seen_dt = datetime.fromisoformat(first_seen_str)
+                    if first_seen_dt.tzinfo is None:
+                        first_seen_dt = first_seen_dt.replace(tzinfo=timezone.utc)
+                    if first_seen_dt > cutoff_time:
+                        is_new = True
 
-                first_seen_dt = datetime.fromisoformat(first_seen_str)
-                if first_seen_dt.tzinfo is None:
-                    first_seen_dt = first_seen_dt.replace(tzinfo=timezone.utc)
+                deadline_updated_at_str = item.get("Deadline_Updated_At")
+                if deadline_updated_at_str:
+                    deadline_updated_at_dt = datetime.fromisoformat(
+                        deadline_updated_at_str
+                    )
+                    if deadline_updated_at_dt.tzinfo is None:
+                        deadline_updated_at_dt = deadline_updated_at_dt.replace(
+                            tzinfo=timezone.utc
+                        )
+                    if deadline_updated_at_dt > cutoff_time:
+                        is_updated = True
 
-                if first_seen_dt > cutoff_time:
+                if is_new or is_updated:
                     fresh_loot.append(item)
+
         except Exception as e:
             logging.error(f"Error reading state file: {e}")
     return fresh_loot

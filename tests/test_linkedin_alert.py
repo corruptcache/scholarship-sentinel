@@ -4,8 +4,8 @@ from pathlib import Path
 # Add project root to path
 sys.path.append(str(Path(__file__).resolve().parent.parent))
 
-from alerts.linkedin_poster import create_post_text
-from alerts.linkedin_poster import main as linkedin_main
+from alerts.linkedin_alert import create_post_text
+from alerts.linkedin_alert import main as linkedin_main
 
 
 def test_create_post_text_quick_glance():

@@ -15,7 +15,7 @@ from bs4 import BeautifulSoup
 # Add project root to Python path
 sys.path.append(str(Path(__file__).resolve().parent.parent))
 from alerts.discord_alert import send_summary_alert
-from alerts.linkedin_poster import main as linkedin_main
+from alerts.linkedin_alert import main as linkedin_main
 
 # --- LOGGING CONFIGURATION ---
 LOG_FILE = Path(__file__).resolve().parent.parent / "logs" / "sentinel.log"
@@ -268,6 +268,7 @@ def scan_opportunities():
                             "Match_Reason": keyword,
                             "First_Seen": first_seen,
                             "Last_Seen": current_est_time,
+                            "Deadline_Updated_At": None,
                         }
 
                         current_scan_results[scholarship_id] = scholarship_data
@@ -287,6 +288,9 @@ def scan_opportunities():
                                 )
                                 scholarship_data["Previous_Deadline"] = (
                                     previous_deadline
+                                )
+                                scholarship_data["Deadline_Updated_At"] = (
+                                    current_est_time
                                 )
                                 updated_findings.append(scholarship_data)
                             else:
