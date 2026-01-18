@@ -19,48 +19,52 @@ from alerts.linkedin_poster import main as linkedin_main
 # --- CONFIGURATION ---
 # Use absolute paths relative to the script location to appease linters/IDE resolution
 SCRIPT_DIR = Path(__file__).parent
-# UNCG: uses auth and different backend for their scholarship portal
-# App State: uses auth and different backend for their scholarship portal
-# UNCW uses auth and different backend for their scholarship portal
-# UNCC uses auth and different backend for their scholarship portal
-# "Clemson": "https://clemson.academicworks.com/opportunities",
-# Trident Tech uses auth and different backend for their scholarship portal
-TARGETS = {
-    # North Carolina
-    "CPCC": "https://cpcc.academicworks.com/opportunities",
-    "CPCC-Flexible": "https://cpcc.academicworks.com/opportunities/flexible",
-    "CPCC-External": "https://cpcc.academicworks.com/opportunities/external",
-    "NC State": "https://ncsu.academicworks.com/opportunities",
-    "NC State-Flexible": "https://ncsu.academicworks.com/opportunities/flexible",
-    "ECU": "https://ecu.academicworks.com/opportunities",
-    "ECU-External": "https://ecu.academicworks.com/opportunities/external",
-    "Wake Tech": "https://waketech.academicworks.com/opportunities",
-    "Fay Tech": "https://faytechcc.academicworks.com/opportunities",
-    "Fay Tech-External": "https://faytechcc.academicworks.com/opportunities/external",
-    # South Carolina
-    "UofSC": "https://sc.academicworks.com/opportunities",
-    "CofC": "https://cofc.academicworks.com/opportunities",
-    "Gvltec": "https://gvltec.academicworks.com/opportunities",
-}
+
+
+def build_target_urls():
+    with open("config/schools.json", "r") as f:
+        base_targets = json.load(f)
+
+    final_targets = {}
+    print("[*] Dynamically discovering target URLs...")
+    for school_name, base_url in base_targets.items():
+        # The base URL is always a target
+        final_targets[school_name] = base_url
+        print(f"  [+] Added base target: {school_name} - {base_url}")
+
+        suffixes = ["flexible", "external"]
+        for suffix in suffixes:
+            url_to_check = f"{base_url}/{suffix}"
+            try:
+                response = requests.head(url_to_check, timeout=10)
+                if response.status_code == 200:
+                    target_name = f"{school_name}-{suffix.capitalize()}"
+                    final_targets[target_name] = url_to_check
+                    print(
+                        f"    [+] Discovered and added: {target_name} - {url_to_check}"
+                    )
+                else:
+                    print(
+                        f"    [!] Checked {url_to_check} - Status: {response.status_code}"
+                    )
+            except requests.RequestException as e:
+                print(f"    [!] Error checking {url_to_check}: {e}")
+    print("[*] Target discovery complete.")
+    return final_targets
+
+
+TARGETS = build_target_urls()
 
 OUTPUT_FILE = SCRIPT_DIR.parent / "data" / "scholarship_targets_search.csv"
 STATE_FILE = SCRIPT_DIR.parent / "data" / "scholarship_state_search.json"
 
-KEYWORDS = [
-    "information+Technology",
-    "cyber+security",
-    "computer+science",
-    "computer+engineering",
-    "data+science",
-    "artificial+intelligence",
-    "machine+learning",
-    "software+engineering",
-    "software+development",
-    "data+analytics",
-    "merancas",
-    "stem",
-    "robotics",
-]
+
+def load_keywords():
+    with open("config/keywords.json", "r") as f:
+        return json.load(f)
+
+
+KEYWORDS = load_keywords()
 
 
 # --- HELPER FUNCTIONS ---
