@@ -2,9 +2,8 @@ name: Daily Scholarship Sentinel
 
 on:
   schedule:
-    # Runs at 14:00 UTC (9:00 AM EST / 10:00 AM EDT)
-    # This aligns with peak business hours for maximum engagement.
-    - cron: "0 14 * * *"
+    # Runs at 14:00 UTC (9:00 AM EST / 10:00 AM EDT) on weekdays
+    - cron: "0 14 * * 1-5"
   workflow_dispatch:
 
 permissions:
