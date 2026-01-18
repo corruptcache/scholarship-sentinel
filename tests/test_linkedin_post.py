@@ -1,8 +1,5 @@
-import os
 import sys
 from pathlib import Path
-
-import pytest
 
 # Add project root to path
 sys.path.append(str(Path(__file__).resolve().parent.parent))

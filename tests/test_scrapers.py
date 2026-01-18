@@ -1,8 +1,6 @@
 import sys
 from pathlib import Path
 
-import pytest
-
 # Add project root to path
 sys.path.append(str(Path(__file__).resolve().parent.parent))
 
@@ -11,8 +9,8 @@ from scrapers.uni_scraper_search import is_opportunity_live
 
 # Test specific logic functions
 def test_is_opportunity_live():
-    assert is_opportunity_live("05/15/2026") == True
-    assert is_opportunity_live("Ended") == False
+    assert is_opportunity_live("05/15/2026")
+    assert not is_opportunity_live("Ended")
 
 
 # TODO: Test network logic without hitting the internet

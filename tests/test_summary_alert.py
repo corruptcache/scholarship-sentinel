@@ -1,5 +1,4 @@
 import sys
-import os
 from pathlib import Path
 
 # Add the parent directory to the sys.path to allow imports from the 'alerts' module.
@@ -8,6 +7,7 @@ sys.path.append(str(Path(__file__).resolve().parent.parent))
 from alerts.discord_alert import send_summary_alert
 
 import csv
+
 
 def test_send_summary_alert():
     """
@@ -35,6 +35,7 @@ def test_send_summary_alert():
             )
 
     send_summary_alert(scholarships)
+
 
 if __name__ == "__main__":
     test_send_summary_alert()

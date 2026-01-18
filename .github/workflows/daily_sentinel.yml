@@ -26,6 +26,11 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Check Code Quality
+        run: |
+          black . --check
+          ruff check .
+
       - name: Run Scraper (Get Intel)
         run: python scrapers/uni_scraper.py
 
