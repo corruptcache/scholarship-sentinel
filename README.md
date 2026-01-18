@@ -13,9 +13,10 @@
 ```mermaid
 graph TD
     A[GitHub Actions] --> B(blackbaud_scraper.py);
-    B --> C{scholarship_state_search.json};
-    B --> D[Discord Alert];
-    B --> E[LinkedIn Alert];
+    B -- Writes --> C{scholarship_state_search.json};
+    B -- Calls --> D[Discord Alert];
+    B -- Calls --> E[LinkedIn Alert];
+    E -- Posts --> F((LinkedIn));
 ```
 
 Most students check scholarship portals once a semester. This system runs a sentinel every morning.

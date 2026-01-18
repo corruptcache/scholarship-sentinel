@@ -21,7 +21,9 @@ GITHUB_REPO_URL = "https://github.com/corruptcache/scholarship-sentinel"
 def resolve_user_urn():
     """Determines the Author URN via OIDC or Legacy API with robust checks."""
     if not LINKEDIN_ACCESS_TOKEN:
-        logging.warning("No Access Token found. Cannot resolve URN.")
+        logging.error(
+            "CRITICAL: LinkedIn Token is missing or expired. Action required in GitHub Secrets."
+        )
         return None
 
     headers = {"Authorization": f"Bearer {LINKEDIN_ACCESS_TOKEN}"}
