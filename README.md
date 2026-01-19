@@ -23,9 +23,10 @@ Most students check scholarship portals once a semester. This system runs a sent
 
 This project uses a Serverless CI/CD Pipeline (GitHub Actions) to execute a specialized intelligence sweep:
 
-* **The Sentinel:** Monitors the AcademicWorks portals for CPCC and UNCC. It uses behavioral analysis (timestamp tracking) to detect "Zombie Grants"—funds re-listed mid-semester that human observers miss.  
-* **The Signal:** When new funding is detected, the system pipes a rich-text payload to a Discord Webhook (Real-time).  
+* **The Sentinel:** Monitors the AcademicWorks/blackbaud portals for pretty much any school that uses the same backend. It keeps track of active scholarships that match your keywords. It tracks new scholarships and more importantly if dealine has been extended. Extended deadlines can sometimes mean **less competition** and **lowered requirements**.  
+* **The Signal:** When new funding is detected or extended deadlines are detected, a github page containing all scholarships is generated and the system pipes a rich-text payload to a Discord Webhook.  
 * **The Community:** A secondary bot formats the intelligence into a LinkedIn update to inform the wider student body.
+* **Cron Jobs Be Chronic:** A cron job set to run Monday - Friday at 9am EST.
 
 ## 📂 File Structure
 
@@ -35,7 +36,7 @@ The repository is organized into the following directories:
 *   `alerts/`: Contains the scripts for sending alerts to Discord and LinkedIn.
 *   `tests/`: Contains test scripts for the scrapers and alerts.
 *   `data/`: Stores the generated scholarship data (JSON and CSV).
-*   `config/`: Contains configuration files for the scrapers.
+*   `config/`: Contains configuration files for the scrapers. Tweak schools and keywords to your liking.
 
 ## 🛠️ The Toolkit
 
@@ -43,7 +44,7 @@ This repository contains distinct modules for targeted intelligence gathering:
 
 | Module | Target | Technique |
 | :---- | :---- | :---- |
-| `scrapers/blackbaud_scraper.py` | CPCC & UNCC | BeautifulSoup scraping of Blackbaud portals. Features Timezone-Adjusted Timestamping to track administrative schedules. |
+| `scrapers/blackbaud_scraper.py` | Multiple Schools | BeautifulSoup scraping of Blackbaud portals. Features Timezone-Adjusted Timestamping to track administrative schedules. |
 | `alerts/linkedin_alert.py` | Social Signal | Automates community distribution via the LinkedIn UGC API. |
 
 ## 🧪 Testing & Integration
@@ -68,7 +69,7 @@ This project is optimized for GitHub Actions. You do not need a server.
    LINKEDIN_ACCESS_TOKEN: Your LinkedIn API access token.  
 ```
 3. **Enable the Workflow:** Go to the "Actions" tab and enable the scan.  
-4. **Done:** The bot will now run every morning at 08:00 UTC.
+4. **Done:** The bot will now run every weekday morning at 09:00 EST (14:00 UTC).
 
 ### **Option 2: Local Execution (Home Lab)**
 
@@ -90,15 +91,9 @@ DISCORD_WEBHOOK_URL=https://discord.com/api/webhook
 ```bash
 python scrapers/blackbaud_scraper.py
 ```
-## 📊 Sample Output
-
-#### **The "New Grant" Alert (Discord)**
-
-The bot detects a grant added at 4:45 PM on a Friday.
-
 ## 📈 Note on Quiet Periods
 
-By default, `alerts/linkedin_alert.py` will stay quiet if no new scholarships are detected in the last 25 hours. This prevents "spamming" your network with empty updates. If you require a "Heartbeat" to ensure proper functionality, check the logs in GitHub Actions.
+By default, `alerts/linkedin_alert.py` will stay quiet if no new/updated scholarships are detected in the last 25 hours. This prevents "spamming" your network with empty updates. If you require a "Heartbeat" to ensure proper functionality, check the logs in GitHub Actions.
 
 ## ⚖️ Ethical Design
 
@@ -115,4 +110,4 @@ This tool is designed with Responsible Automation principles:
 ## 📄 License
 
 This project is open-source under the MIT License.  
-Built for the Cyber Community. 2026\.
+Built for the Cyber Community. To be utilized by anyone who may find it useful.
