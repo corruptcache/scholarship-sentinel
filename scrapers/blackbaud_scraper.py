@@ -8,6 +8,7 @@ import sys
 import time
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
+from urllib.parse import urlparse
 
 import requests
 from bs4 import BeautifulSoup
@@ -174,6 +175,8 @@ def scan_opportunities():
 
     for school_name, base_url in TARGETS.items():
         logging.info(f"Starting Scan of {school_name}...")
+        parsed_base_url = urlparse(base_url)
+        base_link = f"{parsed_base_url.scheme}://{parsed_base_url.netloc}"
         for keyword in KEYWORDS:
             logging.info(f"Searching for keyword: '{keyword}'")
             for page_num in range(1, 100):  # Loop through a large number of pages
@@ -241,7 +244,7 @@ def scan_opportunities():
                         link = (
                             raw_href
                             if raw_href.startswith("http")
-                            else f"{base_url.replace('/opportunities', '')}{raw_href}"
+                            else f"{base_link}{raw_href}"
                         )
 
                         deadline = clean_text(cols[2].get_text())
