@@ -53,7 +53,11 @@ def test_create_post_text_quick_glance():
 
 def test_linkedin_main_no_loot(requests_mock, monkeypatch):
     """Tests the main function when there are no scholarships."""
-    monkeypatch.setenv("LINKEDIN_ACCESS_TOKEN", "test_token")
+    # OLD: monkeypatch.setenv("LINKEDIN_ACCESS_TOKEN", "test_token")
+
+    # NEW: Patch the variable inside the module directly
+    monkeypatch.setattr("alerts.linkedin_alert.LINKEDIN_ACCESS_TOKEN", "test_token")
+
     requests_mock.get("https://api.linkedin.com/v2/userinfo", text='{"sub": "123"}')
 
     linkedin_main([])
@@ -65,7 +69,11 @@ def test_linkedin_main_no_loot(requests_mock, monkeypatch):
 
 def test_linkedin_main_with_loot(requests_mock, monkeypatch):
     """Tests the main function when there are scholarships."""
-    monkeypatch.setenv("LINKEDIN_ACCESS_TOKEN", "test_token")
+    # OLD: monkeypatch.setenv("LINKEDIN_ACCESS_TOKEN", "test_token")
+
+    # NEW: Patch the variable inside the module directly
+    monkeypatch.setattr("alerts.linkedin_alert.LINKEDIN_ACCESS_TOKEN", "test_token")
+
     requests_mock.get("https://api.linkedin.com/v2/userinfo", text='{"sub": "123"}')
     requests_mock.post("https://api.linkedin.com/rest/posts", text="ok")
 
