@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Daily Digest
 
-Last updated: 2026-01-18 10:46:45 UTC
+Last updated: 2026-01-19 14:57:19 UTC
 
 ## CPCC
 
@@ -12,15 +12,15 @@ Last updated: 2026-01-18 10:46:45 UTC
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Automotive Aftermarket Scholarships](https://cpcc.academicworks.com/external/opportunities/10156) | Varies | 03/01/2026 |
+| [Automotive Aftermarket Scholarships](https://cpcc.academicworks.com/opportunities/10156) | Varies | 03/01/2026 |
 
 ## CPCC-Flexible
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Merancas Bridge to Careers](https://cpcc.academicworks.com/flexible/opportunities/11080) | Up to $3,200 per year |  |
-| [Merancas Bridge to Careers](https://cpcc.academicworks.com/flexible/opportunities/11080) | Up to $3,200 per year |  |
-| [Merancas Bridge to Careers](https://cpcc.academicworks.com/flexible/opportunities/11080) | Up to $3,200 per year |  |
+| [Merancas Bridge to Careers](https://cpcc.academicworks.com/opportunities/11080) | Up to $3,200 per year |  |
+| [Merancas Bridge to Careers](https://cpcc.academicworks.com/opportunities/11080) | Up to $3,200 per year |  |
+| [Merancas Bridge to Careers](https://cpcc.academicworks.com/opportunities/11080) | Up to $3,200 per year |  |
 
 ## CofC
 
