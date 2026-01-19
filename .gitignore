@@ -2,6 +2,7 @@ logs/
 # Don't push test scraper results to github
 data/*
 !data/.gitkeep
+!data/scholarship_state_search.json
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

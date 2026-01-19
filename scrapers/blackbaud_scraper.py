@@ -351,6 +351,8 @@ def scan_opportunities():
                     "Match_Reason",
                     "First_Seen",
                     "Last_Seen",
+                    "Deadline_Updated_At",
+                    "Previous_Deadline",
                 ]
                 writer = csv.DictWriter(f, fieldnames=fieldnames)
                 writer.writeheader()
