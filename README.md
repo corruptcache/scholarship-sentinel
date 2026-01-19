@@ -23,7 +23,7 @@ Most students check scholarship portals once a semester. This system runs a sent
 
 This project uses a Serverless CI/CD Pipeline (GitHub Actions) to execute a specialized intelligence sweep:
 
-* **The Sentinel:** Monitors the AcademicWorks/blackbaud portals for pretty much any school that uses the same backend. It keeps track of active scholarships that match your keywords. It tracks new scholarships and more importantly if dealine has been extended. Extended deadlines can sometimes mean **less competition** and **lowered requirements**.  
+* **The Sentinel:** Monitors the AcademicWorks/blackbaud portals for pretty much any school that uses the same backend. It keeps track of active scholarships that match your keywords. It tracks new scholarships and more importantly if dealine has been extended. Extended deadlines can sometimes mean **less competition** and/or **lowered requirements** (not guaranteed).  
 * **The Signal:** When new funding is detected or extended deadlines are detected, a github page containing all scholarships is generated and the system pipes a rich-text payload to a Discord Webhook.  
 * **The Community:** A secondary bot formats the intelligence into a LinkedIn update to inform the wider student body.
 * **Cron Jobs Be Chronic:** A cron job set to run Monday - Friday at 9am EST.
@@ -37,7 +37,9 @@ The repository is organized into the following directories:
 *   `tests/`: Contains test scripts for the scrapers and alerts.
 *   `data/`: Stores the generated scholarship data (JSON and CSV).
 *   `config/`: Contains configuration files for the scrapers. Tweak schools and keywords to your liking.
-
+*   `logs/`: created automatically by the system and stores logs for debugging and monitoring purposes.
+*   `docs/`: Contains documentation for the project.
+ 
 ## 🛠️ The Toolkit
 
 This repository contains distinct modules for targeted intelligence gathering:
@@ -94,6 +96,19 @@ python scrapers/blackbaud_scraper.py
 ## 📈 Note on Quiet Periods
 
 By default, `alerts/linkedin_alert.py` will stay quiet if no new/updated scholarships are detected in the last 25 hours. This prevents "spamming" your network with empty updates. If you require a "Heartbeat" to ensure proper functionality, check the logs in GitHub Actions.
+
+## Scraped Colleges
+
+| School Name | Scholarship Portal |
+|-------------|--------------------|
+| CPCC        | https://cpcc.academicworks.com/opportunities |
+| NC State    | https://ncsu.academicworks.com/opportunities |
+| ECU         | https://ecu.academicworks.com/opportunities |
+| Wake Tech   | https://waketech.academicworks.com/opportunities |
+| Fay Tech    | https://faytechcc.academicworks.com/opportunities |
+| UofSC       | https://sc.academicworks.com/opportunities |
+| CofC        | https://cofc.academicworks.com/opportunities |
+| Gvltec      | https://gvltec.academicworks.com/opportunities |
 
 ## ⚖️ Ethical Design
 
