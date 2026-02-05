@@ -7,28 +7,23 @@ from pathlib import Path
 import requests
 from dotenv import load_dotenv
 
-# 1. ROBUST ENVIRONMENT LOADING
+# --- CONFIGURATION & PATHS ---
 script_dir = Path(__file__).parent
 env_path = script_dir.parent / ".env"
 load_dotenv(dotenv_path=env_path)
 
-# --- CONFIGURATION ---
 LINKEDIN_ACCESS_TOKEN = os.getenv("LINKEDIN_ACCESS_TOKEN", "").strip()
-STATE_FILES = [script_dir.parent / "data" / "scholarship_state_search.json"]
+# Standardize the state file path
+STATE_FILE = script_dir.parent / "data" / "scholarship_state_search.json"
 GITHUB_REPO_URL = "https://github.com/corruptcache/scholarship-sentinel"
 
 
 def resolve_user_urn():
     """Determines the Author URN via OIDC or Legacy API with robust checks."""
     if not LINKEDIN_ACCESS_TOKEN:
-        logging.error(
-            "CRITICAL: LinkedIn Token is missing or expired. Action required in GitHub Secrets."
-        )
+        logging.error("CRITICAL: LinkedIn Token is missing or expired.")
         return None
-
     headers = {"Authorization": f"Bearer {LINKEDIN_ACCESS_TOKEN}"}
-
-    # Try OIDC endpoint (Modern)
     try:
         response = requests.get(
             "https://api.linkedin.com/v2/userinfo", headers=headers, timeout=10
@@ -37,8 +32,6 @@ def resolve_user_urn():
             return f"urn:li:person:{response.json().get('sub')}"
     except Exception:
         pass
-
-    # Fallback to Legacy Me endpoint
     try:
         response = requests.get(
             "https://api.linkedin.com/v2/me", headers=headers, timeout=10
@@ -47,67 +40,35 @@ def resolve_user_urn():
             return f"urn:li:person:{response.json().get('id')}"
     except Exception:
         pass
-
     return None
 
 
-def get_fresh_loot():
-    """Finds items detected or updated in the last 25 hours from scholarship_state.json."""
-    fresh_loot = []
-    cutoff_time = datetime.now(timezone.utc) - timedelta(hours=25)
+def get_fresh_loot(state_file):
+    """
+    TICKET 1 FIX: Finds items detected in the last 24 hours.
+    This is simpler and more aligned with a 'daily' digest.
+    """
+    if not os.path.exists(state_file):
+        logging.error(f"State file not found at {state_file}")
+        return []
 
-    for filename in STATE_FILES:
-        if not os.path.exists(filename):
-            continue
+    with open(state_file, "r") as f:
+        data = json.load(f)
+
+    now = datetime.now(timezone.utc)
+    fresh = []
+    for uid, item in data.items():
         try:
-            with open(filename, "r") as f:
-                data = json.load(f)
-            for key, item in data.items():
-                if not item.get("Live", False):
-                    continue
-
-                # Filter out ended or missing deadlines
-                if not item.get("Deadline") or item.get("Deadline") == "Ended":
-                    continue
-
-                is_new = False
-                is_updated = False
-
-                first_seen_str = item.get("First_Seen")
-                if first_seen_str:
-                    first_seen_dt = datetime.fromisoformat(first_seen_str)
-                    if first_seen_dt.tzinfo is None:
-                        first_seen_dt = first_seen_dt.replace(tzinfo=timezone.utc)
-                    if first_seen_dt > cutoff_time:
-                        is_new = True
-
-                deadline_updated_at_str = item.get("Deadline_Updated_At")
-                if deadline_updated_at_str:
-                    deadline_updated_at_dt = datetime.fromisoformat(
-                        deadline_updated_at_str
-                    )
-                    if deadline_updated_at_dt.tzinfo is None:
-                        deadline_updated_at_dt = deadline_updated_at_dt.replace(
-                            tzinfo=timezone.utc
-                        )
-                    if deadline_updated_at_dt > cutoff_time:
-                        is_updated = True
-
-                if is_new or is_updated:
-                    fresh_loot.append(item)
-
-        except Exception as e:
-            logging.error(f"Error reading state file: {e}")
-    return fresh_loot
-
-
-def generate_hashtags(loot_list):
-    """Generates a set of relevant hashtags for the post."""
-    hashtags = {"#CyberSecurity", "#Scholarships", "#OSINT", "#IT", "#Automation"}
-    for item in loot_list:
-        school_tag = f"#{item.get('School', '').replace(' ', '')}"
-        hashtags.add(school_tag)
-    return hashtags
+            # Ensure First_Seen is timezone-aware for correct comparison
+            detected_at = datetime.fromisoformat(item["First_Seen"]).replace(
+                tzinfo=timezone.utc
+            )
+            if (now - detected_at).total_seconds() < 86400:  # 24 hours
+                fresh.append(item)
+        except (KeyError, TypeError):
+            # Skip items missing 'First_Seen' or with invalid format
+            continue
+    return fresh
 
 
 def to_bold_unicode(text):
@@ -118,120 +79,51 @@ def to_bold_unicode(text):
     return text.translate(translation_table)
 
 
-def create_post_text(loot_list):
-    """Creates the main text content for the LinkedIn post."""
-    all_scholarships = []
-    now_utc = datetime.now(timezone.utc)
-
-    for s in loot_list:
-        deadline_str = s.get("Deadline")
-        if not deadline_str or deadline_str in ["Ended", "N/A"]:
-            continue
-
-        formats_to_try = ["%m/%d/%Y", "%Y-%m-%d", "%B %d, %Y"]
-        deadline_dt = None
-        for fmt in formats_to_try:
-            try:
-                deadline_dt = datetime.strptime(deadline_str, fmt).replace(
-                    tzinfo=timezone.utc
-                )
-                break
-            except ValueError:
-                pass
-
-        if deadline_dt and deadline_dt >= now_utc:
-            is_new = s.get("First_Seen") and (
-                now_utc - datetime.fromisoformat(s["First_Seen"])
-            ) < timedelta(hours=25)
-            is_updated = s.get("Deadline_Updated_At") and (
-                now_utc - datetime.fromisoformat(s["Deadline_Updated_At"])
-            ) < timedelta(hours=25)
-
-            priority = 1 if is_new or is_updated else 0
-            all_scholarships.append((deadline_dt, priority, s))
-
-    all_scholarships.sort(key=lambda x: (-x[1], x[0]))
-    top_picks = [s for _, _, s in all_scholarships[:3]]
-    total_found = len(loot_list)
-
-    # Fallback: If no scholarships with valid deadlines are found, pick up to 3 from different schools.
-    if not top_picks and loot_list:
-        school_picks = {}
-        for s in loot_list:
-            school = s.get("School", "N/A")
-            if school not in school_picks:
-                if len(school_picks) < 3:
-                    school_picks[school] = s
-        top_picks = list(school_picks.values())
-
-    post_text = f"🤖 {to_bold_unicode('Automated Scholarship Sentinel Update')} 🛡️\n\n"
-    post_text += (
-        "\"Financial aid isn't a scarcity problem; it's a visibility problem.\"\n\n"
-    )
-    post_text += f"My automated sentinel just intercepted {total_found} new/updated funding opportunities for NC and SC students. Here are today's top picks:\n\n"
-
-    if not top_picks and total_found > 0:
-        post_text += "Could not determine top picks, but you can find all opportunities on the website!\n\n"
-
-    for item in top_picks:
-        name = item.get("Name") or item.get("Title", "Unknown Scholarship")
-        amount = item.get("Amount", "Varies")
-        deadline = item.get("Deadline", "Check Link")
-        school = item.get("School", "N/A")
-        link = item.get("Link", "#")
-        previous_deadline = item.get("Previous_Deadline")
-
-        status = ""
-        if item.get("First_Seen") and (
-            now_utc - datetime.fromisoformat(item["First_Seen"])
-        ) < timedelta(hours=25):
-            status = " (NEW)"
-        elif item.get("Deadline_Updated_At") and (
-            now_utc - datetime.fromisoformat(item["Deadline_Updated_At"])
-        ) < timedelta(hours=25):
-            status = " (UPDATED)"
-
-        post_text += f"{to_bold_unicode(name)}{status}\n"
-        if previous_deadline:
-            post_text += (
-                f" • {to_bold_unicode('Value:')} {amount} (Deadline Extended!)\n"
-            )
-            post_text += f" • {to_bold_unicode('Deadline:')} {deadline} (was {previous_deadline})\n"
-        else:
-            post_text += f" • {to_bold_unicode('Value:')} {amount}\n"
-            post_text += f" • {to_bold_unicode('Deadline:')} {deadline}\n"
-        post_text += f" • {to_bold_unicode('School:')} {school}\n"
-        post_text += f" • {to_bold_unicode('Apply Here:')} {link}\n\n"
-
-    post_text += f"🔍 For the full list of {total_found} scholarships, visit our website:\nhttps://corruptcache.github.io/scholarship-sentinel/\n\n"
-    post_text += f"🚀 {to_bold_unicode('Follow me for daily automated updates')} on Cyber Security and IT scholarships in the Carolinas! 🎓\n\n"
-    post_text += f"🛠️ {to_bold_unicode('Built with Open Source:')} Check out the code, star the repo, or contribute here:\n{GITHUB_REPO_URL}\n\n"
-
-    return post_text
-
-
-def format_linkedin_post(loot_list):
-    """Summarizes scholarships, handles truncation, and adds hashtags."""
-    if not loot_list:
+def create_post_text(fresh_loot):
+    """
+    TICKET 1 FIX: Formats a professional LinkedIn post with top 3 overall picks.
+    """
+    if not fresh_loot:
         return None
 
-    post_text = create_post_text(loot_list)
-    hashtags = generate_hashtags(loot_list)
-    hashtag_str = " ".join(hashtags)
+    # Sort ALL fresh findings by deadline urgency (closest first)
+    def date_sorter(x):
+        try:
+            return datetime.strptime(x["Deadline"], "%m/%d/%Y")
+        except (ValueError, TypeError):
+            # Send items with bad/missing deadlines to the bottom of the list
+            return datetime(2099, 12, 31)
 
-    # LinkedIn's character limit is 3000. Let's be safe.
-    if len(post_text) + len(hashtag_str) > 2900:
-        # Truncate the main post text, leaving space for a note and hashtags
-        available_space = 2900 - len(hashtag_str) - 50  # 50 chars for the note
-        post_text = (
-            post_text[:available_space] + "...\n\n(Post truncated due to length)"
-        )
+    sorted_loot = sorted(fresh_loot, key=date_sorter)
+    top_picks = sorted_loot[:3]
 
-    return f"{post_text}\n{hashtag_str}"
+    post = f"🤖 {to_bold_unicode('Automated Scholarship Sentinel Update')} 🛡️\n\n"
+    post += "\"Financial aid isn't a scarcity problem; it's a visibility problem.\"\n\n"
+    post += f"I've detected {len(fresh_loot)} new funding opportunities for NC students. Here are the top picks with imminent deadlines:\n\n"
+
+    for item in top_picks:
+        title = f"[{item.get('School', 'N/A')}] {item.get('Name', 'N/A')}"
+        post += f"💰 {to_bold_unicode(title)}\n"
+        post += f"   • Value: {item.get('Amount', 'N/A')}\n"
+        post += f"   • Deadline: {item.get('Deadline', 'N/A')}\n"
+        post += f"   • Link: {item.get('Link', '#')}\n\n"
+
+    if len(fresh_loot) > 3:
+        post += f"🔍 ...and {len(fresh_loot) - 3} other grants detected today!\n\n"
+
+    post += "🚀 Follow for daily automated updates. Built with Open Source Intelligence.\n\n"
+    # Static, relevant hashtags
+    post += "#Scholarships #CyberSecurity #OSINT #InfoSec #FinancialAid #StudentSuccess"
+
+    return post
 
 
 def post_to_linkedin(text, author_urn):
     """Sends the formatted text to the LinkedIn Posts API."""
+    # Truncate here to be safe, as the final text is assembled just before this.
+    if len(text) > 3000:
+        text = text[:2950] + "... (post truncated)"
+
     api_url = "https://api.linkedin.com/rest/posts"
     headers = {
         "Authorization": f"Bearer {LINKEDIN_ACCESS_TOKEN}",
@@ -239,7 +131,6 @@ def post_to_linkedin(text, author_urn):
         "X-Restli-Protocol-Version": "2.0.0",
         "LinkedIn-Version": "202601",
     }
-
     payload = {
         "author": author_urn,
         "commentary": text,
@@ -265,13 +156,13 @@ def main(scholarships=None):
     user_urn = resolve_user_urn()
 
     if user_urn:
-        loot = scholarships
-        if loot is None:
-            loot = get_fresh_loot()
+        # If scholarships are passed directly (e.g., from the main scraper), use them.
+        # Otherwise, find the fresh loot ourselves.
+        loot = scholarships if scholarships is not None else get_fresh_loot(STATE_FILE)
 
         if loot:
             logging.info(f"Found {len(loot)} items. Posting digest...")
-            post_body = format_linkedin_post(loot)
+            post_body = create_post_text(loot)
             if post_body:
                 post_to_linkedin(post_body, user_urn)
             else:
