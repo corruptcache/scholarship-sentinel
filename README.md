@@ -48,6 +48,8 @@ This repository contains distinct modules for targeted intelligence gathering:
 | :---- | :---- | :---- |
 | `scrapers/blackbaud_scraper.py` | Multiple Schools | BeautifulSoup scraping of Blackbaud portals. Features Timezone-Adjusted Timestamping to track administrative schedules. |
 | `alerts/linkedin_alert.py` | Social Signal | Automates community distribution via the LinkedIn UGC API. |
+| `scripts/audit_security.py` | Portal Security | Audits SSL certificates and security headers of target sites. |
+| `scripts/detect_typosquat.py` | Domain Security | Generates and checks for potential typosquatting domains. |
 
 ## 🧪 Testing & Integration
 
@@ -57,6 +59,7 @@ To verify connectivity and formatting without waiting for the daily cron job, us
 | :---- | :---- |
 | `tests/test_discord_alert.py` | Unit tests for the Discord alert logic. |
 | `tests/test_linkedin_alert.py` | Unit tests for the LinkedIn alert logic. |
+| `scripts/preview_linkedin_post.py` | Generates a console preview of the LinkedIn post for formatting checks. |
 
 ## 🚀 Deployment
 
@@ -101,6 +104,10 @@ By default, `alerts/linkedin_alert.py` will stay quiet if no new/updated scholar
 
 | School Name | Scholarship Portal |
 |-------------|--------------------|
+| FSU         | https://fsu.academicworks.com/ |
+| VT          | https://vt.academicworks.com/ |
+| UTAH        | https://utah.academicworks.com/ |
+| SFSU        | https://sfsu.academicworks.com/ |
 | CPCC        | https://cpcc.academicworks.com/opportunities |
 | NC State    | https://ncsu.academicworks.com/opportunities |
 | ECU         | https://ecu.academicworks.com/opportunities |

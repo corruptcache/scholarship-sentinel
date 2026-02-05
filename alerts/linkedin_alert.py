@@ -99,7 +99,7 @@ def create_post_text(fresh_loot):
 
     post = f"🤖 {to_bold_unicode('Automated Scholarship Sentinel Update')} 🛡️\n\n"
     post += "\"Financial aid isn't a scarcity problem; it's a visibility problem.\"\n\n"
-    post += f"I've detected {len(fresh_loot)} new funding opportunities for NC students. Here are the top picks with imminent deadlines:\n\n"
+    post += f"I've detected {len(fresh_loot)} new funding opportunities. Here are the top picks with imminent deadlines:\n\n"
 
     for item in top_picks:
         title = f"[{item.get('School', 'N/A')}] {item.get('Name', 'N/A')}"
