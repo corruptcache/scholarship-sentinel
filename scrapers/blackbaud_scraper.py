@@ -141,20 +141,63 @@ def save_state(state_data):
         logging.error(f"Could not save state file: {e}")
 
 
-def generate_markdown_page(scholarships):
-    """Generates a markdown page with the full list of scholarships."""
-    # Group by school
+def generate_markdown_page(state_data):
+    """Generates a markdown page with the full list of live scholarships."""
+    live_scholarships = []
+    today = datetime.now().date()
+
+    # 1. Filter for live scholarships
+    for scholarship in state_data.values():
+        if not scholarship.get("Live", False):
+            continue
+
+        deadline_str = scholarship.get("Deadline", "")
+        is_active = False
+
+        # Try to parse the deadline for accurate comparison
+        try:
+            deadline_dt = datetime.strptime(deadline_str, "%m/%d/%Y").date()
+            if deadline_dt >= today:
+                is_active = True
+        except ValueError:
+            # If parsing fails, it's likely a non-standard deadline like "Check Link" or "N/A"
+            # We'll consider these active to be safe.
+            if deadline_str.lower() not in ["ended", "expired", "closed"]:
+                is_active = True
+
+        if is_active:
+            live_scholarships.append(scholarship)
+
+    # 2. Sort the data
+    def sort_key(s):
+        deadline_str = s.get("Deadline", "")
+        # Try to parse the deadline for accurate sorting
+        for fmt in ["%m/%d/%Y", "%Y-%m-%d", "%B %d, %Y"]:
+            try:
+                deadline_dt = datetime.strptime(deadline_str, fmt)
+                # Return a date object for comparison
+                return (s.get("School", "N/A"), deadline_dt)
+            except ValueError:
+                pass
+        # Fallback for unparseable or "N/A" deadlines: sort them last
+        return (s.get("School", "N/A"), datetime.max)
+
+    sorted_scholarships = sorted(live_scholarships, key=sort_key)
+
+    # Group by school for rendering
     school_scholarships = {}
-    for s in scholarships:
+    for s in sorted_scholarships:
         school = s.get("School", "N/A")
         if school not in school_scholarships:
             school_scholarships[school] = []
         school_scholarships[school].append(s)
 
-    md = "# Scholarship Sentinel - Daily Digest\n\n"
+    # 3. Generate Markdown content
+    md = "# Scholarship Sentinel - Live Catalog\n\n"
     md += f"Last updated: {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S UTC')}\n\n"
+    md += "This page contains all currently live scholarships detected by the sentinel.\n\n"
 
-    for school, sch_list in sorted(school_scholarships.items()):
+    for school, sch_list in school_scholarships.items():
         md += f"## {school}\n\n"
         md += "| Name | Amount | Deadline |\n"
         md += "|------|--------|----------|\n"
@@ -309,26 +352,15 @@ def scan_opportunities():
                     break
         logging.info(f"Finished keyword searches for {school_name}.")
 
-    # Send summary alert for new, live scholarships
-    live_new_findings = [s for s in new_findings if s.get("Live", False)]
-    live_updated_findings = [s for s in updated_findings if s.get("Live", False)]
-
-    all_findings = live_new_findings + live_updated_findings
-
-    if all_findings:
-        logging.info(
-            f"Sending summary alert for {len(all_findings)} new/updated live scholarships."
-        )
-        send_summary_alert(all_findings)
-        markdown_content = generate_markdown_page(all_findings)
-        with open("docs/index.md", "w", encoding="utf-8") as f:
-            f.write(markdown_content)
-    else:
-        logging.info("No new or updated live scholarships found to alert.")
-
     # Save State and Export
     seen_history.update(current_scan_results)
     save_state(seen_history)
+
+    # Generate and save the markdown page with all live scholarships
+    logging.info("Generating new markdown page for GitHub...")
+    markdown_content = generate_markdown_page(seen_history)
+    with open("docs/index.md", "w", encoding="utf-8") as f:
+        f.write(markdown_content)
 
     if current_scan_results:
         try:
