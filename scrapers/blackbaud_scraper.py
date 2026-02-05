@@ -483,6 +483,7 @@ def scan_opportunities():
 
     logging.info(f"Scan Complete. {len(new_findings)} new targets identified.")
 
+    all_findings = new_findings + updated_findings
     return all_findings
 
 
