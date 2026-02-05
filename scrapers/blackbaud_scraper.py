@@ -302,10 +302,37 @@ def generate_markdown_page(state_data):
     return md
 
 
+def load_user_agents():
+    """Loads a list of User-Agent strings from the config file."""
+    ua_file = SCRIPT_DIR.parent / "config" / "user_agents.json"
+    try:
+        with open(ua_file, "r") as f:
+            return json.load(f)
+    except (IOError, json.JSONDecodeError) as e:
+        logging.error(f"Could not load user agents file: {e}. Using a default.")
+        return [
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+        ]
+
+
+USER_AGENTS = load_user_agents()
+
+
+def get_random_headers():
+    """Returns a dictionary of headers with a randomized User-Agent."""
+    return {
+        "User-Agent": random.choice(USER_AGENTS),
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.5",
+        "Referer": "https://www.google.com/",
+    }
+
+
 # --- MAIN LOGIC ---
 def scan_opportunities():
     """Orchestrates the scraping of all university portals using keyword search."""
     seen_history = load_state()
+    seen_history = sanitize_state_data(seen_history)
     current_scan_results = {}
     new_findings = []
     updated_findings = []
@@ -317,15 +344,8 @@ def scan_opportunities():
         for keyword in KEYWORDS:
             logging.info(f"Searching for keyword: '{keyword}'")
             for page_num in range(1, 100):  # Loop through a large number of pages
-                headers = {
-                    "User-Agent": (
-                        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                        "AppleWebKit/537.36 (KHTML, like Gecko) "
-                        "Chrome/91.0.4472.124 Safari/537.36"
-                    )
-                }
-
                 try:
+                    headers = get_random_headers()
                     params = {"utf8": "✓", "term": keyword, "page": page_num}
                     response = requests.get(
                         base_url, headers=headers, timeout=15, params=params
@@ -345,9 +365,17 @@ def scan_opportunities():
                     scholarship_items = soup.select(".grid-item")
 
                     if not scholarship_items:
-                        logging.warning(
-                            f"No scholarship items found on page {page_num} for '{keyword}'. Ending scan."
+                        no_results_text = soup.find(
+                            text=re.compile("No opportunities matched your search")
                         )
+                        if no_results_text:
+                            logging.info(
+                                f"No results for '{keyword}' on page {page_num}. Moving to next keyword."
+                            )
+                        else:
+                            logging.warning(
+                                f"No scholarship items found on page {page_num} for '{keyword}'. Ending scan."
+                            )
                         break
 
                     scholarships_found_on_page = False
