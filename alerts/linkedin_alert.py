@@ -103,6 +103,9 @@ def create_post_text(fresh_loot):
     if len(fresh_loot) > 3:
         post += f"🔍 ...and {len(fresh_loot) - 3} other grants detected today!\n\n"
 
+    # Add a link to the full list on the GitHub Pages site
+    post += f"View the full, filterable list of all active scholarships here:\nhttps://corruptcache.github.io/scholarship-sentinel/\n\n"
+
     post += "🚀 Follow for daily automated updates. Built with Open Source Intelligence.\n\n"
     # Static, relevant hashtags
     post += "#Scholarships #CyberSecurity #OSINT #InfoSec #FinancialAid #StudentSuccess"
