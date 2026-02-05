@@ -71,14 +71,6 @@ def get_fresh_loot(state_file):
     return fresh
 
 
-def to_bold_unicode(text):
-    """Converts a string to its bold Unicode equivalent for LinkedIn posts."""
-    chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789"
-    bold_chars = "𝗔𝗕𝗖𝗗𝗘𝗙𝗚𝗛𝗜𝗝𝗞𝗟𝗠𝗡𝗢𝗣𝗤𝗥𝗦𝗧𝗨𝗩𝗪𝗫𝗬𝗭𝗮𝗯𝗰𝗱𝗲𝗳𝗴𝗵𝗶𝗷𝗸𝗹𝗺𝗻𝗼𝗽𝗾𝗿𝘀𝘁𝘂𝘃𝘄𝘅𝘆𝘇𝟬𝟭𝟮𝟯𝟰𝟱𝟲𝟳𝟴𝟵"
-    translation_table = str.maketrans(chars, bold_chars)
-    return text.translate(translation_table)
-
-
 def create_post_text(fresh_loot):
     """
     TICKET 1 FIX: Formats a professional LinkedIn post with top 3 overall picks.
@@ -97,13 +89,13 @@ def create_post_text(fresh_loot):
     sorted_loot = sorted(fresh_loot, key=date_sorter)
     top_picks = sorted_loot[:3]
 
-    post = f"🤖 {to_bold_unicode('Automated Scholarship Sentinel Update')} 🛡️\n\n"
+    post = f"🤖 **Automated Scholarship Sentinel Update** 🛡️\n\n"
     post += "\"Financial aid isn't a scarcity problem; it's a visibility problem.\"\n\n"
     post += f"I've detected {len(fresh_loot)} new funding opportunities. Here are the top picks with imminent deadlines:\n\n"
 
     for item in top_picks:
         title = f"[{item.get('School', 'N/A')}] {item.get('Name', 'N/A')}"
-        post += f"💰 {to_bold_unicode(title)}\n"
+        post += f"💰 **{title}**\n"
         post += f"   • Value: {item.get('Amount', 'N/A')}\n"
         post += f"   • Deadline: {item.get('Deadline', 'N/A')}\n"
         post += f"   • Link: {item.get('Link', '#')}\n\n"

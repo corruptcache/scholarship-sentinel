@@ -310,203 +310,123 @@ def scan_opportunities():
     seen_history = sanitize_and_prune_state(seen_history)
 
     current_scan_results = {}
-
     new_findings = []
-
     updated_findings = []
 
     for school_name, base_url in TARGETS.items():
         logging.info(f"Starting Scan of {school_name}...")
-
         parsed_base_url = urlparse(base_url)
-
         base_link = f"{parsed_base_url.scheme}://{parsed_base_url.netloc}"
 
-        for keyword in KEYWORDS:
-            logging.info(f"Searching for keyword: '{keyword}'")
+        # This scraper no longer uses keywords; it scrapes all opportunities directly.
+        logging.info("Fetching all opportunities from main page...")
 
-            for page_num in range(1, 100):  # Loop through a large number of pages
+        try:
+            headers = get_random_headers()
+            response = requests.get(base_url, headers=headers, timeout=15)
+            response.raise_for_status()
+
+            soup = BeautifulSoup(response.text, "html.parser")
+            # Select rows from the correct table structure
+            table_rows = soup.select("table.striped-table tbody tr")
+
+            if not table_rows:
+                logging.warning(
+                    f"No scholarship table found for {school_name}. It might use a different page structure."
+                )
+                continue
+
+            for row in table_rows:
+                cols = row.find_all(["td", "th"])
+                if len(cols) < 3:
+                    continue
+
+                # --- Extract Data from the new structure ---
+                award_amount = clean_text(cols[0].get_text())
+
+                name_tag = cols[1].find("a")
+                if not name_tag:
+                    continue
+                name = clean_text(name_tag.get_text())
+                raw_href = name_tag.get("href", "")
+                link = (
+                    raw_href
+                    if raw_href.startswith("http")
+                    else f"{base_link}{raw_href}"
+                )
+
+                deadline_span = cols[2].find("span", class_="mq-no-bp-only")
+                deadline = (
+                    clean_text(deadline_span.get_text()) if deadline_span else "N/A"
+                )
+                # --- End Data Extraction ---
+
+                live = is_opportunity_live(deadline)
+                current_est_time = get_eastern_time()
+                # Use a more robust ID based on the opportunity number in the link
                 try:
-                    # Get fresh, random headers for each request
+                    slug = re.search(r"/(\d+)$", link).group(1)
+                    scholarship_id = f"{school_name}_{slug}"
+                except (AttributeError, IndexError):
+                    # Fallback for unusual link structures
+                    slug = link.split("/")[-1]
+                    scholarship_id = f"{school_name}_{slug}"
 
-                    headers = get_random_headers()
+                first_seen = seen_history.get(scholarship_id, {}).get(
+                    "First_Seen", current_est_time
+                )
 
-                    params = {"utf8": "✓", "term": keyword, "page": page_num}
+                scholarship_data = {
+                    "School": school_name,
+                    "Name": name,
+                    "Amount": award_amount,
+                    "Deadline": deadline,
+                    "Link": link,
+                    "Live": live,
+                    "Match_Reason": "direct_scrape",  # No longer keyword-based
+                    "First_Seen": first_seen,
+                    "Last_Seen": current_est_time,
+                    "Deadline_Updated_At": None,
+                }
 
-                    response = requests.get(
-                        base_url, headers=headers, timeout=15, params=params
-                    )
+                current_scan_results[scholarship_id] = scholarship_data
 
-                    if response.status_code == 404:
+                if scholarship_id not in seen_history:
+                    logging.warning(f"NEW {school_name} TARGET: {name}")
+                    new_findings.append(scholarship_data)
+                else:
+                    previous_deadline = seen_history[scholarship_id].get("Deadline")
+                    if previous_deadline and previous_deadline != deadline:
                         logging.warning(
-                            f"Page {page_num} not found for keyword '{keyword}'. Ending scan."
+                            f"DEADLINE CHANGED for {name}: {previous_deadline} -> {deadline}"
                         )
+                        scholarship_data["Previous_Deadline"] = previous_deadline
+                        scholarship_data["Deadline_Updated_At"] = current_est_time
+                        updated_findings.append(scholarship_data)
+                    else:
+                        logging.info(f"Existing {school_name}: {name}")
 
-                        break
+            time.sleep(random.uniform(1.0, 2.5))
 
-                    if response.status_code != 200:
-                        logging.error(
-                            f"Error fetching page {page_num} for keyword '{keyword}': {response.status_code}"
-                        )
-
-                        break
-
-                    soup = BeautifulSoup(response.text, "html.parser")
-
-                    scholarship_items = soup.select(".grid-item")
-
-                    # Gracefully handle pages with no results
-
-                    if not scholarship_items:
-                        if soup.find(
-                            text=re.compile("No opportunities matched your search")
-                        ):
-                            logging.info(
-                                f"No results for '{keyword}' on page {page_num}. Moving to next keyword."
-                            )
-
-                        else:
-                            logging.warning(
-                                f"No scholarship items found on page {page_num} for '{keyword}'. Ending scan for this keyword."
-                            )
-
-                        break
-
-                    scholarships_found_on_page = False
-
-                    for item in scholarship_items:
-                        name_tag = item.find("a")
-
-                        if not name_tag:
-                            continue
-
-                        scholarships_found_on_page = True
-
-                        name = clean_text(name_tag.get_text())
-
-                        raw_href = name_tag.get("href", "")
-
-                        link = (
-                            raw_href
-                            if raw_href.startswith("http")
-                            else f"{base_link}{raw_href}"
-                        )
-
-                        dl_element = item.find("dl")
-
-                        deadline = "N/A"
-
-                        award_amount = "N/A"
-
-                        if dl_element:
-                            for dt in dl_element.find_all("dt"):
-                                if dt.get_text(strip=True) == "Deadline":
-                                    dd = dt.find_next_sibling("dd")
-
-                                    if dd:
-                                        deadline = clean_text(dd.get_text())
-
-                                elif dt.get_text(strip=True) == "Award":
-                                    dd = dt.find_next_sibling("dd")
-
-                                    if dd:
-                                        award_amount = clean_text(dd.get_text())
-
-                        live = is_opportunity_live(deadline)
-
-                        current_est_time = get_eastern_time()
-
-                        slug = link.split("/")[-1]
-
-                        scholarship_id = f"{school_name}_{slug}"
-
-                        first_seen = seen_history.get(scholarship_id, {}).get(
-                            "First_Seen", current_est_time
-                        )
-
-                        scholarship_data = {
-                            "School": school_name,
-                            "Name": name,
-                            "Amount": award_amount,
-                            "Deadline": deadline,
-                            "Link": link,
-                            "Live": live,
-                            "Match_Reason": keyword,
-                            "First_Seen": first_seen,
-                            "Last_Seen": current_est_time,
-                            "Deadline_Updated_At": None,
-                        }
-
-                        current_scan_results[scholarship_id] = scholarship_data
-
-                        if scholarship_id not in seen_history:
-                            logging.warning(f"NEW {school_name} TARGET: {name}")
-
-                            new_findings.append(scholarship_data)
-
-                        else:
-                            previous_deadline = seen_history[scholarship_id].get(
-                                "Deadline"
-                            )
-
-                            if previous_deadline and previous_deadline != deadline:
-                                logging.warning(
-                                    f"DEADLINE CHANGED for {name}: {previous_deadline} -> {deadline}"
-                                )
-
-                                scholarship_data["Previous_Deadline"] = (
-                                    previous_deadline
-                                )
-
-                                scholarship_data["Deadline_Updated_At"] = (
-                                    current_est_time
-                                )
-
-                                updated_findings.append(scholarship_data)
-
-                            else:
-                                logging.info(f"Existing {school_name}: {name}")
-
-                    if not scholarships_found_on_page:
-                        logging.warning(
-                            f"No valid scholarship data on page {page_num}. Ending scan for '{keyword}'."
-                        )
-
-                        break
-
-                    time.sleep(random.uniform(1.0, 2.5))
-
-                except (requests.exceptions.RequestException, ConnectionError) as e:
-                    logging.error(
-                        f"Network Error on {school_name} page {page_num} for '{keyword}': {e}"
-                    )
-
-                    break
-
-                except Exception as e:
-                    logging.error(f"Unexpected Error during scan: {e}")
-
-                    break
-
-        logging.info(f"Finished keyword searches for {school_name}.")
+        except (requests.exceptions.RequestException, ConnectionError) as e:
+            logging.error(f"Network Error on {school_name}: {e}")
+            continue  # Move to the next school
+        except Exception as e:
+            logging.error(f"Unexpected Error during scan of {school_name}: {e}")
+            continue
 
     # Add new findings to the history before saving
     seen_history.update(current_scan_results)
     save_state(seen_history)
 
     # Generate and save the markdown page with all live scholarships
-
     logging.info("Generating new markdown page for GitHub...")
-
     markdown_content = generate_markdown_page(seen_history)
-
     with open("docs/index.md", "w", encoding="utf-8") as f:
         f.write(markdown_content)
 
     if current_scan_results:
         try:
-            # Write the updated, clean data to the CSV
-
             with open(OUTPUT_FILE, "w", newline="", encoding="utf-8") as f:
                 fieldnames = [
                     "School",
@@ -521,20 +441,14 @@ def scan_opportunities():
                     "Deadline_Updated_At",
                     "Previous_Deadline",
                 ]
-
                 writer = csv.DictWriter(f, fieldnames=fieldnames)
-
                 writer.writeheader()
-
                 writer.writerows(seen_history.values())
-
         except IOError as e:
             logging.error(f"Could not export CSV: {e}")
 
     logging.info(f"Scan Complete. {len(new_findings)} new targets identified.")
-
     all_findings = new_findings + updated_findings
-
     return all_findings
 
 
