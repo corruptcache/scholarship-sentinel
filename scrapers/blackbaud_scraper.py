@@ -141,6 +141,43 @@ def save_state(state_data):
         logging.error(f"Could not save state file: {e}")
 
 
+def sanitize_state_data(state_data):
+    """
+    Removes entries from the state that are missing critical information
+    like Name, Amount, or Deadline.
+    """
+    sanitized_count = 0
+    # Define what constitutes a "bad" entry
+    invalid_values = ["", "n/a", None]
+
+    for scholarship_id in list(state_data.keys()):
+        scholarship = state_data.get(scholarship_id, {})
+        name = scholarship.get("Name", "").strip()
+        amount = scholarship.get("Amount", "N/A").strip()
+        deadline = scholarship.get("Deadline", "N/A").strip()
+
+        # Check for missing critical data
+        if (
+            not name
+            or amount.lower() in invalid_values
+            or deadline.lower() in invalid_values
+        ):
+            logging.warning(
+                f"Sanitizing corrupt entry: {scholarship.get('Name', 'N/A')} (ID: {scholarship_id}). Reason: Missing critical data."
+            )
+            del state_data[scholarship_id]
+            sanitized_count += 1
+
+    if sanitized_count > 0:
+        logging.info(
+            f"Sanitized {sanitized_count} incomplete records from the state file."
+        )
+    else:
+        logging.info("No incomplete records to sanitize. State file is clean.")
+
+    return state_data
+
+
 def prune_expired_entries(state_data):
     """Removes expired or invalid scholarships from the state dictionary."""
     pruned_count = 0
