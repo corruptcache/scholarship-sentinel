@@ -205,36 +205,17 @@ def scan_opportunities():
                         break
 
                     soup = BeautifulSoup(response.text, "html.parser")
-                    table_rows = soup.select("table tbody tr")
+                    scholarship_items = soup.select(".grid-item")
 
-                    # Guard clause for "No opportunities matched your search"
-                    if len(table_rows) == 1:
-                        cols = table_rows[0].find_all("td")
-                        if (
-                            len(cols) == 1
-                            and "No opportunities matched your search"
-                            in cols[0].get_text()
-                        ):
-                            logging.info(
-                                f"No results for '{keyword}' on page {page_num}. Moving to next keyword."
-                            )
-                            break
-
-                    if not table_rows:
+                    if not scholarship_items:
                         logging.warning(
-                            f"No table rows found on page {page_num} for '{keyword}'. Ending scan."
+                            f"No scholarship items found on page {page_num} for '{keyword}'. Ending scan."
                         )
                         break
 
                     scholarships_found_on_page = False
-                    for row in table_rows:
-                        cols = row.find_all(["td", "th"])
-                        if len(cols) < 3:
-                            continue
-
-                        award_amount = clean_text(cols[0].get_text())
-                        name_tag = cols[1].find("a")
-
+                    for item in scholarship_items:
+                        name_tag = item.find("a")
                         if not name_tag:
                             continue
 
@@ -247,10 +228,22 @@ def scan_opportunities():
                             else f"{base_link}{raw_href}"
                         )
 
-                        deadline = clean_text(cols[2].get_text())
-                        live = is_opportunity_live(deadline)
+                        dl_element = item.find("dl")
+                        deadline = "N/A"
+                        award_amount = "N/A"
 
-                        # Since we searched by keyword, we can assume it's a match
+                        if dl_element:
+                            for dt in dl_element.find_all("dt"):
+                                if dt.get_text(strip=True) == "Deadline":
+                                    dd = dt.find_next_sibling("dd")
+                                    if dd:
+                                        deadline = clean_text(dd.get_text())
+                                elif dt.get_text(strip=True) == "Award":
+                                    dd = dt.find_next_sibling("dd")
+                                    if dd:
+                                        award_amount = clean_text(dd.get_text())
+
+                        live = is_opportunity_live(deadline)
                         current_est_time = get_eastern_time()
                         slug = link.split("/")[-1]
                         scholarship_id = f"{school_name}_{slug}"
@@ -281,7 +274,6 @@ def scan_opportunities():
                             new_findings.append(scholarship_data)
 
                         else:
-                            # It's an existing scholarship, let's check for deadline changes.
                             previous_deadline = seen_history[scholarship_id].get(
                                 "Deadline"
                             )

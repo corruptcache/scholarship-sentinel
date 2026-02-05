@@ -110,70 +110,102 @@ def generate_hashtags(loot_list):
     return hashtags
 
 
+def to_bold_unicode(text):
+    """Converts a string to its bold Unicode equivalent for LinkedIn posts."""
+    chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789"
+    bold_chars = "𝗔𝗕𝗖𝗗𝗘𝗙𝗚𝗛𝗜𝗝𝗞𝗟𝗠𝗡𝗢𝗣𝗤𝗥𝗦𝗧𝗨𝗩𝗪𝗫𝗬𝗭𝗮𝗯𝗰𝗱𝗲𝗳𝗴𝗵𝗶𝗷𝗸𝗹𝗺𝗻𝗼𝗽𝗾𝗿𝘀𝘁𝘂𝘃𝘄𝘅𝘆𝘇𝟬𝟭𝟮𝟯𝟰𝟱𝟲𝟳𝟴𝟵"
+    translation_table = str.maketrans(chars, bold_chars)
+    return text.translate(translation_table)
+
+
 def create_post_text(loot_list):
     """Creates the main text content for the LinkedIn post."""
-    school_scholarships = {}
-    for s in loot_list:
-        school = s.get("School", "N/A")
-        if school not in school_scholarships:
-            school_scholarships[school] = []
-        school_scholarships[school].append(s)
+    all_scholarships = []
+    now_utc = datetime.now(timezone.utc)
 
+    for s in loot_list:
+        deadline_str = s.get("Deadline")
+        if not deadline_str or deadline_str in ["Ended", "N/A"]:
+            continue
+
+        formats_to_try = ["%m/%d/%Y", "%Y-%m-%d", "%B %d, %Y"]
+        deadline_dt = None
+        for fmt in formats_to_try:
+            try:
+                deadline_dt = datetime.strptime(deadline_str, fmt).replace(
+                    tzinfo=timezone.utc
+                )
+                break
+            except ValueError:
+                pass
+
+        if deadline_dt and deadline_dt >= now_utc:
+            is_new = s.get("First_Seen") and (
+                now_utc - datetime.fromisoformat(s["First_Seen"])
+            ) < timedelta(hours=25)
+            is_updated = s.get("Deadline_Updated_At") and (
+                now_utc - datetime.fromisoformat(s["Deadline_Updated_At"])
+            ) < timedelta(hours=25)
+
+            priority = 1 if is_new or is_updated else 0
+            all_scholarships.append((deadline_dt, priority, s))
+
+    all_scholarships.sort(key=lambda x: (-x[1], x[0]))
+    top_picks = [s for _, _, s in all_scholarships[:3]]
     total_found = len(loot_list)
 
-    post_text = "🤖 **Automated Scholarship Sentinel Update** 🛡️\n\n"
+    # Fallback: If no scholarships with valid deadlines are found, pick up to 3 from different schools.
+    if not top_picks and loot_list:
+        school_picks = {}
+        for s in loot_list:
+            school = s.get("School", "N/A")
+            if school not in school_picks:
+                if len(school_picks) < 3:
+                    school_picks[school] = s
+        top_picks = list(school_picks.values())
+
+    post_text = f"🤖 {to_bold_unicode('Automated Scholarship Sentinel Update')} 🛡️\n\n"
     post_text += (
         "\"Financial aid isn't a scarcity problem; it's a visibility problem.\"\n\n"
     )
-    post_text += f"My automated sentinel just intercepted {total_found} new/updated funding opportunities for NC and SC students. Today's top picks:\n\n"
+    post_text += f"My automated sentinel just intercepted {total_found} new/updated funding opportunities for NC and SC students. Here are today's top picks:\n\n"
 
-    for school, sch_list in school_scholarships.items():
-        scholarships_with_dates = []
-        for s in sch_list:
-            deadline_str = s.get("Deadline")
-            if not deadline_str or deadline_str in ["Ended", "Check Link", "N/A"]:
-                continue
+    if not top_picks and total_found > 0:
+        post_text += "Could not determine top picks, but you can find all opportunities on the website!\n\n"
 
-            formats_to_try = ["%m/%d/%Y", "%Y-%m-%d", "%B %d, %Y"]
-            deadline_dt = None
-            for fmt in formats_to_try:
-                try:
-                    deadline_dt = datetime.strptime(deadline_str, fmt)
-                    break
-                except ValueError:
-                    pass
+    for item in top_picks:
+        name = item.get("Name") or item.get("Title", "Unknown Scholarship")
+        amount = item.get("Amount", "Varies")
+        deadline = item.get("Deadline", "Check Link")
+        school = item.get("School", "N/A")
+        link = item.get("Link", "#")
+        previous_deadline = item.get("Previous_Deadline")
 
-            if deadline_dt:
-                scholarships_with_dates.append((deadline_dt, s))
+        status = ""
+        if item.get("First_Seen") and (
+            now_utc - datetime.fromisoformat(item["First_Seen"])
+        ) < timedelta(hours=25):
+            status = " (NEW)"
+        elif item.get("Deadline_Updated_At") and (
+            now_utc - datetime.fromisoformat(item["Deadline_Updated_At"])
+        ) < timedelta(hours=25):
+            status = " (UPDATED)"
 
-        if not scholarships_with_dates:
-            continue
-
-        earliest_date = min(scholarships_with_dates, key=lambda x: x[0])[0]
-        quick_glance_scholarships = [
-            s for dt, s in scholarships_with_dates if dt == earliest_date
-        ][:3]
-
-        post_text += (
-            f"**{school}** - Earliest Deadline: {earliest_date.strftime('%Y-%m-%d')}\n"
-        )
-        for item in quick_glance_scholarships:
-            name = item.get("Name") or item.get("Title", "Unknown Scholarship")
-            amount = item.get("Amount", "Full Funding")
-            deadline = item.get("Deadline", "Check Link")
-            link = item.get("Link", "#")
-            previous_deadline = item.get("Previous_Deadline")
-
-            if previous_deadline:
-                post_text += f"  • DEADLINE EXTENDED! [{name}]({link}) - {amount} - From {previous_deadline} to {deadline}\n"
-            else:
-                post_text += f"  • [{name}]({link}) - {amount} - {deadline}\n"
-        post_text += "\n"
+        post_text += f"{to_bold_unicode(name)}{status}\n"
+        if previous_deadline:
+            post_text += (
+                f" • {to_bold_unicode('Value:')} {amount} (Deadline Extended!)\n"
+            )
+            post_text += f" • {to_bold_unicode('Deadline:')} {deadline} (was {previous_deadline})\n"
+        else:
+            post_text += f" • {to_bold_unicode('Value:')} {amount}\n"
+            post_text += f" • {to_bold_unicode('Deadline:')} {deadline}\n"
+        post_text += f" • {to_bold_unicode('School:')} {school}\n"
+        post_text += f" • {to_bold_unicode('Apply Here:')} {link}\n\n"
 
     post_text += f"🔍 For the full list of {total_found} scholarships, visit our website:\nhttps://corruptcache.github.io/scholarship-sentinel/\n\n"
-
-    post_text += "🚀 **Follow me for daily automated updates** on Cyber Security and IT scholarships in the Carolinas! 🎓\n\n"
-    post_text += f"🛠️ **Built with Open Source:** Check out the code, star the repo, or contribute here:\n{GITHUB_REPO_URL}\n\n"
+    post_text += f"🚀 {to_bold_unicode('Follow me for daily automated updates')} on Cyber Security and IT scholarships in the Carolinas! 🎓\n\n"
+    post_text += f"🛠️ {to_bold_unicode('Built with Open Source:')} Check out the code, star the repo, or contribute here:\n{GITHUB_REPO_URL}\n\n"
 
     return post_text
 
