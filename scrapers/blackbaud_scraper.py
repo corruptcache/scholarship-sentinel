@@ -151,7 +151,10 @@ def sanitize_and_prune_state(state_data):
     today = datetime.now().date()
 
     # Define invalid string values for cleaning
-    invalid_strings = ["", "n/a", "check link", "varies"]
+    invalid_strings = [
+        "",
+        "n/a",
+    ]  # Remove "varies" and "check link" from the invalid list
 
     for scholarship_id in list(state_data.keys()):
         scholarship = state_data.get(scholarship_id, {})
