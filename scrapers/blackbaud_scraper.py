@@ -141,96 +141,63 @@ def save_state(state_data):
         logging.error(f"Could not save state file: {e}")
 
 
-def sanitize_state_data(state_data):
+def sanitize_and_prune_state(state_data):
     """
-    Removes entries from the state that are missing critical information
-    like Name, Amount, or Deadline.
+    Removes expired, corrupt, or incomplete entries from the state dictionary.
+    This combines sanitization and pruning into a single, efficient pass.
     """
+    pruned_count = 0
     sanitized_count = 0
-    # Define what constitutes a "bad" entry
-    invalid_values = ["", "n/a", None]
+    today = datetime.now().date()
+
+    # Define invalid string values for cleaning
+    invalid_strings = ["", "n/a", "check link", "varies"]
 
     for scholarship_id in list(state_data.keys()):
         scholarship = state_data.get(scholarship_id, {})
         name = scholarship.get("Name", "").strip()
-        amount = scholarship.get("Amount", "N/A").strip()
-        deadline = scholarship.get("Deadline", "N/A").strip()
+        amount = scholarship.get("Amount", "").strip()
+        deadline_str = scholarship.get("Deadline", "").strip()
 
-        # Check for missing critical data
+        # 1. Sanitize: Check for missing critical data
         if (
             not name
-            or amount.lower() in invalid_values
-            or deadline.lower() in invalid_values
+            or amount.lower() in invalid_strings
+            or deadline_str.lower() in invalid_strings
         ):
             logging.warning(
-                f"Sanitizing corrupt entry: {scholarship.get('Name', 'N/A')} (ID: {scholarship_id}). Reason: Missing critical data."
+                f"Sanitizing corrupt entry: '{name}' (ID: {scholarship_id}). Reason: Missing critical data."
             )
             del state_data[scholarship_id]
             sanitized_count += 1
+            continue
 
-    if sanitized_count > 0:
-        logging.info(
-            f"Sanitized {sanitized_count} incomplete records from the state file."
-        )
-    else:
-        logging.info("No incomplete records to sanitize. State file is clean.")
-
-    return state_data
-
-
-def prune_expired_entries(state_data):
-    """Removes expired or invalid scholarships from the state dictionary."""
-    pruned_count = 0
-    today = datetime.now().date()
-    # Keywords that indicate a non-specific, invalid deadline
-    invalid_deadline_keywords = ["check link", "n/a", ""]
-
-    # Iterate over a copy of keys since we're modifying the dictionary
-    for scholarship_id in list(state_data.keys()):
-        scholarship = state_data.get(scholarship_id, {})
-        deadline_str = scholarship.get("Deadline", "").strip()
-
-        # Reason 1: Explicitly ended status
+        # 2. Prune: Check for explicitly ended status
         if deadline_str.lower() in ["ended", "expired", "closed"]:
-            logging.info(
-                f"Pruning '{scholarship.get('Name')}' due to status: {deadline_str}"
-            )
+            logging.info(f"Pruning '{name}' due to ended status: {deadline_str}")
             del state_data[scholarship_id]
             pruned_count += 1
             continue
 
-        # Reason 2: Non-specific deadline string
-        if deadline_str.lower() in invalid_deadline_keywords:
-            logging.info(
-                f"Pruning '{scholarship.get('Name')}' due to invalid deadline: '{deadline_str}'"
-            )
-            del state_data[scholarship_id]
-            pruned_count += 1
-            continue
-
-        # Reason 3: Past deadline date
+        # 3. Prune: Check for past deadline dates
         try:
-            # This format is assumed based on clean_text function
             deadline_dt = datetime.strptime(deadline_str, "%m/%d/%Y").date()
             if deadline_dt < today:
-                logging.info(
-                    f"Pruning '{scholarship.get('Name')}' due to past deadline: {deadline_str}"
-                )
+                logging.info(f"Pruning '{name}' due to past deadline: {deadline_str}")
                 del state_data[scholarship_id]
                 pruned_count += 1
-        except ValueError:
-            # If it's a different date format or another string, the initial keyword check should handle it.
-            # If not, it might be a new format we need to account for, but for now, we leave it.
-            logging.warning(
-                f"Could not parse deadline '{deadline_str}' for '{scholarship.get('Name')}'. It will not be pruned by date."
+        except (ValueError, TypeError):
+            # If it's a different date format, we log it but don't prune unless it's a known invalid string.
+            logging.debug(
+                f"Could not parse deadline '{deadline_str}' for '{name}'. It will not be pruned by date."
             )
 
+    if sanitized_count > 0:
+        logging.info(f"Sanitized {sanitized_count} incomplete records from the state.")
     if pruned_count > 0:
-        logging.info(
-            f"Pruned {pruned_count} expired or invalid entries from the state."
-        )
-    else:
-        logging.info("No expired or invalid entries to prune.")
+        logging.info(f"Pruned {pruned_count} expired entries from the state.")
+    if sanitized_count == 0 and pruned_count == 0:
+        logging.info("No entries to sanitize or prune. State is clean.")
 
     return state_data
 
@@ -304,12 +271,16 @@ def generate_markdown_page(state_data):
 
 def load_user_agents():
     """Loads a list of User-Agent strings from the config file."""
+
     ua_file = SCRIPT_DIR.parent / "config" / "user_agents.json"
+
     try:
         with open(ua_file, "r") as f:
             return json.load(f)
+
     except (IOError, json.JSONDecodeError) as e:
         logging.error(f"Could not load user agents file: {e}. Using a default.")
+
         return [
             "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
         ]
@@ -320,6 +291,7 @@ USER_AGENTS = load_user_agents()
 
 def get_random_headers():
     """Returns a dictionary of headers with a randomized User-Agent."""
+
     return {
         "User-Agent": random.choice(USER_AGENTS),
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
@@ -329,64 +301,91 @@ def get_random_headers():
 
 
 # --- MAIN LOGIC ---
+
+
 def scan_opportunities():
     """Orchestrates the scraping of all university portals using keyword search."""
     seen_history = load_state()
-    seen_history = sanitize_state_data(seen_history)
+    # Run sanitization and pruning pre-flight check on existing data
+    seen_history = sanitize_and_prune_state(seen_history)
+
     current_scan_results = {}
+
     new_findings = []
+
     updated_findings = []
 
     for school_name, base_url in TARGETS.items():
         logging.info(f"Starting Scan of {school_name}...")
+
         parsed_base_url = urlparse(base_url)
+
         base_link = f"{parsed_base_url.scheme}://{parsed_base_url.netloc}"
+
         for keyword in KEYWORDS:
             logging.info(f"Searching for keyword: '{keyword}'")
+
             for page_num in range(1, 100):  # Loop through a large number of pages
                 try:
+                    # Get fresh, random headers for each request
+
                     headers = get_random_headers()
+
                     params = {"utf8": "✓", "term": keyword, "page": page_num}
+
                     response = requests.get(
                         base_url, headers=headers, timeout=15, params=params
                     )
+
                     if response.status_code == 404:
                         logging.warning(
                             f"Page {page_num} not found for keyword '{keyword}'. Ending scan."
                         )
+
                         break
+
                     if response.status_code != 200:
                         logging.error(
                             f"Error fetching page {page_num} for keyword '{keyword}': {response.status_code}"
                         )
+
                         break
 
                     soup = BeautifulSoup(response.text, "html.parser")
+
                     scholarship_items = soup.select(".grid-item")
 
+                    # Gracefully handle pages with no results
+
                     if not scholarship_items:
-                        no_results_text = soup.find(
+                        if soup.find(
                             text=re.compile("No opportunities matched your search")
-                        )
-                        if no_results_text:
+                        ):
                             logging.info(
                                 f"No results for '{keyword}' on page {page_num}. Moving to next keyword."
                             )
+
                         else:
                             logging.warning(
-                                f"No scholarship items found on page {page_num} for '{keyword}'. Ending scan."
+                                f"No scholarship items found on page {page_num} for '{keyword}'. Ending scan for this keyword."
                             )
+
                         break
 
                     scholarships_found_on_page = False
+
                     for item in scholarship_items:
                         name_tag = item.find("a")
+
                         if not name_tag:
                             continue
 
                         scholarships_found_on_page = True
+
                         name = clean_text(name_tag.get_text())
+
                         raw_href = name_tag.get("href", "")
+
                         link = (
                             raw_href
                             if raw_href.startswith("http")
@@ -394,30 +393,36 @@ def scan_opportunities():
                         )
 
                         dl_element = item.find("dl")
+
                         deadline = "N/A"
+
                         award_amount = "N/A"
 
                         if dl_element:
                             for dt in dl_element.find_all("dt"):
                                 if dt.get_text(strip=True) == "Deadline":
                                     dd = dt.find_next_sibling("dd")
+
                                     if dd:
                                         deadline = clean_text(dd.get_text())
+
                                 elif dt.get_text(strip=True) == "Award":
                                     dd = dt.find_next_sibling("dd")
+
                                     if dd:
                                         award_amount = clean_text(dd.get_text())
 
                         live = is_opportunity_live(deadline)
+
                         current_est_time = get_eastern_time()
+
                         slug = link.split("/")[-1]
+
                         scholarship_id = f"{school_name}_{slug}"
 
-                        first_seen = current_est_time
-                        if scholarship_id in seen_history:
-                            entry = seen_history[scholarship_id]
-                            if isinstance(entry, dict):
-                                first_seen = entry.get("First_Seen", current_est_time)
+                        first_seen = seen_history.get(scholarship_id, {}).get(
+                            "First_Seen", current_est_time
+                        )
 
                         scholarship_data = {
                             "School": school_name,
@@ -436,23 +441,29 @@ def scan_opportunities():
 
                         if scholarship_id not in seen_history:
                             logging.warning(f"NEW {school_name} TARGET: {name}")
+
                             new_findings.append(scholarship_data)
 
                         else:
                             previous_deadline = seen_history[scholarship_id].get(
                                 "Deadline"
                             )
+
                             if previous_deadline and previous_deadline != deadline:
                                 logging.warning(
                                     f"DEADLINE CHANGED for {name}: {previous_deadline} -> {deadline}"
                                 )
+
                                 scholarship_data["Previous_Deadline"] = (
                                     previous_deadline
                                 )
+
                                 scholarship_data["Deadline_Updated_At"] = (
                                     current_est_time
                                 )
+
                                 updated_findings.append(scholarship_data)
+
                             else:
                                 logging.info(f"Existing {school_name}: {name}")
 
@@ -460,6 +471,7 @@ def scan_opportunities():
                         logging.warning(
                             f"No valid scholarship data on page {page_num}. Ending scan for '{keyword}'."
                         )
+
                         break
 
                     time.sleep(random.uniform(1.0, 2.5))
@@ -468,27 +480,33 @@ def scan_opportunities():
                     logging.error(
                         f"Network Error on {school_name} page {page_num} for '{keyword}': {e}"
                     )
+
                     break
+
                 except Exception as e:
                     logging.error(f"Unexpected Error during scan: {e}")
+
                     break
+
         logging.info(f"Finished keyword searches for {school_name}.")
 
-    # Prune expired entries before saving
-    seen_history = prune_expired_entries(seen_history)
-
-    # Save State and Export
+    # Add new findings to the history before saving
     seen_history.update(current_scan_results)
     save_state(seen_history)
 
     # Generate and save the markdown page with all live scholarships
+
     logging.info("Generating new markdown page for GitHub...")
+
     markdown_content = generate_markdown_page(seen_history)
+
     with open("docs/index.md", "w", encoding="utf-8") as f:
         f.write(markdown_content)
 
     if current_scan_results:
         try:
+            # Write the updated, clean data to the CSV
+
             with open(OUTPUT_FILE, "w", newline="", encoding="utf-8") as f:
                 fieldnames = [
                     "School",
@@ -503,15 +521,20 @@ def scan_opportunities():
                     "Deadline_Updated_At",
                     "Previous_Deadline",
                 ]
+
                 writer = csv.DictWriter(f, fieldnames=fieldnames)
+
                 writer.writeheader()
-                writer.writerows(current_scan_results.values())
+
+                writer.writerows(seen_history.values())
+
         except IOError as e:
             logging.error(f"Could not export CSV: {e}")
 
     logging.info(f"Scan Complete. {len(new_findings)} new targets identified.")
 
     all_findings = new_findings + updated_findings
+
     return all_findings
 
 
