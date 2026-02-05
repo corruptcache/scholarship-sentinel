@@ -141,6 +141,63 @@ def save_state(state_data):
         logging.error(f"Could not save state file: {e}")
 
 
+def prune_expired_entries(state_data):
+    """Removes expired or invalid scholarships from the state dictionary."""
+    pruned_count = 0
+    today = datetime.now().date()
+    # Keywords that indicate a non-specific, invalid deadline
+    invalid_deadline_keywords = ["check link", "n/a", ""]
+
+    # Iterate over a copy of keys since we're modifying the dictionary
+    for scholarship_id in list(state_data.keys()):
+        scholarship = state_data.get(scholarship_id, {})
+        deadline_str = scholarship.get("Deadline", "").strip()
+
+        # Reason 1: Explicitly ended status
+        if deadline_str.lower() in ["ended", "expired", "closed"]:
+            logging.info(
+                f"Pruning '{scholarship.get('Name')}' due to status: {deadline_str}"
+            )
+            del state_data[scholarship_id]
+            pruned_count += 1
+            continue
+
+        # Reason 2: Non-specific deadline string
+        if deadline_str.lower() in invalid_deadline_keywords:
+            logging.info(
+                f"Pruning '{scholarship.get('Name')}' due to invalid deadline: '{deadline_str}'"
+            )
+            del state_data[scholarship_id]
+            pruned_count += 1
+            continue
+
+        # Reason 3: Past deadline date
+        try:
+            # This format is assumed based on clean_text function
+            deadline_dt = datetime.strptime(deadline_str, "%m/%d/%Y").date()
+            if deadline_dt < today:
+                logging.info(
+                    f"Pruning '{scholarship.get('Name')}' due to past deadline: {deadline_str}"
+                )
+                del state_data[scholarship_id]
+                pruned_count += 1
+        except ValueError:
+            # If it's a different date format or another string, the initial keyword check should handle it.
+            # If not, it might be a new format we need to account for, but for now, we leave it.
+            logging.warning(
+                f"Could not parse deadline '{deadline_str}' for '{scholarship.get('Name')}'. It will not be pruned by date."
+            )
+
+    if pruned_count > 0:
+        logging.info(
+            f"Pruned {pruned_count} expired or invalid entries from the state."
+        )
+    else:
+        logging.info("No expired or invalid entries to prune.")
+
+    return state_data
+
+
 def generate_markdown_page(state_data):
     """Generates a markdown page with the full list of live scholarships."""
     live_scholarships = []
@@ -351,6 +408,9 @@ def scan_opportunities():
                     logging.error(f"Unexpected Error during scan: {e}")
                     break
         logging.info(f"Finished keyword searches for {school_name}.")
+
+    # Prune expired entries before saving
+    seen_history = prune_expired_entries(seen_history)
 
     # Save State and Export
     seen_history.update(current_scan_results)
