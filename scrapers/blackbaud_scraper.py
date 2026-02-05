@@ -425,8 +425,9 @@ def scan_opportunities():
     with open("docs/index.md", "w", encoding="utf-8") as f:
         f.write(markdown_content)
 
-    if current_scan_results:
+    if seen_history:
         try:
+            # Write the updated, clean data to the CSV
             with open(OUTPUT_FILE, "w", newline="", encoding="utf-8") as f:
                 fieldnames = [
                     "School",
@@ -444,6 +445,8 @@ def scan_opportunities():
                 writer = csv.DictWriter(f, fieldnames=fieldnames)
                 writer.writeheader()
                 writer.writerows(seen_history.values())
+            logging.info(f"CSV successfully generated at {OUTPUT_FILE}")
+
         except IOError as e:
             logging.error(f"Could not export CSV: {e}")
 

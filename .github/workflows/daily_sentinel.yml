@@ -30,6 +30,7 @@ jobs:
         run: |
           git config --global user.name "Scholarship Sentinel Bot"
           git config --global user.email "bot@scholarshipsentinel.io"
-          git add data/ scholarship_targets_search.csv docs/index.md
+          # FIX: Removed 'scholarship_targets_search.csv' because it lives inside data/
+          git add data/ docs/index.md
           git commit -m "Auto-update: Intelligence State [$(date)]" || echo "No changes to commit"
           git push
