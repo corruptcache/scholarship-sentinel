@@ -10,7 +10,36 @@ permissions:
   contents: write
 
 jobs:
+  security-scan:
+    name: Security Scan
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Bandit Scan
+        run: |
+          # Scans for common security issues in the codebase.
+          # -r . -> recursively scan all files from the current directory
+          # -ll -> report only medium and high severity issues
+          # --exclude -> ignore virtual environment and test directories
+          bandit -r . -ll --exclude ./.venv,./tests
+
+      - name: Run Safety Check
+        run: |
+          # Scans dependencies for known security vulnerabilities.
+          safety check
+
   run-sentinel:
+    needs: security-scan
     runs-on: ubuntu-latest
 
     steps:
