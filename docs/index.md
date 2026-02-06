@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-02-05 14:48:36 UTC
+Last updated: 2026-02-06 14:25:45 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -135,7 +135,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [The Civil Works Contracting Annual Scholarship Fund for Construction Management](https://ecu.academicworks.com/opportunities/35783) | $8,000 | 02/05/2026 |
 | [The McMahon Distinguished Professor Scholarship to Study in Madrid and Buenos Aries](https://ecu.academicworks.com/opportunities/35734) | Varies | 02/06/2026 |
 | [The Study Abroad Scholarship for Students of Russian (P)](https://ecu.academicworks.com/opportunities/35212) | Varies | 02/09/2026 |
 | [The Admiral Ernest M. Eller Graduate Fellowship in Modern Naval History](https://ecu.academicworks.com/opportunities/32852) | Varies | 02/15/2026 |
@@ -185,6 +184,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [The Curtis Family Endowed Scholarship](https://ecu.academicworks.com/opportunities/34599) | Varies | 03/16/2026 |
 | [The Dale and Janet Warren Endowed Scholarship](https://ecu.academicworks.com/opportunities/34113) | Varies | 03/16/2026 |
 | [The Dr. and Mrs. Douglas C. Privette Endowed Scholarship](https://ecu.academicworks.com/opportunities/33860) | Varies | 03/16/2026 |
+| [The Dr. and Mrs. Eugene C. Neeland Endowed Scholarship](https://ecu.academicworks.com/opportunities/33947) | Varies | 03/16/2026 |
 
 ## ECU-External
 
@@ -338,48 +338,48 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Shashi Rishi Science Scholarship](https://gvltec.academicworks.com/opportunities/3064) | Varies | N/A |
 | [Simpsonville Rotary Scholarship](https://gvltec.academicworks.com/opportunities/3157) | Varies | N/A |
 | [Water Environment Association of South Carolina (WEASC) Scholarship](https://gvltec.academicworks.com/opportunities/3076) | Varies | N/A |
-| ["Rennie" Mattos Martin Endowed Nursing Scholarship](https://gvltec.academicworks.com/opportunities/5551) | varies | N/A |
-| [3M MAP Scholarship](https://gvltec.academicworks.com/opportunities/5519) | varies | N/A |
-| [ABB Motors & Mechanical Endowed Scholarship](https://gvltec.academicworks.com/opportunities/5354) | varies | N/A |
-| [AIA (American Institute of Architects) Greenville Endowed Scholarship](https://gvltec.academicworks.com/opportunities/5362) | varies | N/A |
-| [Allied Health Endowed Scholarship](https://gvltec.academicworks.com/opportunities/5645) | varies | N/A |
-| [American Legion Post #3/W.W. Wilkins, Sr. Endowed Scholarship](https://gvltec.academicworks.com/opportunities/5663) | varies | N/A |
-| [American Security of Greenville Scholarship](https://gvltec.academicworks.com/opportunities/5678) | varies | N/A |
-| [Ann P. Armstrong, PLS Scholarship](https://gvltec.academicworks.com/opportunities/5517) | varies | N/A |
-| [Annabelle Brush Endowed Scholarship](https://gvltec.academicworks.com/opportunities/5573) | varies | N/A |
-| [Anne Prentiss Moore Endowed Scholarship](https://gvltec.academicworks.com/opportunities/5576) | varies | N/A |
-| [Annette and William Bradshaw Endowed Scholarship](https://gvltec.academicworks.com/opportunities/5427) | varies | N/A |
-| [Anthony A. Williams Endowed Scholarship](https://gvltec.academicworks.com/opportunities/5627) | varies | N/A |
-| [Arscott Family Scholarship](https://gvltec.academicworks.com/opportunities/5659) | varies | N/A |
-| [ASCM - Industrial Crescent Chapter/Garth Thompson Supply Chain Management Endowed Scholarship](https://gvltec.academicworks.com/opportunities/5518) | varies | N/A |
-| [Ashlyn & Chad Cousins Endowed Scholarship](https://gvltec.academicworks.com/opportunities/5588) | varies | N/A |
-| [Aughtry Family Endowed Scholarship Fund](https://gvltec.academicworks.com/opportunities/5647) | varies | N/A |
-| [Aurelia C. Morrow Nursing Endowed Scholarship](https://gvltec.academicworks.com/opportunities/5390) | varies | N/A |
-| [AVX Corporation Technology Endowed Scholarship](https://gvltec.academicworks.com/opportunities/5489) | varies | N/A |
-| [Bannon Foundation Endowed Scholarship](https://gvltec.academicworks.com/opportunities/5490) | varies | N/A |
-| [Barbara Cubitt Massey Nursing Scholarship](https://gvltec.academicworks.com/opportunities/5338) | varies | N/A |
-| [Bi-Lo Endowed Scholarship](https://gvltec.academicworks.com/opportunities/5355) | varies | N/A |
-| [Bikulege Family Foundation Endowed Scholarship](https://gvltec.academicworks.com/opportunities/5665) | varies | N/A |
-| [BK Bryan Endowed Scholarship](https://gvltec.academicworks.com/opportunities/5706) | varies | N/A |
-| [Blake P. and David H. Garrett Endowed Scholarship](https://gvltec.academicworks.com/opportunities/5434) | varies | N/A |
-| [Blue Ridge Electric Cooperative Endowed Scholarship](https://gvltec.academicworks.com/opportunities/5425) | varies | N/A |
-| [Bosch Rexroth Endowed Scholarship](https://gvltec.academicworks.com/opportunities/5497) | varies | N/A |
-| [Bridges to a Brighter Future Scholarship Endowed by the Jolley Foundation](https://gvltec.academicworks.com/opportunities/5683) | varies | N/A |
-| [Brookshire Collision Repair, Inc. Scholarship](https://gvltec.academicworks.com/opportunities/5496) | varies | N/A |
-| [C. Niles and Dr. Laurie Ray Endowed Scholarship](https://gvltec.academicworks.com/opportunities/5363) | varies | N/A |
-| [Candace McDonald Memorial Scholarship](https://gvltec.academicworks.com/opportunities/5405) | varies | N/A |
-| [Caroline and Elizabeth Lander Endowed Scholarship](https://gvltec.academicworks.com/opportunities/5357) | varies | N/A |
-| [Carolyn Talley Porter Endowed Scholarship](https://gvltec.academicworks.com/opportunities/5654) | varies | N/A |
-| [Carroll and Billie Rushing Endowed Scholarship for Nursing Studies](https://gvltec.academicworks.com/opportunities/5415) | varies | N/A |
-| [Charles E. and Andrea L. Volpe Endowed Scholarship](https://gvltec.academicworks.com/opportunities/5307) | varies | N/A |
-| [Chef Judy Balsizer Legacy Endowed Scholarship](https://gvltec.academicworks.com/opportunities/5482) | varies | N/A |
-| [Clement F. Haynsworth III Memorial Endowed Scholarship](https://gvltec.academicworks.com/opportunities/5557) | varies | N/A |
-| [CompX National Machine Tool Technology Endowed Scholarship](https://gvltec.academicworks.com/opportunities/5587) | varies | N/A |
-| [Construction Engineering Technology/Construction Specifications Institute (CSI) Endowed Scholarship](https://gvltec.academicworks.com/opportunities/5598) | varies | N/A |
-| [Crescent Community Club](https://gvltec.academicworks.com/opportunities/5702) | varies | N/A |
-| [D.L. Scurry Foundation Scholarship](https://gvltec.academicworks.com/opportunities/5417) | varies | N/A |
-| [DACA (Deferred Action of Childhood Arrival) Student Scholarship Fund](https://gvltec.academicworks.com/opportunities/5372) | varies | N/A |
-| [Dallas Seiler Nursing Scholarship](https://gvltec.academicworks.com/opportunities/5481) | varies | N/A |
+| [Fluor Military Support Endowed Scholarship](https://gvltec.academicworks.com/opportunities/5603) | varies | N/A |
+| ["Rennie" Mattos Martin Endowed Nursing Scholarship](https://gvltec.academicworks.com/opportunities/6025) | varies | N/A |
+| [3M MAP Scholarship](https://gvltec.academicworks.com/opportunities/5864) | varies | N/A |
+| [ABB Motors & Mechanical Endowed Scholarship](https://gvltec.academicworks.com/opportunities/6069) | varies | N/A |
+| [AIA (American Institute of Architects) Greenville Endowed Scholarship](https://gvltec.academicworks.com/opportunities/5861) | varies | N/A |
+| [Allied Health Endowed Scholarship](https://gvltec.academicworks.com/opportunities/6245) | varies | N/A |
+| [American Legion Post #3/W.W. Wilkins, Sr. Endowed Scholarship](https://gvltec.academicworks.com/opportunities/6262) | varies | N/A |
+| [American Security of Greenville Scholarship](https://gvltec.academicworks.com/opportunities/6271) | varies | N/A |
+| [Ann P. Armstrong, PLS Scholarship](https://gvltec.academicworks.com/opportunities/6318) | varies | N/A |
+| [Annabelle Brush Endowed Scholarship](https://gvltec.academicworks.com/opportunities/6077) | varies | N/A |
+| [Anne Prentiss Moore Endowed Scholarship](https://gvltec.academicworks.com/opportunities/6093) | varies | N/A |
+| [Annette and William Bradshaw Endowed Scholarship](https://gvltec.academicworks.com/opportunities/5872) | varies | N/A |
+| [Anthony A. Williams Endowed Scholarship](https://gvltec.academicworks.com/opportunities/6201) | varies | N/A |
+| [Arscott Family Scholarship](https://gvltec.academicworks.com/opportunities/6259) | varies | N/A |
+| [ASCM - Industrial Crescent Chapter/Garth Thompson Supply Chain Management Endowed Scholarship](https://gvltec.academicworks.com/opportunities/5899) | varies | N/A |
+| [Ashlyn & Chad Cousins Endowed Scholarship](https://gvltec.academicworks.com/opportunities/6116) | varies | N/A |
+| [Aughtry Family Endowed Scholarship Fund](https://gvltec.academicworks.com/opportunities/6246) | varies | N/A |
+| [Aurelia C. Morrow Nursing Endowed Scholarship](https://gvltec.academicworks.com/opportunities/5958) | varies | N/A |
+| [AVX Corporation Technology Endowed Scholarship](https://gvltec.academicworks.com/opportunities/5871) | varies | N/A |
+| [Bannon Foundation Endowed Scholarship](https://gvltec.academicworks.com/opportunities/6235) | varies | N/A |
+| [Barbara Cubitt Massey Nursing Scholarship](https://gvltec.academicworks.com/opportunities/6051) | varies | N/A |
+| [Bi-Lo Endowed Scholarship](https://gvltec.academicworks.com/opportunities/6070) | varies | N/A |
+| [Bikulege Family Foundation Endowed Scholarship](https://gvltec.academicworks.com/opportunities/6263) | varies | N/A |
+| [BK Bryan Endowed Scholarship](https://gvltec.academicworks.com/opportunities/5891) | varies | N/A |
+| [Blake P. and David H. Garrett Endowed Scholarship](https://gvltec.academicworks.com/opportunities/6231) | varies | N/A |
+| [Blue Ridge Electric Cooperative Endowed Scholarship](https://gvltec.academicworks.com/opportunities/6052) | varies | N/A |
+| [Bosch Rexroth Endowed Scholarship](https://gvltec.academicworks.com/opportunities/5862) | varies | N/A |
+| [Bridges to a Brighter Future Scholarship Endowed by the Jolley Foundation](https://gvltec.academicworks.com/opportunities/6280) | varies | N/A |
+| [Brookshire Collision Repair, Inc. Scholarship](https://gvltec.academicworks.com/opportunities/5874) | varies | N/A |
+| [C. Niles and Dr. Laurie Ray Endowed Scholarship](https://gvltec.academicworks.com/opportunities/5863) | varies | N/A |
+| [Candace McDonald Memorial Scholarship](https://gvltec.academicworks.com/opportunities/5996) | varies | N/A |
+| [Caroline and Elizabeth Lander Endowed Scholarship](https://gvltec.academicworks.com/opportunities/6257) | varies | N/A |
+| [Carolyn Talley Porter Endowed Scholarship](https://gvltec.academicworks.com/opportunities/6256) | varies | N/A |
+| [Carroll and Billie Rushing Endowed Scholarship for Nursing Studies](https://gvltec.academicworks.com/opportunities/6010) | varies | N/A |
+| [Charles E. and Andrea L. Volpe Endowed Scholarship](https://gvltec.academicworks.com/opportunities/5979) | varies | N/A |
+| [Chef Judy Balsizer Legacy Endowed Scholarship](https://gvltec.academicworks.com/opportunities/6180) | varies | N/A |
+| [Clement F. Haynsworth III Memorial Endowed Scholarship](https://gvltec.academicworks.com/opportunities/6006) | varies | N/A |
+| [CompX National Machine Tool Technology Endowed Scholarship](https://gvltec.academicworks.com/opportunities/6115) | varies | N/A |
+| [Construction Engineering Technology/Construction Specifications Institute (CSI) Endowed Scholarship](https://gvltec.academicworks.com/opportunities/6138) | varies | N/A |
+| [Crescent Community Club](https://gvltec.academicworks.com/opportunities/6160) | varies | N/A |
+| [D.L. Scurry Foundation Scholarship](https://gvltec.academicworks.com/opportunities/6022) | varies | N/A |
+| [DACA (Deferred Action of Childhood Arrival) Student Scholarship Fund](https://gvltec.academicworks.com/opportunities/5877) | varies | N/A |
 
 ## NC State
 
@@ -390,6 +390,8 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Crystal Chen Lee Memorial Scholarship](https://ncsu.academicworks.com/opportunities/181946) | amount varies | 06/01/2026 |
 | [Emerson Family Scholarship](https://ncsu.academicworks.com/opportunities/180564) | Varies | 06/01/2026 |
 | [PRTM Timber Deed Scholarship](https://ncsu.academicworks.com/opportunities/180441) | Varies | 06/01/2026 |
+| [Don Branch Art + Design Scholarship](https://ncsu.academicworks.com/opportunities/182012) | Amount varies | 06/01/2026 |
+| [Roxanne Hicklin Scholarship](https://ncsu.academicworks.com/opportunities/182015) | varies | 06/01/2026 |
 | [Goodnight Scholars Program](https://ncsu.academicworks.com/opportunities/180468) | 24,000 | 08/01/2026 |
 | [Aspirations in Computing Scholarship](https://ncsu.academicworks.com/opportunities/179334) | $1,000.00 | 08/01/2026 |
 | [DNU_SAS Institute Minority Scholarship in Computer Science](https://ncsu.academicworks.com/opportunities/177048) | $1,500.00 | 08/01/2026 |
@@ -499,7 +501,64 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Louie Loy and Leong Shee Memorial Scholarship, The](https://sfsu.academicworks.com/opportunities/21811) | $4,165.00 | 03/16/2026 |
 | [Mark B. Kertz Scholarship Endowment in Chinese Area Studies](https://sfsu.academicworks.com/opportunities/22306) | $1,398.96 | 03/16/2026 |
 | [Willie L. Brown Jr. Fellowship](https://sfsu.academicworks.com/opportunities/22096) | $4,000 | 03/20/2026 |
+| [Frederick W. Kauer Grad Scholarship in Physiology](https://sfsu.academicworks.com/opportunities/22255) | One @ $1500.00 | 03/20/2026 |
+| [Halde Botany Endowed Scholarship Fund](https://sfsu.academicworks.com/opportunities/22829) | Three @ $3,000.00 | 03/20/2026 |
 | [Cecily Wagstaff Arellanes Memorial Scholarship](https://sfsu.academicworks.com/opportunities/22101) | $2500 | 03/29/2026 |
+
+## SFSU-External
+
+| Name | Amount | Deadline |
+|------|--------|----------|
+| [AAUW SF Silver Jubilee Scholarship](https://sfsu.academicworks.com/opportunities/15998) | $3,000 | N/A |
+| [ProofreadingServices.com High School & University Writing Scholarships](https://sfsu.academicworks.com/opportunities/5642) | 1st place-$500, 2nd place-$300, 3rd place-$100 | N/A |
+| [San Francisco Foundation Black Excellence Scholarship](https://sfsu.academicworks.com/opportunities/19038) | Varies | N/A |
+| [10,000 Degrees Undergraduate Scholarships](https://sfsu.academicworks.com/opportunities/4439) | Varies | N/A |
+| [826 Valencia Scholarships](https://sfsu.academicworks.com/opportunities/4451) | $15,000 | N/A |
+| [A Place for Mom Senior Care Innovation Scholarship](https://sfsu.academicworks.com/opportunities/4454) | $1,000 | N/A |
+| [A. Richard Grossman College Scholarship Fund](https://sfsu.academicworks.com/opportunities/4457) | $2,500 | N/A |
+| [AACN Minority Nurse Faculty Scholarship Program](https://sfsu.academicworks.com/opportunities/4460) | $18,000 | N/A |
+| [AAJUW Scholarship](https://sfsu.academicworks.com/opportunities/4463) | $2,000 | N/A |
+| [AAUW Amador Branch Re-Entry Scholarship](https://sfsu.academicworks.com/opportunities/4466) | varies | N/A |
+| [AAUW Amador Branch Upper Division and Graduate Scholarship](https://sfsu.academicworks.com/opportunities/4472) | varies | N/A |
+| [AAUW Danville-Alamo Branch Local Scholarship](https://sfsu.academicworks.com/opportunities/4475) | $2,000 minimum. | N/A |
+| [Accounting & Financial Women's Alliance Scholarship](https://sfsu.academicworks.com/opportunities/4490) | Varies | N/A |
+| [Actuarial Diversity Scholarship](https://sfsu.academicworks.com/opportunities/4493) | $1,000 - high school senior applying for freshman year; $2,000 - for sophomore year; $3,000 - for junior year; $4,000 - for senior year. | N/A |
+| [Actuary of Tomorrow--Stuart A. Robertson Memorial Scholarship](https://sfsu.academicworks.com/opportunities/4496) | $9,000 | N/A |
+| [ACWA Scholarship Program](https://sfsu.academicworks.com/opportunities/4499) | $3,500 | N/A |
+| [Advanced Practice Healthcare Scholarship Program](https://sfsu.academicworks.com/opportunities/5162) | up to $50,000 | N/A |
+| [AFIO Scholarship Program](https://sfsu.academicworks.com/opportunities/4505) | $1,000-$3,500 | N/A |
+| [AfterCollege Scholarships](https://sfsu.academicworks.com/opportunities/4511) | Varies | N/A |
+| [AG Bell College Scholarship Program](https://sfsu.academicworks.com/opportunities/4514) | $2,500-$10,000 | N/A |
+| [AICPA John L. Carey Scholarship Program](https://sfsu.academicworks.com/opportunities/4544) | $5,000 | N/A |
+| [AICPA/Accountemps Scholarship](https://sfsu.academicworks.com/opportunities/4547) | $10,000 | N/A |
+| [AIGA Worldstudio Scholarships](https://sfsu.academicworks.com/opportunities/5990) | $500-$5,000 | N/A |
+| [Al Teglia Jobs for Youth Endowment Fund Scholarships](https://sfsu.academicworks.com/opportunities/4553) | Varies | N/A |
+| [AL-BEN Scholarship](https://sfsu.academicworks.com/opportunities/4556) | $500-$1,500 | N/A |
+| [Alphonso Deal Scholarship](https://sfsu.academicworks.com/opportunities/4559) | Varies | N/A |
+| [Alvie Campbell Bible Scholarship](https://sfsu.academicworks.com/opportunities/4562) | $1,000 | N/A |
+| [AMBUCS Scholarship for Therapists](https://sfsu.academicworks.com/opportunities/4565) | $500-$1,500 | N/A |
+| [American Chemical Society Scholars Program](https://sfsu.academicworks.com/opportunities/4568) | $2,500--freshmen, $3,000--sophomores, $5,000--juniors & seniors | N/A |
+| [American Meteorological Society for Underserved Communities](https://sfsu.academicworks.com/opportunities/4574) | $1,000-$25,000. | N/A |
+| [American Physical Therapy Association Minority Scholarship Award](https://sfsu.academicworks.com/opportunities/4622) | Varies | N/A |
+| [American Public Power Association Scholarship](https://sfsu.academicworks.com/opportunities/4577) | $2,000 | N/A |
+| [American Society of Naval Engineers Scholarship](https://sfsu.academicworks.com/opportunities/4580) | $4,000 | N/A |
+| [American Society of Safety Professionals Foundation Scholarship Program](https://sfsu.academicworks.com/opportunities/4658) | Varies | N/A |
+| [American-Scandinavian Foundation](https://sfsu.academicworks.com/opportunities/4583) | $5,000-$23,000 | N/A |
+| [AMS Freshman Undergraduate Scholarship](https://sfsu.academicworks.com/opportunities/4592) | $2,500 each year for 2 years | N/A |
+| [AMVETS Caccomo Family Foundation Scholarship](https://sfsu.academicworks.com/opportunities/4595) | $12,000- ($3,000 awarded annually over four years.) | N/A |
+| [AMVETS National Scholarship Program](https://sfsu.academicworks.com/opportunities/4598) | Up to $4,000 | N/A |
+| [Annuvia's Public Safety Scholarship](https://sfsu.academicworks.com/opportunities/4604) | $500 | N/A |
+| [Applegate-Jackson-Parks Future Teacher Scholarship](https://sfsu.academicworks.com/opportunities/4613) | $1,000 | N/A |
+| [Appraisal Institute Education Trust Scholarship](https://sfsu.academicworks.com/opportunities/4616) | $1,500 | N/A |
+| [APWU Scholarship Program](https://sfsu.academicworks.com/opportunities/4628) | $2,000-3,000 | N/A |
+| [Armenian Relief Society Scholarships](https://sfsu.academicworks.com/opportunities/4631) | Varies | N/A |
+| [Army Nurse Corps Association Scholarship](https://sfsu.academicworks.com/opportunities/4637) | $3,000 | N/A |
+| [Army ROTC Program](https://sfsu.academicworks.com/opportunities/4640) | Varies | N/A |
+| [Artistic Excellence in Print Design & Marketing Scholarship](https://sfsu.academicworks.com/opportunities/4643) | $1,000 | N/A |
+| [ASCO Numatics Scholarship](https://sfsu.academicworks.com/opportunities/4646) | $5,000 | N/A |
+| [Asian American Government Executives Network (AAGEN)](https://sfsu.academicworks.com/opportunities/7160) | $1,000 -  $1,500 | N/A |
+| [Asian Pacific Community Fund-Chen Foundation Scholarship](https://sfsu.academicworks.com/opportunities/4652) | $2,000-renewable | N/A |
+| [Association of Environmental Professionals Schol.](https://sfsu.academicworks.com/opportunities/4661) | $1,000 | N/A |
 
 ## UTAH
 
