@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-02-06 14:25:45 UTC
+Last updated: 2026-02-09 14:37:50 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -135,7 +135,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [The McMahon Distinguished Professor Scholarship to Study in Madrid and Buenos Aries](https://ecu.academicworks.com/opportunities/35734) | Varies | 02/06/2026 |
 | [The Study Abroad Scholarship for Students of Russian (P)](https://ecu.academicworks.com/opportunities/35212) | Varies | 02/09/2026 |
 | [The Admiral Ernest M. Eller Graduate Fellowship in Modern Naval History](https://ecu.academicworks.com/opportunities/32852) | Varies | 02/15/2026 |
 | [The Anja Sjostrom Memorial Scholarship in Coastal Studies](https://ecu.academicworks.com/opportunities/34116) | Varies | 02/15/2026 |
@@ -185,6 +184,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [The Dale and Janet Warren Endowed Scholarship](https://ecu.academicworks.com/opportunities/34113) | Varies | 03/16/2026 |
 | [The Dr. and Mrs. Douglas C. Privette Endowed Scholarship](https://ecu.academicworks.com/opportunities/33860) | Varies | 03/16/2026 |
 | [The Dr. and Mrs. Eugene C. Neeland Endowed Scholarship](https://ecu.academicworks.com/opportunities/33947) | Varies | 03/16/2026 |
+| [The Dr. and Mrs. Hervy Kornegay, Sr. Endowed Scholarship](https://ecu.academicworks.com/opportunities/33991) | Varies | 03/16/2026 |
 
 ## ECU-External
 
@@ -200,7 +200,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [College of Arts and Sciences Student Travel Awards](https://fsu.academicworks.com/opportunities/40088) | $500 | 02/06/2026 |
 | [Marvin B. Overby Memorial Scholarship](https://fsu.academicworks.com/opportunities/37148) | Varies | 02/15/2026 |
 | [Carl and JoAnn Blackwell Scholarship Fund for International Studies](https://fsu.academicworks.com/opportunities/36070) | Varies | 02/20/2026 |
 | [Reubin O'D. and Donna Lou Askew Scholarship Fund for International Studies](https://fsu.academicworks.com/opportunities/38455) | Varies | 02/20/2026 |
@@ -250,6 +249,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [AgileThought Fund for MIS Student Excellence](https://fsu.academicworks.com/opportunities/36382) | Varies | 03/04/2026 |
 | [Amy Rose Grabina Memorial Scholarship Endowment](https://fsu.academicworks.com/opportunities/38240) | Varies | 03/04/2026 |
 | [Bank of America Endowed Scholarship](https://fsu.academicworks.com/opportunities/36952) | Varies | 03/04/2026 |
+| [Billy Teel, Clara Jo Milligan Teel and Ann Teel Hatcher Scholarship Fund](https://fsu.academicworks.com/opportunities/37773) | Varies | 03/04/2026 |
 
 ## Fay Tech
 
@@ -564,10 +564,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Bradley Parker Memorial Scholarship](https://utah.academicworks.com/opportunities/44578) | $1,000.00 | 02/06/2026 |
-| [Dee Foundation Study Abroad Scholarship](https://utah.academicworks.com/opportunities/44582) | 2,500 | 02/06/2026 |
-| [Rosaline Pao Memorial Scholarship](https://utah.academicworks.com/opportunities/44576) | Varies | 02/06/2026 |
-| [Totoki Memorial Scholarship](https://utah.academicworks.com/opportunities/44574) | Varies | 02/06/2026 |
 | [Office of Alumni Relations Application for the military connected student parents scholarship](https://utah.academicworks.com/opportunities/44892) | $1000 - $3000 | 02/09/2026 |
 | [Office of Alumni Relations Application for the Service Member Heroes Scholarship](https://utah.academicworks.com/opportunities/44902) | $1000 - $3000 | 02/09/2026 |
 | [Office of Alumni Relations Application for the service member leadership scholarship](https://utah.academicworks.com/opportunities/44910) | $1000 - $3000 | 02/09/2026 |
@@ -614,6 +610,10 @@ This page contains all currently live scholarships detected by the sentinel.
 | [ED PS Counseling Scholarships 2026-2027](https://utah.academicworks.com/opportunities/44713) | Varies | 03/01/2026 |
 | [ED PS Reading and Literacy Scholarship 2026-2027](https://utah.academicworks.com/opportunities/44710) | Varies | 03/01/2026 |
 | [ED PS Scholarships 2026-2027](https://utah.academicworks.com/opportunities/44707) | Varies | 03/01/2026 |
+| [ELP Scholarships 2026-2027](https://utah.academicworks.com/opportunities/44704) | $0.00 | 03/01/2026 |
+| [Harker-Ferguson Endowed Scholarship](https://utah.academicworks.com/opportunities/44734) | Varies | 03/01/2026 |
+| [Hilda Christensen Larsen Endowed Scholarship for Sensory Impairments](https://utah.academicworks.com/opportunities/44744) | Varies | 03/01/2026 |
+| [John R. Park Debate Society Scholarship Application](https://utah.academicworks.com/opportunities/44879) | Varies | 03/01/2026 |
 
 ## UTAH-External
 
@@ -690,7 +690,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Global Education Office (GEO) Scholarship Application](https://vt.academicworks.com/opportunities/67624) | Varies | 02/06/2026 |
 | [Dorothy Foster McCombs Scholarship](https://vt.academicworks.com/opportunities/65266) | $865.00 | 02/12/2026 |
 | [Frank N. Cowan Honors Scholarship](https://vt.academicworks.com/opportunities/65445) | Varies | 02/15/2026 |
 | [Friends of Psychology Endowed Scholarship](https://vt.academicworks.com/opportunities/66754) | Varies | 02/16/2026 |
@@ -740,6 +739,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Student Engineers' Council Scholarship](https://vt.academicworks.com/opportunities/62645) | $10,000 | 03/01/2026 |
 | [Vernell Hogan Memorial Scholarship](https://vt.academicworks.com/opportunities/65921) | Varies | 03/01/2026 |
 | [Walter W Horner Memorial Scholarship](https://vt.academicworks.com/opportunities/63752) | Varies | 03/01/2026 |
+| [Wells Fargo Endowed Scholarship](https://vt.academicworks.com/opportunities/66491) | Varies | 03/01/2026 |
 
 ## VT-External
 
