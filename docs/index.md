@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-02-09 14:37:50 UTC
+Last updated: 2026-02-10 14:45:32 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -135,7 +135,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [The Study Abroad Scholarship for Students of Russian (P)](https://ecu.academicworks.com/opportunities/35212) | Varies | 02/09/2026 |
 | [The Admiral Ernest M. Eller Graduate Fellowship in Modern Naval History](https://ecu.academicworks.com/opportunities/32852) | Varies | 02/15/2026 |
 | [The Anja Sjostrom Memorial Scholarship in Coastal Studies](https://ecu.academicworks.com/opportunities/34116) | Varies | 02/15/2026 |
 | [The Barbara and Matthew Landers Graduate Fellowship in History](https://ecu.academicworks.com/opportunities/33191) | Varies | 02/15/2026 |
@@ -185,6 +184,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [The Dr. and Mrs. Douglas C. Privette Endowed Scholarship](https://ecu.academicworks.com/opportunities/33860) | Varies | 03/16/2026 |
 | [The Dr. and Mrs. Eugene C. Neeland Endowed Scholarship](https://ecu.academicworks.com/opportunities/33947) | Varies | 03/16/2026 |
 | [The Dr. and Mrs. Hervy Kornegay, Sr. Endowed Scholarship](https://ecu.academicworks.com/opportunities/33991) | Varies | 03/16/2026 |
+| [The Dr. and Mrs. Mark MacDonald Endowed Medical Scholarship](https://ecu.academicworks.com/opportunities/33336) | Varies | 03/16/2026 |
 
 ## ECU-External
 
@@ -441,6 +441,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Alvin and Eleanore Myrick Scholarship](https://ncsu.academicworks.com/opportunities/176744) | Varies | 08/01/2026 |
 | [Alvis & Imogene Clegg Scholarship](https://ncsu.academicworks.com/opportunities/176165) | Varies | 08/01/2026 |
 | [Amelia Notorangelo Mitta Memorial Scholarship](https://ncsu.academicworks.com/opportunities/178655) | Varies | 08/01/2026 |
+| [A.G. Raymond Forest Products Scholarship](https://ncsu.academicworks.com/opportunities/175668) | varies | 08/01/2026 |
 
 ## NC State-Flexible
 
@@ -564,18 +565,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Office of Alumni Relations Application for the military connected student parents scholarship](https://utah.academicworks.com/opportunities/44892) | $1000 - $3000 | 02/09/2026 |
-| [Office of Alumni Relations Application for the Service Member Heroes Scholarship](https://utah.academicworks.com/opportunities/44902) | $1000 - $3000 | 02/09/2026 |
-| [Office of Alumni Relations Application for the service member leadership scholarship](https://utah.academicworks.com/opportunities/44910) | $1000 - $3000 | 02/09/2026 |
-| [Office of Alumni Relations Application for the service member persistence scholarship](https://utah.academicworks.com/opportunities/44894) | $1000 - $2000 | 02/09/2026 |
-| [Office of Alumni Relations Application for the Undergraduate Dependent Volunteerism Scholarship](https://utah.academicworks.com/opportunities/44896) | $1000 - $4000 | 02/09/2026 |
-| [Office of Alumni Relations Application for the Undergraduate Service Member Volunteerism or Engagement Scholarship](https://utah.academicworks.com/opportunities/44904) | $1000 - $2000 | 02/09/2026 |
-| [Office of Alumni Relations Application for the Undergraduate Spouse Volunteerism Scholarship](https://utah.academicworks.com/opportunities/44898) | $1000 - $4000 | 02/09/2026 |
-| [Office of Alumni Relations Application for the Undergraduate Veteran Volunteerism or Engagement Scholarship](https://utah.academicworks.com/opportunities/44906) | $1000 - $2000 | 02/09/2026 |
-| [Office of Alumni Relations application for the Veteran Leadership Scholarship](https://utah.academicworks.com/opportunities/44908) | $1000 - $3000 | 02/09/2026 |
-| [Office of Alumni Relations Application for the Veterans Heroes Scholarship](https://utah.academicworks.com/opportunities/44900) | $1000 - $3000 | 02/09/2026 |
-| [STOKER FAMILY ENDOWED SCHOLARSHIP FOR UNDERGRADUATE MILITARY/VETERAN STUDENTS](https://utah.academicworks.com/opportunities/44888) | $1,000 | 02/09/2026 |
-| [The Tsuya – Stephens    Endowed Veteran Scholarship](https://utah.academicworks.com/opportunities/44890) | $750.00 | 02/09/2026 |
 | [Alice O Bronson Research Fellowship](https://utah.academicworks.com/opportunities/44675) | $21,500.00 Fellowship Stipend for Fall and Spring semesters, Graduate Tuition Benefit, Basic Student Health Insurance | 02/15/2026 |
 | [Barbara Hillman West Scholarship](https://utah.academicworks.com/opportunities/44776) | Estimated $1,000 | 02/15/2026 |
 | [Donal B. Hutchison Scholarship](https://utah.academicworks.com/opportunities/44770) | Estimated $1,400 | 02/15/2026 |
@@ -614,6 +603,18 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Harker-Ferguson Endowed Scholarship](https://utah.academicworks.com/opportunities/44734) | Varies | 03/01/2026 |
 | [Hilda Christensen Larsen Endowed Scholarship for Sensory Impairments](https://utah.academicworks.com/opportunities/44744) | Varies | 03/01/2026 |
 | [John R. Park Debate Society Scholarship Application](https://utah.academicworks.com/opportunities/44879) | Varies | 03/01/2026 |
+| [Newell Family Graduate School Endowed Scholarship](https://utah.academicworks.com/opportunities/44813) | Varies | 03/01/2026 |
+| [SP ED Lawson Scholarships 2026-2027](https://utah.academicworks.com/opportunities/44747) | Varies | 03/01/2026 |
+| [SP ED Michael Scholarships 2026-2027](https://utah.academicworks.com/opportunities/44741) | Varies | 03/01/2026 |
+| [SP ED Schowe Scholarships 2026-2027](https://utah.academicworks.com/opportunities/44752) | Varies | 03/01/2026 |
+| [SP ED Williams Scholarships 2026-2027](https://utah.academicworks.com/opportunities/44731) | Varies | 03/01/2026 |
+| [SPED Buchi Scholarships 2026-2027](https://utah.academicworks.com/opportunities/44755) | Varies | 03/01/2026 |
+| [TRIO Student Support Services Participation Scholarship (for Freshman & Sophomores)](https://utah.academicworks.com/opportunities/44301) | Varies | 03/01/2026 |
+| [U Alumni TRIO Scholarship (for Juniors & Seniors)](https://utah.academicworks.com/opportunities/44928) | Varies | 03/01/2026 |
+| [University of Utah College of Fine Arts Scholarship](https://utah.academicworks.com/opportunities/44715) | Varies | 03/01/2026 |
+| [Study in Portugal Network Scholarship](https://utah.academicworks.com/opportunities/44832) | $2500-5000 | 03/02/2026 |
+| [Film & Media Arts Departmental Scholarship](https://utah.academicworks.com/opportunities/44939) | Varies | 03/07/2026 |
+| [Marion Farouk-Sluglett Award Paper Competition](https://utah.academicworks.com/opportunities/44584) | $100.00 | 03/15/2026 |
 
 ## UTAH-External
 
