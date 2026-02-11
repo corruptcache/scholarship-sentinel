@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-02-10 14:45:32 UTC
+Last updated: 2026-02-11 14:40:00 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -18,6 +18,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Robert L. & Eleanor Gossett Endowed Scholarship](https://cpcc.academicworks.com/opportunities/8342) | Up to $700 | 02/15/2026 |
 | [Teacher Residency Scholarship](https://cpcc.academicworks.com/opportunities/11029) | Up to $1,250 | 02/15/2026 |
 | [Tracey Lynn Thomson Scholarship](https://cpcc.academicworks.com/opportunities/11093) | Varies | 02/15/2026 |
+| [Susan Myers Price Scholarship](https://cpcc.academicworks.com/opportunities/10544) | Varies | 02/15/2026 |
 | [American Schlafhorst Foundation Endowed Scholarship](https://cpcc.academicworks.com/opportunities/10422) | Varies | N/A |
 | [Cato Corporation Future Teachers Endowed Scholarship](https://cpcc.academicworks.com/opportunities/10524) | Up to $2,500 | N/A |
 | [Dental Hygiene Scholarship](https://cpcc.academicworks.com/opportunities/10995) | Varies | N/A |
@@ -130,6 +131,8 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Dr. Susan J. Morrison Scholarship in Biology](https://cofc.academicworks.com/opportunities/12094) | Varies | 03/01/2026 |
 | [Edgar T. Cato Scholarship Fund](https://cofc.academicworks.com/opportunities/12458) | Varies | 03/01/2026 |
 | [Edward Emerson Towell Scholarship](https://cofc.academicworks.com/opportunities/12660) | Varies | 03/01/2026 |
+| [Edward L. Thomas, Jr. Endowed Scholarship](https://cofc.academicworks.com/opportunities/11948) | Varies | 03/01/2026 |
+| [Elizabeth Anne Eady Memorial Scholarship](https://cofc.academicworks.com/opportunities/12671) | Varies | 03/01/2026 |
 
 ## ECU
 
