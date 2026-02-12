@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-02-11 14:40:00 UTC
+Last updated: 2026-02-12 14:38:32 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -59,6 +59,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Music Scholarship](https://cpcc.academicworks.com/opportunities/10890) | Varies | N/A |
 | [Victoria Bowler Memorial Endowed Scholarship](https://cpcc.academicworks.com/opportunities/10305) | Up to $1000 | N/A |
 | [Charlotte Iris Society Endowed Scholarship](https://cpcc.academicworks.com/opportunities/10434) | Varies | N/A |
+| [Edgar Terrell Jr. Endowed Scholarship](https://cpcc.academicworks.com/opportunities/10563) | Varies | N/A |
 
 ## CPCC-External
 
@@ -457,6 +458,8 @@ This page contains all currently live scholarships detected by the sentinel.
 | Name | Amount | Deadline |
 |------|--------|----------|
 | [Student Enrichment Opportunities (SEO) Undergraduate (Jr/Sr) Fellowship Award](https://sfsu.academicworks.com/opportunities/20828) | Varies: Approximately $10,000/academic year, paid out in monthly stipend payments plus in-state tuition waiver | 02/13/2026 |
+| [James Akira Hirabayashi Person for All Seasons Scholarship Fund - Graduate Award](https://sfsu.academicworks.com/opportunities/23499) | $0.00 | 02/15/2026 |
+| [James Akira Hirabayashi Person for All Seasons Scholarship Fund - Undergraduate Award](https://sfsu.academicworks.com/opportunities/23496) | $0.00 | 02/15/2026 |
 | [Associated Students/Dr. John Irwin Memorial Scholarship](https://sfsu.academicworks.com/opportunities/22020) | $1,500.00 | 02/16/2026 |
 | [Associated Students/Jack Adams Memorial Scholarship](https://sfsu.academicworks.com/opportunities/22022) | $1,500.00 | 02/16/2026 |
 | [College of Education/Associated Students Scholarship](https://sfsu.academicworks.com/opportunities/22028) | $1,500.00 | 02/16/2026 |
@@ -507,7 +510,10 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Willie L. Brown Jr. Fellowship](https://sfsu.academicworks.com/opportunities/22096) | $4,000 | 03/20/2026 |
 | [Frederick W. Kauer Grad Scholarship in Physiology](https://sfsu.academicworks.com/opportunities/22255) | One @ $1500.00 | 03/20/2026 |
 | [Halde Botany Endowed Scholarship Fund](https://sfsu.academicworks.com/opportunities/22829) | Three @ $3,000.00 | 03/20/2026 |
+| [Janis Kuby Memorial Scholarship](https://sfsu.academicworks.com/opportunities/22356) | One @ $2000.00 | 03/20/2026 |
+| [Nelson Scholarship Fund for Conservation Biology](https://sfsu.academicworks.com/opportunities/22893) | Five @ 5,000.00 | 03/20/2026 |
 | [Cecily Wagstaff Arellanes Memorial Scholarship](https://sfsu.academicworks.com/opportunities/22101) | $2500 | 03/29/2026 |
+| [Joan Cummerton Social Work Endowed Scholarship](https://sfsu.academicworks.com/opportunities/22098) | $1000 | 03/29/2026 |
 
 ## SFSU-External
 
