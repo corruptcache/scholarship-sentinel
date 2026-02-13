@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-02-12 14:38:32 UTC
+Last updated: 2026-02-13 14:26:57 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -77,6 +77,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | Name | Amount | Deadline |
 |------|--------|----------|
 | [Merancas Bridge to Careers](https://cpcc.academicworks.com/opportunities/11080) | Up to $3,200 per year | N/A |
+| [Merancas Bridge to Careers](https://cpcc.academicworks.com/opportunities/11097) | Up to $3,200 per year | N/A |
 
 ## CofC
 
@@ -152,6 +153,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [The Paul Murray Graduate Scholarship in History](https://ecu.academicworks.com/opportunities/33104) | Varies | 02/15/2026 |
 | [The Roy N. Lokken Memorial Scholarship](https://ecu.academicworks.com/opportunities/33098) | Varies | 02/15/2026 |
 | [The William Hamlin and Mary Quaife Tuttle Graduate Scholarship in History](https://ecu.academicworks.com/opportunities/34607) | Varies | 02/15/2026 |
+| [The J. Craig Souza Scholarship](https://ecu.academicworks.com/opportunities/34627) | Varies | 02/18/2026 |
 | [The Bob and Eadie Churchill Scholarship Endowment for International Study](https://ecu.academicworks.com/opportunities/33323) | Varies | 02/28/2026 |
 | [The Countries in Crisis Scholarship](https://ecu.academicworks.com/opportunities/33090) | Varies | 02/28/2026 |
 | [The Richard L. Newell International Scholarship Fund (R)](https://ecu.academicworks.com/opportunities/32832) | Varies | 02/28/2026 |
@@ -501,6 +503,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Anantha Sudhakar Memorial Scholarship - Graduate Award](https://sfsu.academicworks.com/opportunities/21985) | $1,250.00 | 03/13/2026 |
 | [Anantha Sudhakar Memorial Scholarship - Undergraduate Award](https://sfsu.academicworks.com/opportunities/21987) | $2,500.00 | 03/13/2026 |
 | [Student Enrichment Opportunities (SEO) Masters Fellowship Award](https://sfsu.academicworks.com/opportunities/20895) | ~$20,000 annually + waiver for in-state tuition | 03/13/2026 |
+| [Professor Emerita Karen Grove and Jay Ach Fellowship, The](https://sfsu.academicworks.com/opportunities/22293) | 1 award, $10,000 | 03/13/2026 |
 | [The Ariana Mae Hatami Scholarship for Victims of Domestic Violence](https://sfsu.academicworks.com/opportunities/20729) | $1,000 | 03/14/2026 |
 | [Associated Students/Estella Lara Memorial Scholarship](https://sfsu.academicworks.com/opportunities/21817) | $1500 | 03/16/2026 |
 | [Associated Students/Raymond Uribe Memorial Scholarship](https://sfsu.academicworks.com/opportunities/21815) | $1,500.00 | 03/16/2026 |
@@ -700,7 +703,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Dorothy Foster McCombs Scholarship](https://vt.academicworks.com/opportunities/65266) | $865.00 | 02/12/2026 |
 | [Frank N. Cowan Honors Scholarship](https://vt.academicworks.com/opportunities/65445) | Varies | 02/15/2026 |
 | [Friends of Psychology Endowed Scholarship](https://vt.academicworks.com/opportunities/66754) | Varies | 02/16/2026 |
 | [Harold A. Schlenker Scholarship](https://vt.academicworks.com/opportunities/64442) | Varies | 02/16/2026 |
@@ -750,6 +752,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Vernell Hogan Memorial Scholarship](https://vt.academicworks.com/opportunities/65921) | Varies | 03/01/2026 |
 | [Walter W Horner Memorial Scholarship](https://vt.academicworks.com/opportunities/63752) | Varies | 03/01/2026 |
 | [Wells Fargo Endowed Scholarship](https://vt.academicworks.com/opportunities/66491) | Varies | 03/01/2026 |
+| [Wells Fargo Endowed Scholarship](https://vt.academicworks.com/opportunities/61119) | Varies | 03/01/2026 |
 
 ## VT-External
 
