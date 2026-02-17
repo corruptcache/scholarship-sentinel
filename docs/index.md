@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-02-16 14:28:58 UTC
+Last updated: 2026-02-17 14:31:25 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -136,7 +136,8 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [The University Book Exchange (UBE) Scholarship in English](https://ecu.academicworks.com/opportunities/35792) | $500 | 02/16/2026 |
+| [The Colonel Geoffrey M. Anthony Endowed Scholarship in Marine Corps and Naval History](https://ecu.academicworks.com/opportunities/33787) | Varies | 02/17/2026 |
+| [The Roy N. Lokken Memorial Scholarship](https://ecu.academicworks.com/opportunities/33098) | Varies | 02/17/2026 |
 | [The J. Craig Souza Scholarship](https://ecu.academicworks.com/opportunities/34627) | Varies | 02/18/2026 |
 | [The Bob and Eadie Churchill Scholarship Endowment for International Study](https://ecu.academicworks.com/opportunities/33323) | Varies | 02/28/2026 |
 | [The Countries in Crisis Scholarship](https://ecu.academicworks.com/opportunities/33090) | Varies | 02/28/2026 |
@@ -473,10 +474,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Associated Students/Dr. John Irwin Memorial Scholarship](https://sfsu.academicworks.com/opportunities/22020) | $1,500.00 | 02/16/2026 |
-| [Associated Students/Jack Adams Memorial Scholarship](https://sfsu.academicworks.com/opportunities/22022) | $1,500.00 | 02/16/2026 |
-| [College of Education/Associated Students Scholarship](https://sfsu.academicworks.com/opportunities/22028) | $1,500.00 | 02/16/2026 |
-| [College of Ethnic Studies/ Associated Students Scholarship](https://sfsu.academicworks.com/opportunities/22030) | $1,500.00 | 02/16/2026 |
 | [Presidential Scholars Scholarship](https://sfsu.academicworks.com/opportunities/21903) | An amount equivalent to resident tuition and fees. | 03/01/2026 |
 | [Africana Studies Scholarship Fund](https://sfsu.academicworks.com/opportunities/21993) | Varies | 03/02/2026 |
 | [American Indian Studies Scholarship Fund](https://sfsu.academicworks.com/opportunities/21979) | Varies | 03/02/2026 |
@@ -530,6 +527,65 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Nelson Scholarship Fund for Conservation Biology](https://sfsu.academicworks.com/opportunities/22893) | Five @ 5,000.00 | 03/20/2026 |
 | [Cecily Wagstaff Arellanes Memorial Scholarship](https://sfsu.academicworks.com/opportunities/22101) | $2500 | 03/29/2026 |
 | [Joan Cummerton Social Work Endowed Scholarship](https://sfsu.academicworks.com/opportunities/22098) | $1000 | 03/29/2026 |
+| [Allen Abraham Scholarship Fund](https://sfsu.academicworks.com/opportunities/20363) | Amount up to $1000 | 03/30/2026 |
+| [Florence Hale Stephenson Alumnae Scholarship Fund](https://sfsu.academicworks.com/opportunities/22104) | $1,000 | 03/30/2026 |
+| [Graduate Kinesiology Scholarship](https://sfsu.academicworks.com/opportunities/21347) | At least $1,000 | 03/30/2026 |
+| [Hal and Nonie Harden Physical Education Scholarship Fund](https://sfsu.academicworks.com/opportunities/21901) | Amount up to $1000 | 03/30/2026 |
+
+## SFSU-External
+
+| Name | Amount | Deadline |
+|------|--------|----------|
+| [AAUW SF Silver Jubilee Scholarship](https://sfsu.academicworks.com/opportunities/15998) | $3,000 | N/A |
+| [ProofreadingServices.com High School & University Writing Scholarships](https://sfsu.academicworks.com/opportunities/5642) | 1st place-$500, 2nd place-$300, 3rd place-$100 | N/A |
+| [San Francisco Foundation Black Excellence Scholarship](https://sfsu.academicworks.com/opportunities/19038) | Varies | N/A |
+| [10,000 Degrees Undergraduate Scholarships](https://sfsu.academicworks.com/opportunities/4439) | Varies | N/A |
+| [826 Valencia Scholarships](https://sfsu.academicworks.com/opportunities/4451) | $15,000 | N/A |
+| [A Place for Mom Senior Care Innovation Scholarship](https://sfsu.academicworks.com/opportunities/4454) | $1,000 | N/A |
+| [A. Richard Grossman College Scholarship Fund](https://sfsu.academicworks.com/opportunities/4457) | $2,500 | N/A |
+| [AACN Minority Nurse Faculty Scholarship Program](https://sfsu.academicworks.com/opportunities/4460) | $18,000 | N/A |
+| [AAJUW Scholarship](https://sfsu.academicworks.com/opportunities/4463) | $2,000 | N/A |
+| [AAUW Amador Branch Re-Entry Scholarship](https://sfsu.academicworks.com/opportunities/4466) | varies | N/A |
+| [AAUW Amador Branch Upper Division and Graduate Scholarship](https://sfsu.academicworks.com/opportunities/4472) | varies | N/A |
+| [AAUW Danville-Alamo Branch Local Scholarship](https://sfsu.academicworks.com/opportunities/4475) | $2,000 minimum. | N/A |
+| [Accounting & Financial Women's Alliance Scholarship](https://sfsu.academicworks.com/opportunities/4490) | Varies | N/A |
+| [Actuarial Diversity Scholarship](https://sfsu.academicworks.com/opportunities/4493) | $1,000 - high school senior applying for freshman year; $2,000 - for sophomore year; $3,000 - for junior year; $4,000 - for senior year. | N/A |
+| [Actuary of Tomorrow--Stuart A. Robertson Memorial Scholarship](https://sfsu.academicworks.com/opportunities/4496) | $9,000 | N/A |
+| [ACWA Scholarship Program](https://sfsu.academicworks.com/opportunities/4499) | $3,500 | N/A |
+| [Advanced Practice Healthcare Scholarship Program](https://sfsu.academicworks.com/opportunities/5162) | up to $50,000 | N/A |
+| [AFIO Scholarship Program](https://sfsu.academicworks.com/opportunities/4505) | $1,000-$3,500 | N/A |
+| [AfterCollege Scholarships](https://sfsu.academicworks.com/opportunities/4511) | Varies | N/A |
+| [AG Bell College Scholarship Program](https://sfsu.academicworks.com/opportunities/4514) | $2,500-$10,000 | N/A |
+| [AICPA John L. Carey Scholarship Program](https://sfsu.academicworks.com/opportunities/4544) | $5,000 | N/A |
+| [AICPA/Accountemps Scholarship](https://sfsu.academicworks.com/opportunities/4547) | $10,000 | N/A |
+| [AIGA Worldstudio Scholarships](https://sfsu.academicworks.com/opportunities/5990) | $500-$5,000 | N/A |
+| [Al Teglia Jobs for Youth Endowment Fund Scholarships](https://sfsu.academicworks.com/opportunities/4553) | Varies | N/A |
+| [AL-BEN Scholarship](https://sfsu.academicworks.com/opportunities/4556) | $500-$1,500 | N/A |
+| [Alphonso Deal Scholarship](https://sfsu.academicworks.com/opportunities/4559) | Varies | N/A |
+| [Alvie Campbell Bible Scholarship](https://sfsu.academicworks.com/opportunities/4562) | $1,000 | N/A |
+| [AMBUCS Scholarship for Therapists](https://sfsu.academicworks.com/opportunities/4565) | $500-$1,500 | N/A |
+| [American Chemical Society Scholars Program](https://sfsu.academicworks.com/opportunities/4568) | $2,500--freshmen, $3,000--sophomores, $5,000--juniors & seniors | N/A |
+| [American Meteorological Society for Underserved Communities](https://sfsu.academicworks.com/opportunities/4574) | $1,000-$25,000. | N/A |
+| [American Physical Therapy Association Minority Scholarship Award](https://sfsu.academicworks.com/opportunities/4622) | Varies | N/A |
+| [American Public Power Association Scholarship](https://sfsu.academicworks.com/opportunities/4577) | $2,000 | N/A |
+| [American Society of Naval Engineers Scholarship](https://sfsu.academicworks.com/opportunities/4580) | $4,000 | N/A |
+| [American Society of Safety Professionals Foundation Scholarship Program](https://sfsu.academicworks.com/opportunities/4658) | Varies | N/A |
+| [American-Scandinavian Foundation](https://sfsu.academicworks.com/opportunities/4583) | $5,000-$23,000 | N/A |
+| [AMS Freshman Undergraduate Scholarship](https://sfsu.academicworks.com/opportunities/4592) | $2,500 each year for 2 years | N/A |
+| [AMVETS Caccomo Family Foundation Scholarship](https://sfsu.academicworks.com/opportunities/4595) | $12,000- ($3,000 awarded annually over four years.) | N/A |
+| [AMVETS National Scholarship Program](https://sfsu.academicworks.com/opportunities/4598) | Up to $4,000 | N/A |
+| [Annuvia's Public Safety Scholarship](https://sfsu.academicworks.com/opportunities/4604) | $500 | N/A |
+| [Applegate-Jackson-Parks Future Teacher Scholarship](https://sfsu.academicworks.com/opportunities/4613) | $1,000 | N/A |
+| [Appraisal Institute Education Trust Scholarship](https://sfsu.academicworks.com/opportunities/4616) | $1,500 | N/A |
+| [APWU Scholarship Program](https://sfsu.academicworks.com/opportunities/4628) | $2,000-3,000 | N/A |
+| [Armenian Relief Society Scholarships](https://sfsu.academicworks.com/opportunities/4631) | Varies | N/A |
+| [Army Nurse Corps Association Scholarship](https://sfsu.academicworks.com/opportunities/4637) | $3,000 | N/A |
+| [Army ROTC Program](https://sfsu.academicworks.com/opportunities/4640) | Varies | N/A |
+| [Artistic Excellence in Print Design & Marketing Scholarship](https://sfsu.academicworks.com/opportunities/4643) | $1,000 | N/A |
+| [ASCO Numatics Scholarship](https://sfsu.academicworks.com/opportunities/4646) | $5,000 | N/A |
+| [Asian American Government Executives Network (AAGEN)](https://sfsu.academicworks.com/opportunities/7160) | $1,000 -  $1,500 | N/A |
+| [Asian Pacific Community Fund-Chen Foundation Scholarship](https://sfsu.academicworks.com/opportunities/4652) | $2,000-renewable | N/A |
+| [Association of Environmental Professionals Schol.](https://sfsu.academicworks.com/opportunities/4661) | $1,000 | N/A |
 
 ## UTAH
 
@@ -661,11 +717,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Friends of Psychology Endowed Scholarship](https://vt.academicworks.com/opportunities/66754) | Varies | 02/16/2026 |
-| [Harold A. Schlenker Scholarship](https://vt.academicworks.com/opportunities/64442) | Varies | 02/16/2026 |
-| [Margaret Ellen Cater Hepler Memorial Fund](https://vt.academicworks.com/opportunities/66667) | Varies | 02/16/2026 |
-| [Mary Nolen Blackwood Endowed Scholarship](https://vt.academicworks.com/opportunities/60422) | Varies | 02/16/2026 |
-| [Pamplin College of Business Study Abroad Application](https://vt.academicworks.com/opportunities/60025) | Varies | 02/16/2026 |
 | [Global Engineering Scholarship](https://vt.academicworks.com/opportunities/67447) | Varies | 02/20/2026 |
 | [Dr. Barbara Lockee Native American Tribal Honors Scholarship](https://vt.academicworks.com/opportunities/66517) | Varies | 02/25/2026 |
 | [Brenda Harmon Rohe Dietetic Scholarship](https://vt.academicworks.com/opportunities/60748) | Varies | 02/28/2026 |
@@ -711,6 +762,11 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Wells Fargo Endowed Scholarship](https://vt.academicworks.com/opportunities/66491) | Varies | 03/01/2026 |
 | [Wells Fargo Endowed Scholarship](https://vt.academicworks.com/opportunities/61119) | Varies | 03/01/2026 |
 | [William & Elizabeth Sorensen Memorial Scholarship](https://vt.academicworks.com/opportunities/61626) | Varies | 03/01/2026 |
+| [William A Trice Jr. Scholarship](https://vt.academicworks.com/opportunities/62423) | Varies | 03/01/2026 |
+| [Willis Blackwood Endowed Scholarship](https://vt.academicworks.com/opportunities/63918) | Varies | 03/01/2026 |
+| [CLAHS Study Abroad Scholarship Application](https://vt.academicworks.com/opportunities/66676) | Varies | 03/06/2026 |
+| [Hulick Scholarship for Leadership, Friendship, and Service](https://vt.academicworks.com/opportunities/62521) | Varies | 03/06/2026 |
+| [Jocelyne Couture-Nowak Memorial Scholarship](https://vt.academicworks.com/opportunities/60958) | Varies | 03/06/2026 |
 
 ## VT-External
 
