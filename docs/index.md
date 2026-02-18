@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-02-17 14:31:25 UTC
+Last updated: 2026-02-18 14:31:13 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -136,8 +136,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [The Colonel Geoffrey M. Anthony Endowed Scholarship in Marine Corps and Naval History](https://ecu.academicworks.com/opportunities/33787) | Varies | 02/17/2026 |
-| [The Roy N. Lokken Memorial Scholarship](https://ecu.academicworks.com/opportunities/33098) | Varies | 02/17/2026 |
 | [The J. Craig Souza Scholarship](https://ecu.academicworks.com/opportunities/34627) | Varies | 02/18/2026 |
 | [The Bob and Eadie Churchill Scholarship Endowment for International Study](https://ecu.academicworks.com/opportunities/33323) | Varies | 02/28/2026 |
 | [The Countries in Crisis Scholarship](https://ecu.academicworks.com/opportunities/33090) | Varies | 02/28/2026 |
@@ -153,6 +151,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [The Stanley and Gayle Fleming Scholarship Endowment](https://ecu.academicworks.com/opportunities/33217) | Varies | 03/02/2026 |
 | [The Venture Insurance Group Scholarship](https://ecu.academicworks.com/opportunities/35140) | Varies | 03/02/2026 |
 | [The Ward Non-Traditional Student Endowed Scholarship](https://ecu.academicworks.com/opportunities/35145) | Varies | 03/02/2026 |
+| [The Freedom Endowed Scholarship in Occupational Therapy](https://ecu.academicworks.com/opportunities/33913) | Varies | 03/09/2026 |
 | [The EA-Audiology Opportunity](https://ecu.academicworks.com/opportunities/35111) | Varies | 03/15/2026 |
 | [The EA-Medicine Opportunity](https://ecu.academicworks.com/opportunities/32966) | Varies | 03/15/2026 |
 | [The EA-OT Opportunity](https://ecu.academicworks.com/opportunities/35123) | Varies | 03/15/2026 |
@@ -625,6 +624,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [John and Linda Dunn Scholarship](https://utah.academicworks.com/opportunities/41397) | Varies | 03/16/2026 |
 | [Kelly and Graham Reeve Scholarship](https://utah.academicworks.com/opportunities/41597) | $0.00 | 03/16/2026 |
 | [Richard K. and Maria A. Obyn Memorial Scholarship](https://utah.academicworks.com/opportunities/40606) | Varies | 03/16/2026 |
+| [College of Health General Scholarship Application](https://utah.academicworks.com/opportunities/44377) | Varies | 03/16/2026 |
 | [Master of Public Administration Scholarships](https://utah.academicworks.com/opportunities/44921) | Varies | 04/01/2026 |
 | [MIAGE Fellowship Application](https://utah.academicworks.com/opportunities/44923) | Varies | 04/01/2026 |
 | [MPP Fellowship Application](https://utah.academicworks.com/opportunities/44919) | Varies | 04/01/2026 |
@@ -640,7 +640,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [HP&E Golf Scholarship](https://utah.academicworks.com/opportunities/13989) | $500.00 | N/A |
 | [Lorene R. Mason Scholarship](https://utah.academicworks.com/opportunities/13597) | $1,000 | N/A |
 | [WMB LLC (Epic Ventures) - TBD](https://utah.academicworks.com/opportunities/14383) | $0.00 | N/A |
-| [Inspirational Student Award](https://utah.academicworks.com/opportunities/17317) | $0.00 | N/A |
 
 ## UTAH-External
 
