@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-02-23 14:32:08 UTC
+Last updated: 2026-02-24 14:35:52 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -627,6 +627,9 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Kelly and Graham Reeve Scholarship](https://utah.academicworks.com/opportunities/41597) | $0.00 | 03/16/2026 |
 | [Richard K. and Maria A. Obyn Memorial Scholarship](https://utah.academicworks.com/opportunities/40606) | Varies | 03/16/2026 |
 | [College of Health General Scholarship Application](https://utah.academicworks.com/opportunities/44377) | Varies | 03/16/2026 |
+| [The Bertram and Janet Schaap Endowed Scholarship](https://utah.academicworks.com/opportunities/44958) | Varies | 03/16/2026 |
+| [The Duane M. Peterson Endowed Scholarship](https://utah.academicworks.com/opportunities/44952) | Varies | 03/16/2026 |
+| [The John W. Telford Endowed Scholarship](https://utah.academicworks.com/opportunities/44955) | Varies | 03/16/2026 |
 | [Learning Abroad Scholarship-Department of World Languages & Cultures](https://utah.academicworks.com/opportunities/44874) | Varies | 03/17/2026 |
 | [Master of Public Administration Scholarships](https://utah.academicworks.com/opportunities/44921) | Varies | 04/01/2026 |
 | [MIAGE Fellowship Application](https://utah.academicworks.com/opportunities/44923) | Varies | 04/01/2026 |
@@ -643,9 +646,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [HP&E Golf Scholarship](https://utah.academicworks.com/opportunities/13989) | $500.00 | N/A |
 | [Lorene R. Mason Scholarship](https://utah.academicworks.com/opportunities/13597) | $1,000 | N/A |
 | [WMB LLC (Epic Ventures) - TBD](https://utah.academicworks.com/opportunities/14383) | $0.00 | N/A |
-| [Inspirational Student Award](https://utah.academicworks.com/opportunities/17317) | $0.00 | N/A |
-| [J. Gordon and Betty M. Browning Scholarship](https://utah.academicworks.com/opportunities/17311) | $0.00 | N/A |
-| [Outstanding Doctoral Candidate Award](https://utah.academicworks.com/opportunities/15913) | $0.00 | N/A |
 
 ## UTAH-External
 
