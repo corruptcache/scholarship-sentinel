@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-02-26 14:33:34 UTC
+Last updated: 2026-02-27 14:12:10 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -67,6 +67,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Automotive Aftermarket Scholarships](https://cpcc.academicworks.com/opportunities/10156) | Varies | 03/01/2026 |
 | [Paul J. Koehnke Fine Arts Scholarship](https://cpcc.academicworks.com/opportunities/8276) | Up to $1,000 | 03/01/2026 |
 | [Paul J. Koehnke Fine Arts Scholarship](https://cpcc.academicworks.com/opportunities/11481) | Up to $1,000 | 03/01/2026 |
+| [PCEA of AMERICA, INC.](https://cpcc.academicworks.com/opportunities/11507) | Varies | 03/31/2026 |
 | [Next NC Scholarships](https://cpcc.academicworks.com/opportunities/10134) | Varies | 06/30/2026 |
 | [Garden Club of Weddington Scholarship](https://cpcc.academicworks.com/opportunities/11294) | Up to $1,000 | N/A |
 | [STRIVE Scholars - Strengthening Teachers_ Reaching Individuals _Valuing Everyone](https://cpcc.academicworks.com/opportunities/11223) | Varies | N/A |
@@ -253,6 +254,12 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Colonel James R. Douglass Endowment](https://fsu.academicworks.com/opportunities/37543) | Varies | 03/04/2026 |
 | [Crossman & Company Endowment in the College of Business](https://fsu.academicworks.com/opportunities/37338) | Varies | 03/04/2026 |
 | [Crossman Career Builders Scholarship](https://fsu.academicworks.com/opportunities/38221) | Varies | 03/04/2026 |
+| [Daniel J. Grant Endowed Scholarship](https://fsu.academicworks.com/opportunities/37909) | Varies | 03/04/2026 |
+| [Darden Restaurants Scholarship Fund](https://fsu.academicworks.com/opportunities/37271) | Varies | 03/04/2026 |
+| [Detlev H. Smaltz Endowed Scholarship for Management Information Systems](https://fsu.academicworks.com/opportunities/37813) | Varies | 03/04/2026 |
+| [Diahann W. Lassus Experiential Fund](https://fsu.academicworks.com/opportunities/40079) | Varies | 03/04/2026 |
+| [Donn A Szaro and Family Healthcare MBA Endowed Scholarship](https://fsu.academicworks.com/opportunities/39991) | $1,000 | 03/04/2026 |
+| [Dora J. Gangloff & Linda T. Gangloff Memorial Presidential Endowed Scholarship](https://fsu.academicworks.com/opportunities/37476) | Varies | 03/04/2026 |
 
 ## Fay Tech
 
