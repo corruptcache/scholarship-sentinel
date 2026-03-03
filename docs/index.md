@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-03-02 14:27:18 UTC
+Last updated: 2026-03-03 14:13:05 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -8,6 +8,7 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
+| [Wiley J. Smith Endowed Scholarship (Cato)](https://cpcc.academicworks.com/opportunities/11288) | Varies | N/A |
 | [Dental Hygiene Scholarship](https://cpcc.academicworks.com/opportunities/10995) | Varies | N/A |
 | [Ruth G. Shaw Scholarship](https://cpcc.academicworks.com/opportunities/10371) | Up to $2,000 | N/A |
 | [CAHA Scholarship](https://cpcc.academicworks.com/opportunities/10943) | Up to $1,000 | N/A |
@@ -57,7 +58,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Phil Briggs Memorial Scholarship](https://cpcc.academicworks.com/opportunities/10812) | Varies | N/A |
 | [Carolina Green Industry Network Scholarship](https://cpcc.academicworks.com/opportunities/11048) | Up to $1,000 | N/A |
 | [Bryan Bailey Pigg Memorial Scholarship](https://cpcc.academicworks.com/opportunities/10910) | Up to $300 | N/A |
-| [Textbook Scholarship](https://cpcc.academicworks.com/opportunities/10805) | Varies | N/A |
 
 ## CPCC-External
 
@@ -78,6 +78,7 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
+| [Royal A. Hartenberger Award in Geology](https://cofc.academicworks.com/opportunities/11822) | Varies | 03/15/2026 |
 | [Hibernian Society Foundation Scholarship](https://cofc.academicworks.com/opportunities/12025) | Varies | 03/20/2026 |
 | [Anna B. Cox Scholarship](https://cofc.academicworks.com/opportunities/12892) | Varies | 04/05/2026 |
 | [Cain Family International Scholarship](https://cofc.academicworks.com/opportunities/12893) | Varies | 04/05/2026 |
@@ -109,7 +110,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [David F. Aylor Endowed Memorial Scholarship](https://cofc.academicworks.com/opportunities/11726) | Varies | N/A |
 | [Father Scott J. A. Buchanan Endowed Memorial Scholarship](https://cofc.academicworks.com/opportunities/12806) | Varies | N/A |
 | [Health Sciences Merit Scholarship](https://cofc.academicworks.com/opportunities/11690) | Varies | N/A |
-| [Henry Foundation Endowed Scholarship in Engineering](https://cofc.academicworks.com/opportunities/13086) | $0.00 | N/A |
 | [Howard B. Sherman Endowed/Annual Scholarship](https://cofc.academicworks.com/opportunities/11684) | Varies | N/A |
 | [Jean and Tap Johnson 1967 Legacy Endowed Scholarship](https://cofc.academicworks.com/opportunities/12192) | Varies | N/A |
 | [John L. Covington, Jr. and Robert J. Lukey Scholarship for Political Science](https://cofc.academicworks.com/opportunities/12475) | Varies | N/A |
@@ -124,17 +124,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [The Coastal Cosmetic Family Dentistry Endowed Scholarship](https://ecu.academicworks.com/opportunities/35147) | Varies | 03/02/2026 |
-| [The Dr. Randy and Mrs. Bobby Fussell Endowed Scholarship](https://ecu.academicworks.com/opportunities/33495) | Varies | 03/02/2026 |
-| [The ECU Health Investing in our Future Endowment: ECU School of Dental Medicine Scholarship](https://ecu.academicworks.com/opportunities/35182) | Varies | 03/02/2026 |
-| [The Harold H. Bate Dental Scholarship (R)](https://ecu.academicworks.com/opportunities/35192) | $35,000 | 03/02/2026 |
-| [The Harrington Family Scholarship Endowment](https://ecu.academicworks.com/opportunities/35761) | Varies | 03/02/2026 |
-| [The Kaiden Enjoli Endowed Scholarship](https://ecu.academicworks.com/opportunities/35143) | Varies | 03/02/2026 |
-| [The Robert S. and Ann P. Griffin Endowed Scholarship](https://ecu.academicworks.com/opportunities/34025) | $1,000 | 03/02/2026 |
-| [The Service League of Greenville Endowed Scholarship - Dental Medicine](https://ecu.academicworks.com/opportunities/34024) | Varies | 03/02/2026 |
-| [The Stanley and Gayle Fleming Scholarship Endowment](https://ecu.academicworks.com/opportunities/33217) | Varies | 03/02/2026 |
-| [The Venture Insurance Group Scholarship](https://ecu.academicworks.com/opportunities/35140) | Varies | 03/02/2026 |
-| [The Ward Non-Traditional Student Endowed Scholarship](https://ecu.academicworks.com/opportunities/35145) | Varies | 03/02/2026 |
 | [The Freedom Endowed Scholarship in Occupational Therapy](https://ecu.academicworks.com/opportunities/33913) | Varies | 03/09/2026 |
 | [The EA-Audiology Opportunity](https://ecu.academicworks.com/opportunities/35111) | Varies | 03/15/2026 |
 | [The EA-Medicine Opportunity](https://ecu.academicworks.com/opportunities/32966) | Varies | 03/15/2026 |
@@ -174,6 +163,17 @@ This page contains all currently live scholarships detected by the sentinel.
 | [The Dr. Robert W. Wilson Endowed Scholarship](https://ecu.academicworks.com/opportunities/33656) | Varies | 03/16/2026 |
 | [The Dr. Roger McMurray Memorial Endowed Scholarship](https://ecu.academicworks.com/opportunities/35099) | Varies | 03/16/2026 |
 | [The Dr. Seymour Bakerman Endowed Scholarship](https://ecu.academicworks.com/opportunities/33994) | Varies | 03/16/2026 |
+| [The Dr. Shannon Baird Jenkins Memorial Endowed Scholarship](https://ecu.academicworks.com/opportunities/33578) | Varies | 03/16/2026 |
+| [The Dr. Tina Evans Wood Memorial Endowed Scholarship](https://ecu.academicworks.com/opportunities/35661) | Varies | 03/16/2026 |
+| [The Dr. Virginia Hardy Endowed Scholarship](https://ecu.academicworks.com/opportunities/33261) | Varies | 03/16/2026 |
+| [The Drs. Lynne and Herb Garrison Endowed Scholarship (R)](https://ecu.academicworks.com/opportunities/35658) | Varies | 03/16/2026 |
+| [The ECU Health Investing in our Future Endowment: ECU Brody School of Medicine Scholarship](https://ecu.academicworks.com/opportunities/35197) | Varies | 03/16/2026 |
+| [The ECU Medical & Health Sciences Foundation Board Scholarship for the BSOM](https://ecu.academicworks.com/opportunities/33173) | Varies | 03/16/2026 |
+| [The Edward and Anne Fogarty Endowed Medical Scholarship](https://ecu.academicworks.com/opportunities/34005) | Varies | 03/16/2026 |
+| [The Edwin Monroe, MD and Nancy Monroe Endowed Scholarship](https://ecu.academicworks.com/opportunities/34052) | Varies | 03/16/2026 |
+| [The Engelke Family Endowed Scholarship](https://ecu.academicworks.com/opportunities/33851) | Varies | 03/16/2026 |
+| [The Foy and Joyce Goforth Endowed Scholarship](https://ecu.academicworks.com/opportunities/33027) | Varies | 03/16/2026 |
+| [The Glennie L. Rouse Endowed Scholarship (R)](https://ecu.academicworks.com/opportunities/33439) | $5,000 | 03/16/2026 |
 
 ## ECU-External
 
@@ -462,39 +462,7 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Africana Studies Scholarship Fund](https://sfsu.academicworks.com/opportunities/21993) | Varies | 03/02/2026 |
-| [American Indian Studies Scholarship Fund](https://sfsu.academicworks.com/opportunities/21979) | Varies | 03/02/2026 |
-| [Anna V. Dorris University Scholarship](https://sfsu.academicworks.com/opportunities/23435) | $287.15 | 03/02/2026 |
-| [Bengier Foundation University Scholarship](https://sfsu.academicworks.com/opportunities/23439) | $4,000.00 | 03/02/2026 |
-| [Betty Parent Achievement Award](https://sfsu.academicworks.com/opportunities/21975) | Varies | 03/02/2026 |
-| [College of Ethnic Studies Dean's Scholar Award](https://sfsu.academicworks.com/opportunities/21949) | varies | 03/02/2026 |
-| [Community College Transfer Honor Scholarship](https://sfsu.academicworks.com/opportunities/10823) | $2,000.00 | 03/02/2026 |
-| [Daniel D. Feder University Scholarship](https://sfsu.academicworks.com/opportunities/22641) | varies | 03/02/2026 |
-| [Dr. J.E. "Penny" Saffold Leadership Award](https://sfsu.academicworks.com/opportunities/21991) | Varies | 03/02/2026 |
-| [Edward Said Scholarship](https://sfsu.academicworks.com/opportunities/21951) | up to $1000 | 03/02/2026 |
-| [Henry & Haruye Ng Endowed Scholarship in Asian American Studies](https://sfsu.academicworks.com/opportunities/22010) | Varies | 03/02/2026 |
-| [Jacques E. Johnet Trust Scholarship for Native American](https://sfsu.academicworks.com/opportunities/21981) | Varies | 03/02/2026 |
-| [James Akira Hirabayashi Person for All Seasons Scholarship Fund](https://sfsu.academicworks.com/opportunities/21973) | $2,500.00 | 03/02/2026 |
-| [Jerry Wayne Varnado Ethnic Studies Scholarship](https://sfsu.academicworks.com/opportunities/21955) | up to $3,000 per semester | 03/02/2026 |
-| [Jessica Mae Orozco Memorial Scholarship](https://sfsu.academicworks.com/opportunities/21977) | Varies | 03/02/2026 |
-| [Jolivette Family Empowerment Scholarship](https://sfsu.academicworks.com/opportunities/21945) | Varies | 03/02/2026 |
-| [Joseph L. White Endowed Scholarship in Africana Studies](https://sfsu.academicworks.com/opportunities/21995) | Varies | 03/02/2026 |
-| [Kenneth P. Monteiro—Associated Students Scholarship in Ethnic Studies](https://sfsu.academicworks.com/opportunities/21957) | up to $1,500 | 03/02/2026 |
-| [Latina/o Studies Scholarship Fund](https://sfsu.academicworks.com/opportunities/21997) | $2,000.00 | 03/02/2026 |
-| [Lilly M. Berry Scholarship Endowment in Psychology](https://sfsu.academicworks.com/opportunities/22582) | varies | 03/02/2026 |
-| [M&L Gross Student Support Fund](https://sfsu.academicworks.com/opportunities/22715) | $5,535.00 | 03/02/2026 |
-| [Maria P.P. Root Scholarship Award in Critical Mixed Race Studies](https://sfsu.academicworks.com/opportunities/21961) | $1,000 | 03/02/2026 |
-| [Mark B. Kertz and Minnie Loo Scholarship in Asian American Studies](https://sfsu.academicworks.com/opportunities/21989) | Varies | 03/02/2026 |
-| [Meredith Morgan Eliassen Fellowship in Women Shaping California Communities](https://sfsu.academicworks.com/opportunities/21967) | $1,000.00 | 03/02/2026 |
-| [Paul Whang Memorial Fellowship](https://sfsu.academicworks.com/opportunities/21983) | Varies | 03/02/2026 |
-| [Philip M. Klasky Climate Justice Scholarship](https://sfsu.academicworks.com/opportunities/21965) | up to $1,000.00 | 03/02/2026 |
-| [Phillip McGee Memorial Scholarship](https://sfsu.academicworks.com/opportunities/21947) | $1,000.00 | 03/02/2026 |
-| [Queer Ethnic Studies Endowed Graduate Student Scholarship](https://sfsu.academicworks.com/opportunities/21953) | $1,000.00 | 03/02/2026 |
-| [Queer Ethnic Studies Scholarship - Undergraduate Awards](https://sfsu.academicworks.com/opportunities/21971) | $1,000.00 | 03/02/2026 |
-| [Race & Resistance Studies Scholarship](https://sfsu.academicworks.com/opportunities/21969) | $1,000.00 | 03/02/2026 |
-| [Richard and Mildred Loving Scholarship Award In Critical Mixed Race Studies](https://sfsu.academicworks.com/opportunities/21959) | $1000 | 03/02/2026 |
-| [Student Activist & Advocate Endowed Scholarship](https://sfsu.academicworks.com/opportunities/21963) | $1,000.00 | 03/02/2026 |
-| [University Scholarship](https://sfsu.academicworks.com/opportunities/23441) | at least $2,000 | 03/02/2026 |
+| [Presidential Scholars Scholarship](https://sfsu.academicworks.com/opportunities/21903) | An amount equivalent to resident tuition and fees. | 03/06/2026 |
 | [Anantha Sudhakar Memorial Scholarship - Graduate Award](https://sfsu.academicworks.com/opportunities/21985) | $1,250.00 | 03/13/2026 |
 | [Anantha Sudhakar Memorial Scholarship - Undergraduate Award](https://sfsu.academicworks.com/opportunities/21987) | $2,500.00 | 03/13/2026 |
 | [Student Enrichment Opportunities (SEO) Masters Fellowship Award](https://sfsu.academicworks.com/opportunities/20895) | ~$20,000 annually + waiver for in-state tuition | 03/13/2026 |
@@ -524,6 +492,34 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Graduate Kinesiology Scholarship](https://sfsu.academicworks.com/opportunities/21347) | At least $1,000 | 03/30/2026 |
 | [Hal and Nonie Harden Physical Education Scholarship Fund](https://sfsu.academicworks.com/opportunities/21901) | Amount up to $1000 | 03/30/2026 |
 | [Kyria Hontalas Petuskey Memorial Scholarship Fund](https://sfsu.academicworks.com/opportunities/21938) | Amount up to $2000 | 03/30/2026 |
+| [Undergraduate Kinesiology Scholarship](https://sfsu.academicworks.com/opportunities/21345) | Amount up to $1000 | 03/30/2026 |
+| [William Harkness Kinesiology Major - Athlete Scholarship](https://sfsu.academicworks.com/opportunities/21899) | Amount up to $1000 | 03/30/2026 |
+| [Agid Family Scholarship Endowment](https://sfsu.academicworks.com/opportunities/23295) | $700 | 03/31/2026 |
+| [Anna V. Dorris University Scholarship](https://sfsu.academicworks.com/opportunities/23435) | $287.15 | 03/31/2026 |
+| [Bear Family Endowed Scholarship](https://sfsu.academicworks.com/opportunities/22249) | $2,500 | 03/31/2026 |
+| [Bengier Foundation University Scholarship](https://sfsu.academicworks.com/opportunities/23439) | $4,000.00 | 03/31/2026 |
+| [Business Certificate in Ethics & Compliance Scholarship](https://sfsu.academicworks.com/opportunities/21870) | $3,000.00 | 03/31/2026 |
+| [Community College Transfer Honor Scholarship](https://sfsu.academicworks.com/opportunities/10823) | $2,000.00 | 03/31/2026 |
+| [Crankstart Transfer Scholarship](https://sfsu.academicworks.com/opportunities/23468) | $2,500.00 | 03/31/2026 |
+| [Dale McKeen Award](https://sfsu.academicworks.com/opportunities/23250) | $500 | 03/31/2026 |
+| [Daniel D. Feder University Scholarship](https://sfsu.academicworks.com/opportunities/22641) | varies | 03/31/2026 |
+| [David Goldstein Memorial Scholarship in Paralegal Studies](https://sfsu.academicworks.com/opportunities/23505) | $3,000.00 | 03/31/2026 |
+| [Don W. Scoble Endowment Scholarship](https://sfsu.academicworks.com/opportunities/23501) | $900.00 | 03/31/2026 |
+| [Future Investment Fund Scholarship](https://sfsu.academicworks.com/opportunities/23452) | Up to $15,000 ($7,500 in FA26 + $7,500 in SP27) | 03/31/2026 |
+| [George Feliz Memorial Scholarship in Economics](https://sfsu.academicworks.com/opportunities/23503) | $650 | 03/31/2026 |
+| [Handlery Family Scholarship](https://sfsu.academicworks.com/opportunities/23444) | $2,000 | 03/31/2026 |
+| [Hospitality Management Student Scholarship](https://sfsu.academicworks.com/opportunities/23446) | $2,000.00 | 03/31/2026 |
+| [Karmaka-Lelarati Surjaudaja Family Scholarship Endowment Fund](https://sfsu.academicworks.com/opportunities/23308) | $1,500 | 03/31/2026 |
+| [Kasey Miller Fund in Kinesiology](https://sfsu.academicworks.com/opportunities/21349) | up to $2000 | 03/31/2026 |
+| [Leona M. Bridges Endowed Scholarship in Business](https://sfsu.academicworks.com/opportunities/23291) | $2,000 | 03/31/2026 |
+| [Lilly M. Berry Scholarship Endowment in Psychology](https://sfsu.academicworks.com/opportunities/22582) | varies | 03/31/2026 |
+| [Linda and Nathaniel Oubre Leadership Scholarship, The](https://sfsu.academicworks.com/opportunities/22250) | $1,250 | 03/31/2026 |
+| [Loretta Doon Scholarship Endowment in Accounting](https://sfsu.academicworks.com/opportunities/22681) | $1,000 | 03/31/2026 |
+| [M&L Gross Student Support Fund](https://sfsu.academicworks.com/opportunities/22715) | $5,535.00 | 03/31/2026 |
+| [Martinelli Family Scholarship](https://sfsu.academicworks.com/opportunities/23300) | $1,000 | 03/31/2026 |
+| [Michael and Lynn Patner Scholarship Fund](https://sfsu.academicworks.com/opportunities/23470) | $1,000.10 | 03/31/2026 |
+| [Michael Jon Alton Scholarship](https://sfsu.academicworks.com/opportunities/23297) | $1,400 | 03/31/2026 |
+| [Mitsuko Saito Duerr Scholarship](https://sfsu.academicworks.com/opportunities/22600) | $2,500 | 03/31/2026 |
 
 ## SFSU-External
 
@@ -584,7 +580,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Study in Portugal Network Scholarship](https://utah.academicworks.com/opportunities/44832) | $2500-5000 | 03/02/2026 |
 | [Film & Media Arts Departmental Scholarship](https://utah.academicworks.com/opportunities/44939) | Varies | 03/07/2026 |
 | [Marion Farouk-Sluglett Award Paper Competition](https://utah.academicworks.com/opportunities/44584) | $100.00 | 03/15/2026 |
 | [Dr. A Lorris and Ann C. Betz Endowed Scholarship](https://utah.academicworks.com/opportunities/40956) | $1,000.00 | 03/16/2026 |
@@ -604,13 +599,13 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Master of Public Administration Scholarships](https://utah.academicworks.com/opportunities/44921) | Varies | 04/01/2026 |
 | [MIAGE Fellowship Application](https://utah.academicworks.com/opportunities/44923) | Varies | 04/01/2026 |
 | [MPP Fellowship Application](https://utah.academicworks.com/opportunities/44919) | Varies | 04/01/2026 |
+| [Honors College Scholarships (2026-2027 Academic Year)](https://utah.academicworks.com/opportunities/44968) | $0.00 | 04/05/2026 |
 | [ED PS School Psychology Faculty Scholarships 2026-2027](https://utah.academicworks.com/opportunities/44727) | Varies | 04/16/2026 |
 | [ED PS School Psychology Scholarships 2026-2027](https://utah.academicworks.com/opportunities/44724) | Varies | 04/16/2026 |
 | [Ken Garff for Good Tech Scholarship](https://utah.academicworks.com/opportunities/44949) | $2,000.00 | 06/30/2026 |
 | [Science Research Initiative (SRI) Application](https://utah.academicworks.com/opportunities/44917) | Varies | 08/23/2026 |
 | [College of Science Graduate Student Emergency Scholarship](https://utah.academicworks.com/opportunities/42115) | Varies | N/A |
 | [Educational Resource Development Council (College of Health)](https://utah.academicworks.com/opportunities/40627) | Varies | N/A |
-| [Garr Cutler Energy Prize](https://utah.academicworks.com/opportunities/44624) | $1,500.00 | N/A |
 | [Tuition Waiver - Anthropology](https://utah.academicworks.com/opportunities/5604) | $0.00 | N/A |
 | [Dr. Samuel H. Allen Endowed Scholarship Fund](https://utah.academicworks.com/opportunities/13986) | $750.00 | N/A |
 | [HP&E Golf Scholarship](https://utah.academicworks.com/opportunities/13989) | $500.00 | N/A |
@@ -634,6 +629,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Royal L. Garff Endowed Scholarship](https://utah.academicworks.com/opportunities/20071) | $2,000.00 | N/A |
 | [Student2Student Scholarship](https://utah.academicworks.com/opportunities/19920) | $500 Minimum | N/A |
 | [Alberta Henry Scholarship](https://utah.academicworks.com/opportunities/20142) | $0.00 | N/A |
+| [Fred and Judy Tamagawa Scholarship](https://utah.academicworks.com/opportunities/21498) | $500.00 | N/A |
 
 ## UTAH-External
 
