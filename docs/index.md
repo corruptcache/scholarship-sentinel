@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-03-03 14:13:05 UTC
+Last updated: 2026-03-04 14:11:28 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -380,6 +380,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [PRTM Timber Deed Scholarship](https://ncsu.academicworks.com/opportunities/180441) | Varies | 06/01/2026 |
 | [Don Branch Art + Design Scholarship](https://ncsu.academicworks.com/opportunities/182012) | Amount varies | 06/01/2026 |
 | [Roxanne Hicklin Scholarship](https://ncsu.academicworks.com/opportunities/182015) | varies | 06/01/2026 |
+| [Karen & Donald Wagoner Scholarship](https://ncsu.academicworks.com/opportunities/182061) | Varies | 06/01/2026 |
 | [Goodnight Scholars Program](https://ncsu.academicworks.com/opportunities/180468) | 24,000 | 08/01/2026 |
 | [Aspirations in Computing Scholarship](https://ncsu.academicworks.com/opportunities/179334) | $1,000.00 | 08/01/2026 |
 | [DNU_SAS Institute Minority Scholarship in Computer Science](https://ncsu.academicworks.com/opportunities/177048) | $1,500.00 | 08/01/2026 |
@@ -485,6 +486,9 @@ This page contains all currently live scholarships detected by the sentinel.
 | [John & Johnnie Hafernik Endowed Scholarship in Biology](https://sfsu.academicworks.com/opportunities/23487) | Two @ $2,500.00 | 03/20/2026 |
 | [Metro College Success Program Scholarship](https://sfsu.academicworks.com/opportunities/22488) | $1,000.00 | 03/22/2026 |
 | [Metro College Success Program Scholarship – George and Hellen Kallianis Memorial Scholarship](https://sfsu.academicworks.com/opportunities/22414) | $1,000.00 | 03/22/2026 |
+| [Africana Studies Scholarship Fund](https://sfsu.academicworks.com/opportunities/21993) | Varies | 03/23/2026 |
+| [Dr. J.E. "Penny" Saffold Leadership Award](https://sfsu.academicworks.com/opportunities/21991) | Varies | 03/23/2026 |
+| [Joseph L. White Endowed Scholarship in Africana Studies](https://sfsu.academicworks.com/opportunities/21995) | Varies | 03/23/2026 |
 | [Cecily Wagstaff Arellanes Memorial Scholarship](https://sfsu.academicworks.com/opportunities/22101) | $2500 | 03/29/2026 |
 | [Joan Cummerton Social Work Endowed Scholarship](https://sfsu.academicworks.com/opportunities/22098) | $1000 | 03/29/2026 |
 | [Allen Abraham Scholarship Fund](https://sfsu.academicworks.com/opportunities/20363) | Amount up to $1000 | 03/30/2026 |
@@ -763,6 +767,7 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
+| [Luther H. and Deborah R. Carrington Scholarship](https://waketech.academicworks.com/opportunities/6050) | $1,500.00 | 04/01/2026 |
 | [ABB Endowed Scholarship](https://waketech.academicworks.com/opportunities/5803) | $2,000.00 | 04/30/2026 |
 | [AFCOM North Carolina Chapter Scholarship](https://waketech.academicworks.com/opportunities/5873) | $1,000.00 | 04/30/2026 |
 | [Alicia Elliott Goodwill Industries of Eastern North Carolina](https://waketech.academicworks.com/opportunities/5782) | $2,500.00 | 04/30/2026 |
