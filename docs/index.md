@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-03-05 14:27:02 UTC
+Last updated: 2026-03-06 14:09:53 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -8,6 +8,7 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
+| [Georgia Jacquez Lewis Family Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11340) | Varies | N/A |
 | [Wiley J. Smith Endowed Scholarship (Cato)](https://cpcc.academicworks.com/opportunities/11288) | Varies | N/A |
 | [Dental Hygiene Scholarship](https://cpcc.academicworks.com/opportunities/10995) | Varies | N/A |
 | [Ruth G. Shaw Scholarship](https://cpcc.academicworks.com/opportunities/10371) | Up to $2,000 | N/A |
@@ -57,7 +58,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Kenneth R. Miller Veterans Scholarship](https://cpcc.academicworks.com/opportunities/10896) | Up to $3,200 | N/A |
 | [Phil Briggs Memorial Scholarship](https://cpcc.academicworks.com/opportunities/10812) | Varies | N/A |
 | [Carolina Green Industry Network Scholarship](https://cpcc.academicworks.com/opportunities/11048) | Up to $1,000 | N/A |
-| [Bryan Bailey Pigg Memorial Scholarship](https://cpcc.academicworks.com/opportunities/10910) | Up to $300 | N/A |
 
 ## CPCC-External
 
@@ -109,7 +109,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [College of Charleston Foundation Scholarships- Meeting Street Charleston Compact](https://cofc.academicworks.com/opportunities/12263) | Varies | N/A |
 | [David F. Aylor Endowed Memorial Scholarship](https://cofc.academicworks.com/opportunities/11726) | Varies | N/A |
 | [Father Scott J. A. Buchanan Endowed Memorial Scholarship](https://cofc.academicworks.com/opportunities/12806) | Varies | N/A |
-| [Health Sciences Merit Scholarship](https://cofc.academicworks.com/opportunities/11690) | Varies | N/A |
 | [Howard B. Sherman Endowed/Annual Scholarship](https://cofc.academicworks.com/opportunities/11684) | Varies | N/A |
 | [Jean and Tap Johnson 1967 Legacy Endowed Scholarship](https://cofc.academicworks.com/opportunities/12192) | Varies | N/A |
 | [John L. Covington, Jr. and Robert J. Lukey Scholarship for Political Science](https://cofc.academicworks.com/opportunities/12475) | Varies | N/A |
