@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-03-11 14:30:52 UTC
+Last updated: 2026-03-12 14:30:27 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -12,52 +12,52 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Wiley J. Smith Endowed Scholarship (Cato)](https://cpcc.academicworks.com/opportunities/11288) | Varies | N/A |
 | [Dental Hygiene Scholarship](https://cpcc.academicworks.com/opportunities/10995) | Varies | N/A |
 | [Ruth G. Shaw Scholarship](https://cpcc.academicworks.com/opportunities/10371) | Up to $2,000 | N/A |
-| [CAHA Scholarship](https://cpcc.academicworks.com/opportunities/10943) | Up to $1,000 | N/A |
 | [NC Motorsports Foundation Scholarship](https://cpcc.academicworks.com/opportunities/10902) | Varies | N/A |
-| [Pat Locke Williamson Scholarship](https://cpcc.academicworks.com/opportunities/10862) | Up to $1,500 | N/A |
 | [John Robert Gregoraschuk Memorial Scholarship](https://cpcc.academicworks.com/opportunities/10894) | Up to $900 | N/A |
-| [Sparrow-Tyson Scholarship](https://cpcc.academicworks.com/opportunities/10529) | Varies | N/A |
 | [Mary Lou Paschal Scholarship](https://cpcc.academicworks.com/opportunities/10908) | Varies | N/A |
-| [Central Piedmont Horticulture Scholarship](https://cpcc.academicworks.com/opportunities/10888) | Varies | N/A |
 | [Christy L. Crowder Transfer Student Scholarship](https://cpcc.academicworks.com/opportunities/10874) | Varies | N/A |
-| [Ezequiel Vega Honorary Scholarship](https://cpcc.academicworks.com/opportunities/10358) | Varies | N/A |
-| [Christopher A. Matthews Scholarship](https://cpcc.academicworks.com/opportunities/10951) | Varies | N/A |
 | [Alli & Aiden Scholarship](https://cpcc.academicworks.com/opportunities/10947) | Varies | N/A |
-| [Sally & Russell Robinson Scholarship](https://cpcc.academicworks.com/opportunities/10906) | Up to $1,000 | N/A |
-| [Martha & Eric Eubank Scholarship](https://cpcc.academicworks.com/opportunities/10900) | Varies | N/A |
 | [National Board of Respiratory Care Scholarship](https://cpcc.academicworks.com/opportunities/10870) | Up to $3,200 | N/A |
-| [Marand Builders Scholarship](https://cpcc.academicworks.com/opportunities/10471) | Up to $3,200 | N/A |
-| [CEENTA Angie Madigan Ophthalmic Medical Assisting Scholarship](https://cpcc.academicworks.com/opportunities/10850) | Varies | N/A |
-| [Phil & Linda Sterner Scholarship](https://cpcc.academicworks.com/opportunities/10872) | Varies | N/A |
-| [Jaeger Scholarship](https://cpcc.academicworks.com/opportunities/10545) | Varies | N/A |
-| [First Gaston Foundation Scholarship](https://cpcc.academicworks.com/opportunities/10886) | Up to $1,000 | N/A |
-| [Ken Szymanski Scholarship](https://cpcc.academicworks.com/opportunities/10993) | Varies | N/A |
 | [Opportunity Scholars Program](https://cpcc.academicworks.com/opportunities/10778) | Up to $10,000 over 2 years | N/A |
 | [North Carolina Health & Science Scholarship](https://cpcc.academicworks.com/opportunities/10856) | Up to $4,000 | N/A |
-| [Rotary Club of Charlotte Scholarship](https://cpcc.academicworks.com/opportunities/10523) | Up to $2,000 | N/A |
-| [Edith Strickland Delaine Scholarship](https://cpcc.academicworks.com/opportunities/10878) | Varies | N/A |
 | [Lee Alan Brooks Memorial Scholarship](https://cpcc.academicworks.com/opportunities/10814) | Varies | N/A |
-| [William & Harriet Barnhardt Scholarship](https://cpcc.academicworks.com/opportunities/11046) | Varies | N/A |
 | [Phil Briggs Memorial Scholarship](https://cpcc.academicworks.com/opportunities/10812) | Varies | N/A |
-| [Carolina Green Industry Network Scholarship](https://cpcc.academicworks.com/opportunities/11048) | Up to $1,000 | N/A |
 | [Textbook Scholarship](https://cpcc.academicworks.com/opportunities/10805) | Varies | N/A |
 | [Merancas Veterans Scholars Program](https://cpcc.academicworks.com/opportunities/10467) | Up to $3200 | N/A |
 | [South Park Lions Club Ophthalmic Medical Personnel Scholarship](https://cpcc.academicworks.com/opportunities/10884) | Varies | N/A |
 | [Steele's Mechanical Veterans Scholarship](https://cpcc.academicworks.com/opportunities/10924) | Up to $3,200 | N/A |
-| [Riggins Veterans Scholarship](https://cpcc.academicworks.com/opportunities/10860) | Up to $3,200 | N/A |
 | [Barclays American Corporation Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11239) | Varies | N/A |
 | [Cato Corporation Future Nurses Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11233) | Up to $2,500 | N/A |
 | [Mitchell Hagler Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11375) | Varies | N/A |
 | [Stone Estate Trust Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11397) | Varies | N/A |
 | [Wayland H. Cato Jr. Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11277) | Varies | N/A |
+| [William & Harriet Barnhardt Scholarship](https://cpcc.academicworks.com/opportunities/11610) | Varies | N/A |
 | [WINGS Scholarship](https://cpcc.academicworks.com/opportunities/11503) | Up to $1,000 | N/A |
 | [Beth Zeiss Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11212) | Varies | N/A |
 | [Dr. Marion Charles Lane Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11131) | Varies | N/A |
 | [Frankie Graves / Mike Realon Southwest Charlotte Business Association Scholarship](https://cpcc.academicworks.com/opportunities/11224) | Varies | N/A |
-| [Health Sciences Scholarship](https://cpcc.academicworks.com/opportunities/11471) | Up to $3,200 | N/A |
 | [James Douglas Zeller Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11291) | Varies | N/A |
-| [John & Claudia Belk Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11129) | Varies | N/A |
 | [Pittenger-Bahakel Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11166) | Varies | N/A |
+| [Red Wood Memorial Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11453) | Varies | N/A |
+| [Reeves Brothers Foundation Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11411) | Varies | N/A |
+| [Robert B. Tadlock Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11425) | Varies | N/A |
+| [Sylvia Ingram Eagle Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11188) | Varies | N/A |
+| [Tracey Lynn Thomson Scholarship](https://cpcc.academicworks.com/opportunities/11370) | Varies | N/A |
+| [Aasha Scholarship](https://cpcc.academicworks.com/opportunities/11429) | Varies | N/A |
+| [Alli & Aiden Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11646) | Varies | N/A |
+| [American Schlafhorst Foundation Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11132) | Varies | N/A |
+| [American Society of Highway Engineers Scholarship](https://cpcc.academicworks.com/opportunities/11584) | Varies | N/A |
+| [Bank of America Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11407) | Varies | N/A |
+| [Bettie Dibrell Memorial Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11184) | Varies | N/A |
+| [Bettie W. McEwen Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11343) | Varies | N/A |
+| [Beverly McKeithen Memorial Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11464) | Varies | N/A |
+| [BFB Foundation STEM Scholarship](https://cpcc.academicworks.com/opportunities/11602) | Varies | N/A |
+| [Bible Church 7 at the Lake Scholarship](https://cpcc.academicworks.com/opportunities/11386) | Varies | N/A |
+| [Bill & Jane Disher Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11143) | Varies | N/A |
+| [Bill Kemper Memorial Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11536) | Varies | N/A |
+| [Board of Trustees Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11130) | Varies | N/A |
+| [Bob L. Moss Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11398) | Varies | N/A |
+| [Bragg Financial Advisors Scholarship Endowment](https://cpcc.academicworks.com/opportunities/11316) | Varies | N/A |
 
 ## CPCC-External
 
@@ -80,6 +80,10 @@ This page contains all currently live scholarships detected by the sentinel.
 |------|--------|----------|
 | [Royal A. Hartenberger Award in Geology](https://cofc.academicworks.com/opportunities/11822) | Varies | 03/15/2026 |
 | [Hibernian Society Foundation Scholarship](https://cofc.academicworks.com/opportunities/12025) | Varies | 03/20/2026 |
+| [Ketner Crunelle LGBTQ+ Endowed/Annual Scholarship](https://cofc.academicworks.com/opportunities/11765) | Varies | 03/23/2026 |
+| [Beatrice Stiglitz Scholarship in French](https://cofc.academicworks.com/opportunities/10630) | Varies | 04/01/2026 |
+| [Catherine Wood Parker Memorial Scholarship](https://cofc.academicworks.com/opportunities/10714) | Varies | 04/01/2026 |
+| [Jon Morter Memorial Endowment in Anthropology](https://cofc.academicworks.com/opportunities/10697) | Varies | 04/01/2026 |
 | [Anna B. Cox Scholarship](https://cofc.academicworks.com/opportunities/12892) | Varies | 04/05/2026 |
 | [Cain Family International Scholarship](https://cofc.academicworks.com/opportunities/12893) | Varies | 04/05/2026 |
 | [CIE Abroad Scholarship](https://cofc.academicworks.com/opportunities/12889) | Varies | 04/05/2026 |
@@ -189,7 +193,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Union Board Scholarship Fund](https://fsu.academicworks.com/opportunities/37598) | Varies | 03/11/2026 |
 | [Army ROTC Scholarship Fund](https://fsu.academicworks.com/opportunities/36368) | Varies | 03/13/2026 |
 | [Justin Sisson Outstanding Cadet Award](https://fsu.academicworks.com/opportunities/36080) | Varies | 03/13/2026 |
 | [Seminole Battalion Leadership Excellence Scholarship](https://fsu.academicworks.com/opportunities/36088) | Varies | 03/13/2026 |
@@ -239,6 +242,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Reva Daniels Metzinger Endowed Scholarships in Economics](https://fsu.academicworks.com/opportunities/40285) | Varies | 04/07/2026 |
 | [Antoine Spacagna/Winthrop-King Presidential Scholarship](https://fsu.academicworks.com/opportunities/38894) | Varies | 04/10/2026 |
 | [Juris Master General Scholarships](https://fsu.academicworks.com/opportunities/39987) | Varies | 04/10/2026 |
+| [Art Education General Development](https://fsu.academicworks.com/opportunities/39697) | Varies | 04/15/2026 |
 
 ## Fay Tech
 
