@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-03-23 14:41:29 UTC
+Last updated: 2026-03-24 14:43:46 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -87,7 +87,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Ketner Crunelle LGBTQ+ Endowed/Annual Scholarship](https://cofc.academicworks.com/opportunities/11765) | Varies | 03/23/2026 |
 | [Tomo Cook Scholarship Fund](https://cofc.academicworks.com/opportunities/12181) | Varies | 03/24/2026 |
 | [Beatrice Stiglitz Scholarship in French](https://cofc.academicworks.com/opportunities/10630) | Varies | 04/01/2026 |
 | [Catherine Wood Parker Memorial Scholarship](https://cofc.academicworks.com/opportunities/10714) | Varies | 04/01/2026 |
@@ -477,16 +476,10 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Africana Studies Scholarship Fund](https://sfsu.academicworks.com/opportunities/21993) | Varies | 03/23/2026 |
-| [Dr. J.E. "Penny" Saffold Leadership Award](https://sfsu.academicworks.com/opportunities/21991) | Varies | 03/23/2026 |
-| [Joseph L. White Endowed Scholarship in Africana Studies](https://sfsu.academicworks.com/opportunities/21995) | Varies | 03/23/2026 |
-| [Edward Said Scholarship](https://sfsu.academicworks.com/opportunities/21951) | up to $1000 | 03/23/2026 |
-| [Jessica Mae Orozco Memorial Scholarship](https://sfsu.academicworks.com/opportunities/21977) | Varies | 03/23/2026 |
-| [Kenneth P. Monteiro—Associated Students Scholarship in Ethnic Studies](https://sfsu.academicworks.com/opportunities/21957) | up to $1,500 | 03/23/2026 |
-| [Student Activist & Advocate Endowed Scholarship](https://sfsu.academicworks.com/opportunities/21963) | $1,000.00 | 03/23/2026 |
 | [Maria P.P. Root Scholarship Award in Critical Mixed Race Studies](https://sfsu.academicworks.com/opportunities/21961) | $1,000 | 03/24/2026 |
 | [Mark B. Kertz and Minnie Loo Scholarship in Asian American Studies](https://sfsu.academicworks.com/opportunities/21989) | Varies | 03/24/2026 |
 | [Meredith Morgan Eliassen Fellowship in Women Shaping California Communities](https://sfsu.academicworks.com/opportunities/21967) | $1,000.00 | 03/25/2026 |
+| [Anantha Sudhakar Memorial Scholarship - Graduate Award](https://sfsu.academicworks.com/opportunities/21985) | $1,250.00 | 03/25/2026 |
 | [Cecily Wagstaff Arellanes Memorial Scholarship](https://sfsu.academicworks.com/opportunities/22101) | $2500 | 03/29/2026 |
 | [Joan Cummerton Social Work Endowed Scholarship](https://sfsu.academicworks.com/opportunities/22098) | $1000 | 03/29/2026 |
 | [Alison Won Memorial Scholarship](https://sfsu.academicworks.com/opportunities/20360) | $500.00 | 03/29/2026 |
@@ -527,6 +520,12 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Michael and Lynn Patner Scholarship Fund](https://sfsu.academicworks.com/opportunities/23470) | $1,000.10 | 03/31/2026 |
 | [Michael Jon Alton Scholarship](https://sfsu.academicworks.com/opportunities/23297) | $1,400 | 03/31/2026 |
 | [Mitsuko Saito Duerr Scholarship](https://sfsu.academicworks.com/opportunities/22600) | $2,500 | 03/31/2026 |
+| [Osher Reentry Scholarship](https://sfsu.academicworks.com/opportunities/22060) | $1500 - $4000 | 03/31/2026 |
+| [Prada Family Endowed Scholarship](https://sfsu.academicworks.com/opportunities/19540) | $0.00 | 03/31/2026 |
+| [Ramsey Family Scholarship](https://sfsu.academicworks.com/opportunities/22675) | $1,500 | 03/31/2026 |
+| [University Scholarship](https://sfsu.academicworks.com/opportunities/23441) | at least $2,000 | 03/31/2026 |
+| [Vincent Costantino Scholarship Endowment - University Scholarship](https://sfsu.academicworks.com/opportunities/23472) | $500.00 | 03/31/2026 |
+| [Wallace Fund for Diversity Scholarship](https://sfsu.academicworks.com/opportunities/23455) | $5,000 | 03/31/2026 |
 
 ## SFSU-External
 
