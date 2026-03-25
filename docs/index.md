@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-03-24 14:43:46 UTC
+Last updated: 2026-03-25 14:44:49 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -71,7 +71,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Health Care Scholars United scholarships](https://cpcc.academicworks.com/opportunities/11728) | $3,200.00 | 03/24/2026 |
 | [Next NC Scholarships](https://cpcc.academicworks.com/opportunities/10134) | Varies | 06/30/2026 |
 | [PCEA of America, Inc.](https://cpcc.academicworks.com/opportunities/11507) | Varies | 02/14/2027 |
 | [Assistance League of Charlotte](https://cpcc.academicworks.com/opportunities/11185) | Varies | 02/14/2027 |
@@ -82,12 +81,12 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Paul J. Koehnke Fine Arts Scholarship](https://cpcc.academicworks.com/opportunities/11481) | Varies | 02/14/2027 |
 | [STRIVE Scholars - Strengthening Teachers_ Reaching Individuals _Valuing Everyone](https://cpcc.academicworks.com/opportunities/11223) | Varies | 02/14/2027 |
 | [Wells Fargo Scholarship for Financial Services Careers/Wachovia Foundation Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11484) | Varies | 02/14/2027 |
+| [Health Care Scholars United scholarships](https://cpcc.academicworks.com/opportunities/11728) | $3,200.00 | N/A |
 
 ## CofC
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Tomo Cook Scholarship Fund](https://cofc.academicworks.com/opportunities/12181) | Varies | 03/24/2026 |
 | [Beatrice Stiglitz Scholarship in French](https://cofc.academicworks.com/opportunities/10630) | Varies | 04/01/2026 |
 | [Catherine Wood Parker Memorial Scholarship](https://cofc.academicworks.com/opportunities/10714) | Varies | 04/01/2026 |
 | [Jon Morter Memorial Endowment in Anthropology](https://cofc.academicworks.com/opportunities/10697) | Varies | 04/01/2026 |
@@ -201,7 +200,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [FSU Black Alumni - In Honor of Maxwell Courtney](https://fsu.academicworks.com/opportunities/38526) | $1,000 | 03/24/2026 |
 | [College of Arts and Sciences Study Abroad Awards - Fall Semester Abroad](https://fsu.academicworks.com/opportunities/36132) | $4,000 | 03/27/2026 |
 | [Bernhard Scher Award Fund](https://fsu.academicworks.com/opportunities/37545) | Varies | 03/31/2026 |
 | [Bill and Nolia Brandt Scholarship](https://fsu.academicworks.com/opportunities/37546) | Varies | 03/31/2026 |
@@ -251,6 +249,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Alumni Association Legacy Scholarship Fund](https://fsu.academicworks.com/opportunities/37896) | Varies | 04/17/2026 |
 | [Bernard Michels Education Fund](https://fsu.academicworks.com/opportunities/38794) | Varies | 04/17/2026 |
 | [FSU Alumni Ambassadors Endowment Fund](https://fsu.academicworks.com/opportunities/38358) | Up to $5,000 | 04/17/2026 |
+| [Amy Rose Grabina Leadership Scholarship Endowment](https://fsu.academicworks.com/opportunities/36510) | Varies | 04/18/2026 |
 
 ## Fay Tech
 
@@ -306,13 +305,13 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Fayetteville Area Hospitality Association Scholarship](https://faytechcc.academicworks.com/opportunities/4569) | $1,000.00 | 03/31/2026 |
 | [Fayetteville Cumberland County National Organization for Women (N.O.W.) Scholarship](https://faytechcc.academicworks.com/opportunities/4610) | $1000.00 | 03/31/2026 |
 | [Fayetteville New Car Dealers Association Scholarship](https://faytechcc.academicworks.com/opportunities/4508) | Varies | 03/31/2026 |
+| [Colonel Frederick W. Best, Jr., USA & Chief Petty Officer Frederick W. Best, Sr., USN Scholarship](https://faytechcc.academicworks.com/opportunities/4378) | 1,500 | 03/31/2026 |
 
 ## Fay Tech-External
 
 | Name | Amount | Deadline |
 |------|--------|----------|
 | [Cumberland Community Foundation, Inc.](https://faytechcc.academicworks.com/opportunities/4558) | $0.00 | 03/31/2026 |
-| [Colonel Frederick W. Best, Jr., USA & Chief Petty Officer Frederick W. Best, Sr., USN Scholarship](https://faytechcc.academicworks.com/opportunities/4378) | 1,500 | N/A |
 | [2015 Janice Suggs Educational Scholarship Program](https://faytechcc.academicworks.com/opportunities/2105) | $2,000.00 | N/A |
 | [2015 Sam Perry Memorial Scholarship](https://faytechcc.academicworks.com/opportunities/2292) | $500.00 | N/A |
 | [Cape Fear Valley Health Nursing Student Scholarship](https://faytechcc.academicworks.com/opportunities/2357) | Varies | N/A |
@@ -476,8 +475,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Maria P.P. Root Scholarship Award in Critical Mixed Race Studies](https://sfsu.academicworks.com/opportunities/21961) | $1,000 | 03/24/2026 |
-| [Mark B. Kertz and Minnie Loo Scholarship in Asian American Studies](https://sfsu.academicworks.com/opportunities/21989) | Varies | 03/24/2026 |
 | [Meredith Morgan Eliassen Fellowship in Women Shaping California Communities](https://sfsu.academicworks.com/opportunities/21967) | $1,000.00 | 03/25/2026 |
 | [Anantha Sudhakar Memorial Scholarship - Graduate Award](https://sfsu.academicworks.com/opportunities/21985) | $1,250.00 | 03/25/2026 |
 | [Cecily Wagstaff Arellanes Memorial Scholarship](https://sfsu.academicworks.com/opportunities/22101) | $2500 | 03/29/2026 |
@@ -494,6 +491,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Kyria Hontalas Petuskey Memorial Scholarship Fund](https://sfsu.academicworks.com/opportunities/21938) | Amount up to $2000 | 03/30/2026 |
 | [Undergraduate Kinesiology Scholarship](https://sfsu.academicworks.com/opportunities/21345) | Amount up to $1000 | 03/30/2026 |
 | [William Harkness Kinesiology Major - Athlete Scholarship](https://sfsu.academicworks.com/opportunities/21899) | Amount up to $1000 | 03/30/2026 |
+| [Africana Studies Scholarship Fund](https://sfsu.academicworks.com/opportunities/21993) | Varies | 03/30/2026 |
 | [Agid Family Scholarship Endowment](https://sfsu.academicworks.com/opportunities/23295) | $700 | 03/31/2026 |
 | [Anna V. Dorris University Scholarship](https://sfsu.academicworks.com/opportunities/23435) | $287.15 | 03/31/2026 |
 | [Bear Family Endowed Scholarship](https://sfsu.academicworks.com/opportunities/22249) | $2,500 | 03/31/2026 |
@@ -526,6 +524,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [University Scholarship](https://sfsu.academicworks.com/opportunities/23441) | at least $2,000 | 03/31/2026 |
 | [Vincent Costantino Scholarship Endowment - University Scholarship](https://sfsu.academicworks.com/opportunities/23472) | $500.00 | 03/31/2026 |
 | [Wallace Fund for Diversity Scholarship](https://sfsu.academicworks.com/opportunities/23455) | $5,000 | 03/31/2026 |
+| [Yarnold Family Scholarship](https://sfsu.academicworks.com/opportunities/23388) | $5,000 | 03/31/2026 |
 
 ## SFSU-External
 
