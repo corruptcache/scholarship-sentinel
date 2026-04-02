@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-04-01 14:51:44 UTC
+Last updated: 2026-04-02 14:42:01 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -8,7 +8,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [WINGS](https://cpcc.academicworks.com/opportunities/11503) | Varies | 04/01/2026 |
 | [Ruth G. Shaw Scholarship](https://cpcc.academicworks.com/opportunities/11501) | Varies | 04/15/2026 |
 | [Opportunity Scholars Program](https://cpcc.academicworks.com/opportunities/11668) | Up to $10,000 over 2 years | 08/31/2026 |
 | [Wilton & Mary Parr Arts & Humanity Endowed Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11706) | Up to $10,000 over 2 years | 08/31/2026 |
@@ -16,9 +15,9 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Howard & Julie Levine Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11697) | Up to $10,000 over 2 years | 09/01/2026 |
 | [Hugh L. McColl Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11694) | Up to $10,000 over 2 years | 09/01/2026 |
 | [NUCOR Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11680) | Up to $10,000 over 2 years | 09/01/2026 |
+| [Aasha Scholarship](https://cpcc.academicworks.com/opportunities/11429) | Varies | 01/31/2027 |
 | [Merancas Technical Careers Scholarship](https://cpcc.academicworks.com/opportunities/11514) | Varies | 01/31/2027 |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11732) | Varies | 01/31/2027 |
-| [Aasha Scholarship](https://cpcc.academicworks.com/opportunities/11429) | Varies | 02/14/2027 |
 | [Alli & Aiden Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11646) | Varies | 02/14/2027 |
 | [American Schlafhorst Foundation Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11132) | Varies | 02/14/2027 |
 | [American Society of Highway Engineers Scholarship](https://cpcc.academicworks.com/opportunities/11584) | Varies | 02/14/2027 |
@@ -73,8 +72,8 @@ This page contains all currently live scholarships detected by the sentinel.
 | Name | Amount | Deadline |
 |------|--------|----------|
 | [Next NC Scholarships](https://cpcc.academicworks.com/opportunities/10134) | Varies | 06/30/2026 |
+| [Lift Up Carolinas (formerly Assistance League of Charlotte)](https://cpcc.academicworks.com/opportunities/11185) | Varies | 12/22/2026 |
 | [PCEA of America, Inc.](https://cpcc.academicworks.com/opportunities/11507) | Varies | 02/14/2027 |
-| [Assistance League of Charlotte](https://cpcc.academicworks.com/opportunities/11185) | Varies | 02/14/2027 |
 | [Automotive Aftermarket Scholarships](https://cpcc.academicworks.com/opportunities/11228) | Varies | 02/14/2027 |
 | [Garden Club of Weddington Scholarship](https://cpcc.academicworks.com/opportunities/11294) | Varies | 02/14/2027 |
 | [National Association of Women in Construction (NAWIC)](https://cpcc.academicworks.com/opportunities/11125) | Varies | 02/14/2027 |
@@ -88,11 +87,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Beatrice Stiglitz Scholarship in French](https://cofc.academicworks.com/opportunities/10630) | Varies | 04/01/2026 |
-| [Catherine Wood Parker Memorial Scholarship](https://cofc.academicworks.com/opportunities/10714) | Varies | 04/01/2026 |
-| [Jon Morter Memorial Endowment in Anthropology](https://cofc.academicworks.com/opportunities/10697) | Varies | 04/01/2026 |
-| [Winthrop Endowed History Study Abroad Scholarship](https://cofc.academicworks.com/opportunities/10944) | Varies | 04/01/2026 |
-| [International Scholars Program](https://cofc.academicworks.com/opportunities/10762) | Varies | 04/01/2026 |
 | [Anna B. Cox Scholarship](https://cofc.academicworks.com/opportunities/12892) | Varies | 04/05/2026 |
 | [Cain Family International Scholarship](https://cofc.academicworks.com/opportunities/12893) | Varies | 04/05/2026 |
 | [CIE Abroad Scholarship](https://cofc.academicworks.com/opportunities/12889) | Varies | 04/05/2026 |
@@ -105,6 +99,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Joe Milligan Australian Scholarship Endowed Fund](https://cofc.academicworks.com/opportunities/12896) | Varies | 04/05/2026 |
 | [John L. Covington, Jr. & Robert J. Lukey Endowed/Annual Scholarship for Study Abroad](https://cofc.academicworks.com/opportunities/12902) | Varies | 04/05/2026 |
 | [Kathleen Hudson Rivers Foreign Language Scholarship](https://cofc.academicworks.com/opportunities/12405) | Varies | 04/05/2026 |
+| [Beatrice Stiglitz Scholarship in French](https://cofc.academicworks.com/opportunities/12400) | Varies | 04/05/2026 |
 | [Preserving for the Future Scholarship](https://cofc.academicworks.com/opportunities/13081) | Varies | 04/10/2026 |
 | [College of Charleston Foundation Faculty/Staff Dependent Scholarships](https://cofc.academicworks.com/opportunities/12320) | Varies | 04/15/2026 |
 | [Giving Tree Scholarship](https://cofc.academicworks.com/opportunities/13104) | Varies | 05/01/2026 |
@@ -138,11 +133,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [The Doctor of Occupational Therapy Capstone Scholarship](https://ecu.academicworks.com/opportunities/35795) | Varies | 04/01/2026 |
-| [The Ebbs Graduate English Fellowship (R)](https://ecu.academicworks.com/opportunities/33979) | Varies | 04/01/2026 |
-| [The Harold C. Troxler Graduate Fellowship Fund](https://ecu.academicworks.com/opportunities/33213) | Varies | 04/01/2026 |
-| [The Regional Transformation Scholarship](https://ecu.academicworks.com/opportunities/33855) | Varies | 04/01/2026 |
-| [The Teri Smith Ferguson Scholarship Fund](https://ecu.academicworks.com/opportunities/35129) | $2,500 | 04/01/2026 |
 | [The Arthur Graduate School of Business Out-of-State Tuition Remission](https://ecu.academicworks.com/opportunities/35608) | $0.00 | 04/15/2026 |
 | [The College of Business Gold Graduate Scholarship](https://ecu.academicworks.com/opportunities/35313) | Varies | 04/30/2026 |
 | [The College of Business Pirate Graduate Scholarship](https://ecu.academicworks.com/opportunities/35311) | Varies | 04/30/2026 |
@@ -188,6 +178,11 @@ This page contains all currently live scholarships detected by the sentinel.
 | [The Sylvia T. Brown Endowed Scholarship](https://ecu.academicworks.com/opportunities/33960) | Varies | N/A |
 | [The Tom and Carol Irons Graduate Global Initiative Endowed Scholarship](https://ecu.academicworks.com/opportunities/33044) | Varies | N/A |
 | [The Tom and Denise Purinai Nursing Endowed Scholarship](https://ecu.academicworks.com/opportunities/35091) | Varies | N/A |
+| [The William Monroe Medic to Nurse Endowed Scholarship](https://ecu.academicworks.com/opportunities/35176) | Varies | N/A |
+| [The Betsy Markowski Interior Design Scholarship](https://ecu.academicworks.com/opportunities/1472) | Varies | N/A |
+| [The Mel Markowski MedFT Scholarship](https://ecu.academicworks.com/opportunities/1271) | Varies | N/A |
+| [The Captain Christopher Cash Memorial Scholarship (Non-Military)](https://ecu.academicworks.com/opportunities/3348) | $0.00 | N/A |
+| [The Daniel Gluckman Scholarship](https://ecu.academicworks.com/opportunities/3408) | $2,000 | N/A |
 
 ## ECU-External
 
@@ -477,28 +472,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Andrew Sanders Memorial Art Scholarship](https://sfsu.academicworks.com/opportunities/19902) | $1,000 | 04/01/2026 |
-| [Anthony F. Torrano Memorial Scholarship, The](https://sfsu.academicworks.com/opportunities/21629) | $1,000.00 | 04/01/2026 |
-| [Anthony F. Torrano Memorial Scholarship, The](https://sfsu.academicworks.com/opportunities/23246) | $1,000.00 | 04/01/2026 |
-| [BAARC Scholarship for Excellence in Bay Area Radio & Audio Media](https://sfsu.academicworks.com/opportunities/21184) | $1,000.00 | 04/01/2026 |
-| [BECA Department Scholarship](https://sfsu.academicworks.com/opportunities/22665) | $1,500.00 | 04/01/2026 |
-| [Beverly Johnson Memorial Scholarship](https://sfsu.academicworks.com/opportunities/22751) | $1,000.00 | 04/01/2026 |
-| [Christine Tamblyn Memorial Scholarship](https://sfsu.academicworks.com/opportunities/19910) | $1,000 | 04/01/2026 |
-| [Dave McElhatton Memorial Scholarship](https://sfsu.academicworks.com/opportunities/23334) | $1,500.00 | 04/01/2026 |
-| [David Pollock Scholarship for Television and Motion Picture Writing](https://sfsu.academicworks.com/opportunities/22802) | $1,500.00 | 04/01/2026 |
-| [Dr. Herbert Zettl Endowment Scholarship](https://sfsu.academicworks.com/opportunities/23249) | $2,500.00 | 04/01/2026 |
-| [Joseph De Francesco Award](https://sfsu.academicworks.com/opportunities/22422) | $2,000.00 | 04/01/2026 |
-| [Jules H. Strauss Memorial Scholarship in Photography](https://sfsu.academicworks.com/opportunities/19912) | $2,000 | 04/01/2026 |
-| [Leo D. Stillwell Jr.Scholarship](https://sfsu.academicworks.com/opportunities/19908) | up to $6,000 total | 04/01/2026 |
-| [Mark David Jones Scholarship](https://sfsu.academicworks.com/opportunities/22724) | $700.00 | 04/01/2026 |
-| [Marty Gonzalez Student Scholarship in News and Sports](https://sfsu.academicworks.com/opportunities/22226) | $1,000.00 | 04/01/2026 |
-| [Metro College Success Program Scholarship](https://sfsu.academicworks.com/opportunities/22488) | $1,000.00 | 04/01/2026 |
-| [Nancy Pelosi Scholarship Program for National Service, The](https://sfsu.academicworks.com/opportunities/22728) | varies | 04/01/2026 |
-| [Ronondo A. Johnson Memorial Scholarship](https://sfsu.academicworks.com/opportunities/22246) | $1,500.00 | 04/01/2026 |
-| [Sher-Right Scholarship in Art](https://sfsu.academicworks.com/opportunities/19904) | minimum of $8000 per year | 04/01/2026 |
-| [Steve Wilson Award](https://sfsu.academicworks.com/opportunities/20770) | $1,000 | 04/01/2026 |
-| [Stuart Hyde Scholarship & Internship](https://sfsu.academicworks.com/opportunities/22417) | $1,000.00 | 04/01/2026 |
-| [Valerie Bailey Memorial Scholarship](https://sfsu.academicworks.com/opportunities/22425) | $1,000.00 | 04/01/2026 |
 | [Africana Studies Scholarship Fund](https://sfsu.academicworks.com/opportunities/21993) | Varies | 04/03/2026 |
 | [Biology Graduate Scholarship](https://sfsu.academicworks.com/opportunities/23490) | Two @ $2,000.00 | 04/03/2026 |
 | [Frederick W. Kauer Grad Scholarship in Physiology](https://sfsu.academicworks.com/opportunities/22255) | One @ $1500.00 | 04/03/2026 |
@@ -527,6 +500,28 @@ This page contains all currently live scholarships detected by the sentinel.
 | [LCA Study Abroad Scholarship](https://sfsu.academicworks.com/opportunities/22524) | 1 awards, $2000 | 04/06/2026 |
 | [Marshall J. Miller Scholarship Fund](https://sfsu.academicworks.com/opportunities/22058) | Number of awards and amounts vary, up to $10,000 total (single award not to exceed $7000) | 04/06/2026 |
 | [Walter P. Riley Radical Change Scholarship](https://sfsu.academicworks.com/opportunities/23457) | $1000 | 04/06/2026 |
+| [Wilbur Eugene Smith Endowed Scholarship Fund](https://sfsu.academicworks.com/opportunities/22093) | Number of awards and amounts vary, up to $20,000 total (single award not to exceed $7,000). | 04/06/2026 |
+| [American Public Works Association Scholarship](https://sfsu.academicworks.com/opportunities/22643) | $2,500.00 | 04/08/2026 |
+| [ARCS Scholarship (Achievement Reward for College Scientists)](https://sfsu.academicworks.com/opportunities/22573) | 10 @ $12,750 | 04/08/2026 |
+| [Bill Plachy Endowed TA Award](https://sfsu.academicworks.com/opportunities/22626) | 1 Award @ $2000 | 04/08/2026 |
+| [BMC Scholarship](https://sfsu.academicworks.com/opportunities/22607) | 2 @$2000 | 04/08/2026 |
+| [Bridge Award](https://sfsu.academicworks.com/opportunities/22901) | $1,000 | 04/08/2026 |
+| [Bruce A. Rosenblatt CSL Scholarship](https://sfsu.academicworks.com/opportunities/22579) | Two @ $2522 | 04/08/2026 |
+| [C.Y. Chow Memorial Scholarship](https://sfsu.academicworks.com/opportunities/22270) | Two @ $1,700 each | 04/08/2026 |
+| [Charles Robbins Arnold Memorial Scholarship](https://sfsu.academicworks.com/opportunities/23254) | 1 Award @ $5,000 | 04/08/2026 |
+| [Chemistry Department Scholarship](https://sfsu.academicworks.com/opportunities/22175) | 2 Awards @ $2,500 each | 04/08/2026 |
+| [College of Science & Engineering Advisory Board Scholarships](https://sfsu.academicworks.com/opportunities/22344) | One @ $4000 | 04/08/2026 |
+| [College of Science and Engineering Scholarship](https://sfsu.academicworks.com/opportunities/22595) | One @ 5,000.00 | 04/08/2026 |
+| [Computer Science Scholarship](https://sfsu.academicworks.com/opportunities/23274) | Two @ $1,500 | 04/08/2026 |
+| [David and Lola Bjorkquist Scholarship for Undergraduate Chemistry and Biochemistry Majors](https://sfsu.academicworks.com/opportunities/22166) | 5 Awards @ $8,000 | 04/08/2026 |
+| [David Meredith and Friends Scholarship](https://sfsu.academicworks.com/opportunities/22342) | $1,500 | 04/08/2026 |
+| [Femineers Scholarship (Endowed)](https://sfsu.academicworks.com/opportunities/22759) | $1,500.00 | 04/08/2026 |
+| [Florence Haimes Scholarship for Undergraduate Chemistry and Biochemistry Majors](https://sfsu.academicworks.com/opportunities/22727) | 1 Award @ $2,500 | 04/08/2026 |
+| [Frank Sheehan Scholarship](https://sfsu.academicworks.com/opportunities/22297) | $2,000 | 04/08/2026 |
+| [Gary A. Lucchese Scholarship in Psychology](https://sfsu.academicworks.com/opportunities/22807) | two @ $1500 each | 04/08/2026 |
+| [Halmos Scholarship](https://sfsu.academicworks.com/opportunities/22903) | amount up to 1500 | 04/08/2026 |
+| [Hitachi Scholarship](https://sfsu.academicworks.com/opportunities/22760) | 4 awards @ $2,500.00 | 04/08/2026 |
+| [IEEE, EMC Scholarship](https://sfsu.academicworks.com/opportunities/22219) | varies | 04/08/2026 |
 
 ## SFSU-External
 
@@ -596,6 +591,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [ED PS School Psychology Scholarships 2026-2027](https://utah.academicworks.com/opportunities/44724) | Varies | 04/16/2026 |
 | [UAC Global Trailblazer Scholarship](https://utah.academicworks.com/opportunities/44983) | Varies | 04/26/2026 |
 | [UAC Interconnected Community Scholarship](https://utah.academicworks.com/opportunities/44987) | $1,500.00 | 04/26/2026 |
+| [UAC Inspire Scholarship](https://utah.academicworks.com/opportunities/44990) | Varies | 04/26/2026 |
 | [Ken Garff for Good Tech Scholarship](https://utah.academicworks.com/opportunities/44949) | $2,000.00 | 06/30/2026 |
 | [Science Research Initiative (SRI) Application](https://utah.academicworks.com/opportunities/44917) | Varies | 08/23/2026 |
 | [College of Science Graduate Student Emergency Scholarship](https://utah.academicworks.com/opportunities/42115) | Varies | N/A |
@@ -636,7 +632,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Hakon H. Haglund Financial Relief Fund](https://utah.academicworks.com/opportunities/26820) | Varies | N/A |
 | [Red Hanger Scholarship](https://utah.academicworks.com/opportunities/26237) | $1,500.00 | N/A |
 | [Dr. Kelly and Nate Bricker ‘Experience the World’ Scholarship](https://utah.academicworks.com/opportunities/25619) | $0.00 | N/A |
-| [Rosemarie Wintle Scholarship](https://utah.academicworks.com/opportunities/29138) | $9,500.00 | N/A |
 
 ## UTAH-External
 
@@ -654,8 +649,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [USC Alumni Association Legacy Scholarship](https://sc.academicworks.com/opportunities/11865) | $500 | 04/01/2026 |
-| [HRSM Future Leaders Scholarship](https://sc.academicworks.com/opportunities/12060) | Variable | 04/01/2026 |
 | [Donna Moss Scholarship Fund](https://sc.academicworks.com/opportunities/11156) | Varies | 04/15/2026 |
 | [Dr. & Mrs. George W. Dick - Nursing](https://sc.academicworks.com/opportunities/11286) | Varies | 04/15/2026 |
 | [Dr. Beaver's Nursing Excellence Scholarship Fund](https://sc.academicworks.com/opportunities/11284) | Varies | 04/15/2026 |
@@ -704,12 +697,13 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Jon P. Wardrip Scholarship](https://sc.academicworks.com/opportunities/11725) | Varies | 04/19/2026 |
 | [Joseph W. and Dorothy Shoquist Scholarship](https://sc.academicworks.com/opportunities/11714) | Varies | 04/19/2026 |
 | [Journalism - Miscellaneous Scholarship](https://sc.academicworks.com/opportunities/11687) | Varies | 04/19/2026 |
+| [Journalism Scholarship](https://sc.academicworks.com/opportunities/11636) | Varies | 04/19/2026 |
+| [Lee J. Dudek Broadcast Scholarship](https://sc.academicworks.com/opportunities/11831) | Varies | 04/19/2026 |
 
 ## VT
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Alexander L. Meszaros Student Leadership Award](https://vt.academicworks.com/opportunities/65654) | Varies | 04/01/2026 |
 | [Jim & Marilyn Pollard Scholarship in Business](https://vt.academicworks.com/opportunities/65518) | Varies | 04/03/2026 |
 | [Ralph & Betty Carlson Biotechnology Scholarship](https://vt.academicworks.com/opportunities/65618) | Varies | 04/13/2026 |
 | [CLAHS Internship Support Scholarship](https://vt.academicworks.com/opportunities/67914) | Varies | 04/15/2026 |
@@ -759,6 +753,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [K.T. & Jerry Archer Animal Protection Student Support Fund](https://vt.academicworks.com/opportunities/62174) | Varies | 06/01/2026 |
 | [Lee R. and Regina Aultice Steeneck Experiential Learning Scholarship](https://vt.academicworks.com/opportunities/67613) | Varies | 06/01/2026 |
 | [Leicester & Harriet Handsfield Scholarship](https://vt.academicworks.com/opportunities/62657) | Varies | 06/01/2026 |
+| [Marion A. and Annie W. Williams Fellowship](https://vt.academicworks.com/opportunities/60915) | Varies | 06/01/2026 |
 
 ## VT-External
 
@@ -770,7 +765,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Luther H. and Deborah R. Carrington Scholarship](https://waketech.academicworks.com/opportunities/6050) | $1,500.00 | 04/01/2026 |
 | [ABB Endowed Scholarship](https://waketech.academicworks.com/opportunities/5803) | $2,000.00 | 04/30/2026 |
 | [AFCOM North Carolina Chapter Scholarship](https://waketech.academicworks.com/opportunities/5873) | $1,000.00 | 04/30/2026 |
 | [Alicia Elliott Goodwill Industries of Eastern North Carolina](https://waketech.academicworks.com/opportunities/5782) | $2,500.00 | 04/30/2026 |
