@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-04-02 14:42:01 UTC
+Last updated: 2026-04-03 14:26:31 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -133,6 +133,7 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
+| [The Ebbs Graduate English Fellowship (R)](https://ecu.academicworks.com/opportunities/33979) | Varies | 04/05/2026 |
 | [The Arthur Graduate School of Business Out-of-State Tuition Remission](https://ecu.academicworks.com/opportunities/35608) | $0.00 | 04/15/2026 |
 | [The College of Business Gold Graduate Scholarship](https://ecu.academicworks.com/opportunities/35313) | Varies | 04/30/2026 |
 | [The College of Business Pirate Graduate Scholarship](https://ecu.academicworks.com/opportunities/35311) | Varies | 04/30/2026 |
@@ -182,7 +183,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [The Betsy Markowski Interior Design Scholarship](https://ecu.academicworks.com/opportunities/1472) | Varies | N/A |
 | [The Mel Markowski MedFT Scholarship](https://ecu.academicworks.com/opportunities/1271) | Varies | N/A |
 | [The Captain Christopher Cash Memorial Scholarship (Non-Military)](https://ecu.academicworks.com/opportunities/3348) | $0.00 | N/A |
-| [The Daniel Gluckman Scholarship](https://ecu.academicworks.com/opportunities/3408) | $2,000 | N/A |
 
 ## ECU-External
 
@@ -502,7 +502,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Walter P. Riley Radical Change Scholarship](https://sfsu.academicworks.com/opportunities/23457) | $1000 | 04/06/2026 |
 | [Wilbur Eugene Smith Endowed Scholarship Fund](https://sfsu.academicworks.com/opportunities/22093) | Number of awards and amounts vary, up to $20,000 total (single award not to exceed $7,000). | 04/06/2026 |
 | [American Public Works Association Scholarship](https://sfsu.academicworks.com/opportunities/22643) | $2,500.00 | 04/08/2026 |
-| [ARCS Scholarship (Achievement Reward for College Scientists)](https://sfsu.academicworks.com/opportunities/22573) | 10 @ $12,750 | 04/08/2026 |
+| [ARCS Scholarship (Achievement Reward for College Scientists)](https://sfsu.academicworks.com/opportunities/22573) | 10 @ $14,000 each | 04/08/2026 |
 | [Bill Plachy Endowed TA Award](https://sfsu.academicworks.com/opportunities/22626) | 1 Award @ $2000 | 04/08/2026 |
 | [BMC Scholarship](https://sfsu.academicworks.com/opportunities/22607) | 2 @$2000 | 04/08/2026 |
 | [Bridge Award](https://sfsu.academicworks.com/opportunities/22901) | $1,000 | 04/08/2026 |
@@ -517,7 +517,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [David Meredith and Friends Scholarship](https://sfsu.academicworks.com/opportunities/22342) | $1,500 | 04/08/2026 |
 | [Femineers Scholarship (Endowed)](https://sfsu.academicworks.com/opportunities/22759) | $1,500.00 | 04/08/2026 |
 | [Florence Haimes Scholarship for Undergraduate Chemistry and Biochemistry Majors](https://sfsu.academicworks.com/opportunities/22727) | 1 Award @ $2,500 | 04/08/2026 |
-| [Frank Sheehan Scholarship](https://sfsu.academicworks.com/opportunities/22297) | $2,000 | 04/08/2026 |
+| [Frank Sheehan Scholarship](https://sfsu.academicworks.com/opportunities/22297) | Two @ $3,000 each | 04/08/2026 |
 | [Gary A. Lucchese Scholarship in Psychology](https://sfsu.academicworks.com/opportunities/22807) | two @ $1500 each | 04/08/2026 |
 | [Halmos Scholarship](https://sfsu.academicworks.com/opportunities/22903) | amount up to 1500 | 04/08/2026 |
 | [Hitachi Scholarship](https://sfsu.academicworks.com/opportunities/22760) | 4 awards @ $2,500.00 | 04/08/2026 |
