@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-04-06 14:33:16 UTC
+Last updated: 2026-04-07 14:54:52 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -187,7 +187,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Peterson Distinguished Economics Major Scholarship Fund](https://fsu.academicworks.com/opportunities/39455) | Varies | 04/06/2026 |
 | [Reva Daniels Metzinger Endowed Scholarships in Economics](https://fsu.academicworks.com/opportunities/40285) | Varies | 04/07/2026 |
 | [Antoine Spacagna/Winthrop-King Presidential Scholarship](https://fsu.academicworks.com/opportunities/38894) | Varies | 04/10/2026 |
 | [Juris Master General Scholarships](https://fsu.academicworks.com/opportunities/39987) | Varies | 04/10/2026 |
@@ -237,6 +236,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Florence Hecht, Isabelle and Neal Amdur and Barbara and Fred Havenick and the Naples-Fort Meyers Greyhound Track Endowed Scholarship Fund](https://fsu.academicworks.com/opportunities/37272) | Varies | 05/31/2026 |
 | [Frederick C. and Marjorie A. Doepke Scholarship Fund - Fall Application](https://fsu.academicworks.com/opportunities/39869) | Varies | 05/31/2026 |
 | [Frueauff Scholarship Endowment Fund - Fall Application](https://fsu.academicworks.com/opportunities/39872) | Varies | 05/31/2026 |
+| [Gertrude E. Skelly Emergency Fund for Nursing Students - Fall Application](https://fsu.academicworks.com/opportunities/39903) | Varies | 05/31/2026 |
 
 ## Fay Tech
 
@@ -461,20 +461,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Carol Channing Creative Arts Scholarship](https://sfsu.academicworks.com/opportunities/22046) | $500 | 04/06/2026 |
-| [Carolyn Irene Howard Memorial Scholarship](https://sfsu.academicworks.com/opportunities/22077) | $1000 | 04/06/2026 |
-| [College of Liberal & Creative Arts Award](https://sfsu.academicworks.com/opportunities/22075) | Number of awards and amounts vary, up to $6,000 total | 04/06/2026 |
-| [Edward B. Kaufmann College of Liberal & Creative Arts Scholarship](https://sfsu.academicworks.com/opportunities/22054) | Number of awards and amounts vary, up to $28,000 total (single award not to exceed $7,000) | 04/06/2026 |
-| [Edward M. Nagel CLCA Endowed Scholarship](https://sfsu.academicworks.com/opportunities/22079) | Number of awards and amounts vary, up to $20,000 total (single award not to exceed $7,000) | 04/06/2026 |
-| [Evans, Hsu, Kauffman Scholarship, The](https://sfsu.academicworks.com/opportunities/22056) | Number of awards and amounts vary, up to $3,000 total | 04/06/2026 |
-| [Jerold Rosenberg Family Scholarship, The](https://sfsu.academicworks.com/opportunities/23117) | The number of awards varies (approximately $7,600 per year), potential for renewal up to three years | 04/06/2026 |
-| [John Bauer Scholarship](https://sfsu.academicworks.com/opportunities/22081) | One award of $1000 | 04/06/2026 |
-| [Judith Anne Ott Scholarship](https://sfsu.academicworks.com/opportunities/22083) | Number of awards and amounts vary, up to $10,000 total (single award not to exceed $7,000) | 04/06/2026 |
-| [Kyriakos Karababas Memorial Scholarship, The](https://sfsu.academicworks.com/opportunities/22085) | Number of awards and amounts vary, up to $2000 total | 04/06/2026 |
-| [LCA Study Abroad Scholarship](https://sfsu.academicworks.com/opportunities/22524) | 1 awards, $2000 | 04/06/2026 |
-| [Marshall J. Miller Scholarship Fund](https://sfsu.academicworks.com/opportunities/22058) | Number of awards and amounts vary, up to $10,000 total (single award not to exceed $7000) | 04/06/2026 |
-| [Walter P. Riley Radical Change Scholarship](https://sfsu.academicworks.com/opportunities/23457) | $1000 | 04/06/2026 |
-| [Wilbur Eugene Smith Endowed Scholarship Fund](https://sfsu.academicworks.com/opportunities/22093) | Number of awards and amounts vary, up to $20,000 total (single award not to exceed $7,000). | 04/06/2026 |
 | [American Public Works Association Scholarship](https://sfsu.academicworks.com/opportunities/22643) | $2,500.00 | 04/08/2026 |
 | [ARCS Scholarship (Achievement Reward for College Scientists)](https://sfsu.academicworks.com/opportunities/22573) | 10 @ $14,000 each | 04/08/2026 |
 | [Bill Plachy Endowed TA Award](https://sfsu.academicworks.com/opportunities/22626) | 1 Award @ $2000 | 04/08/2026 |
@@ -511,6 +497,20 @@ This page contains all currently live scholarships detected by the sentinel.
 | [MESA University Program Scholarship](https://sfsu.academicworks.com/opportunities/22216) | 5 awards @ $1,000 | 04/08/2026 |
 | [Michael and Greta McKinney Chemistry & Biochemistry Scholarship](https://sfsu.academicworks.com/opportunities/22176) | 3 Award @ $6,000 | 04/08/2026 |
 | [Michael Sugarman Scholarship](https://sfsu.academicworks.com/opportunities/22758) | 2 @ $1,500.00 each | 04/08/2026 |
+| [Milowski Scholarship](https://sfsu.academicworks.com/opportunities/22848) | varies | 04/08/2026 |
+| [Pamela Fong Scholarship in Mathematics](https://sfsu.academicworks.com/opportunities/23280) | 2 awards @ $2,500 each | 04/08/2026 |
+| [Peter John Filanc Leadership Scholarship](https://sfsu.academicworks.com/opportunities/22337) | $1,250.00 | 04/08/2026 |
+| [Prof. Morris R. Lewenstein Memorial Scholarship](https://sfsu.academicworks.com/opportunities/22768) | $2,500.00 | 04/08/2026 |
+| [Robert William Maxwell Scholarship](https://sfsu.academicworks.com/opportunities/22973) | Four awards @ $4,000.00 each | 04/08/2026 |
+| [SF Resident](https://sfsu.academicworks.com/opportunities/22465) | One @ $2000 | 04/08/2026 |
+| [SITA Scholarship](https://sfsu.academicworks.com/opportunities/22273) | $1,000.00 | 04/08/2026 |
+| [Women in Science and Engineering WISE Scholarship](https://sfsu.academicworks.com/opportunities/22350) | Two @ $2,500 | 04/08/2026 |
+| [Working Student Scholarship](https://sfsu.academicworks.com/opportunities/22441) | One @ $1,250 | 04/08/2026 |
+| [Aaron M. Goldsmith Scholarship Fund](https://sfsu.academicworks.com/opportunities/22420) | up to $400 | 04/10/2026 |
+| [David E. Johnson Memorial Scholarship](https://sfsu.academicworks.com/opportunities/22354) | 1 award, $2000 | 04/10/2026 |
+| [David Jenkins Scholarship](https://sfsu.academicworks.com/opportunities/22336) | varies | 04/10/2026 |
+| [Franco Family Accounting Scholarship](https://sfsu.academicworks.com/opportunities/23561) | Up to $5,000 ($2,500 in Fall 2026 and $2,500 in Spring 2027) | 04/10/2026 |
+| [Franco Family Accounting Scholarship](https://sfsu.academicworks.com/opportunities/22702) | Up to $5,000 ($2,500 in Fall 2026 and $2,500 in Spring 2027) | 04/10/2026 |
 
 ## SFSU-External
 
@@ -571,7 +571,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [The David H. Perrin Athletic Training Scholarship / The Athletic Training Program Scholarship](https://utah.academicworks.com/opportunities/44981) | $1,250 / $1,000 | 04/06/2026 |
 | [Master of Public Administration Scholarships](https://utah.academicworks.com/opportunities/44921) | Varies | 04/07/2026 |
 | [MIAGE Fellowship Application](https://utah.academicworks.com/opportunities/44923) | Varies | 04/07/2026 |
 | [MPP Fellowship Application](https://utah.academicworks.com/opportunities/44919) | Varies | 04/07/2026 |
@@ -621,6 +620,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Red Hanger Scholarship](https://utah.academicworks.com/opportunities/26237) | $1,500.00 | N/A |
 | [Dr. Kelly and Nate Bricker ‘Experience the World’ Scholarship](https://utah.academicworks.com/opportunities/25619) | $0.00 | N/A |
 | [Rosemarie Wintle Scholarship](https://utah.academicworks.com/opportunities/29138) | $9,500.00 | N/A |
+| [Jay W. and Sharlene B. Glasmann Family  Endowed Graduate Fellowship](https://utah.academicworks.com/opportunities/26386) | Variable | N/A |
 
 ## UTAH-External
 
