@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-04-07 14:54:52 UTC
+Last updated: 2026-04-08 14:56:02 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -156,7 +156,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [The Raabs' Nurses Endowed Scholarship](https://ecu.academicworks.com/opportunities/32899) | Varies | N/A |
 | [The Robert K. Hunter Family Endowed Scholarship](https://ecu.academicworks.com/opportunities/33771) | Varies | N/A |
 | [The Rocky Mount - Nash County Scholarship](https://ecu.academicworks.com/opportunities/34119) | Varies | N/A |
-| [The Russell and Linda Fleming Endowed Scholarship](https://ecu.academicworks.com/opportunities/33789) | Varies | N/A |
 | [The Sandra George Robinson '92 Combat Veterans Endowed Scholarship](https://ecu.academicworks.com/opportunities/33162) | Varies | N/A |
 | [The Security Studies Study Abroad Scholarship (P)](https://ecu.academicworks.com/opportunities/33818) | $2,000 | N/A |
 | [The Sgt. Maj. John Lossie (USMC) RN-BSN Endowed Nursing Scholarship](https://ecu.academicworks.com/opportunities/32932) | Varies | N/A |
@@ -172,6 +171,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [The Mel Markowski MedFT Scholarship](https://ecu.academicworks.com/opportunities/1271) | Varies | N/A |
 | [The Captain Christopher Cash Memorial Scholarship (Non-Military)](https://ecu.academicworks.com/opportunities/3348) | $0.00 | N/A |
 | [The Daniel Gluckman Scholarship](https://ecu.academicworks.com/opportunities/3408) | $2,000 | N/A |
+| [The Accounting Book Scholarship](https://ecu.academicworks.com/opportunities/4870) | $350 | N/A |
 
 ## ECU-External
 
@@ -187,7 +187,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Reva Daniels Metzinger Endowed Scholarships in Economics](https://fsu.academicworks.com/opportunities/40285) | Varies | 04/07/2026 |
 | [Antoine Spacagna/Winthrop-King Presidential Scholarship](https://fsu.academicworks.com/opportunities/38894) | Varies | 04/10/2026 |
 | [Juris Master General Scholarships](https://fsu.academicworks.com/opportunities/39987) | Varies | 04/10/2026 |
 | [Art Education General Development](https://fsu.academicworks.com/opportunities/39697) | Varies | 04/15/2026 |
@@ -237,6 +236,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Frederick C. and Marjorie A. Doepke Scholarship Fund - Fall Application](https://fsu.academicworks.com/opportunities/39869) | Varies | 05/31/2026 |
 | [Frueauff Scholarship Endowment Fund - Fall Application](https://fsu.academicworks.com/opportunities/39872) | Varies | 05/31/2026 |
 | [Gertrude E. Skelly Emergency Fund for Nursing Students - Fall Application](https://fsu.academicworks.com/opportunities/39903) | Varies | 05/31/2026 |
+| [Greta Mason College of Nursing Endowed Scholarship Fund - Fall Application](https://fsu.academicworks.com/opportunities/39851) | Varies | 05/31/2026 |
 
 ## Fay Tech
 
@@ -571,9 +571,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Master of Public Administration Scholarships](https://utah.academicworks.com/opportunities/44921) | Varies | 04/07/2026 |
-| [MIAGE Fellowship Application](https://utah.academicworks.com/opportunities/44923) | Varies | 04/07/2026 |
-| [MPP Fellowship Application](https://utah.academicworks.com/opportunities/44919) | Varies | 04/07/2026 |
 | [ED PS School Psychology Faculty Scholarships 2026-2027](https://utah.academicworks.com/opportunities/44727) | Varies | 04/16/2026 |
 | [ED PS School Psychology Scholarships 2026-2027](https://utah.academicworks.com/opportunities/44724) | Varies | 04/16/2026 |
 | [UAC Global Trailblazer Scholarship](https://utah.academicworks.com/opportunities/44983) | Varies | 04/26/2026 |
@@ -621,6 +618,10 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Dr. Kelly and Nate Bricker ‘Experience the World’ Scholarship](https://utah.academicworks.com/opportunities/25619) | $0.00 | N/A |
 | [Rosemarie Wintle Scholarship](https://utah.academicworks.com/opportunities/29138) | $9,500.00 | N/A |
 | [Jay W. and Sharlene B. Glasmann Family  Endowed Graduate Fellowship](https://utah.academicworks.com/opportunities/26386) | Variable | N/A |
+| [Simin S. Mostofi Memorial Scholarship](https://utah.academicworks.com/opportunities/26195) | $1,500 | N/A |
+| [Alumni Association and Veterans Support Center Scholarship for Service Member Persistence](https://utah.academicworks.com/opportunities/29337) | $1,000 - $2,000 | N/A |
+| [Alumni Association and Veterans Support Center Scholarship for U Vet Parents](https://utah.academicworks.com/opportunities/29340) | $1,500 - $2,000 | N/A |
+| [Alumni Association and Veterans Support Center Scholarship for Undergraduate Student Veteran Volunteerism or Engagement](https://utah.academicworks.com/opportunities/29346) | $2,000 | N/A |
 
 ## UTAH-External
 
