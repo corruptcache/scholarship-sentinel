@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-04-08 14:56:02 UTC
+Last updated: 2026-04-09 15:08:56 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -126,6 +126,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [The College of Business Gold Graduate Scholarship](https://ecu.academicworks.com/opportunities/35313) | Varies | 04/30/2026 |
 | [The College of Business Pirate Graduate Scholarship](https://ecu.academicworks.com/opportunities/35311) | Varies | 04/30/2026 |
 | [The College of Business Purple Graduate Scholarship](https://ecu.academicworks.com/opportunities/35309) | Varies | 04/30/2026 |
+| [The North Carolina GlaxoSmithKline Foundation Scholarship for Health-Related Graduate Education](https://ecu.academicworks.com/opportunities/33961) | $5,000 | 04/30/2026 |
 | [The College of Business Study Abroad Scholarship](https://ecu.academicworks.com/opportunities/35210) | Varies | 05/15/2026 |
 | [The ROTC Recruitment Scholarship Fund](https://ecu.academicworks.com/opportunities/33070) | Varies | 05/31/2026 |
 | [The W. R. Valentine Endowed Scholarship](https://ecu.academicworks.com/opportunities/35667) | Varies | 06/15/2026 |
@@ -149,7 +150,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [The Mary A. Johnson Endowed Scholarship](https://ecu.academicworks.com/opportunities/33779) | Varies | N/A |
 | [The Mary Lou Schulz Fisher Memorial Endowed Scholarship](https://ecu.academicworks.com/opportunities/33140) | Varies | N/A |
 | [The Nicole and "Izzy" King Endowed Scholarship](https://ecu.academicworks.com/opportunities/33103) | Varies | N/A |
-| [The North Carolina GlaxoSmithKline Foundation Scholarship for Health-Related Graduate Education](https://ecu.academicworks.com/opportunities/33961) | $5,000 | N/A |
 | [The Paul and Margaret Gemperline Scholarship Endowment for International Graduate Students](https://ecu.academicworks.com/opportunities/35008) | Varies | N/A |
 | [The Phi Eta Sigma Scholarship](https://ecu.academicworks.com/opportunities/34818) | Varies | N/A |
 | [The Public Health Alumni Scholarship](https://ecu.academicworks.com/opportunities/34408) | Varies | N/A |
@@ -461,56 +461,56 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [American Public Works Association Scholarship](https://sfsu.academicworks.com/opportunities/22643) | $2,500.00 | 04/08/2026 |
-| [ARCS Scholarship (Achievement Reward for College Scientists)](https://sfsu.academicworks.com/opportunities/22573) | 10 @ $14,000 each | 04/08/2026 |
-| [Bill Plachy Endowed TA Award](https://sfsu.academicworks.com/opportunities/22626) | 1 Award @ $2000 | 04/08/2026 |
-| [BMC Scholarship](https://sfsu.academicworks.com/opportunities/22607) | 2 @$2000 | 04/08/2026 |
-| [Bridge Award](https://sfsu.academicworks.com/opportunities/22901) | $1,000 | 04/08/2026 |
-| [Bruce A. Rosenblatt CSL Scholarship](https://sfsu.academicworks.com/opportunities/22579) | Two @ $2522 | 04/08/2026 |
-| [C.Y. Chow Memorial Scholarship](https://sfsu.academicworks.com/opportunities/22270) | Two @ $1,700 each | 04/08/2026 |
-| [Charles Robbins Arnold Memorial Scholarship](https://sfsu.academicworks.com/opportunities/23254) | 1 Award @ $5,000 | 04/08/2026 |
-| [Chemistry Department Scholarship](https://sfsu.academicworks.com/opportunities/22175) | 2 Awards @ $2,500 each | 04/08/2026 |
-| [College of Science & Engineering Advisory Board Scholarships](https://sfsu.academicworks.com/opportunities/22344) | One @ $4000 | 04/08/2026 |
-| [College of Science and Engineering Scholarship](https://sfsu.academicworks.com/opportunities/22595) | One @ 5,000.00 | 04/08/2026 |
-| [Computer Science Scholarship](https://sfsu.academicworks.com/opportunities/23274) | Two @ $1,500 | 04/08/2026 |
-| [David and Lola Bjorkquist Scholarship for Undergraduate Chemistry and Biochemistry Majors](https://sfsu.academicworks.com/opportunities/22166) | 5 Awards @ $8,000 | 04/08/2026 |
-| [David Meredith and Friends Scholarship](https://sfsu.academicworks.com/opportunities/22342) | $1,500 | 04/08/2026 |
-| [Femineers Scholarship (Endowed)](https://sfsu.academicworks.com/opportunities/22759) | $1,500.00 | 04/08/2026 |
-| [Florence Haimes Scholarship for Undergraduate Chemistry and Biochemistry Majors](https://sfsu.academicworks.com/opportunities/22727) | 1 Award @ $2,500 | 04/08/2026 |
-| [Frank Sheehan Scholarship](https://sfsu.academicworks.com/opportunities/22297) | Two @ $3,000 each | 04/08/2026 |
-| [Gary A. Lucchese Scholarship in Psychology](https://sfsu.academicworks.com/opportunities/22807) | two @ $1500 each | 04/08/2026 |
-| [Halmos Scholarship](https://sfsu.academicworks.com/opportunities/22903) | amount up to 1500 | 04/08/2026 |
-| [Hitachi Scholarship](https://sfsu.academicworks.com/opportunities/22760) | 4 awards @ $2,500.00 | 04/08/2026 |
-| [IEEE, EMC Scholarship](https://sfsu.academicworks.com/opportunities/22219) | varies | 04/08/2026 |
-| [IEEE-Marxheimer Scholarship in Engineering](https://sfsu.academicworks.com/opportunities/22836) | 2@ $1,500.00 each | 04/08/2026 |
-| [Irvin W. and Velma C. Hartman Family Schol - Psych](https://sfsu.academicworks.com/opportunities/22747) | 2 @ $3,000 each | 04/08/2026 |
-| [ISA Leon Weinberg Memorial Scholarship](https://sfsu.academicworks.com/opportunities/22589) | $2,000.00 | 04/08/2026 |
-| [James C. Kelley Scholarship](https://sfsu.academicworks.com/opportunities/22486) | One @ $1,500 | 04/08/2026 |
-| [Jessie F. L. York Scholarship Fund](https://sfsu.academicworks.com/opportunities/22256) | 2,200 | 04/08/2026 |
-| [Jules H. Strauss Computer Science Scholarship](https://sfsu.academicworks.com/opportunities/22898) | $2,000 | 04/08/2026 |
-| [Kenneth Fong Scholarship in Biology](https://sfsu.academicworks.com/opportunities/22327) | 2 awards @ $2,500 each | 04/08/2026 |
-| [Krishnan Scholarship in Engineering, The](https://sfsu.academicworks.com/opportunities/23040) | 3 @ $5,000.00 each | 04/08/2026 |
-| [L.A. Chang Memorial Mathematics Scholarship](https://sfsu.academicworks.com/opportunities/22341) | 3,000 | 04/08/2026 |
-| [Luigi & Luigia Franco Scholarship](https://sfsu.academicworks.com/opportunities/22314) | $2,000.00 | 04/08/2026 |
-| [Luther Family Scholarship](https://sfsu.academicworks.com/opportunities/22460) | $2000 | 04/08/2026 |
-| [Math Matters Scholarship Fund](https://sfsu.academicworks.com/opportunities/22500) | One @ $1500 | 04/08/2026 |
-| [MESA University Program Scholarship](https://sfsu.academicworks.com/opportunities/22216) | 5 awards @ $1,000 | 04/08/2026 |
-| [Michael and Greta McKinney Chemistry & Biochemistry Scholarship](https://sfsu.academicworks.com/opportunities/22176) | 3 Award @ $6,000 | 04/08/2026 |
-| [Michael Sugarman Scholarship](https://sfsu.academicworks.com/opportunities/22758) | 2 @ $1,500.00 each | 04/08/2026 |
-| [Milowski Scholarship](https://sfsu.academicworks.com/opportunities/22848) | varies | 04/08/2026 |
-| [Pamela Fong Scholarship in Mathematics](https://sfsu.academicworks.com/opportunities/23280) | 2 awards @ $2,500 each | 04/08/2026 |
-| [Peter John Filanc Leadership Scholarship](https://sfsu.academicworks.com/opportunities/22337) | $1,250.00 | 04/08/2026 |
-| [Prof. Morris R. Lewenstein Memorial Scholarship](https://sfsu.academicworks.com/opportunities/22768) | $2,500.00 | 04/08/2026 |
-| [Robert William Maxwell Scholarship](https://sfsu.academicworks.com/opportunities/22973) | Four awards @ $4,000.00 each | 04/08/2026 |
-| [SF Resident](https://sfsu.academicworks.com/opportunities/22465) | One @ $2000 | 04/08/2026 |
-| [SITA Scholarship](https://sfsu.academicworks.com/opportunities/22273) | $1,000.00 | 04/08/2026 |
-| [Women in Science and Engineering WISE Scholarship](https://sfsu.academicworks.com/opportunities/22350) | Two @ $2,500 | 04/08/2026 |
-| [Working Student Scholarship](https://sfsu.academicworks.com/opportunities/22441) | One @ $1,250 | 04/08/2026 |
 | [Aaron M. Goldsmith Scholarship Fund](https://sfsu.academicworks.com/opportunities/22420) | up to $400 | 04/10/2026 |
 | [David E. Johnson Memorial Scholarship](https://sfsu.academicworks.com/opportunities/22354) | 1 award, $2000 | 04/10/2026 |
 | [David Jenkins Scholarship](https://sfsu.academicworks.com/opportunities/22336) | varies | 04/10/2026 |
 | [Franco Family Accounting Scholarship](https://sfsu.academicworks.com/opportunities/23561) | Up to $5,000 ($2,500 in Fall 2026 and $2,500 in Spring 2027) | 04/10/2026 |
 | [Franco Family Accounting Scholarship](https://sfsu.academicworks.com/opportunities/22702) | Up to $5,000 ($2,500 in Fall 2026 and $2,500 in Spring 2027) | 04/10/2026 |
+| [George Feliz Memorial Scholarship in Environmental Studies](https://sfsu.academicworks.com/opportunities/22834) | 2 awards, $2200 each | 04/10/2026 |
+| [John Randolph and Dora Haynes Fellowship Award](https://sfsu.academicworks.com/opportunities/22371) | varies | 04/10/2026 |
+| [Jon S Galehouse Endowed Scholarship in Earth Sciences](https://sfsu.academicworks.com/opportunities/22359) | 1 award, $9400 | 04/10/2026 |
+| [Julie Ann Dalton Memorial Scholarship in Psychology](https://sfsu.academicworks.com/opportunities/23493) | 10 x $5,000 | 04/10/2026 |
+| [Louis Wasserman Award](https://sfsu.academicworks.com/opportunities/22815) | varies | 04/10/2026 |
+| [Matt Stolz Award for Political Theory, The](https://sfsu.academicworks.com/opportunities/22364) | varies | 04/10/2026 |
+| [Matthew F. Stolz Scholarship in Political Theory](https://sfsu.academicworks.com/opportunities/22649) | varies | 04/10/2026 |
+| [Max Kirkeberg Endowed Scholarship](https://sfsu.academicworks.com/opportunities/23253) | 1 award, $2000 | 04/10/2026 |
+| [Myrtle Escort White Scholarship](https://sfsu.academicworks.com/opportunities/22653) | varies, 4 awards, $1000 each | 04/10/2026 |
+| [Professor Emeritus Dave Dempsey and Rebecca Douglass Scholarship in Earth and Climate Sciences, The](https://sfsu.academicworks.com/opportunities/22298) | 1-2 awards, $5,000-$10,000, Split over Fall and Spring semesters | 04/10/2026 |
+| [R. Christopher McGee Endowed Scholarship in Geography and Environment](https://sfsu.academicworks.com/opportunities/22332) | 1 award, $2500 | 04/10/2026 |
+| [Russell G. Worden Memorial Scholarship in Political Science](https://sfsu.academicworks.com/opportunities/22391) | varies | 04/10/2026 |
+| [Toni K Weingarten Youth in Theatre Scholarship](https://sfsu.academicworks.com/opportunities/22066) | up to $23,100 | 04/13/2026 |
+| [Academic Excellence Scholarship for San Francisco State Scholars Program in Accounting](https://sfsu.academicworks.com/opportunities/22683) | $1,000.00 | 04/15/2026 |
+| [Alexander Kauffman Memorial Endowed Scholarship](https://sfsu.academicworks.com/opportunities/22926) | 2,000 | 04/15/2026 |
+| [Ann Fields Award, The](https://sfsu.academicworks.com/opportunities/22964) | $100.00 | 04/15/2026 |
+| [Bob Brown Memorial Scholarship For Journalists](https://sfsu.academicworks.com/opportunities/22124) | $1,000 | 04/15/2026 |
+| [Frank McCulloch Investigative Reporting](https://sfsu.academicworks.com/opportunities/22128) | $3,000 | 04/15/2026 |
+| [Greg Robinson Memorial Photojournalism Scholarship](https://sfsu.academicworks.com/opportunities/22130) | Full-time tuition for fall semester | 04/15/2026 |
+| [Greg Robinson Photojournalism Supplies Fund](https://sfsu.academicworks.com/opportunities/22134) | varies | 04/15/2026 |
+| [History Department Graduate Fellowship](https://sfsu.academicworks.com/opportunities/23599) | varies | 04/15/2026 |
+| [Jason Lloren Memorial Scholarship](https://sfsu.academicworks.com/opportunities/22136) | $2,000 | 04/15/2026 |
+| [John, James and Douglas Fang Scholarship](https://sfsu.academicworks.com/opportunities/22138) | $2,500 | 04/15/2026 |
+| [Kyle Campbell Whitham McLeod Scholarship in Afro-latina/o/x & Latin American History](https://sfsu.academicworks.com/opportunities/22773) | Two awards of $2500 each will be available for Fall 2026 | 04/15/2026 |
+| [Lily B. Ponce de Leon Endowed Scholarship in History](https://sfsu.academicworks.com/opportunities/23613) | varies | 04/15/2026 |
+| [Marsha Lee & Norman M. Berkman Endowed Scholarship in Creative Writing](https://sfsu.academicworks.com/opportunities/23270) | $1,000.00 | 04/15/2026 |
+| [Meredith Morgan Eliassen Fellowship in Women Shaping California Communities](https://sfsu.academicworks.com/opportunities/21967) | $1,000.00 | 04/15/2026 |
+| [Otto J. Bos Memorial Scholarship](https://sfsu.academicworks.com/opportunities/22140) | Amount equivalent to full-time or half-time tuition for fall 2025 depending on the number of units in which the recipient is enrolled. | 04/15/2026 |
+| [Richard Cushing Endowed Scholarship in Journalism at SFSU](https://sfsu.academicworks.com/opportunities/22142) | $2,000 | 04/15/2026 |
+| [Stacey Doukas Memorial Photojournalism Scholarship](https://sfsu.academicworks.com/opportunities/22144) | $2500 | 04/15/2026 |
+| [Torri Minton Scholarships for Aspiring Journalists](https://sfsu.academicworks.com/opportunities/22146) | $2,500 | 04/15/2026 |
+| [Edward Said Scholarship](https://sfsu.academicworks.com/opportunities/21951) | up to $1000 | 04/17/2026 |
+| [Michael & Julie Whitcomb Endowed Scholarship in History](https://sfsu.academicworks.com/opportunities/23605) | $1,000.00 | 04/17/2026 |
+| [Robert E. Collins Endowed Scholarships](https://sfsu.academicworks.com/opportunities/22062) | $2,000.00 | 04/20/2026 |
+| [Linda Mazursky Kurtz & Frank Kurtz Scholarship in memory of Bernard Mazursky](https://sfsu.academicworks.com/opportunities/23608) | $1,000.00 | 04/23/2026 |
+| [Antoinette Finke Forgivable Loan](https://sfsu.academicworks.com/opportunities/23404) | $1,000.00 | 04/24/2026 |
+| [Chinese Program Scholarship, The](https://sfsu.academicworks.com/opportunities/22429) | $500.00 | 04/24/2026 |
+| [Dr. Anita E. Antler Scholarship for Graduate and Undergraduate Students in the German Program](https://sfsu.academicworks.com/opportunities/22594) | 1,000.00 | 04/24/2026 |
+| [French Program Scholarship](https://sfsu.academicworks.com/opportunities/23299) | $600 | 04/24/2026 |
+| [Mark B. Kertz Scholarship Endowment in Chinese Area Studies](https://sfsu.academicworks.com/opportunities/22306) | $500.00 | 04/24/2026 |
+| [Pietro Iaccarino Memorial Scholarship](https://sfsu.academicworks.com/opportunities/22645) | $500.00 | 04/24/2026 |
+| [Robert L. Liu Family Endowment:French Language and Culture Proficiency Award](https://sfsu.academicworks.com/opportunities/23275) | $750.00 | 04/24/2026 |
+| [Tillie Olsen Prize - Creative Writing/Women Gender](https://sfsu.academicworks.com/opportunities/22227) | $500 | 04/24/2026 |
+| [Barbara Hammer Award](https://sfsu.academicworks.com/opportunities/23200) | Varies | 04/25/2026 |
+| [Bill Nichols Scholarship](https://sfsu.academicworks.com/opportunities/22351) | Varies | 04/25/2026 |
 
 ## SFSU-External
 
@@ -571,6 +571,8 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
+| [Master of Public Administration Scholarships](https://utah.academicworks.com/opportunities/44921) | Varies | 04/10/2026 |
+| [MIAGE Fellowship Application](https://utah.academicworks.com/opportunities/44923) | Varies | 04/10/2026 |
 | [ED PS School Psychology Faculty Scholarships 2026-2027](https://utah.academicworks.com/opportunities/44727) | Varies | 04/16/2026 |
 | [ED PS School Psychology Scholarships 2026-2027](https://utah.academicworks.com/opportunities/44724) | Varies | 04/16/2026 |
 | [UAC Global Trailblazer Scholarship](https://utah.academicworks.com/opportunities/44983) | Varies | 04/26/2026 |
@@ -620,8 +622,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Jay W. and Sharlene B. Glasmann Family  Endowed Graduate Fellowship](https://utah.academicworks.com/opportunities/26386) | Variable | N/A |
 | [Simin S. Mostofi Memorial Scholarship](https://utah.academicworks.com/opportunities/26195) | $1,500 | N/A |
 | [Alumni Association and Veterans Support Center Scholarship for Service Member Persistence](https://utah.academicworks.com/opportunities/29337) | $1,000 - $2,000 | N/A |
-| [Alumni Association and Veterans Support Center Scholarship for U Vet Parents](https://utah.academicworks.com/opportunities/29340) | $1,500 - $2,000 | N/A |
-| [Alumni Association and Veterans Support Center Scholarship for Undergraduate Student Veteran Volunteerism or Engagement](https://utah.academicworks.com/opportunities/29346) | $2,000 | N/A |
 
 ## UTAH-External
 
