@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-04-09 15:08:56 UTC
+Last updated: 2026-04-10 14:36:29 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -66,6 +66,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Dental Hygiene Anniversary Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11140) | Varies | 02/14/2027 |
 | [Dickson Endowed Scholarship Program in Medical & Health Care Professions](https://cpcc.academicworks.com/opportunities/11178) | Varies | 02/14/2027 |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | 02/14/2027 |
+| [CEENTA Angie Madigan Ophthalmic Medical Assisting Scholarship](https://cpcc.academicworks.com/opportunities/11743) | Varies | 02/14/2027 |
 
 ## CPCC-External
 
@@ -469,7 +470,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [George Feliz Memorial Scholarship in Environmental Studies](https://sfsu.academicworks.com/opportunities/22834) | 2 awards, $2200 each | 04/10/2026 |
 | [John Randolph and Dora Haynes Fellowship Award](https://sfsu.academicworks.com/opportunities/22371) | varies | 04/10/2026 |
 | [Jon S Galehouse Endowed Scholarship in Earth Sciences](https://sfsu.academicworks.com/opportunities/22359) | 1 award, $9400 | 04/10/2026 |
-| [Julie Ann Dalton Memorial Scholarship in Psychology](https://sfsu.academicworks.com/opportunities/23493) | 10 x $5,000 | 04/10/2026 |
 | [Louis Wasserman Award](https://sfsu.academicworks.com/opportunities/22815) | varies | 04/10/2026 |
 | [Matt Stolz Award for Political Theory, The](https://sfsu.academicworks.com/opportunities/22364) | varies | 04/10/2026 |
 | [Matthew F. Stolz Scholarship in Political Theory](https://sfsu.academicworks.com/opportunities/22649) | varies | 04/10/2026 |
@@ -478,7 +478,11 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Professor Emeritus Dave Dempsey and Rebecca Douglass Scholarship in Earth and Climate Sciences, The](https://sfsu.academicworks.com/opportunities/22298) | 1-2 awards, $5,000-$10,000, Split over Fall and Spring semesters | 04/10/2026 |
 | [R. Christopher McGee Endowed Scholarship in Geography and Environment](https://sfsu.academicworks.com/opportunities/22332) | 1 award, $2500 | 04/10/2026 |
 | [Russell G. Worden Memorial Scholarship in Political Science](https://sfsu.academicworks.com/opportunities/22391) | varies | 04/10/2026 |
+| [Julie Ann Dalton Memorial Scholarship in Psychology](https://sfsu.academicworks.com/opportunities/23493) | 10 x $5,000 | 04/13/2026 |
 | [Toni K Weingarten Youth in Theatre Scholarship](https://sfsu.academicworks.com/opportunities/22066) | up to $23,100 | 04/13/2026 |
+| [Gary A. Lucchese Scholarship in Psychology](https://sfsu.academicworks.com/opportunities/22807) | two @ $1500 each | 04/13/2026 |
+| [Irvin W. and Velma C. Hartman Family Schol - Psych](https://sfsu.academicworks.com/opportunities/22747) | 2 @ $3,000 each | 04/13/2026 |
+| [Susan Whipp Legacy Scholarship- Dance Scholarship Fund](https://sfsu.academicworks.com/opportunities/22537) | $1,000 | 04/13/2026 |
 | [Academic Excellence Scholarship for San Francisco State Scholars Program in Accounting](https://sfsu.academicworks.com/opportunities/22683) | $1,000.00 | 04/15/2026 |
 | [Alexander Kauffman Memorial Endowed Scholarship](https://sfsu.academicworks.com/opportunities/22926) | 2,000 | 04/15/2026 |
 | [Ann Fields Award, The](https://sfsu.academicworks.com/opportunities/22964) | $100.00 | 04/15/2026 |
@@ -497,6 +501,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Richard Cushing Endowed Scholarship in Journalism at SFSU](https://sfsu.academicworks.com/opportunities/22142) | $2,000 | 04/15/2026 |
 | [Stacey Doukas Memorial Photojournalism Scholarship](https://sfsu.academicworks.com/opportunities/22144) | $2500 | 04/15/2026 |
 | [Torri Minton Scholarships for Aspiring Journalists](https://sfsu.academicworks.com/opportunities/22146) | $2,500 | 04/15/2026 |
+| [Working Student Scholarship](https://sfsu.academicworks.com/opportunities/22441) | One @ $1,250 | 04/15/2026 |
 | [Edward Said Scholarship](https://sfsu.academicworks.com/opportunities/21951) | up to $1000 | 04/17/2026 |
 | [Michael & Julie Whitcomb Endowed Scholarship in History](https://sfsu.academicworks.com/opportunities/23605) | $1,000.00 | 04/17/2026 |
 | [Robert E. Collins Endowed Scholarships](https://sfsu.academicworks.com/opportunities/22062) | $2,000.00 | 04/20/2026 |
