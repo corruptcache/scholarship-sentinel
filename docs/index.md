@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-04-13 15:05:01 UTC
+Last updated: 2026-04-14 15:03:38 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -8,7 +8,7 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Ruth G. Shaw Scholarship](https://cpcc.academicworks.com/opportunities/11501) | Varies | 04/15/2026 |
+| [Ruth G. Shaw Scholarship](https://cpcc.academicworks.com/opportunities/11501) | Varies | 04/28/2026 |
 | [Opportunity Scholars Program](https://cpcc.academicworks.com/opportunities/11668) | Up to $10,000 over 2 years | 08/31/2026 |
 | [Wilton & Mary Parr Arts & Humanity Endowed Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11706) | Up to $10,000 over 2 years | 08/31/2026 |
 | [Charlotte Douglas International Airport Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11688) | Up to $10,000 over 2 years | 09/01/2026 |
@@ -461,11 +461,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Julie Ann Dalton Memorial Scholarship in Psychology](https://sfsu.academicworks.com/opportunities/23493) | 10 x $5,000 | 04/13/2026 |
-| [Toni K Weingarten Youth in Theatre Scholarship](https://sfsu.academicworks.com/opportunities/22066) | up to $23,100 | 04/13/2026 |
-| [Gary A. Lucchese Scholarship in Psychology](https://sfsu.academicworks.com/opportunities/22807) | two @ $1500 each | 04/13/2026 |
-| [Irvin W. and Velma C. Hartman Family Schol - Psych](https://sfsu.academicworks.com/opportunities/22747) | 2 @ $3,000 each | 04/13/2026 |
-| [Susan Whipp Legacy Scholarship- Dance Scholarship Fund](https://sfsu.academicworks.com/opportunities/22537) | $1,000 | 04/13/2026 |
 | [Academic Excellence Scholarship for San Francisco State Scholars Program in Accounting](https://sfsu.academicworks.com/opportunities/22683) | $1,000.00 | 04/15/2026 |
 | [Ann Fields Award, The](https://sfsu.academicworks.com/opportunities/22964) | $100.00 | 04/15/2026 |
 | [History Department Graduate Fellowship](https://sfsu.academicworks.com/opportunities/23599) | varies | 04/15/2026 |
@@ -477,6 +472,12 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Working Student Scholarship](https://sfsu.academicworks.com/opportunities/22441) | One @ $1,250 | 04/15/2026 |
 | [Edward Said Scholarship](https://sfsu.academicworks.com/opportunities/21951) | up to $1000 | 04/17/2026 |
 | [Michael & Julie Whitcomb Endowed Scholarship in History](https://sfsu.academicworks.com/opportunities/23605) | $1,000.00 | 04/17/2026 |
+| [David Jenkins Scholarship](https://sfsu.academicworks.com/opportunities/22336) | varies | 04/17/2026 |
+| [John Randolph and Dora Haynes Fellowship Award](https://sfsu.academicworks.com/opportunities/22371) | varies | 04/17/2026 |
+| [Louis Wasserman Award](https://sfsu.academicworks.com/opportunities/22815) | varies | 04/17/2026 |
+| [Matt Stolz Award for Political Theory, The](https://sfsu.academicworks.com/opportunities/22364) | varies | 04/17/2026 |
+| [Matthew F. Stolz Scholarship in Political Theory](https://sfsu.academicworks.com/opportunities/22649) | varies | 04/17/2026 |
+| [Russell G. Worden Memorial Scholarship in Political Science](https://sfsu.academicworks.com/opportunities/22391) | varies | 04/17/2026 |
 | [Alexander Kauffman Memorial Endowed Scholarship](https://sfsu.academicworks.com/opportunities/22926) | 2,000 | 04/20/2026 |
 | [Bob Brown Memorial Scholarship For Journalists](https://sfsu.academicworks.com/opportunities/22124) | $1,000 | 04/20/2026 |
 | [Frank McCulloch Investigative Reporting](https://sfsu.academicworks.com/opportunities/22128) | $3,000 | 04/20/2026 |
@@ -491,6 +492,8 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Defending Journalism Scholarship](https://sfsu.academicworks.com/opportunities/23475) | $2,000.00 | 04/20/2026 |
 | [Kat Anderson Media Workers Support Fund for Student Journalism](https://sfsu.academicworks.com/opportunities/22555) | $1,000 | 04/20/2026 |
 | [Scholten Family Endowed Scholarship in Journalism](https://sfsu.academicworks.com/opportunities/23564) | $1,000 | 04/20/2026 |
+| [Jules Irving Scholarship](https://sfsu.academicworks.com/opportunities/22804) | $1,000 | 04/20/2026 |
+| [Susan Whipp Legacy Scholarship- Dance Scholarship Fund](https://sfsu.academicworks.com/opportunities/22537) | $1,000 | 04/20/2026 |
 | [Linda Mazursky Kurtz & Frank Kurtz Scholarship in memory of Bernard Mazursky](https://sfsu.academicworks.com/opportunities/23608) | $1,000.00 | 04/23/2026 |
 | [Antoinette Finke Forgivable Loan](https://sfsu.academicworks.com/opportunities/23404) | $1,000.00 | 04/24/2026 |
 | [Chinese Program Scholarship, The](https://sfsu.academicworks.com/opportunities/22429) | $500.00 | 04/24/2026 |
@@ -694,7 +697,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Ralph & Betty Carlson Biotechnology Scholarship](https://vt.academicworks.com/opportunities/65618) | Varies | 04/13/2026 |
 | [CLAHS Internship Support Scholarship](https://vt.academicworks.com/opportunities/67914) | Varies | 04/15/2026 |
 | [Dr. Barbara Lockee Native American Tribal Honors Scholarship](https://vt.academicworks.com/opportunities/66517) | Varies | 04/15/2026 |
 | [William N. Paxton BEST Scholarship](https://vt.academicworks.com/opportunities/64403) | Varies | 04/19/2026 |
@@ -744,6 +746,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Leicester & Harriet Handsfield Scholarship](https://vt.academicworks.com/opportunities/62657) | Varies | 06/01/2026 |
 | [Marion A. and Annie W. Williams Fellowship](https://vt.academicworks.com/opportunities/60915) | Varies | 06/01/2026 |
 | [Mary Kemble Barnes Award](https://vt.academicworks.com/opportunities/61422) | Varies | 06/01/2026 |
+| [Mary Sue Collins Scholarship](https://vt.academicworks.com/opportunities/61008) | Varies | 06/01/2026 |
 
 ## VT-External
 
