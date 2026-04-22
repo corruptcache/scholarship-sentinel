@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-04-21 14:59:04 UTC
+Last updated: 2026-04-22 15:00:07 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -64,6 +64,8 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Merancas Technical Careers Scholarship](https://cpcc.academicworks.com/opportunities/11514) | Varies | 01/31/2027 |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11732) | Varies | 01/31/2027 |
 | [Dickson Licensed Practical Nursing Scholarship](https://cpcc.academicworks.com/opportunities/11395) | Varies | 01/31/2027 |
+| [Don Belle Memorial Scholarship](https://cpcc.academicworks.com/opportunities/11272) | Varies | 01/31/2027 |
+| [Douglas & Marie Ann North Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11468) | Varies | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
 | [CEENTA Angie Madigan Ophthalmic Medical Assisting Scholarship](https://cpcc.academicworks.com/opportunities/11619) | Varies | 02/14/2027 |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | 02/14/2027 |
@@ -695,7 +697,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Newport News Shipbuilding Scholarship-Operating](https://vt.academicworks.com/opportunities/67095) | Varies | 04/21/2026 |
 | [College of Agriculture and Life Sciences Graduate Student Scholarship Application](https://vt.academicworks.com/opportunities/67789) | Varies | 04/30/2026 |
 | [Finance Scholarship Application](https://vt.academicworks.com/opportunities/66506) | Varies | 05/01/2026 |
 | [Smithfield Foundation Scholarship](https://vt.academicworks.com/opportunities/64741) | Varies | 05/15/2026 |
@@ -745,6 +746,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Michael Pirrung Award](https://vt.academicworks.com/opportunities/61809) | Varies | 06/01/2026 |
 | [Minor Family Endowed Veterinary Scholarship](https://vt.academicworks.com/opportunities/66148) | Varies | 06/01/2026 |
 | [Nancy P. Morrisette Memorial Scholarship for Veterinary Medicine](https://vt.academicworks.com/opportunities/66029) | Varies | 06/01/2026 |
+| [NOVA Cat Clinic Scholarship](https://vt.academicworks.com/opportunities/66772) | Varies | 06/01/2026 |
 
 ## VT-External
 
