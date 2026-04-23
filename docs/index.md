@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-04-22 15:00:07 UTC
+Last updated: 2026-04-23 15:28:17 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -66,6 +66,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Dickson Licensed Practical Nursing Scholarship](https://cpcc.academicworks.com/opportunities/11395) | Varies | 01/31/2027 |
 | [Don Belle Memorial Scholarship](https://cpcc.academicworks.com/opportunities/11272) | Varies | 01/31/2027 |
 | [Douglas & Marie Ann North Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11468) | Varies | 01/31/2027 |
+| [Dowd Foundation Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11128) | Varies | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
 | [CEENTA Angie Madigan Ophthalmic Medical Assisting Scholarship](https://cpcc.academicworks.com/opportunities/11619) | Varies | 02/14/2027 |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | 02/14/2027 |
@@ -131,6 +132,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [The College of Business Study Abroad Scholarship](https://ecu.academicworks.com/opportunities/35210) | Varies | 05/15/2026 |
 | [The ROTC Recruitment Scholarship Fund](https://ecu.academicworks.com/opportunities/33070) | Varies | 05/31/2026 |
 | [The W. R. Valentine Endowed Scholarship](https://ecu.academicworks.com/opportunities/35667) | Varies | 06/15/2026 |
+| [The Engineering Summer Bridge Scholarship](https://ecu.academicworks.com/opportunities/35229) | Varies | 06/15/2026 |
 | [The Annie F. Franklin Memorial Endowed Scholarship](https://ecu.academicworks.com/opportunities/35155) | Varies | N/A |
 | [The Berbecker Foundation Fellowship in Health Sciences - BSOM Graduate Research (R)](https://ecu.academicworks.com/opportunities/32728) | $5,000 | N/A |
 | [The Bob Yow Primary Care Nurse Practitioner Endowed Scholarship](https://ecu.academicworks.com/opportunities/33995) | Varies | N/A |
@@ -173,7 +175,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [The Daniel Gluckman Scholarship](https://ecu.academicworks.com/opportunities/3408) | $2,000 | N/A |
 | [The Accounting Book Scholarship](https://ecu.academicworks.com/opportunities/4870) | $350 | N/A |
 | [The Andrew J. Pappas Memorial Scholarship](https://ecu.academicworks.com/opportunities/4436) | $700 | N/A |
-| [The Gamma Iota Sigma Scholarship](https://ecu.academicworks.com/opportunities/3767) | Varies | N/A |
 
 ## ECU-External
 
@@ -463,17 +464,18 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Working Student Scholarship](https://sfsu.academicworks.com/opportunities/22441) | One @ $1,250 | 04/22/2026 |
 | [Linda Mazursky Kurtz & Frank Kurtz Scholarship in memory of Bernard Mazursky](https://sfsu.academicworks.com/opportunities/23608) | $1,000.00 | 04/23/2026 |
 | [Antoinette Finke Forgivable Loan](https://sfsu.academicworks.com/opportunities/23404) | $1,000.00 | 04/24/2026 |
 | [Chinese Program Scholarship, The](https://sfsu.academicworks.com/opportunities/22429) | $500.00 | 04/24/2026 |
 | [Dr. Anita E. Antler Scholarship for Graduate and Undergraduate Students in the German Program](https://sfsu.academicworks.com/opportunities/22594) | 1,000.00 | 04/24/2026 |
 | [French Program Scholarship](https://sfsu.academicworks.com/opportunities/23299) | $600 | 04/24/2026 |
 | [Mark B. Kertz Scholarship Endowment in Chinese Area Studies](https://sfsu.academicworks.com/opportunities/22306) | $500.00 | 04/24/2026 |
-| [Pietro Iaccarino Memorial Scholarship](https://sfsu.academicworks.com/opportunities/22645) | $500.00 | 04/24/2026 |
 | [Robert L. Liu Family Endowment:French Language and Culture Proficiency Award](https://sfsu.academicworks.com/opportunities/23275) | $750.00 | 04/24/2026 |
 | [Tillie Olsen Prize - Creative Writing/Women Gender](https://sfsu.academicworks.com/opportunities/22227) | $500 | 04/24/2026 |
 | [Jean Vance Award](https://sfsu.academicworks.com/opportunities/22659) | varies | 04/24/2026 |
+| [David Jenkins Scholarship](https://sfsu.academicworks.com/opportunities/22336) | varies | 04/24/2026 |
+| [John Randolph and Dora Haynes Fellowship Award](https://sfsu.academicworks.com/opportunities/22371) | varies | 04/24/2026 |
+| [Russell G. Worden Memorial Scholarship in Political Science](https://sfsu.academicworks.com/opportunities/22391) | varies | 04/24/2026 |
 | [Barbara Hammer Award](https://sfsu.academicworks.com/opportunities/23200) | Varies | 04/25/2026 |
 | [Bill Nichols Scholarship](https://sfsu.academicworks.com/opportunities/22351) | Varies | 04/25/2026 |
 | [Jason Lloren Memorial Scholarship in Cinema](https://sfsu.academicworks.com/opportunities/22295) | Varies | 04/25/2026 |
@@ -485,6 +487,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [The Gordon Thomas Memorial Animation Scholarship](https://sfsu.academicworks.com/opportunities/22247) | Varies | 04/25/2026 |
 | [The Karen Holmes Experimental Cinema Scholarship](https://sfsu.academicworks.com/opportunities/22347) | Varies | 04/25/2026 |
 | [History Department Graduate Fellowship](https://sfsu.academicworks.com/opportunities/23599) | varies | 04/25/2026 |
+| [Pietro Iaccarino Memorial Scholarship](https://sfsu.academicworks.com/opportunities/22645) | $500.00 | 04/27/2026 |
 | [Robert E. Collins Endowed Scholarships](https://sfsu.academicworks.com/opportunities/22062) | $2,000.00 | 04/27/2026 |
 | [Design and Industry Scholarship](https://sfsu.academicworks.com/opportunities/23574) | Varies | 04/30/2026 |
 | [Martin Linder Scholarship](https://sfsu.academicworks.com/opportunities/23576) | varies | 04/30/2026 |
@@ -514,6 +517,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Elmira Sanderson Endowed Scholarship Fund](https://sfsu.academicworks.com/opportunities/23271) | $1,500 | 05/01/2026 |
 | [Joe Brainard Creative Writing Fellowship, The](https://sfsu.academicworks.com/opportunities/22455) | Varies | 05/01/2026 |
 | [Joseph De Francesco Award](https://sfsu.academicworks.com/opportunities/22422) | $2,000.00 | 05/01/2026 |
+| [Italian Scholarship Fund](https://sfsu.academicworks.com/opportunities/22379) | varies | 05/01/2026 |
 
 ## SFSU-External
 
