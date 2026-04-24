@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-04-23 15:28:17 UTC
+Last updated: 2026-04-24 14:55:36 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -464,7 +464,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Linda Mazursky Kurtz & Frank Kurtz Scholarship in memory of Bernard Mazursky](https://sfsu.academicworks.com/opportunities/23608) | $1,000.00 | 04/23/2026 |
 | [Antoinette Finke Forgivable Loan](https://sfsu.academicworks.com/opportunities/23404) | $1,000.00 | 04/24/2026 |
 | [Chinese Program Scholarship, The](https://sfsu.academicworks.com/opportunities/22429) | $500.00 | 04/24/2026 |
 | [Dr. Anita E. Antler Scholarship for Graduate and Undergraduate Students in the German Program](https://sfsu.academicworks.com/opportunities/22594) | 1,000.00 | 04/24/2026 |
@@ -476,6 +475,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [David Jenkins Scholarship](https://sfsu.academicworks.com/opportunities/22336) | varies | 04/24/2026 |
 | [John Randolph and Dora Haynes Fellowship Award](https://sfsu.academicworks.com/opportunities/22371) | varies | 04/24/2026 |
 | [Russell G. Worden Memorial Scholarship in Political Science](https://sfsu.academicworks.com/opportunities/22391) | varies | 04/24/2026 |
+| [Kasey Miller Fund in Kinesiology](https://sfsu.academicworks.com/opportunities/23653) | up to $2000 | 04/24/2026 |
 | [Barbara Hammer Award](https://sfsu.academicworks.com/opportunities/23200) | Varies | 04/25/2026 |
 | [Bill Nichols Scholarship](https://sfsu.academicworks.com/opportunities/22351) | Varies | 04/25/2026 |
 | [Jason Lloren Memorial Scholarship in Cinema](https://sfsu.academicworks.com/opportunities/22295) | Varies | 04/25/2026 |
@@ -491,6 +491,12 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Robert E. Collins Endowed Scholarships](https://sfsu.academicworks.com/opportunities/22062) | $2,000.00 | 04/27/2026 |
 | [Design and Industry Scholarship](https://sfsu.academicworks.com/opportunities/23574) | Varies | 04/30/2026 |
 | [Martin Linder Scholarship](https://sfsu.academicworks.com/opportunities/23576) | varies | 04/30/2026 |
+| [Bridge Award](https://sfsu.academicworks.com/opportunities/22901) | $1,000 | 04/30/2026 |
+| [Frank Sheehan Scholarship](https://sfsu.academicworks.com/opportunities/22297) | Two @ $3,000 each | 04/30/2026 |
+| [Jessie F. L. York Scholarship Fund](https://sfsu.academicworks.com/opportunities/22256) | 2,200 | 04/30/2026 |
+| [L.A. Chang Memorial Mathematics Scholarship](https://sfsu.academicworks.com/opportunities/22341) | 3,000 | 04/30/2026 |
+| [Math Matters Scholarship Fund](https://sfsu.academicworks.com/opportunities/22500) | One @ $1500 | 04/30/2026 |
+| [Milowski Scholarship](https://sfsu.academicworks.com/opportunities/22848) | varies | 04/30/2026 |
 | [1899 Founders Day Scholarship](https://sfsu.academicworks.com/opportunities/22731) | $500.00 | 05/01/2026 |
 | [Africana Studies Scholarship Fund](https://sfsu.academicworks.com/opportunities/21993) | Varies | 05/01/2026 |
 | [Alumni Association Graduate Scholarship](https://sfsu.academicworks.com/opportunities/22868) | $2,000 | 05/01/2026 |
