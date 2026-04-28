@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-04-27 15:26:12 UTC
+Last updated: 2026-04-28 16:00:37 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -67,6 +67,8 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Don Belle Memorial Scholarship](https://cpcc.academicworks.com/opportunities/11272) | Varies | 01/31/2027 |
 | [Douglas & Marie Ann North Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11468) | Varies | 01/31/2027 |
 | [Dowd Foundation Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11128) | Varies | 01/31/2027 |
+| [Dr. Clifton Henry Hammond Memorial Scholarship](https://cpcc.academicworks.com/opportunities/11446) | Varies | 01/31/2027 |
+| [Dr. David Hunter Memorial Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11469) | Varies | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
 | [CEENTA Angie Madigan Ophthalmic Medical Assisting Scholarship](https://cpcc.academicworks.com/opportunities/11619) | Varies | 02/14/2027 |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | 02/14/2027 |
@@ -464,7 +466,7 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Pietro Iaccarino Memorial Scholarship](https://sfsu.academicworks.com/opportunities/22645) | $500.00 | 04/27/2026 |
+| [Matt Stolz Award for Political Theory, The](https://sfsu.academicworks.com/opportunities/22364) | varies | 04/29/2026 |
 | [Design and Industry Scholarship](https://sfsu.academicworks.com/opportunities/23574) | Varies | 04/30/2026 |
 | [Martin Linder Scholarship](https://sfsu.academicworks.com/opportunities/23576) | varies | 04/30/2026 |
 | [Bridge Award](https://sfsu.academicworks.com/opportunities/22901) | $1,000 | 04/30/2026 |
@@ -697,8 +699,8 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [College of Agriculture and Life Sciences Graduate Student Scholarship Application](https://vt.academicworks.com/opportunities/67789) | Varies | 04/30/2026 |
 | [Finance Scholarship Application](https://vt.academicworks.com/opportunities/66506) | Varies | 05/01/2026 |
+| [College of Agriculture and Life Sciences Graduate Student Scholarship Application](https://vt.academicworks.com/opportunities/67789) | Varies | 05/04/2026 |
 | [Brenda Harmon Rohe Dietetic Scholarship](https://vt.academicworks.com/opportunities/60748) | Varies | 05/04/2026 |
 | [Smithfield Foundation Scholarship](https://vt.academicworks.com/opportunities/64741) | Varies | 05/15/2026 |
 | [A.C. Spotts, III Scholarship](https://vt.academicworks.com/opportunities/62462) | Varies | 06/01/2026 |
