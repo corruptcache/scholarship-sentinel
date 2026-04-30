@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-04-29 15:35:08 UTC
+Last updated: 2026-04-30 15:30:22 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -465,8 +465,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Matt Stolz Award for Political Theory, The](https://sfsu.academicworks.com/opportunities/22364) | varies | 04/29/2026 |
-| [Matthew F. Stolz Scholarship in Political Theory](https://sfsu.academicworks.com/opportunities/22649) | varies | 04/29/2026 |
 | [Design and Industry Scholarship](https://sfsu.academicworks.com/opportunities/23574) | Varies | 04/30/2026 |
 | [Martin Linder Scholarship](https://sfsu.academicworks.com/opportunities/23576) | varies | 04/30/2026 |
 | [Bridge Award](https://sfsu.academicworks.com/opportunities/22901) | $1,000 | 04/30/2026 |
@@ -516,6 +514,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Sodexo Scholarship](https://sfsu.academicworks.com/opportunities/23266) | $8,000 | 05/01/2026 |
 | [Stuart Hyde Scholarship & Internship](https://sfsu.academicworks.com/opportunities/22417) | $1,000.00 | 05/01/2026 |
 | [Taiwan Student Scholarship Endowment](https://sfsu.academicworks.com/opportunities/22886) | $1,000 | 05/01/2026 |
+| [The Elkind Family Scholarship for Theatre Arts](https://sfsu.academicworks.com/opportunities/23305) | $2,500 | 05/01/2026 |
 
 ## SFSU-External
 
