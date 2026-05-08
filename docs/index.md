@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-05-07 15:54:15 UTC
+Last updated: 2026-05-08 15:10:25 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -71,6 +71,8 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Dr. David Hunter Memorial Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11469) | Varies | 01/31/2027 |
 | [Dr. Helen Hatton McCoy Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11172) | Varies | 01/31/2027 |
 | [Dr. James H. Fryar, III Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11332) | Varies | 01/31/2027 |
+| [Dr. Kaye Bernard McGarry Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11342) | Varies | 01/31/2027 |
+| [Dr. Marion Charles Lane Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11131) | Varies | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
 | [CEENTA Angie Madigan Ophthalmic Medical Assisting Scholarship](https://cpcc.academicworks.com/opportunities/11619) | Varies | 02/14/2027 |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | 02/14/2027 |
@@ -468,9 +470,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Jason Lloren Memorial Scholarship](https://sfsu.academicworks.com/opportunities/22136) | $2,000 | 05/07/2026 |
-| [John, James and Douglas Fang Scholarship](https://sfsu.academicworks.com/opportunities/22138) | $2,500 | 05/07/2026 |
-| [Torri Minton Scholarships for Aspiring Journalists](https://sfsu.academicworks.com/opportunities/22146) | $2,500 | 05/07/2026 |
 | [Dennis Bennett Physics & Astronomy Scholarship](https://sfsu.academicworks.com/opportunities/22282) | For Fall 2026: two scholarships of $2,000 each | 05/08/2026 |
 | [Design and Industry Scholarship](https://sfsu.academicworks.com/opportunities/23574) | Varies | 05/08/2026 |
 | [Dillon Family Endowed Scholarship in Physics & Astronomy](https://sfsu.academicworks.com/opportunities/23481) | For Fall 2026: one scholarship of $1,000 | 05/08/2026 |
@@ -518,6 +517,9 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Linda Leary Reliable Caregivers Nursing Scholarship](https://sfsu.academicworks.com/opportunities/7353) | $1,250.00 | N/A |
 | [Hearth Homes Inclusive Design Scholarship](https://sfsu.academicworks.com/opportunities/7963) | $5,000 | N/A |
 | [Jeff Clavin Memorial Scholarship](https://sfsu.academicworks.com/opportunities/7848) | Varies | N/A |
+| [SKAL International Scholarship](https://sfsu.academicworks.com/opportunities/8348) | $1,000.00 | N/A |
+| [Kimball L. Hamberger Scholarship](https://sfsu.academicworks.com/opportunities/8233) | $300.00 | N/A |
+| [Shenson Foundation Award](https://sfsu.academicworks.com/opportunities/8115) | up to $1500 | N/A |
 
 ## SFSU-External
 
