@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-05-11 16:18:17 UTC
+Last updated: 2026-05-12 16:05:09 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -75,6 +75,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Dr. Marion Charles Lane Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11131) | Varies | 01/31/2027 |
 | [Dr. Mel Gay Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11192) | Varies | 01/31/2027 |
 | [Dr. Tony Zeiss Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11383) | Varies | 01/31/2027 |
+| [Early Childhood Education Pathway Scholarship](https://cpcc.academicworks.com/opportunities/11346) | Varies | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
 | [CEENTA Angie Madigan Ophthalmic Medical Assisting Scholarship](https://cpcc.academicworks.com/opportunities/11619) | Varies | 02/14/2027 |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | 02/14/2027 |
@@ -472,7 +473,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Edward B. Kaufmann Scholarship - Humanities Dept.](https://sfsu.academicworks.com/opportunities/23242) | varies depending on number of applicants; typically between $1000 and $4000 | 05/11/2026 |
 | [Benny & May Chin Scholarship in Philosophy](https://sfsu.academicworks.com/opportunities/20756) | Varies up to $2,500.00 | 05/15/2026 |
 | [Bernice Ruben Arnold Scholarship Fund](https://sfsu.academicworks.com/opportunities/22732) | 5000 (to be continued for 3 years for each awardee providing they meet the requirements) | 05/15/2026 |
 | [Dr. Anita Silvers Scholarship Fund in Philosophy for Continuing M.A. Students](https://sfsu.academicworks.com/opportunities/20852) | Varies up to $15,000 | 05/15/2026 |
@@ -488,6 +488,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Community College Transfer Honor Scholarship](https://sfsu.academicworks.com/opportunities/10823) | $2,000.00 | 05/31/2026 |
 | [William Dickey Fellowship in Poetry](https://sfsu.academicworks.com/opportunities/22292) | varies | 05/31/2026 |
 | [Ginwala Family Music Endowment Fund](https://sfsu.academicworks.com/opportunities/23536) | Varies | N/A |
+| [Robert L. Liu Family Endowment:French Language and Culture Proficiency Award](https://sfsu.academicworks.com/opportunities/23275) | $750.00 | N/A |
 | [Hilda Taba Scholarship](https://sfsu.academicworks.com/opportunities/1579) | $500.00 | N/A |
 | [Asian American Studies Scholarship Fund](https://sfsu.academicworks.com/opportunities/3490) | up to $2,000 | N/A |
 | [Scott Campbell Scholarship](https://sfsu.academicworks.com/opportunities/2617) | $3131 | N/A |
