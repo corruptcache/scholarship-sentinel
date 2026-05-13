@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-05-12 16:05:09 UTC
+Last updated: 2026-05-13 16:05:38 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -651,7 +651,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [IMPACT Scholarships (Inclusion improving Medicine, Patient outcomes And Community health with Talent)](https://vt.academicworks.com/opportunities/65385) | Varies | 05/12/2026 |
 | [Smithfield Foundation Scholarship](https://vt.academicworks.com/opportunities/64741) | Varies | 05/15/2026 |
 | [Finance Scholarship Application](https://vt.academicworks.com/opportunities/66506) | Varies | 05/15/2026 |
 | [A.C. Spotts, III Scholarship](https://vt.academicworks.com/opportunities/62462) | Varies | 06/01/2026 |
