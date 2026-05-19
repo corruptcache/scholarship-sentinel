@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-05-18 16:40:52 UTC
+Last updated: 2026-05-19 16:39:59 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -198,7 +198,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Winthrop King Summer Doctoral Fellowship](https://fsu.academicworks.com/opportunities/36641) | $5,000 | 05/18/2026 |
 | [A. Pauline "Polly" Shelley Endowment - Fall Application](https://fsu.academicworks.com/opportunities/39875) | Varies | 05/31/2026 |
 | [Beverly Health and Rehabilitation Services, Inc. Teaching Nursing Home Fund - Fall Application](https://fsu.academicworks.com/opportunities/39919) | Varies | 05/31/2026 |
 | [Carol McCormick Endowed Fund - Fall Application](https://fsu.academicworks.com/opportunities/39905) | Varies | 05/31/2026 |
@@ -248,6 +247,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Mina Jo Powell Presidential Scholarship - Fall Application](https://fsu.academicworks.com/opportunities/39884) | Varies | 05/31/2026 |
 | [Pamela Thompson Scholarship Fund - Fall Application](https://fsu.academicworks.com/opportunities/39878) | Varies | 05/31/2026 |
 | [Reva Daniels Metzinger Endowed Scholarship](https://fsu.academicworks.com/opportunities/39463) | $1,000 | 05/31/2026 |
+| [Russell H. Langstroth Endowed Scholarship](https://fsu.academicworks.com/opportunities/37395) | $500 | 05/31/2026 |
 
 ## Fay Tech
 
@@ -382,6 +382,7 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
+| [NC State Employee Dependents Scholarship](https://ncsu.academicworks.com/opportunities/176963) | Up to $2000 | 05/20/2026 |
 | [Catalina Andrade Goodwill Industries of Eastern North Carolina Scholarship](https://ncsu.academicworks.com/opportunities/180561) | Varies | 06/01/2026 |
 | [Crystal Chen Lee Memorial Scholarship](https://ncsu.academicworks.com/opportunities/181946) | amount varies | 06/01/2026 |
 | [Emerson Family Scholarship](https://ncsu.academicworks.com/opportunities/180564) | Varies | 06/01/2026 |
@@ -472,6 +473,7 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
+| [Benny & May Chin Scholarship in Philosophy](https://sfsu.academicworks.com/opportunities/20756) | Varies up to $2,500.00 | 05/19/2026 |
 | [Graduate Equity Fellowship Program](https://sfsu.academicworks.com/opportunities/21839) | Up to $3,500 Masters; $5,000 Doctoral | 05/29/2026 |
 | [Community College Transfer Honor Scholarship](https://sfsu.academicworks.com/opportunities/10823) | $2,000.00 | 05/31/2026 |
 | [William Dickey Fellowship in Poetry](https://sfsu.academicworks.com/opportunities/22292) | varies | 05/31/2026 |
@@ -521,7 +523,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Dr. Wan-Lee Cheng Design Innovation, Honors & Merit Award](https://sfsu.academicworks.com/opportunities/9694) | varies | N/A |
 | [Paul Zee Lyons Memorial Scholarships For Chinese Translation Studies, The](https://sfsu.academicworks.com/opportunities/9618) | varies | N/A |
 | [Dianne Francis Derby Memorial Scholarship](https://sfsu.academicworks.com/opportunities/7016) | $300 | N/A |
-| [Sierra Nevada Field Campus Scholarship](https://sfsu.academicworks.com/opportunities/2032) | Varies | N/A |
 
 ## UTAH
 
