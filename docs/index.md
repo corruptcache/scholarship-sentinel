@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-05-19 16:39:59 UTC
+Last updated: 2026-05-20 16:37:20 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -473,12 +473,10 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Benny & May Chin Scholarship in Philosophy](https://sfsu.academicworks.com/opportunities/20756) | Varies up to $2,500.00 | 05/19/2026 |
 | [Graduate Equity Fellowship Program](https://sfsu.academicworks.com/opportunities/21839) | Up to $3,500 Masters; $5,000 Doctoral | 05/29/2026 |
 | [Community College Transfer Honor Scholarship](https://sfsu.academicworks.com/opportunities/10823) | $2,000.00 | 05/31/2026 |
 | [William Dickey Fellowship in Poetry](https://sfsu.academicworks.com/opportunities/22292) | varies | 05/31/2026 |
 | [Ginwala Family Music Endowment Fund](https://sfsu.academicworks.com/opportunities/23536) | Varies | N/A |
-| [Judith Anne Ott Scholarship](https://sfsu.academicworks.com/opportunities/22083) | Number of awards and amounts vary, up to $10,000 total (single award not to exceed $7,000) | N/A |
 | [Robert L. Liu Family Endowment:French Language and Culture Proficiency Award](https://sfsu.academicworks.com/opportunities/23275) | $750.00 | N/A |
 | [Hilda Taba Scholarship](https://sfsu.academicworks.com/opportunities/1579) | $500.00 | N/A |
 | [Asian American Studies Scholarship Fund](https://sfsu.academicworks.com/opportunities/3490) | up to $2,000 | N/A |
@@ -523,6 +521,8 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Dr. Wan-Lee Cheng Design Innovation, Honors & Merit Award](https://sfsu.academicworks.com/opportunities/9694) | varies | N/A |
 | [Paul Zee Lyons Memorial Scholarships For Chinese Translation Studies, The](https://sfsu.academicworks.com/opportunities/9618) | varies | N/A |
 | [Dianne Francis Derby Memorial Scholarship](https://sfsu.academicworks.com/opportunities/7016) | $300 | N/A |
+| [Sierra Nevada Field Campus Scholarship](https://sfsu.academicworks.com/opportunities/2032) | Varies | N/A |
+| [Costco Scholarship Fund](https://sfsu.academicworks.com/opportunities/9805) | Equivalent to tuition | N/A |
 
 ## UTAH
 
