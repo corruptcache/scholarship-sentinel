@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-05-25 16:09:36 UTC
+Last updated: 2026-05-26 16:58:46 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -76,6 +76,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Dr. Mel Gay Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11192) | Varies | 01/31/2027 |
 | [Dr. Tony Zeiss Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11383) | Varies | 01/31/2027 |
 | [Early Childhood Education Pathway Scholarship](https://cpcc.academicworks.com/opportunities/11346) | Varies | 01/31/2027 |
+| [Edgar Terrell Jr. Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11246) | Varies | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
 | [CEENTA Angie Madigan Ophthalmic Medical Assisting Scholarship](https://cpcc.academicworks.com/opportunities/11619) | Varies | 02/14/2027 |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | 02/14/2027 |
@@ -382,6 +383,7 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
+| [NC State Employee Dependents Scholarship](https://ncsu.academicworks.com/opportunities/176963) | Up to $2000 | 05/27/2026 |
 | [Catalina Andrade Goodwill Industries of Eastern North Carolina Scholarship](https://ncsu.academicworks.com/opportunities/180561) | Varies | 06/01/2026 |
 | [Crystal Chen Lee Memorial Scholarship](https://ncsu.academicworks.com/opportunities/181946) | amount varies | 06/01/2026 |
 | [Emerson Family Scholarship](https://ncsu.academicworks.com/opportunities/180564) | Varies | 06/01/2026 |
@@ -650,7 +652,7 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Chi Omega Centennial Scholarship](https://sc.academicworks.com/opportunities/11489) | $500.00 | 05/31/2026 |
+| [Chi Omega Centennial Scholarship](https://sc.academicworks.com/opportunities/11489) | $1,000.00 | 05/31/2026 |
 | [John S. Herin Scholarship](https://sc.academicworks.com/opportunities/10847) | $1,241.44 | 05/31/2026 |
 | [Kepper Family Scholarship](https://sc.academicworks.com/opportunities/11388) | $1,000.00 | 05/31/2026 |
 | [McAnulty Scholarship](https://sc.academicworks.com/opportunities/11431) | $1,000.00 | 05/31/2026 |
