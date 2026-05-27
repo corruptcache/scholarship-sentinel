@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-05-26 16:58:46 UTC
+Last updated: 2026-05-27 16:51:18 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -77,6 +77,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Dr. Tony Zeiss Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11383) | Varies | 01/31/2027 |
 | [Early Childhood Education Pathway Scholarship](https://cpcc.academicworks.com/opportunities/11346) | Varies | 01/31/2027 |
 | [Edgar Terrell Jr. Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11246) | Varies | 01/31/2027 |
+| [Edith Strickland Delaine Scholarship](https://cpcc.academicworks.com/opportunities/11617) | Varies | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
 | [CEENTA Angie Madigan Ophthalmic Medical Assisting Scholarship](https://cpcc.academicworks.com/opportunities/11619) | Varies | 02/14/2027 |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | 02/14/2027 |
