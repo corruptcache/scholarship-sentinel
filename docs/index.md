@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-06-05 16:15:57 UTC
+Last updated: 2026-06-08 16:58:19 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -86,6 +86,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [First Gaston Foundation Scholarship](https://cpcc.academicworks.com/opportunities/11623) | Varies | 01/31/2027 |
 | [First Trust Bank Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11435) | Varies | 01/31/2027 |
 | [First Union National Bank Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11121) | Varies | 01/31/2027 |
+| [Frankie Graves / Mike Realon Southwest Charlotte Business Association Scholarship](https://cpcc.academicworks.com/opportunities/11224) | Varies | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
 | [CEENTA Angie Madigan Ophthalmic Medical Assisting Scholarship](https://cpcc.academicworks.com/opportunities/11619) | Varies | 02/14/2027 |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | 02/14/2027 |
@@ -193,6 +194,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [The Carol Stamper Memorial Scholarship](https://ecu.academicworks.com/opportunities/4123) | Varies | N/A |
 | [The Anthony and Phoebe Patterson Scholarship in Entrepreneurship](https://ecu.academicworks.com/opportunities/7318) | $2,500 | N/A |
 | [The Anthony J. Papalas Prize (Ancient History)](https://ecu.academicworks.com/opportunities/6034) | Varies | N/A |
+| [The CommCrew Scholarship](https://ecu.academicworks.com/opportunities/6040) | $1,000 | N/A |
 
 ## ECU-External
 
@@ -208,27 +210,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [College of Arts and Sciences Student Travel Awards](https://fsu.academicworks.com/opportunities/40356) | $500 | 06/05/2026 |
-| [Anne Shaver Scholarship](https://fsu.academicworks.com/opportunities/38700) | Varies | 06/06/2026 |
-| [Atlanta Seminole Club Endowed Scholarship](https://fsu.academicworks.com/opportunities/37236) | Varies | 06/06/2026 |
-| [Charlotte Seminole Club Endowed Scholarship](https://fsu.academicworks.com/opportunities/36692) | Varies | 06/06/2026 |
-| [FSU Southern California Scholarship Fund](https://fsu.academicworks.com/opportunities/36951) | Varies | 06/06/2026 |
-| [FSU-NYC September 11 Scholarship Fund](https://fsu.academicworks.com/opportunities/37330) | Varies | 06/06/2026 |
-| [Greater Boston Seminole Club Endowed Scholarship](https://fsu.academicworks.com/opportunities/37220) | Varies | 06/06/2026 |
-| [Highlands Seminole Club Scholarship/Haywood O. Taylor Endowed Scholarship Fund](https://fsu.academicworks.com/opportunities/37600) | Varies | 06/06/2026 |
-| [Kari Vanover Scholarship/Broward County Seminole Club](https://fsu.academicworks.com/opportunities/36201) | Varies | 06/06/2026 |
-| [Manatee Seminole Club Endowed Scholarship](https://fsu.academicworks.com/opportunities/37477) | Varies | 06/06/2026 |
-| [Miami Seminole Club Scholarship Fund](https://fsu.academicworks.com/opportunities/36390) | Varies | 06/06/2026 |
-| [Midlands South Carolina Seminole Club Scholarship Endowment Fund](https://fsu.academicworks.com/opportunities/36718) | Varies | 06/06/2026 |
-| [Mike McGee Scholarship](https://fsu.academicworks.com/opportunities/39989) | Varies | 06/06/2026 |
-| [Palm Beach Seminole Club Scholarship](https://fsu.academicworks.com/opportunities/38983) | Varies | 06/06/2026 |
-| [Robert Spycher Endowed Memorial Scholarship Fund](https://fsu.academicworks.com/opportunities/36320) | Varies | 06/06/2026 |
-| [Sarasota Seminole Club Scholarship Endowment](https://fsu.academicworks.com/opportunities/36232) | Varies | 06/06/2026 |
-| [Seminole Club of Clay County Foundation Endowment for Leonard Voyles](https://fsu.academicworks.com/opportunities/36190) | Varies | 06/06/2026 |
-| [Seminole Club of Greater Orlando Scholarship](https://fsu.academicworks.com/opportunities/37491) | Varies | 06/06/2026 |
-| [Seminole Club of Jacksonville Endowed Scholarship](https://fsu.academicworks.com/opportunities/37136) | Varies | 06/06/2026 |
-| [Seminole Club of North Texas Endowed Scholarship](https://fsu.academicworks.com/opportunities/39530) | Varies | 06/06/2026 |
-| [Seminole Club of the Rockies Scholarship](https://fsu.academicworks.com/opportunities/40393) | Varies | 06/06/2026 |
 | [Mom Fletcher/Sigma Chi Endowed Scholarship Fund](https://fsu.academicworks.com/opportunities/40259) | Varies | 06/10/2026 |
 | [Clampett Endowed Scholarship for Pre-Veterinary Excellence](https://fsu.academicworks.com/opportunities/39623) | Varies | 06/15/2026 |
 | [College of Medicine Alumni Relations Fund](https://fsu.academicworks.com/opportunities/37311) | $2,000 | 06/15/2026 |
@@ -239,6 +220,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Ada Belle Winthrop-King Endowed Graduate Teaching Enhancement Scholarship Fund](https://fsu.academicworks.com/opportunities/39709) | Varies | 06/18/2026 |
 | [College of Arts and Sciences Study Abroad Awards - Spring Semester Abroad](https://fsu.academicworks.com/opportunities/37178) | $4,000 | 06/18/2026 |
 | [FSU Gentlemen's Club Scholarship](https://fsu.academicworks.com/opportunities/36779) | Varies | 06/30/2026 |
+| [Mike McGee Scholarship](https://fsu.academicworks.com/opportunities/39989) | Varies | 06/30/2026 |
 | [Elaine Tully Woodward and Bob Woodward Scholarship](https://fsu.academicworks.com/opportunities/37152) | Varies | 07/01/2026 |
 | [Seth Rossetti Memorial Scholarship Fund](https://fsu.academicworks.com/opportunities/38563) | $1,000 | 07/01/2026 |
 | [Student Government Endowed Scholarship Fund](https://fsu.academicworks.com/opportunities/35782) | Varies | 07/01/2026 |
@@ -259,6 +241,25 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Jerry A. and Carolyn S. Glass Endowed Scholarship Fund](https://fsu.academicworks.com/opportunities/39796) | Varies | 08/28/2026 |
 | [Kelly R. Ivey Endowed Memorial Fund](https://fsu.academicworks.com/opportunities/39793) | Varies | 08/28/2026 |
 | [Relgalf Scholarships](https://fsu.academicworks.com/opportunities/39804) | Varies | 08/28/2026 |
+| [Rob Williams Endowed Scholarship Fund](https://fsu.academicworks.com/opportunities/39794) | Varies | 08/28/2026 |
+| [Curtis and Jo Ellen Hicks Falany Graduate Student Stipend for Speech Language Pathology](https://fsu.academicworks.com/opportunities/36440) | Varies | 09/04/2026 |
+| [Doreen Brown Oyadomari Endowed Scholarship in Communication](https://fsu.academicworks.com/opportunities/36929) | Varies | 09/04/2026 |
+| [Dr. Avery Vaughn Fund for Excellence in Communication Science and Disorders](https://fsu.academicworks.com/opportunities/37255) | Varies | 09/04/2026 |
+| [Irene Phillips Backus Scholarship Endowment](https://fsu.academicworks.com/opportunities/38152) | Varies | 09/04/2026 |
+| [L.L. Schendel Scholarship in Communication Disorders](https://fsu.academicworks.com/opportunities/36151) | Varies | 09/04/2026 |
+| [Public School Education Scholarship- Communication Disorders](https://fsu.academicworks.com/opportunities/36340) | Varies | 09/04/2026 |
+| [Richard Wright Endowed Fellowship in Communication Disorders](https://fsu.academicworks.com/opportunities/37484) | Varies | 09/04/2026 |
+| [Robin Shari Parker Endowment in Speech-Language Pathology](https://fsu.academicworks.com/opportunities/37038) | Varies | 09/04/2026 |
+| [William G. and Alma S. Anderson Memorial Scholarship Fund](https://fsu.academicworks.com/opportunities/36798) | Varies | 09/04/2026 |
+| [Barbara B. Vereen Family Scholarship](https://fsu.academicworks.com/opportunities/36809) | Varies | 10/01/2026 |
+| [Brand Ferland Advisors Scholarship](https://fsu.academicworks.com/opportunities/36746) | $3,000 | 10/01/2026 |
+| [Entrepreneurship Graduate Program](https://fsu.academicworks.com/opportunities/39414) | Varies | 10/01/2026 |
+| [Entrepreneurship Graduate Program (LAC)](https://fsu.academicworks.com/opportunities/39406) | Varies | 10/01/2026 |
+| [Frank Vicino Endowed Scholarship for Entrepreneurs](https://fsu.academicworks.com/opportunities/36621) | Varies | 10/01/2026 |
+| [Jim McLaughlin Endowed Scholarship](https://fsu.academicworks.com/opportunities/36127) | Varies | 10/01/2026 |
+| [Louise Román Aymerich López and Gerald Arthur López Endowment Fund](https://fsu.academicworks.com/opportunities/40031) | Varies | 10/01/2026 |
+| [Peter Boulware Toyota Scholarship](https://fsu.academicworks.com/opportunities/36025) | Varies | 10/01/2026 |
+| [Ronald & Jakie Pepper Merchandising Scholarship](https://fsu.academicworks.com/opportunities/36968) | Varies | 10/01/2026 |
 
 ## Fay Tech
 
@@ -393,6 +394,7 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
+| [NC State Employee Dependent's Tuition Scholarship](https://ncsu.academicworks.com/opportunities/176963) | Up to $2000 | 06/08/2026 |
 | [Goodnight Scholars Program](https://ncsu.academicworks.com/opportunities/180468) | 24,000 | 08/01/2026 |
 | [Aspirations in Computing Scholarship](https://ncsu.academicworks.com/opportunities/179334) | $1,000.00 | 08/01/2026 |
 | [DNU_SAS Institute Minority Scholarship in Computer Science](https://ncsu.academicworks.com/opportunities/177048) | $1,500.00 | 08/01/2026 |
@@ -475,7 +477,7 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Robert E. Collins Endowed Scholarships](https://sfsu.academicworks.com/opportunities/22062) | $2,000.00 | 06/07/2026 |
+| [Robert E. Collins Endowed Scholarships](https://sfsu.academicworks.com/opportunities/22062) | $2,000.00 | 06/09/2026 |
 | [Jean Vance Award](https://sfsu.academicworks.com/opportunities/22659) | varies | 06/10/2026 |
 | [Marcus Recruitment Award](https://sfsu.academicworks.com/opportunities/22349) | varies | 06/16/2026 |
 | [Ginwala Family Music Endowment Fund](https://sfsu.academicworks.com/opportunities/23536) | Varies | N/A |
@@ -525,6 +527,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Dianne Francis Derby Memorial Scholarship](https://sfsu.academicworks.com/opportunities/7016) | $300 | N/A |
 | [Sierra Nevada Field Campus Scholarship](https://sfsu.academicworks.com/opportunities/2032) | Varies | N/A |
 | [Costco Scholarship Fund](https://sfsu.academicworks.com/opportunities/9805) | Equivalent to tuition | N/A |
+| [College of Business Veteran's Scholarship - MUFG](https://sfsu.academicworks.com/opportunities/9772) | 2,500 | N/A |
 
 ## UTAH
 
@@ -608,6 +611,8 @@ This page contains all currently live scholarships detected by the sentinel.
 | [The Joseph and Elovise Easaw Endowed Scholarship Fund for Gamecock Guarantee](https://sc.academicworks.com/opportunities/11384) | Varies | 07/01/2026 |
 | [The Sam and Peggy Moore Advantage Scholarship](https://sc.academicworks.com/opportunities/11736) | Varies | 07/01/2026 |
 | [The Xavier Augustus Eady Memorial Endowed Scholarship](https://sc.academicworks.com/opportunities/10487) | Varies | 07/01/2026 |
+| [Clyde Shirley U.S. Constitution Scholarship](https://sc.academicworks.com/opportunities/11580) | Varies | 08/07/2026 |
+| [Donald J. Greiner Scholarship](https://sc.academicworks.com/opportunities/10545) | Varies | 08/07/2026 |
 | [A. C. Flora Memorial Scholarship](https://sc.academicworks.com/opportunities/11521) | Varies | 09/01/2026 |
 | [Abney Foundation Scholarship](https://sc.academicworks.com/opportunities/10975) | Varies | 09/01/2026 |
 | [Andrew and Mary Poliakoff Scholarship](https://sc.academicworks.com/opportunities/11713) | Varies | 09/01/2026 |
