@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-06-11 17:09:17 UTC
+Last updated: 2026-06-12 16:34:30 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -8,7 +8,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Barclays American Corporation Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11239) | Varies | 06/11/2026 |
 | [Opportunity Scholars Program](https://cpcc.academicworks.com/opportunities/11668) | Up to $10,000 over 2 years | 08/31/2026 |
 | [Wilton & Mary Parr Arts & Humanity Endowed Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11706) | Up to $10,000 over 2 years | 08/31/2026 |
 | [Howard & Julie Levine Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11697) | Up to $10,000 over 2 years | 09/01/2026 |
@@ -88,6 +87,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [First Union National Bank Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11121) | Varies | 01/31/2027 |
 | [Frankie Graves / Mike Realon Southwest Charlotte Business Association Scholarship](https://cpcc.academicworks.com/opportunities/11224) | Varies | 01/31/2027 |
 | [Garinger Education Foundation Scholarship](https://cpcc.academicworks.com/opportunities/11523) | Varies | 01/31/2027 |
+| [Gary & Cindy LaBrosse Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11390) | Varies | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
 | [CEENTA Angie Madigan Ophthalmic Medical Assisting Scholarship](https://cpcc.academicworks.com/opportunities/11619) | Varies | 02/14/2027 |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | 02/14/2027 |
@@ -477,7 +477,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Robert E. Collins Endowed Scholarships](https://sfsu.academicworks.com/opportunities/22062) | $2,000.00 | 06/11/2026 |
 | [Bernice Ruben Arnold Scholarship Fund](https://sfsu.academicworks.com/opportunities/22732) | 5000 (to be continued for 3 years for each awardee providing they meet the requirements) | 06/15/2026 |
 | [Marcus Recruitment Award](https://sfsu.academicworks.com/opportunities/22349) | varies | 06/16/2026 |
 | [Ginwala Family Music Endowment Fund](https://sfsu.academicworks.com/opportunities/23536) | Varies | N/A |
@@ -527,6 +526,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Dianne Francis Derby Memorial Scholarship](https://sfsu.academicworks.com/opportunities/7016) | $300 | N/A |
 | [Sierra Nevada Field Campus Scholarship](https://sfsu.academicworks.com/opportunities/2032) | Varies | N/A |
 | [Costco Scholarship Fund](https://sfsu.academicworks.com/opportunities/9805) | Equivalent to tuition | N/A |
+| [College of Business Veteran's Scholarship - MUFG](https://sfsu.academicworks.com/opportunities/9772) | 2,500 | N/A |
 
 ## SFSU-External
 
@@ -638,18 +638,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Stoker Family Endowed Scholarship for Undergraduate Student Veterans](https://utah.academicworks.com/opportunities/29349) | $2,000 | N/A |
 | [Alumni "Almost There" Scholarship](https://utah.academicworks.com/opportunities/29305) | 2,500 | N/A |
 | [Emma Eccles Jones Fine Arts Leadership House Endowed Scholarship](https://utah.academicworks.com/opportunities/27664) | $1,500 | N/A |
-
-## UTAH-External
-
-| Name | Amount | Deadline |
-|------|--------|----------|
-| [ADEA Scholarships, Awards and Fellowships](https://utah.academicworks.com/opportunities/36350) | $0.00 | N/A |
-| [Health Resources and Services Administration HRSA](https://utah.academicworks.com/opportunities/35352) | $0.00 | N/A |
-| [National Dental Association Foundation](https://utah.academicworks.com/opportunities/35684) | 500-10k | N/A |
-| [Scholarships American Student Dental Association](https://utah.academicworks.com/opportunities/34688) | $0.00 | N/A |
-| [ADA Foundation](https://utah.academicworks.com/opportunities/31113) | $0.00 | N/A |
-| [Dr. Arthur A. Kezian DDS Science Scholarship](https://utah.academicworks.com/opportunities/36520) | $0.00 | N/A |
-| [Dental Trade Alliance Foundation Scholarship](https://utah.academicworks.com/opportunities/43723) | $0.00 | N/A |
 
 ## UofSC
 
