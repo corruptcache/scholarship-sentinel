@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-06-12 16:34:30 UTC
+Last updated: 2026-06-15 18:11:36 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -395,6 +395,7 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
+| [NC State Employee Dependent's Tuition Scholarship](https://ncsu.academicworks.com/opportunities/176963) | Up to $2000 | 06/15/2026 |
 | [Goodnight Scholars Program](https://ncsu.academicworks.com/opportunities/180468) | 24,000 | 08/01/2026 |
 | [Aspirations in Computing Scholarship](https://ncsu.academicworks.com/opportunities/179334) | $1,000.00 | 08/01/2026 |
 | [DNU_SAS Institute Minority Scholarship in Computer Science](https://ncsu.academicworks.com/opportunities/177048) | $1,500.00 | 08/01/2026 |
@@ -590,7 +591,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Ken Garff for Good Tech Scholarship](https://utah.academicworks.com/opportunities/44949) | $2,000.00 | 06/30/2026 |
 | [Science Research Initiative (SRI) Application](https://utah.academicworks.com/opportunities/44917) | Varies | 08/23/2026 |
 | [Theatre Scholarship for Incoming Freshman](https://utah.academicworks.com/opportunities/45048) | $0.00 | 08/30/2026 |
-| [College of Science Graduate Student Emergency Scholarship](https://utah.academicworks.com/opportunities/42115) | Varies | N/A |
 | [Educational Resource Development Council (College of Health)](https://utah.academicworks.com/opportunities/40627) | Varies | N/A |
 | [Tuition Waiver - Anthropology](https://utah.academicworks.com/opportunities/5604) | $0.00 | N/A |
 | [Dr. Samuel H. Allen Endowed Scholarship Fund](https://utah.academicworks.com/opportunities/13986) | $750.00 | N/A |
@@ -638,11 +638,34 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Stoker Family Endowed Scholarship for Undergraduate Student Veterans](https://utah.academicworks.com/opportunities/29349) | $2,000 | N/A |
 | [Alumni "Almost There" Scholarship](https://utah.academicworks.com/opportunities/29305) | 2,500 | N/A |
 | [Emma Eccles Jones Fine Arts Leadership House Endowed Scholarship](https://utah.academicworks.com/opportunities/27664) | $1,500 | N/A |
+| [ASUU Student Scholarship](https://utah.academicworks.com/opportunities/29705) | $500.00 | N/A |
+
+## UTAH-External
+
+| Name | Amount | Deadline |
+|------|--------|----------|
+| [ADEA Scholarships, Awards and Fellowships](https://utah.academicworks.com/opportunities/36350) | $0.00 | N/A |
+| [Health Resources and Services Administration HRSA](https://utah.academicworks.com/opportunities/35352) | $0.00 | N/A |
+| [National Dental Association Foundation](https://utah.academicworks.com/opportunities/35684) | 500-10k | N/A |
+| [Scholarships American Student Dental Association](https://utah.academicworks.com/opportunities/34688) | $0.00 | N/A |
+| [ADA Foundation](https://utah.academicworks.com/opportunities/31113) | $0.00 | N/A |
+| [Dr. Arthur A. Kezian DDS Science Scholarship](https://utah.academicworks.com/opportunities/36520) | $0.00 | N/A |
+| [Dental Trade Alliance Foundation Scholarship](https://utah.academicworks.com/opportunities/43723) | $0.00 | N/A |
 
 ## UofSC
 
 | Name | Amount | Deadline |
 |------|--------|----------|
+| [Carroll T. and Edward B. Cantey, Jr. Bicentennial Fellowship in Liberal Arts Fund](https://sc.academicworks.com/opportunities/11745) | Varies | 06/15/2026 |
+| [Dr. James Roy Prince Endowed Scholarship Fund](https://sc.academicworks.com/opportunities/11921) | Varies | 06/15/2026 |
+| [God at the Speed of Light Endowed Scholarship Fund](https://sc.academicworks.com/opportunities/11504) | Varies | 06/15/2026 |
+| [Goodlett Family Endowed Scholarship](https://sc.academicworks.com/opportunities/11715) | $1,148.00 | 06/15/2026 |
+| [Gray Webb Hurt Scholarship Fund](https://sc.academicworks.com/opportunities/12024) | $1,631.00 | 06/15/2026 |
+| [Henry King McGee Endowed Scholarship Fund](https://sc.academicworks.com/opportunities/11608) | $943.50 | 06/15/2026 |
+| [J. L. Pickens Scholarship](https://sc.academicworks.com/opportunities/11847) | Varies | 06/15/2026 |
+| [James and Barbara Willis Endowed Scholarship Fund](https://sc.academicworks.com/opportunities/11524) | Varies | 06/15/2026 |
+| [John K. Hoey Arts and Sciences Endowed Scholarship Fund](https://sc.academicworks.com/opportunities/11610) | Varies | 06/15/2026 |
+| [Mackey-Hogue Endowed Scholarship Fund](https://sc.academicworks.com/opportunities/11733) | $1,000.00 | 06/15/2026 |
 | [USC Alumni Association Legacy Scholarship](https://sc.academicworks.com/opportunities/11865) | $500 | 06/30/2026 |
 | [HRSM Future Leaders Scholarship](https://sc.academicworks.com/opportunities/12060) | Variable | 07/01/2026 |
 | [The Boyce Family Endowed Scholarship Fund](https://sc.academicworks.com/opportunities/11114) | Varies | 07/01/2026 |
@@ -700,7 +723,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [William "Bill" Thomas Scholarship](https://vt.academicworks.com/opportunities/66878) | Varies | 06/12/2026 |
 | [Austin Michelle Cloyd Social Justice Scholarship](https://vt.academicworks.com/opportunities/66807) | Varies | 06/30/2026 |
 | [Graham Stedman Neal Diabetes Fund](https://vt.academicworks.com/opportunities/67356) | Varies | 06/30/2026 |
 | [MIT Scholars](https://vt.academicworks.com/opportunities/66663) | Varies | 07/01/2026 |
@@ -750,6 +772,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Konrad-Steinmetz Scholarship](https://vt.academicworks.com/opportunities/20584) | Varies | N/A |
 | [Patricia & Joseph Love Scholarship](https://vt.academicworks.com/opportunities/20019) | Varies | N/A |
 | [R & M Curry Graduate Fellowship for CEE-Inc](https://vt.academicworks.com/opportunities/20127) | $0.00 | N/A |
+| [Rec Sports Intramural Graduate Assistantship](https://vt.academicworks.com/opportunities/29664) | Varies | N/A |
 
 ## VT-External
 
