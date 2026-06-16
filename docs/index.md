@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-06-15 18:11:36 UTC
+Last updated: 2026-06-16 18:19:07 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -145,8 +145,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [The W. R. Valentine Endowed Scholarship](https://ecu.academicworks.com/opportunities/35667) | Varies | 06/15/2026 |
-| [The Engineering Summer Bridge Scholarship](https://ecu.academicworks.com/opportunities/35229) | Varies | 06/15/2026 |
 | [The Annie F. Franklin Memorial Endowed Scholarship](https://ecu.academicworks.com/opportunities/35155) | Varies | N/A |
 | [The Berbecker Foundation Fellowship in Health Sciences - BSOM Graduate Research (R)](https://ecu.academicworks.com/opportunities/32728) | $5,000 | N/A |
 | [The Bob Yow Primary Care Nurse Practitioner Endowed Scholarship](https://ecu.academicworks.com/opportunities/33995) | Varies | N/A |
@@ -196,6 +194,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [The Anthony J. Papalas Prize (Ancient History)](https://ecu.academicworks.com/opportunities/6034) | Varies | N/A |
 | [The CommCrew Scholarship](https://ecu.academicworks.com/opportunities/6040) | $1,000 | N/A |
 | [The Ellis-Roberson Scholarship Fund](https://ecu.academicworks.com/opportunities/8921) | Varies | N/A |
+| [The Engineering Department Sophomore Scholarship](https://ecu.academicworks.com/opportunities/6211) | Varies | N/A |
 
 ## ECU-External
 
@@ -211,12 +210,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Clampett Endowed Scholarship for Pre-Veterinary Excellence](https://fsu.academicworks.com/opportunities/39623) | Varies | 06/15/2026 |
-| [College of Medicine Alumni Relations Fund](https://fsu.academicworks.com/opportunities/37311) | $2,000 | 06/15/2026 |
-| [Healthcare Innovation and Medical Entrepreneurship](https://fsu.academicworks.com/opportunities/37131) | Varies | 06/15/2026 |
-| [Helen N. Livingston and William T. Murphy Education Endowment Fund](https://fsu.academicworks.com/opportunities/38430) | Varies | 06/15/2026 |
-| [Legacy in Medicine Altruism Scholarship Endowment Fund](https://fsu.academicworks.com/opportunities/36767) | Varies | 06/15/2026 |
-| [Stephen M. Nobles, M.D. Pathogenesis Award Endowment Fund](https://fsu.academicworks.com/opportunities/36352) | Varies | 06/15/2026 |
 | [Ada Belle Winthrop-King Endowed Graduate Teaching Enhancement Scholarship Fund](https://fsu.academicworks.com/opportunities/39709) | Varies | 06/18/2026 |
 | [College of Arts and Sciences Study Abroad Awards - Spring Semester Abroad](https://fsu.academicworks.com/opportunities/37178) | $4,000 | 06/18/2026 |
 | [FSU Gentlemen's Club Scholarship](https://fsu.academicworks.com/opportunities/36779) | Varies | 06/30/2026 |
@@ -261,6 +254,12 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Peter Boulware Toyota Scholarship](https://fsu.academicworks.com/opportunities/36025) | Varies | 10/01/2026 |
 | [Ronald & Jakie Pepper Merchandising Scholarship](https://fsu.academicworks.com/opportunities/36968) | Varies | 10/01/2026 |
 | [Thomas M. & Eileen Rhodes Culligan Scholarship Endowment Fund in Human Sciences](https://fsu.academicworks.com/opportunities/36227) | Varies | 10/01/2026 |
+| [Tom Gould Scholarship Fund](https://fsu.academicworks.com/opportunities/37062) | Varies | 10/01/2026 |
+| [Toys "R" Us Endowed Scholarship](https://fsu.academicworks.com/opportunities/36913) | Varies | 10/01/2026 |
+| [Wal-Mart Stores, Inc. Endowed Scholarship](https://fsu.academicworks.com/opportunities/36906) | Varies | 10/01/2026 |
+| [Younkers Scholarship in Textiles and Consumer Sciences](https://fsu.academicworks.com/opportunities/37039) | Varies | 10/01/2026 |
+| [Adam P. Arias ABA Autism Scholarship](https://fsu.academicworks.com/opportunities/37752) | Varies | 10/15/2026 |
+| [Alex Alfred Ankiewicz and Lucy Elizabeth Ankiewicz Scholarship Endowment](https://fsu.academicworks.com/opportunities/36723) | Varies | 10/15/2026 |
 
 ## Fay Tech
 
@@ -395,7 +394,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [NC State Employee Dependent's Tuition Scholarship](https://ncsu.academicworks.com/opportunities/176963) | Up to $2000 | 06/15/2026 |
 | [Goodnight Scholars Program](https://ncsu.academicworks.com/opportunities/180468) | 24,000 | 08/01/2026 |
 | [Aspirations in Computing Scholarship](https://ncsu.academicworks.com/opportunities/179334) | $1,000.00 | 08/01/2026 |
 | [DNU_SAS Institute Minority Scholarship in Computer Science](https://ncsu.academicworks.com/opportunities/177048) | $1,500.00 | 08/01/2026 |
@@ -478,7 +476,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Bernice Ruben Arnold Scholarship Fund](https://sfsu.academicworks.com/opportunities/22732) | 5000 (to be continued for 3 years for each awardee providing they meet the requirements) | 06/15/2026 |
 | [Marcus Recruitment Award](https://sfsu.academicworks.com/opportunities/22349) | varies | 06/16/2026 |
 | [Ginwala Family Music Endowment Fund](https://sfsu.academicworks.com/opportunities/23536) | Varies | N/A |
 | [Robert L. Liu Family Endowment:French Language and Culture Proficiency Award](https://sfsu.academicworks.com/opportunities/23275) | $750.00 | N/A |
@@ -528,6 +525,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Sierra Nevada Field Campus Scholarship](https://sfsu.academicworks.com/opportunities/2032) | Varies | N/A |
 | [Costco Scholarship Fund](https://sfsu.academicworks.com/opportunities/9805) | Equivalent to tuition | N/A |
 | [College of Business Veteran's Scholarship - MUFG](https://sfsu.academicworks.com/opportunities/9772) | 2,500 | N/A |
+| [Kurt Liedtke German Scholarship](https://sfsu.academicworks.com/opportunities/2542) | $500.00 | N/A |
 
 ## SFSU-External
 
@@ -656,16 +654,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Carroll T. and Edward B. Cantey, Jr. Bicentennial Fellowship in Liberal Arts Fund](https://sc.academicworks.com/opportunities/11745) | Varies | 06/15/2026 |
-| [Dr. James Roy Prince Endowed Scholarship Fund](https://sc.academicworks.com/opportunities/11921) | Varies | 06/15/2026 |
-| [God at the Speed of Light Endowed Scholarship Fund](https://sc.academicworks.com/opportunities/11504) | Varies | 06/15/2026 |
-| [Goodlett Family Endowed Scholarship](https://sc.academicworks.com/opportunities/11715) | $1,148.00 | 06/15/2026 |
-| [Gray Webb Hurt Scholarship Fund](https://sc.academicworks.com/opportunities/12024) | $1,631.00 | 06/15/2026 |
-| [Henry King McGee Endowed Scholarship Fund](https://sc.academicworks.com/opportunities/11608) | $943.50 | 06/15/2026 |
-| [J. L. Pickens Scholarship](https://sc.academicworks.com/opportunities/11847) | Varies | 06/15/2026 |
-| [James and Barbara Willis Endowed Scholarship Fund](https://sc.academicworks.com/opportunities/11524) | Varies | 06/15/2026 |
-| [John K. Hoey Arts and Sciences Endowed Scholarship Fund](https://sc.academicworks.com/opportunities/11610) | Varies | 06/15/2026 |
-| [Mackey-Hogue Endowed Scholarship Fund](https://sc.academicworks.com/opportunities/11733) | $1,000.00 | 06/15/2026 |
 | [USC Alumni Association Legacy Scholarship](https://sc.academicworks.com/opportunities/11865) | $500 | 06/30/2026 |
 | [HRSM Future Leaders Scholarship](https://sc.academicworks.com/opportunities/12060) | Variable | 07/01/2026 |
 | [The Boyce Family Endowed Scholarship Fund](https://sc.academicworks.com/opportunities/11114) | Varies | 07/01/2026 |
