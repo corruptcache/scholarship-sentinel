@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-06-16 18:19:07 UTC
+Last updated: 2026-06-17 16:47:55 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -394,6 +394,7 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
+| [NC State Employee Dependent's Tuition Scholarship](https://ncsu.academicworks.com/opportunities/176963) | Up to $2000 | 06/17/2026 |
 | [Goodnight Scholars Program](https://ncsu.academicworks.com/opportunities/180468) | 24,000 | 08/01/2026 |
 | [Aspirations in Computing Scholarship](https://ncsu.academicworks.com/opportunities/179334) | $1,000.00 | 08/01/2026 |
 | [DNU_SAS Institute Minority Scholarship in Computer Science](https://ncsu.academicworks.com/opportunities/177048) | $1,500.00 | 08/01/2026 |
@@ -465,6 +466,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Arrington Family Scholarship](https://ncsu.academicworks.com/opportunities/179508) | $0.00 | 08/01/2026 |
 | [Arthur Glenn Corpening Scholarship](https://ncsu.academicworks.com/opportunities/175684) | Varies | 08/01/2026 |
 | [American Dairy Products Association Scholarship](https://ncsu.academicworks.com/opportunities/179368) | varies | 08/01/2026 |
+| [Adams Oldcastle Werner-McQueen Architecture Scholarship Endowment](https://ncsu.academicworks.com/opportunities/177348) | Varies | 08/01/2026 |
 
 ## NC State-Flexible
 
@@ -476,7 +478,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Marcus Recruitment Award](https://sfsu.academicworks.com/opportunities/22349) | varies | 06/16/2026 |
 | [Ginwala Family Music Endowment Fund](https://sfsu.academicworks.com/opportunities/23536) | Varies | N/A |
 | [Robert L. Liu Family Endowment:French Language and Culture Proficiency Award](https://sfsu.academicworks.com/opportunities/23275) | $750.00 | N/A |
 | [Hilda Taba Scholarship](https://sfsu.academicworks.com/opportunities/1579) | $500.00 | N/A |
@@ -526,6 +527,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Costco Scholarship Fund](https://sfsu.academicworks.com/opportunities/9805) | Equivalent to tuition | N/A |
 | [College of Business Veteran's Scholarship - MUFG](https://sfsu.academicworks.com/opportunities/9772) | 2,500 | N/A |
 | [Kurt Liedtke German Scholarship](https://sfsu.academicworks.com/opportunities/2542) | $500.00 | N/A |
+| [Clinical Laboratory Science Internship Program Scholarship](https://sfsu.academicworks.com/opportunities/3437) | Varies | N/A |
 
 ## SFSU-External
 
