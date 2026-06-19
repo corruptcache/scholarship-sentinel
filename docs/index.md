@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-06-18 16:47:06 UTC
+Last updated: 2026-06-19 16:20:20 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -174,7 +174,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [The Sgt. Maj. John Lossie (USMC) RN-BSN Endowed Nursing Scholarship](https://ecu.academicworks.com/opportunities/32932) | Varies | N/A |
 | [The Stephen O. and Gayle S. Barefoot Endowed Scholarship](https://ecu.academicworks.com/opportunities/35175) | Varies | N/A |
 | [The Swank-Divine Nurse Practitioner Scholarship](https://ecu.academicworks.com/opportunities/35228) | Varies | N/A |
-| [The Swank-Divine Trust Clinical Nurse Specialist Scholarship](https://ecu.academicworks.com/opportunities/34425) | Varies | N/A |
 | [The Sylvia A. Hardy Memorial Endowed Scholarship](https://ecu.academicworks.com/opportunities/33198) | Varies | N/A |
 | [The Sylvia T. Brown Endowed Scholarship](https://ecu.academicworks.com/opportunities/33960) | Varies | N/A |
 | [The Tom and Carol Irons Graduate Global Initiative Endowed Scholarship](https://ecu.academicworks.com/opportunities/33044) | Varies | N/A |
@@ -195,6 +194,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [The CommCrew Scholarship](https://ecu.academicworks.com/opportunities/6040) | $1,000 | N/A |
 | [The Ellis-Roberson Scholarship Fund](https://ecu.academicworks.com/opportunities/8921) | Varies | N/A |
 | [The Engineering Department Sophomore Scholarship](https://ecu.academicworks.com/opportunities/6211) | Varies | N/A |
+| [The Page Family Scholarship](https://ecu.academicworks.com/opportunities/9047) | $2,500 | N/A |
 
 ## ECU-External
 
@@ -210,8 +210,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Ada Belle Winthrop-King Endowed Graduate Teaching Enhancement Scholarship Fund](https://fsu.academicworks.com/opportunities/39709) | Varies | 06/18/2026 |
-| [College of Arts and Sciences Study Abroad Awards - Spring Semester Abroad](https://fsu.academicworks.com/opportunities/37178) | $4,000 | 06/18/2026 |
 | [FSU Gentlemen's Club Scholarship](https://fsu.academicworks.com/opportunities/36779) | Varies | 06/30/2026 |
 | [Mike McGee Scholarship](https://fsu.academicworks.com/opportunities/39989) | Varies | 06/30/2026 |
 | [Elaine Tully Woodward and Bob Woodward Scholarship](https://fsu.academicworks.com/opportunities/37152) | Varies | 07/01/2026 |
@@ -260,6 +258,8 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Younkers Scholarship in Textiles and Consumer Sciences](https://fsu.academicworks.com/opportunities/37039) | Varies | 10/01/2026 |
 | [Adam P. Arias ABA Autism Scholarship](https://fsu.academicworks.com/opportunities/37752) | Varies | 10/15/2026 |
 | [Alex Alfred Ankiewicz and Lucy Elizabeth Ankiewicz Scholarship Endowment](https://fsu.academicworks.com/opportunities/36723) | Varies | 10/15/2026 |
+| [Alexander Rochell Opportunity Scholarship in Engineering](https://fsu.academicworks.com/opportunities/36481) | Varies | 10/15/2026 |
+| [Alfred I. duPont Foundation Scholarship Fund](https://fsu.academicworks.com/opportunities/37132) | Varies | 10/15/2026 |
 
 ## Fay Tech
 
@@ -477,6 +477,7 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
+| [College of Science and Engineering Scholarship](https://sfsu.academicworks.com/opportunities/22595) | One @ 5,000.00 | 07/08/2026 |
 | [Ginwala Family Music Endowment Fund](https://sfsu.academicworks.com/opportunities/23536) | Varies | N/A |
 | [Robert L. Liu Family Endowment:French Language and Culture Proficiency Award](https://sfsu.academicworks.com/opportunities/23275) | $750.00 | N/A |
 | [Hilda Taba Scholarship](https://sfsu.academicworks.com/opportunities/1579) | $500.00 | N/A |
@@ -526,7 +527,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Costco Scholarship Fund](https://sfsu.academicworks.com/opportunities/9805) | Equivalent to tuition | N/A |
 | [College of Business Veteran's Scholarship - MUFG](https://sfsu.academicworks.com/opportunities/9772) | 2,500 | N/A |
 | [Kurt Liedtke German Scholarship](https://sfsu.academicworks.com/opportunities/2542) | $500.00 | N/A |
-| [Clinical Laboratory Science Internship Program Scholarship](https://sfsu.academicworks.com/opportunities/3437) | Varies | N/A |
 
 ## SFSU-External
 
