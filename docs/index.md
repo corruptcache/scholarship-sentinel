@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-06-24 15:55:40 UTC
+Last updated: 2026-06-25 16:05:18 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -588,6 +588,7 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
+| [College of Education Student Emergency Hardship Fund 2025.2026](https://utah.academicworks.com/opportunities/45062) | Amount Varies up to $1,000. | 06/25/2026 |
 | [Ken Garff for Good Tech Scholarship](https://utah.academicworks.com/opportunities/44949) | $2,000.00 | 06/30/2026 |
 | [Science Research Initiative (SRI) Application](https://utah.academicworks.com/opportunities/44917) | Varies | 08/23/2026 |
 | [Theatre Scholarship for Incoming Freshman](https://utah.academicworks.com/opportunities/45048) | $0.00 | 08/30/2026 |
@@ -638,7 +639,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Alumni "Almost There" Scholarship](https://utah.academicworks.com/opportunities/29305) | 2,500 | N/A |
 | [Emma Eccles Jones Fine Arts Leadership House Endowed Scholarship](https://utah.academicworks.com/opportunities/27664) | $1,500 | N/A |
 | [ASUU Student Scholarship](https://utah.academicworks.com/opportunities/29705) | $500.00 | N/A |
-| [Utah NASA Space Grant Consortium Scholarship 22-23](https://utah.academicworks.com/opportunities/32470) | $750.00 | N/A |
 
 ## UTAH-External
 
