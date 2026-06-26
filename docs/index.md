@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-06-25 16:05:18 UTC
+Last updated: 2026-06-26 15:42:16 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -89,6 +89,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Garinger Education Foundation Scholarship](https://cpcc.academicworks.com/opportunities/11523) | Varies | 01/31/2027 |
 | [Gary & Cindy LaBrosse Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11390) | Varies | 01/31/2027 |
 | [Geraldine Horne Rhodes Endowed Scholarship (Cato)](https://cpcc.academicworks.com/opportunities/11290) | Varies | 01/31/2027 |
+| [Goodrich Corporation Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11378) | Varies | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
 | [CEENTA Angie Madigan Ophthalmic Medical Assisting Scholarship](https://cpcc.academicworks.com/opportunities/11619) | Varies | 02/14/2027 |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | 02/14/2027 |
@@ -588,57 +589,9 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [College of Education Student Emergency Hardship Fund 2025.2026](https://utah.academicworks.com/opportunities/45062) | Amount Varies up to $1,000. | 06/25/2026 |
 | [Ken Garff for Good Tech Scholarship](https://utah.academicworks.com/opportunities/44949) | $2,000.00 | 06/30/2026 |
 | [Science Research Initiative (SRI) Application](https://utah.academicworks.com/opportunities/44917) | Varies | 08/23/2026 |
 | [Theatre Scholarship for Incoming Freshman](https://utah.academicworks.com/opportunities/45048) | $0.00 | 08/30/2026 |
-| [Tuition Waiver - Anthropology](https://utah.academicworks.com/opportunities/5604) | $0.00 | N/A |
-| [Dr. Samuel H. Allen Endowed Scholarship Fund](https://utah.academicworks.com/opportunities/13986) | $750.00 | N/A |
-| [HP&E Golf Scholarship](https://utah.academicworks.com/opportunities/13989) | $500.00 | N/A |
-| [Lorene R. Mason Scholarship](https://utah.academicworks.com/opportunities/13597) | $1,000 | N/A |
-| [WMB LLC (Epic Ventures) - TBD](https://utah.academicworks.com/opportunities/14383) | $0.00 | N/A |
-| [Inspirational Student Award](https://utah.academicworks.com/opportunities/17317) | $0.00 | N/A |
-| [J. Gordon and Betty M. Browning Scholarship](https://utah.academicworks.com/opportunities/17311) | $0.00 | N/A |
-| [Outstanding Doctoral Candidate Award](https://utah.academicworks.com/opportunities/15913) | $0.00 | N/A |
-| [Outstanding Master's Student Award](https://utah.academicworks.com/opportunities/17314) | $0.00 | N/A |
-| [Outstanding Undergraduate Student Award](https://utah.academicworks.com/opportunities/18637) | $0.00 | N/A |
-| [Scholarship in Outdoor Leadership](https://utah.academicworks.com/opportunities/14589) | $0.00 | N/A |
-| [Susan S. Christiansen Endowed Scholarship](https://utah.academicworks.com/opportunities/16219) | $0.00 | N/A |
-| [The PRT Faculty and Staff Endowed Scholarship](https://utah.academicworks.com/opportunities/15922) | $0.00 | N/A |
-| [Utah Recreation and Parks Association Scholarships](https://utah.academicworks.com/opportunities/17917) | $0.00 | N/A |
-| [Boeing Company Scholarship](https://utah.academicworks.com/opportunities/17611) | $0.00 | N/A |
-| [Elaine K. Hunter Endowed Memorial Scholarship](https://utah.academicworks.com/opportunities/18601) | $1,000.00 | N/A |
-| [ExxonMobil Utes Scholarship](https://utah.academicworks.com/opportunities/17173) | $2,000.00 | N/A |
-| [Lawrence D. Schroder Endowed Scholarship](https://utah.academicworks.com/opportunities/17464) | $2,500.00 | N/A |
-| [Parker-Hannifin Scholarship](https://utah.academicworks.com/opportunities/15634) | $0.00 | N/A |
-| [J. George Jones Fine Arts Advisory Board Scholarship](https://utah.academicworks.com/opportunities/14362) | $2,000 | N/A |
-| [Royal L. Garff Endowed Scholarship](https://utah.academicworks.com/opportunities/20071) | $2,000.00 | N/A |
-| [Student2Student Scholarship](https://utah.academicworks.com/opportunities/19920) | $500 Minimum | N/A |
-| [Alberta Henry Scholarship](https://utah.academicworks.com/opportunities/20142) | $0.00 | N/A |
-| [Fred and Judy Tamagawa Scholarship](https://utah.academicworks.com/opportunities/21498) | $500.00 | N/A |
-| [Scholarship in Outdoor Leadership](https://utah.academicworks.com/opportunities/24913) | $500.00 | N/A |
-| [THE HEALTH & WELL-BEING AWARD](https://utah.academicworks.com/opportunities/22384) | $1,000.00 | N/A |
-| [CompU Leaders Scholarship](https://utah.academicworks.com/opportunities/21346) | Varies | N/A |
-| [David Jorgensen Freshman Scholarship](https://utah.academicworks.com/opportunities/20986) | $8,000.00 | N/A |
-| [Philosophy Department Partial Tuition Scholarship](https://utah.academicworks.com/opportunities/22700) | $5,000 | N/A |
-| [Terrel H. Bell Scholarship Renewal](https://utah.academicworks.com/opportunities/20768) | $0.00 | N/A |
-| [Whisner-Appleby Scholarship](https://utah.academicworks.com/opportunities/21879) | $4,000.00 | N/A |
-| [David H. Perrin Athletic Training Program Scholarship - 2nd Year MAT](https://utah.academicworks.com/opportunities/27830) | $1,250.00 | N/A |
-| [The Marcia L Feldkamp, PA Scholarship in Physician Assistant Studies](https://utah.academicworks.com/opportunities/27718) | $1,000.00 | N/A |
-| [Hakon H. Haglund Financial Relief Fund](https://utah.academicworks.com/opportunities/26820) | Varies | N/A |
-| [Red Hanger Scholarship](https://utah.academicworks.com/opportunities/26237) | $1,500.00 | N/A |
-| [Dr. Kelly and Nate Bricker ‘Experience the World’ Scholarship](https://utah.academicworks.com/opportunities/25619) | $0.00 | N/A |
-| [Rosemarie Wintle Scholarship](https://utah.academicworks.com/opportunities/29138) | $9,500.00 | N/A |
-| [Jay W. and Sharlene B. Glasmann Family  Endowed Graduate Fellowship](https://utah.academicworks.com/opportunities/26386) | Variable | N/A |
-| [Simin S. Mostofi Memorial Scholarship](https://utah.academicworks.com/opportunities/26195) | $1,500 | N/A |
-| [Alumni Association and Veterans Support Center Scholarship for Service Member Persistence](https://utah.academicworks.com/opportunities/29337) | $1,000 - $2,000 | N/A |
-| [Alumni Association and Veterans Support Center Scholarship for U Vet Parents](https://utah.academicworks.com/opportunities/29340) | $1,500 - $2,000 | N/A |
-| [Alumni Association and Veterans Support Center Scholarship for Undergraduate Student Veteran Volunteerism or Engagement](https://utah.academicworks.com/opportunities/29346) | $2,000 | N/A |
-| [Alumni Association and Veterans Support Center Scholarship for Undergraduate U Vet Juggernauts](https://utah.academicworks.com/opportunities/29343) | $1,000 - $2,000 | N/A |
-| [Stoker Family Endowed Scholarship for Undergraduate Student Veterans](https://utah.academicworks.com/opportunities/29349) | $2,000 | N/A |
-| [Alumni "Almost There" Scholarship](https://utah.academicworks.com/opportunities/29305) | 2,500 | N/A |
-| [Emma Eccles Jones Fine Arts Leadership House Endowed Scholarship](https://utah.academicworks.com/opportunities/27664) | $1,500 | N/A |
-| [ASUU Student Scholarship](https://utah.academicworks.com/opportunities/29705) | $500.00 | N/A |
 
 ## UTAH-External
 
@@ -648,9 +601,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Health Resources and Services Administration HRSA](https://utah.academicworks.com/opportunities/35352) | $0.00 | N/A |
 | [National Dental Association Foundation](https://utah.academicworks.com/opportunities/35684) | 500-10k | N/A |
 | [Scholarships American Student Dental Association](https://utah.academicworks.com/opportunities/34688) | $0.00 | N/A |
-| [ADA Foundation](https://utah.academicworks.com/opportunities/31113) | $0.00 | N/A |
-| [Dr. Arthur A. Kezian DDS Science Scholarship](https://utah.academicworks.com/opportunities/36520) | $0.00 | N/A |
-| [Dental Trade Alliance Foundation Scholarship](https://utah.academicworks.com/opportunities/43723) | $0.00 | N/A |
 
 ## UofSC
 
