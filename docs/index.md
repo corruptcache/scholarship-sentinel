@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-06-26 15:42:16 UTC
+Last updated: 2026-06-29 16:47:28 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -480,6 +480,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | Name | Amount | Deadline |
 |------|--------|----------|
 | [College of Science and Engineering Scholarship](https://sfsu.academicworks.com/opportunities/22595) | One @ 5,000.00 | 07/08/2026 |
+| [Eden Academic Excellence Award](https://sfsu.academicworks.com/opportunities/23209) | $3,000 per semester | 07/10/2026 |
 | [Ginwala Family Music Endowment Fund](https://sfsu.academicworks.com/opportunities/23536) | Varies | N/A |
 | [Robert L. Liu Family Endowment:French Language and Culture Proficiency Award](https://sfsu.academicworks.com/opportunities/23275) | $750.00 | N/A |
 | [Hilda Taba Scholarship](https://sfsu.academicworks.com/opportunities/1579) | $500.00 | N/A |
@@ -528,7 +529,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Sierra Nevada Field Campus Scholarship](https://sfsu.academicworks.com/opportunities/2032) | Varies | N/A |
 | [Costco Scholarship Fund](https://sfsu.academicworks.com/opportunities/9805) | Equivalent to tuition | N/A |
 | [College of Business Veteran's Scholarship - MUFG](https://sfsu.academicworks.com/opportunities/9772) | 2,500 | N/A |
-| [Kurt Liedtke German Scholarship](https://sfsu.academicworks.com/opportunities/2542) | $500.00 | N/A |
 
 ## SFSU-External
 
