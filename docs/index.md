@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-06-29 16:47:28 UTC
+Last updated: 2026-06-30 16:09:42 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -303,6 +303,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Devasthali Family Endowed Scholarship](https://faytechcc.academicworks.com/opportunities/4412) | Varies | N/A |
 | [Dogwood Adult High School Endowed Scholarship](https://faytechcc.academicworks.com/opportunities/4422) | $1500.00 | N/A |
 | [Dr. Donald Whitehead Memorial Endowed Scholarship](https://faytechcc.academicworks.com/opportunities/4335) | $1000 | N/A |
+| [Dr. Edward & Eleanor Jackson Memorial Scholarship](https://faytechcc.academicworks.com/opportunities/4471) | $1000 | N/A |
 | [Dr. Helen Capps Winstead Endowed Scholarship](https://faytechcc.academicworks.com/opportunities/4321) | $1000 | N/A |
 | [Dr. Hubert E. Batten Endowed Scholarship](https://faytechcc.academicworks.com/opportunities/4447) | Varies | N/A |
 | [Dr. J. Larry & Vicki Keen Endowed Scholarship](https://faytechcc.academicworks.com/opportunities/4457) | $500 | N/A |
@@ -313,7 +314,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Dr. Phillip Warren Physical Therapist Assistant Scholarship](https://faytechcc.academicworks.com/opportunities/4574) | Varies | N/A |
 | [Dr. Wilson A. Lacy for MLK Committee Scholarship](https://faytechcc.academicworks.com/opportunities/4373) | Varies | N/A |
 | [Earl Melvin Memorial Endowed Scholarship](https://faytechcc.academicworks.com/opportunities/4570) | $500 | N/A |
-| [Eleanor Jackson Memorial Scholarship](https://faytechcc.academicworks.com/opportunities/4471) | $1000 | N/A |
 | [Emergency Medical Services Scholarship Fund](https://faytechcc.academicworks.com/opportunities/4454) | $500.00 | N/A |
 | [English Department Memorial Endowed Scholarship](https://faytechcc.academicworks.com/opportunities/4598) | Varies | N/A |
 | [Esther L. Motte Memorial Scholarship](https://faytechcc.academicworks.com/opportunities/4504) | Varies | N/A |
@@ -396,6 +396,7 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
+| [NC State Employee Dependent's Tuition Scholarship](https://ncsu.academicworks.com/opportunities/176963) | Up to $2000 | 06/30/2026 |
 | [Goodnight Scholars Program](https://ncsu.academicworks.com/opportunities/180468) | 24,000 | 08/01/2026 |
 | [Aspirations in Computing Scholarship](https://ncsu.academicworks.com/opportunities/179334) | $1,000.00 | 08/01/2026 |
 | [DNU_SAS Institute Minority Scholarship in Computer Science](https://ncsu.academicworks.com/opportunities/177048) | $1,500.00 | 08/01/2026 |
