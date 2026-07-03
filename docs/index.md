@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-07-02 15:54:59 UTC
+Last updated: 2026-07-03 15:36:33 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -91,6 +91,8 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Geraldine Horne Rhodes Endowed Scholarship (Cato)](https://cpcc.academicworks.com/opportunities/11290) | Varies | 01/31/2027 |
 | [Goodrich Corporation Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11378) | Varies | 01/31/2027 |
 | [Greenville Community HOA Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11248) | Varies | 01/31/2027 |
+| [Grover Maxwell Endowed Scholarship (Cato)](https://cpcc.academicworks.com/opportunities/11349) | Varies | 01/31/2027 |
+| [Hannum Family Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11220) | Varies | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
 | [CEENTA Angie Madigan Ophthalmic Medical Assisting Scholarship](https://cpcc.academicworks.com/opportunities/11619) | Varies | 02/14/2027 |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | 02/14/2027 |
@@ -606,6 +608,7 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
+| [HRSM Future Leaders Scholarship](https://sc.academicworks.com/opportunities/12060) | Variable | 07/15/2026 |
 | [Graduation & Retention Network Student Fund](https://sc.academicworks.com/opportunities/12361) | Varies | 07/31/2026 |
 | [Clyde Shirley U.S. Constitution Scholarship](https://sc.academicworks.com/opportunities/11580) | Varies | 08/07/2026 |
 | [Donald J. Greiner Scholarship](https://sc.academicworks.com/opportunities/10545) | Varies | 08/07/2026 |
