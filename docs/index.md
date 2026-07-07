@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-07-06 16:41:22 UTC
+Last updated: 2026-07-07 16:05:34 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -215,6 +215,7 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
+| [Mike McGee Scholarship](https://fsu.academicworks.com/opportunities/39989) | Varies | 07/31/2026 |
 | [Anderson-Darling Family Graduate Student Research Travel Award](https://fsu.academicworks.com/opportunities/36018) | Varies | 08/01/2026 |
 | [Andrew Coffey Memorial Scholarship](https://fsu.academicworks.com/opportunities/37673) | Varies | 08/01/2026 |
 | [Rosalina Gonzalez Book Award Scholarship](https://fsu.academicworks.com/opportunities/39425) | $250 | 08/01/2026 |
