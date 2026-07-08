@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-07-07 16:05:34 UTC
+Last updated: 2026-07-08 15:52:46 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -345,7 +345,9 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
+| [Arscott Family Scholarship](https://gvltec.academicworks.com/opportunities/2866) | Varies | N/A |
 | [Colonel Harold Premo Memorial Aviation/MTT Scholarship](https://gvltec.academicworks.com/opportunities/2749) | Varies | N/A |
+| [Gene Haas Endowed Scholarship](https://gvltec.academicworks.com/opportunities/3052) | Varies | N/A |
 | [Kinder Family Foundation Scholarship](https://gvltec.academicworks.com/opportunities/3136) | Varies | N/A |
 | [Laura Kohlmorgen Memorial Scholarship](https://gvltec.academicworks.com/opportunities/2923) | Varies | N/A |
 | [PMMI/Claude S. Breeden Scholarship](https://gvltec.academicworks.com/opportunities/3097) | Varies | N/A |
@@ -393,14 +395,11 @@ This page contains all currently live scholarships detected by the sentinel.
 | [CompX National Machine Tool Technology Endowed Scholarship](https://gvltec.academicworks.com/opportunities/6115) | varies | N/A |
 | [Construction Engineering Technology/Construction Specifications Institute (CSI) Endowed Scholarship](https://gvltec.academicworks.com/opportunities/6138) | varies | N/A |
 | [Crescent Community Club](https://gvltec.academicworks.com/opportunities/6160) | varies | N/A |
-| [D.L. Scurry Foundation Scholarship](https://gvltec.academicworks.com/opportunities/6022) | varies | N/A |
-| [DACA (Deferred Action of Childhood Arrival) Student Scholarship Fund](https://gvltec.academicworks.com/opportunities/5877) | varies | N/A |
 
 ## NC State
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [NC State Employee Dependent's Tuition Scholarship](https://ncsu.academicworks.com/opportunities/176963) | Up to $2000 | 07/07/2026 |
 | [Goodnight Scholars Program](https://ncsu.academicworks.com/opportunities/180468) | 24,000 | 08/01/2026 |
 | [Aspirations in Computing Scholarship](https://ncsu.academicworks.com/opportunities/179334) | $1,000.00 | 08/01/2026 |
 | [DNU_SAS Institute Minority Scholarship in Computer Science](https://ncsu.academicworks.com/opportunities/177048) | $1,500.00 | 08/01/2026 |
