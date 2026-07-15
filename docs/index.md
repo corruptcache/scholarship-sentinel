@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-07-14 15:10:48 UTC
+Last updated: 2026-07-15 15:11:03 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -93,6 +93,8 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Greenville Community HOA Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11248) | Varies | 01/31/2027 |
 | [Grover Maxwell Endowed Scholarship (Cato)](https://cpcc.academicworks.com/opportunities/11349) | Varies | 01/31/2027 |
 | [Hannum Family Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11220) | Varies | 01/31/2027 |
+| [Health Sciences Scholarship](https://cpcc.academicworks.com/opportunities/11471) | Varies | 01/31/2027 |
+| [Helen N. Lee Endowed Scholarship (Cato)](https://cpcc.academicworks.com/opportunities/11243) | Varies | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
 | [CEENTA Angie Madigan Ophthalmic Medical Assisting Scholarship](https://cpcc.academicworks.com/opportunities/11619) | Varies | 02/14/2027 |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | 02/14/2027 |
@@ -219,6 +221,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Andrew Coffey Memorial Scholarship](https://fsu.academicworks.com/opportunities/37673) | Varies | 08/01/2026 |
 | [Rosalina Gonzalez Book Award Scholarship](https://fsu.academicworks.com/opportunities/39425) | $250 | 08/01/2026 |
 | [Braden Lee Small Memorial Scholarship](https://fsu.academicworks.com/opportunities/40050) | Varies | 08/10/2026 |
+| [College of Arts and Sciences Study Abroad Awards - Spring Semester Abroad](https://fsu.academicworks.com/opportunities/37178) | $4,000 | 08/14/2026 |
 | [International Programs Scholarship - Spring Application](https://fsu.academicworks.com/opportunities/39501) | Varies | 08/19/2026 |
 | [Charles Richter Reusing Fund](https://fsu.academicworks.com/opportunities/39801) | Varies | 08/28/2026 |
 | [Corey D. Dahlem Memorial Endowed Scholarships](https://fsu.academicworks.com/opportunities/39782) | Varies | 08/28/2026 |
@@ -399,7 +402,7 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [NC State Employee Dependent's Tuition Scholarship](https://ncsu.academicworks.com/opportunities/176963) | Up to $2000 | 07/15/2026 |
+| [NC State Employee Dependent's Tuition Scholarship](https://ncsu.academicworks.com/opportunities/176963) | Up to $2000 | 07/17/2026 |
 | [Goodnight Scholars Program](https://ncsu.academicworks.com/opportunities/180468) | 24,000 | 08/01/2026 |
 | [Aspirations in Computing Scholarship](https://ncsu.academicworks.com/opportunities/179334) | $1,000.00 | 08/01/2026 |
 | [DNU_SAS Institute Minority Scholarship in Computer Science](https://ncsu.academicworks.com/opportunities/177048) | $1,500.00 | 08/01/2026 |
@@ -483,8 +486,8 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Jules H. Strauss Computer Science Scholarship](https://sfsu.academicworks.com/opportunities/22898) | $2,000 | 07/14/2026 |
 | [Pamela Fong Scholarship in Mathematics](https://sfsu.academicworks.com/opportunities/23280) | 2 awards @ $2,500 each | 07/15/2026 |
+| [Herodotus Fund for Graduate Travel in History](https://sfsu.academicworks.com/opportunities/22745) | varies | 07/15/2026 |
 | [Music Department Scholarship Fund](https://sfsu.academicworks.com/opportunities/23694) | varies | 10/01/2026 |
 | [Ginwala Family Music Endowment Fund](https://sfsu.academicworks.com/opportunities/23536) | Varies | N/A |
 | [Pone Forgivable Loan/Scholarship](https://sfsu.academicworks.com/opportunities/22647) | varies | N/A |
