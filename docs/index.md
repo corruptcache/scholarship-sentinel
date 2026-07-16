@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-07-15 15:11:03 UTC
+Last updated: 2026-07-16 15:19:47 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -95,6 +95,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Hannum Family Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11220) | Varies | 01/31/2027 |
 | [Health Sciences Scholarship](https://cpcc.academicworks.com/opportunities/11471) | Varies | 01/31/2027 |
 | [Helen N. Lee Endowed Scholarship (Cato)](https://cpcc.academicworks.com/opportunities/11243) | Varies | 01/31/2027 |
+| [Hilary B. Waddell Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11124) | Varies | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
 | [CEENTA Angie Madigan Ophthalmic Medical Assisting Scholarship](https://cpcc.academicworks.com/opportunities/11619) | Varies | 02/14/2027 |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | 02/14/2027 |
@@ -119,6 +120,8 @@ This page contains all currently live scholarships detected by the sentinel.
 | Name | Amount | Deadline |
 |------|--------|----------|
 | [Macy Ezell Cooke Scholarship Endowment](https://cofc.academicworks.com/opportunities/12363) | Varies | 09/03/2026 |
+| [Deutscher Bruderliche Bund Scholarship](https://cofc.academicworks.com/opportunities/12490) | Varies | 09/18/2026 |
+| [German Friendly Society Scholarship](https://cofc.academicworks.com/opportunities/12545) | Varies | 09/18/2026 |
 | [Stephanie Sheffield Travel Scholarship](https://cofc.academicworks.com/opportunities/12903) | Varies | 01/15/2027 |
 | [Chick-fil-A Graduate Leadership Scholarship](https://cofc.academicworks.com/opportunities/11757) | Varies | N/A |
 | [College of Charleston Young Alumni Scholarship](https://cofc.academicworks.com/opportunities/11993) | Varies | N/A |
@@ -217,6 +220,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | Name | Amount | Deadline |
 |------|--------|----------|
 | [Mike McGee Scholarship](https://fsu.academicworks.com/opportunities/39989) | Varies | 07/31/2026 |
+| [Michaela Thomas Heart of the RA Award](https://fsu.academicworks.com/opportunities/40560) | Varies | 07/31/2026 |
 | [Anderson-Darling Family Graduate Student Research Travel Award](https://fsu.academicworks.com/opportunities/36018) | Varies | 08/01/2026 |
 | [Andrew Coffey Memorial Scholarship](https://fsu.academicworks.com/opportunities/37673) | Varies | 08/01/2026 |
 | [Rosalina Gonzalez Book Award Scholarship](https://fsu.academicworks.com/opportunities/39425) | $250 | 08/01/2026 |
@@ -486,8 +490,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Pamela Fong Scholarship in Mathematics](https://sfsu.academicworks.com/opportunities/23280) | 2 awards @ $2,500 each | 07/15/2026 |
-| [Herodotus Fund for Graduate Travel in History](https://sfsu.academicworks.com/opportunities/22745) | varies | 07/15/2026 |
 | [Music Department Scholarship Fund](https://sfsu.academicworks.com/opportunities/23694) | varies | 10/01/2026 |
 | [Ginwala Family Music Endowment Fund](https://sfsu.academicworks.com/opportunities/23536) | Varies | N/A |
 | [Pone Forgivable Loan/Scholarship](https://sfsu.academicworks.com/opportunities/22647) | varies | N/A |
@@ -536,6 +538,8 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Paul Zee Lyons Memorial Scholarships For Chinese Translation Studies, The](https://sfsu.academicworks.com/opportunities/9618) | varies | N/A |
 | [Dianne Francis Derby Memorial Scholarship](https://sfsu.academicworks.com/opportunities/7016) | $300 | N/A |
 | [Sierra Nevada Field Campus Scholarship](https://sfsu.academicworks.com/opportunities/2032) | Varies | N/A |
+| [Costco Scholarship Fund](https://sfsu.academicworks.com/opportunities/9805) | Equivalent to tuition | N/A |
+| [College of Business Veteran's Scholarship - MUFG](https://sfsu.academicworks.com/opportunities/9772) | 2,500 | N/A |
 
 ## SFSU-External
 
@@ -612,7 +616,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [HRSM Future Leaders Scholarship](https://sc.academicworks.com/opportunities/12060) | Variable | 07/15/2026 |
 | [Graduation & Retention Network Student Fund](https://sc.academicworks.com/opportunities/12361) | Varies | 07/31/2026 |
 | [Clyde Shirley U.S. Constitution Scholarship](https://sc.academicworks.com/opportunities/11580) | Varies | 08/07/2026 |
 | [Donald J. Greiner Scholarship](https://sc.academicworks.com/opportunities/10545) | Varies | 08/14/2026 |
