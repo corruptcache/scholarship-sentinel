@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-07-16 15:19:47 UTC
+Last updated: 2026-07-17 15:00:56 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -10,8 +10,6 @@ This page contains all currently live scholarships detected by the sentinel.
 |------|--------|----------|
 | [Opportunity Scholars Program](https://cpcc.academicworks.com/opportunities/11668) | Up to $10,000 over 2 years | 08/31/2026 |
 | [Wilton & Mary Parr Arts & Humanity Endowed Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11706) | Up to $10,000 over 2 years | 08/31/2026 |
-| [Howard & Julie Levine Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11697) | Up to $10,000 over 2 years | 09/01/2026 |
-| [Hugh L. McColl Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11694) | Up to $10,000 over 2 years | 09/01/2026 |
 | [NUCOR Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11680) | Up to $10,000 over 2 years | 09/01/2026 |
 | [Aasha Scholarship](https://cpcc.academicworks.com/opportunities/11429) | Varies | 01/31/2027 |
 | [Alli & Aiden Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11646) | Varies | 01/31/2027 |
@@ -59,6 +57,8 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Debbie Antshel Memorial Scholarship](https://cpcc.academicworks.com/opportunities/11226) | Varies | 01/31/2027 |
 | [Dental Hygiene Anniversary Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11140) | Varies | 01/31/2027 |
 | [Dickson Endowed Scholarship Program in Medical & Health Care Professions](https://cpcc.academicworks.com/opportunities/11178) | Varies | 01/31/2027 |
+| [Howard & Julie Levine Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11697) | Up to $10,000 over 2 years | 01/31/2027 |
+| [Hugh L. McColl Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11694) | Up to $10,000 over 2 years | 01/31/2027 |
 | [Merancas Technical Careers Scholarship](https://cpcc.academicworks.com/opportunities/11514) | Varies | 01/31/2027 |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11732) | Varies | 01/31/2027 |
 | [CEENTA Angie Madigan Ophthalmic Medical Assisting Scholarship](https://cpcc.academicworks.com/opportunities/11743) | Varies | 01/31/2027 |
@@ -96,6 +96,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Health Sciences Scholarship](https://cpcc.academicworks.com/opportunities/11471) | Varies | 01/31/2027 |
 | [Helen N. Lee Endowed Scholarship (Cato)](https://cpcc.academicworks.com/opportunities/11243) | Varies | 01/31/2027 |
 | [Hilary B. Waddell Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11124) | Varies | 01/31/2027 |
+| [Hubert H. Thomason Memorial Endowed Scholarship (Cato)](https://cpcc.academicworks.com/opportunities/11168) | Varies | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
 | [CEENTA Angie Madigan Ophthalmic Medical Assisting Scholarship](https://cpcc.academicworks.com/opportunities/11619) | Varies | 02/14/2027 |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | 02/14/2027 |
@@ -490,6 +491,8 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
+| [Bill Plachy Endowed TA Award](https://sfsu.academicworks.com/opportunities/22626) | 1 Award @ $2000 | 07/20/2026 |
+| [Henry Bertin Jr. Scholarship for Graduate Students in Chemistry and Biochemistry](https://sfsu.academicworks.com/opportunities/23705) | 8,000 | 07/24/2026 |
 | [Music Department Scholarship Fund](https://sfsu.academicworks.com/opportunities/23694) | varies | 10/01/2026 |
 | [Ginwala Family Music Endowment Fund](https://sfsu.academicworks.com/opportunities/23536) | Varies | N/A |
 | [Pone Forgivable Loan/Scholarship](https://sfsu.academicworks.com/opportunities/22647) | varies | N/A |
@@ -538,8 +541,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Paul Zee Lyons Memorial Scholarships For Chinese Translation Studies, The](https://sfsu.academicworks.com/opportunities/9618) | varies | N/A |
 | [Dianne Francis Derby Memorial Scholarship](https://sfsu.academicworks.com/opportunities/7016) | $300 | N/A |
 | [Sierra Nevada Field Campus Scholarship](https://sfsu.academicworks.com/opportunities/2032) | Varies | N/A |
-| [Costco Scholarship Fund](https://sfsu.academicworks.com/opportunities/9805) | Equivalent to tuition | N/A |
-| [College of Business Veteran's Scholarship - MUFG](https://sfsu.academicworks.com/opportunities/9772) | 2,500 | N/A |
 
 ## SFSU-External
 
