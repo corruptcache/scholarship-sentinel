@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-07-17 15:00:56 UTC
+Last updated: 2026-07-20 15:31:32 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -249,6 +249,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Richard Wright Endowed Fellowship in Communication Disorders](https://fsu.academicworks.com/opportunities/37484) | Varies | 09/04/2026 |
 | [Robin Shari Parker Endowment in Speech-Language Pathology](https://fsu.academicworks.com/opportunities/37038) | Varies | 09/04/2026 |
 | [William G. and Alma S. Anderson Memorial Scholarship Fund](https://fsu.academicworks.com/opportunities/36798) | Varies | 09/04/2026 |
+| [College of Arts and Sciences Student Travel Awards](https://fsu.academicworks.com/opportunities/40344) | $500 | 09/18/2026 |
 | [Barbara B. Vereen Family Scholarship](https://fsu.academicworks.com/opportunities/36809) | Varies | 10/01/2026 |
 | [Brand Ferland Advisors Scholarship](https://fsu.academicworks.com/opportunities/36746) | $3,000 | 10/01/2026 |
 | [Entrepreneurship Graduate Program](https://fsu.academicworks.com/opportunities/39414) | Varies | 10/01/2026 |
@@ -407,7 +408,7 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [NC State Employee Dependent's Tuition Scholarship](https://ncsu.academicworks.com/opportunities/176963) | Up to $2000 | 07/17/2026 |
+| [NC State Employee Dependent's Tuition Scholarship](https://ncsu.academicworks.com/opportunities/176963) | Up to $2000 | 07/21/2026 |
 | [Goodnight Scholars Program](https://ncsu.academicworks.com/opportunities/180468) | 24,000 | 08/01/2026 |
 | [Aspirations in Computing Scholarship](https://ncsu.academicworks.com/opportunities/179334) | $1,000.00 | 08/01/2026 |
 | [DNU_SAS Institute Minority Scholarship in Computer Science](https://ncsu.academicworks.com/opportunities/177048) | $1,500.00 | 08/01/2026 |
@@ -493,6 +494,7 @@ This page contains all currently live scholarships detected by the sentinel.
 |------|--------|----------|
 | [Bill Plachy Endowed TA Award](https://sfsu.academicworks.com/opportunities/22626) | 1 Award @ $2000 | 07/20/2026 |
 | [Henry Bertin Jr. Scholarship for Graduate Students in Chemistry and Biochemistry](https://sfsu.academicworks.com/opportunities/23705) | 8,000 | 07/24/2026 |
+| [Henry Bertin Jr. Scholarship for Graduate Students in Chemistry and Biochemistry](https://sfsu.academicworks.com/opportunities/22492) | 8,000 | 07/24/2026 |
 | [Music Department Scholarship Fund](https://sfsu.academicworks.com/opportunities/23694) | varies | 10/01/2026 |
 | [Ginwala Family Music Endowment Fund](https://sfsu.academicworks.com/opportunities/23536) | Varies | N/A |
 | [Pone Forgivable Loan/Scholarship](https://sfsu.academicworks.com/opportunities/22647) | varies | N/A |
@@ -617,6 +619,7 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
+| [Carroll T. and Edward B. Cantey, Jr. Bicentennial Fellowship in Liberal Arts Fund](https://sc.academicworks.com/opportunities/11745) | Varies | 07/21/2026 |
 | [Graduation & Retention Network Student Fund](https://sc.academicworks.com/opportunities/12361) | Varies | 07/31/2026 |
 | [Clyde Shirley U.S. Constitution Scholarship](https://sc.academicworks.com/opportunities/11580) | Varies | 08/07/2026 |
 | [Donald J. Greiner Scholarship](https://sc.academicworks.com/opportunities/10545) | Varies | 08/14/2026 |
@@ -673,6 +676,8 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
+| [MIT Scholars](https://vt.academicworks.com/opportunities/66663) | Varies | 12/01/2026 |
+| [Public Service Education Institute Scholarship](https://vt.academicworks.com/opportunities/68071) | Varies | 04/15/2027 |
 | [Dallas Kinser & RT Johnson Scholarship](https://vt.academicworks.com/opportunities/5882) | Varies | N/A |
 | [zzzz - James M. Brooking Loan Fund](https://vt.academicworks.com/opportunities/979) | Varies | N/A |
 | [zzzzz - Charles J. Sharitz Scholarship](https://vt.academicworks.com/opportunities/5375) | $0.00 | N/A |
@@ -721,8 +726,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Robert B. Fetter Scholarship](https://vt.academicworks.com/opportunities/22357) | Varies | N/A |
 | [Robert C. and Catherine E. Luckner Fellowship](https://vt.academicworks.com/opportunities/22099) | Varies | N/A |
 | [School of Education General Scholarship](https://vt.academicworks.com/opportunities/20479) | Varies | N/A |
-| [Ted J '66 & Micki H Viers Sch-Inc](https://vt.academicworks.com/opportunities/24768) | $0.00 | N/A |
-| [The James G. and Deborah L. Petrine Excellence Fund in Management](https://vt.academicworks.com/opportunities/29804) | Varies | N/A |
 
 ## VT-External
 
