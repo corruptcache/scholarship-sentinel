@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-07-20 15:31:32 UTC
+Last updated: 2026-07-21 15:24:46 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -492,7 +492,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Bill Plachy Endowed TA Award](https://sfsu.academicworks.com/opportunities/22626) | 1 Award @ $2000 | 07/20/2026 |
 | [Henry Bertin Jr. Scholarship for Graduate Students in Chemistry and Biochemistry](https://sfsu.academicworks.com/opportunities/23705) | 8,000 | 07/24/2026 |
 | [Henry Bertin Jr. Scholarship for Graduate Students in Chemistry and Biochemistry](https://sfsu.academicworks.com/opportunities/22492) | 8,000 | 07/24/2026 |
 | [Music Department Scholarship Fund](https://sfsu.academicworks.com/opportunities/23694) | varies | 10/01/2026 |
@@ -543,6 +542,8 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Paul Zee Lyons Memorial Scholarships For Chinese Translation Studies, The](https://sfsu.academicworks.com/opportunities/9618) | varies | N/A |
 | [Dianne Francis Derby Memorial Scholarship](https://sfsu.academicworks.com/opportunities/7016) | $300 | N/A |
 | [Sierra Nevada Field Campus Scholarship](https://sfsu.academicworks.com/opportunities/2032) | Varies | N/A |
+| [Costco Scholarship Fund](https://sfsu.academicworks.com/opportunities/9805) | Equivalent to tuition | N/A |
+| [College of Business Veteran's Scholarship - MUFG](https://sfsu.academicworks.com/opportunities/9772) | 2,500 | N/A |
 
 ## SFSU-External
 
@@ -620,6 +621,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | Name | Amount | Deadline |
 |------|--------|----------|
 | [Carroll T. and Edward B. Cantey, Jr. Bicentennial Fellowship in Liberal Arts Fund](https://sc.academicworks.com/opportunities/11745) | Varies | 07/21/2026 |
+| [Gray Webb Hurt Scholarship Fund](https://sc.academicworks.com/opportunities/12024) | Varies | 07/21/2026 |
 | [Graduation & Retention Network Student Fund](https://sc.academicworks.com/opportunities/12361) | Varies | 07/31/2026 |
 | [Clyde Shirley U.S. Constitution Scholarship](https://sc.academicworks.com/opportunities/11580) | Varies | 08/07/2026 |
 | [Donald J. Greiner Scholarship](https://sc.academicworks.com/opportunities/10545) | Varies | 08/14/2026 |
