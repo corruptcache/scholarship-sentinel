@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-07-21 15:24:46 UTC
+Last updated: 2026-07-22 15:22:30 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -97,6 +97,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Helen N. Lee Endowed Scholarship (Cato)](https://cpcc.academicworks.com/opportunities/11243) | Varies | 01/31/2027 |
 | [Hilary B. Waddell Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11124) | Varies | 01/31/2027 |
 | [Hubert H. Thomason Memorial Endowed Scholarship (Cato)](https://cpcc.academicworks.com/opportunities/11168) | Varies | 01/31/2027 |
+| [Invitation Homes Scholarship](https://cpcc.academicworks.com/opportunities/11574) | Varies | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
 | [CEENTA Angie Madigan Ophthalmic Medical Assisting Scholarship](https://cpcc.academicworks.com/opportunities/11619) | Varies | 02/14/2027 |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | 02/14/2027 |
@@ -156,6 +157,7 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
+| [The Graduate Security Studies Scholarship (R) (P)](https://ecu.academicworks.com/opportunities/38889) | $1,000 | 08/01/2026 |
 | [The Betsy Markowski Interior Design Scholarship](https://ecu.academicworks.com/opportunities/1472) | Varies | N/A |
 | [The Mel Markowski MedFT Scholarship](https://ecu.academicworks.com/opportunities/1271) | Varies | N/A |
 | [The Captain Christopher Cash Memorial Scholarship (Non-Military)](https://ecu.academicworks.com/opportunities/3348) | $0.00 | N/A |
@@ -205,7 +207,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [The Gerhard Kalmus Scholarship (P)](https://ecu.academicworks.com/opportunities/20644) | Varies | N/A |
 | [The Next Step Scholarship in Biology](https://ecu.academicworks.com/opportunities/21279) | Varies | N/A |
 | [The Harold H. Bate Study Abroad Scholarship - Thomas Harriot College of Arts and Sciences](https://ecu.academicworks.com/opportunities/22440) | Varies | N/A |
-| [The College of Business Purple Graduate Scholarship](https://ecu.academicworks.com/opportunities/22159) | Varies | N/A |
 
 ## ECU-External
 
@@ -408,7 +409,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [NC State Employee Dependent's Tuition Scholarship](https://ncsu.academicworks.com/opportunities/176963) | Up to $2000 | 07/21/2026 |
 | [Goodnight Scholars Program](https://ncsu.academicworks.com/opportunities/180468) | 24,000 | 08/01/2026 |
 | [Aspirations in Computing Scholarship](https://ncsu.academicworks.com/opportunities/179334) | $1,000.00 | 08/01/2026 |
 | [DNU_SAS Institute Minority Scholarship in Computer Science](https://ncsu.academicworks.com/opportunities/177048) | $1,500.00 | 08/01/2026 |
@@ -620,8 +620,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Carroll T. and Edward B. Cantey, Jr. Bicentennial Fellowship in Liberal Arts Fund](https://sc.academicworks.com/opportunities/11745) | Varies | 07/21/2026 |
-| [Gray Webb Hurt Scholarship Fund](https://sc.academicworks.com/opportunities/12024) | Varies | 07/21/2026 |
 | [Graduation & Retention Network Student Fund](https://sc.academicworks.com/opportunities/12361) | Varies | 07/31/2026 |
 | [Clyde Shirley U.S. Constitution Scholarship](https://sc.academicworks.com/opportunities/11580) | Varies | 08/07/2026 |
 | [Donald J. Greiner Scholarship](https://sc.academicworks.com/opportunities/10545) | Varies | 08/14/2026 |
