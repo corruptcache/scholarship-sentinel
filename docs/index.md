@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-07-22 15:22:30 UTC
+Last updated: 2026-07-23 15:34:48 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -98,6 +98,8 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Hilary B. Waddell Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11124) | Varies | 01/31/2027 |
 | [Hubert H. Thomason Memorial Endowed Scholarship (Cato)](https://cpcc.academicworks.com/opportunities/11168) | Varies | 01/31/2027 |
 | [Invitation Homes Scholarship](https://cpcc.academicworks.com/opportunities/11574) | Varies | 01/31/2027 |
+| [Iris J. Potts & Margaret L. Drumm Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11189) | Varies | 01/31/2027 |
+| [Jack & Barbara Claiborne Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11434) | Varies | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
 | [CEENTA Angie Madigan Ophthalmic Medical Assisting Scholarship](https://cpcc.academicworks.com/opportunities/11619) | Varies | 02/14/2027 |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | 02/14/2027 |
@@ -409,6 +411,7 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
+| [NC State Employee Dependent's Tuition Scholarship](https://ncsu.academicworks.com/opportunities/176963) | Up to $2000 | 07/24/2026 |
 | [Goodnight Scholars Program](https://ncsu.academicworks.com/opportunities/180468) | 24,000 | 08/01/2026 |
 | [Aspirations in Computing Scholarship](https://ncsu.academicworks.com/opportunities/179334) | $1,000.00 | 08/01/2026 |
 | [DNU_SAS Institute Minority Scholarship in Computer Science](https://ncsu.academicworks.com/opportunities/177048) | $1,500.00 | 08/01/2026 |
