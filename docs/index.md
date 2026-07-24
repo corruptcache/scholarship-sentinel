@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-07-23 15:34:48 UTC
+Last updated: 2026-07-24 15:15:57 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -100,6 +100,9 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Invitation Homes Scholarship](https://cpcc.academicworks.com/opportunities/11574) | Varies | 01/31/2027 |
 | [Iris J. Potts & Margaret L. Drumm Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11189) | Varies | 01/31/2027 |
 | [Jack & Barbara Claiborne Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11434) | Varies | 01/31/2027 |
+| [Jack Crist Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11232) | Varies | 01/31/2027 |
+| [James V. (Jimmy) Johnson Endowed Scholarship (Cato)](https://cpcc.academicworks.com/opportunities/11377) | Varies | 01/31/2027 |
+| [James W. (Jim) Emry Endowed Scholarship (Cato)](https://cpcc.academicworks.com/opportunities/11222) | Varies | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
 | [CEENTA Angie Madigan Ophthalmic Medical Assisting Scholarship](https://cpcc.academicworks.com/opportunities/11619) | Varies | 02/14/2027 |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | 02/14/2027 |
