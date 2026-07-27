@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-07-24 15:15:57 UTC
+Last updated: 2026-07-27 16:01:33 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -103,6 +103,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Jack Crist Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11232) | Varies | 01/31/2027 |
 | [James V. (Jimmy) Johnson Endowed Scholarship (Cato)](https://cpcc.academicworks.com/opportunities/11377) | Varies | 01/31/2027 |
 | [James W. (Jim) Emry Endowed Scholarship (Cato)](https://cpcc.academicworks.com/opportunities/11222) | Varies | 01/31/2027 |
+| [Jane & Stephen Cooper Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11276) | Varies | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
 | [CEENTA Angie Madigan Ophthalmic Medical Assisting Scholarship](https://cpcc.academicworks.com/opportunities/11619) | Varies | 02/14/2027 |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | 02/14/2027 |
@@ -246,6 +247,25 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Kelly R. Ivey Endowed Memorial Fund](https://fsu.academicworks.com/opportunities/39793) | Varies | 08/28/2026 |
 | [Relgalf Scholarships](https://fsu.academicworks.com/opportunities/39804) | Varies | 08/28/2026 |
 | [Rob Williams Endowed Scholarship Fund](https://fsu.academicworks.com/opportunities/39794) | Varies | 08/28/2026 |
+| [Ashley Elizabeth Nugent Endowed Scholarship](https://fsu.academicworks.com/opportunities/36944) | Varies | 08/31/2026 |
+| [Bill and Eloise Mills Scholarship in Communication](https://fsu.academicworks.com/opportunities/36173) | Varies | 08/31/2026 |
+| [Bill McGrotha Endowed Scholarship Fund](https://fsu.academicworks.com/opportunities/36124) | Varies | 08/31/2026 |
+| [Boyle Scholarship Endowment Fund](https://fsu.academicworks.com/opportunities/36608) | Varies | 08/31/2026 |
+| [C. W. Shipley Endowed Scholarship/Fellowship Fund](https://fsu.academicworks.com/opportunities/37273) | Varies | 08/31/2026 |
+| [Clarence W. Edney Fellowship Enrichment Fund](https://fsu.academicworks.com/opportunities/37932) | Varies | 08/31/2026 |
+| [Dan St. John Internship Award](https://fsu.academicworks.com/opportunities/36735) | Varies | 08/31/2026 |
+| [Fannie Lou Hamer Scholarship](https://fsu.academicworks.com/opportunities/36547) | Varies | 08/31/2026 |
+| [Hispanic Marketing Communication](https://fsu.academicworks.com/opportunities/38673) | Varies | 08/31/2026 |
+| [Hispanic Marketing Communication (LAC)](https://fsu.academicworks.com/opportunities/36010) | Varies | 08/31/2026 |
+| [James T. Wills Endowed Scholarship in Communication](https://fsu.academicworks.com/opportunities/37130) | Varies | 08/31/2026 |
+| [Jason Holtz Memorial Scholarship Endowment](https://fsu.academicworks.com/opportunities/36258) | Varies | 08/31/2026 |
+| [Joanne & James Lynagh Fellowship in Communication](https://fsu.academicworks.com/opportunities/36806) | Varies | 08/31/2026 |
+| [John D. Chang Memorial Scholarship](https://fsu.academicworks.com/opportunities/37723) | Varies | 08/31/2026 |
+| [Kevin Neidorf Student Award](https://fsu.academicworks.com/opportunities/36958) | Varies | 08/31/2026 |
+| [Pablo J. Lopez Memorial Scholarship](https://fsu.academicworks.com/opportunities/36163) | Varies | 08/31/2026 |
+| [Patricia Sibley Endowed Scholarship in Mass Communication](https://fsu.academicworks.com/opportunities/36372) | Varies | 08/31/2026 |
+| [Philomene A. Gates Fund for Excellence in Oral Communication](https://fsu.academicworks.com/opportunities/37143) | Varies | 08/31/2026 |
+| [Steve Ellis Memorial Scholarship Fund](https://fsu.academicworks.com/opportunities/37201) | Varies | 08/31/2026 |
 | [Curtis and Jo Ellen Hicks Falany Graduate Student Stipend for Speech Language Pathology](https://fsu.academicworks.com/opportunities/36440) | Varies | 09/04/2026 |
 | [Doreen Brown Oyadomari Endowed Scholarship in Communication](https://fsu.academicworks.com/opportunities/36929) | Varies | 09/04/2026 |
 | [Dr. Avery Vaughn Fund for Excellence in Communication Science and Disorders](https://fsu.academicworks.com/opportunities/37255) | Varies | 09/04/2026 |
@@ -414,7 +434,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [NC State Employee Dependent's Tuition Scholarship](https://ncsu.academicworks.com/opportunities/176963) | Up to $2000 | 07/24/2026 |
 | [Goodnight Scholars Program](https://ncsu.academicworks.com/opportunities/180468) | 24,000 | 08/01/2026 |
 | [Aspirations in Computing Scholarship](https://ncsu.academicworks.com/opportunities/179334) | $1,000.00 | 08/01/2026 |
 | [DNU_SAS Institute Minority Scholarship in Computer Science](https://ncsu.academicworks.com/opportunities/177048) | $1,500.00 | 08/01/2026 |
@@ -498,8 +517,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Henry Bertin Jr. Scholarship for Graduate Students in Chemistry and Biochemistry](https://sfsu.academicworks.com/opportunities/23705) | 8,000 | 07/24/2026 |
-| [Henry Bertin Jr. Scholarship for Graduate Students in Chemistry and Biochemistry](https://sfsu.academicworks.com/opportunities/22492) | 8,000 | 07/24/2026 |
 | [Music Department Scholarship Fund](https://sfsu.academicworks.com/opportunities/23694) | varies | 10/01/2026 |
 | [Ginwala Family Music Endowment Fund](https://sfsu.academicworks.com/opportunities/23536) | Varies | N/A |
 | [Pone Forgivable Loan/Scholarship](https://sfsu.academicworks.com/opportunities/22647) | varies | N/A |
@@ -682,7 +699,9 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
+| [Global Education Office (GEO) Scholarship Application](https://vt.academicworks.com/opportunities/74226) | Varies | 09/06/2026 |
 | [MIT Scholars](https://vt.academicworks.com/opportunities/66663) | Varies | 12/01/2026 |
+| [The Virginia Tech Tribal Match Scholarship](https://vt.academicworks.com/opportunities/60463) | Varies | 12/31/2026 |
 | [Public Service Education Institute Scholarship](https://vt.academicworks.com/opportunities/68071) | Varies | 04/15/2027 |
 | [Dallas Kinser & RT Johnson Scholarship](https://vt.academicworks.com/opportunities/5882) | Varies | N/A |
 | [zzzz - James M. Brooking Loan Fund](https://vt.academicworks.com/opportunities/979) | Varies | N/A |
@@ -730,8 +749,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [R & M Curry Graduate Fellowship for CEE-Inc](https://vt.academicworks.com/opportunities/20127) | $0.00 | N/A |
 | [Rec Sports Intramural Graduate Assistantship](https://vt.academicworks.com/opportunities/29664) | Varies | N/A |
 | [Robert B. Fetter Scholarship](https://vt.academicworks.com/opportunities/22357) | Varies | N/A |
-| [Robert C. and Catherine E. Luckner Fellowship](https://vt.academicworks.com/opportunities/22099) | Varies | N/A |
-| [School of Education General Scholarship](https://vt.academicworks.com/opportunities/20479) | Varies | N/A |
 
 ## VT-External
 
