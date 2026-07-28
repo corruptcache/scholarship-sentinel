@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-07-27 16:01:33 UTC
+Last updated: 2026-07-28 15:53:17 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -104,6 +104,8 @@ This page contains all currently live scholarships detected by the sentinel.
 | [James V. (Jimmy) Johnson Endowed Scholarship (Cato)](https://cpcc.academicworks.com/opportunities/11377) | Varies | 01/31/2027 |
 | [James W. (Jim) Emry Endowed Scholarship (Cato)](https://cpcc.academicworks.com/opportunities/11222) | Varies | 01/31/2027 |
 | [Jane & Stephen Cooper Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11276) | Varies | 01/31/2027 |
+| [Jay O. Emry Endowed Scholarship (Cato)](https://cpcc.academicworks.com/opportunities/11352) | Varies | 01/31/2027 |
+| [JoAnn & James Lawrence Sr Memorial Scholarship](https://cpcc.academicworks.com/opportunities/11715) | Varies | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
 | [CEENTA Angie Madigan Ophthalmic Medical Assisting Scholarship](https://cpcc.academicworks.com/opportunities/11619) | Varies | 02/14/2027 |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | 02/14/2027 |
@@ -704,7 +706,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [The Virginia Tech Tribal Match Scholarship](https://vt.academicworks.com/opportunities/60463) | Varies | 12/31/2026 |
 | [Public Service Education Institute Scholarship](https://vt.academicworks.com/opportunities/68071) | Varies | 04/15/2027 |
 | [Dallas Kinser & RT Johnson Scholarship](https://vt.academicworks.com/opportunities/5882) | Varies | N/A |
-| [zzzz - James M. Brooking Loan Fund](https://vt.academicworks.com/opportunities/979) | Varies | N/A |
 | [zzzzz - Charles J. Sharitz Scholarship](https://vt.academicworks.com/opportunities/5375) | $0.00 | N/A |
 | [Cameron Smook Memorial Scholarship](https://vt.academicworks.com/opportunities/5205) | Varies | N/A |
 | [Martin-Marietta Aircraft Scholarship](https://vt.academicworks.com/opportunities/3773) | Varies | N/A |
@@ -749,6 +750,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [R & M Curry Graduate Fellowship for CEE-Inc](https://vt.academicworks.com/opportunities/20127) | $0.00 | N/A |
 | [Rec Sports Intramural Graduate Assistantship](https://vt.academicworks.com/opportunities/29664) | Varies | N/A |
 | [Robert B. Fetter Scholarship](https://vt.academicworks.com/opportunities/22357) | Varies | N/A |
+| [Robert C. and Catherine E. Luckner Fellowship](https://vt.academicworks.com/opportunities/22099) | Varies | N/A |
 
 ## VT-External
 
