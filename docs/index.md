@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-07-28 15:53:17 UTC
+Last updated: 2026-07-29 15:37:51 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -154,7 +154,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Pantazis/Bell Scholarship Fund](https://cofc.academicworks.com/opportunities/11678) | Varies | N/A |
 | [Stephen Baumrind Annual Music Scholarship](https://cofc.academicworks.com/opportunities/11693) | Varies | N/A |
 | [Stephen Baumrind Annual Volleyball Scholarship](https://cofc.academicworks.com/opportunities/11696) | Varies | N/A |
-| [Stephen C. Osborne Leadership Endowed Scholarship](https://cofc.academicworks.com/opportunities/11687) | Varies | N/A |
+| [Stephen C. and Mary Osborne Endowed Scholarship](https://cofc.academicworks.com/opportunities/11687) | Varies | N/A |
 | [Stephen C. Reed Education Scholarship](https://cofc.academicworks.com/opportunities/11666) | Varies | N/A |
 | [Swanson Scholars Endowed Legacy Fund](https://cofc.academicworks.com/opportunities/12439) | $0.00 | N/A |
 | [Jeffrey A. Foster Endowed French Travel Fund](https://cofc.academicworks.com/opportunities/12871) | Varies | N/A |
@@ -519,6 +519,7 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
+| [Eden Academic Excellence Award](https://sfsu.academicworks.com/opportunities/23209) | $3,000 | 08/19/2026 |
 | [Music Department Scholarship Fund](https://sfsu.academicworks.com/opportunities/23694) | varies | 10/01/2026 |
 | [Ginwala Family Music Endowment Fund](https://sfsu.academicworks.com/opportunities/23536) | Varies | N/A |
 | [Pone Forgivable Loan/Scholarship](https://sfsu.academicworks.com/opportunities/22647) | varies | N/A |
@@ -568,7 +569,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Dianne Francis Derby Memorial Scholarship](https://sfsu.academicworks.com/opportunities/7016) | $300 | N/A |
 | [Sierra Nevada Field Campus Scholarship](https://sfsu.academicworks.com/opportunities/2032) | Varies | N/A |
 | [Costco Scholarship Fund](https://sfsu.academicworks.com/opportunities/9805) | Equivalent to tuition | N/A |
-| [College of Business Veteran's Scholarship - MUFG](https://sfsu.academicworks.com/opportunities/9772) | 2,500 | N/A |
 
 ## SFSU-External
 
