@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-07-29 15:37:51 UTC
+Last updated: 2026-07-30 15:34:56 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -106,6 +106,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Jane & Stephen Cooper Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11276) | Varies | 01/31/2027 |
 | [Jay O. Emry Endowed Scholarship (Cato)](https://cpcc.academicworks.com/opportunities/11352) | Varies | 01/31/2027 |
 | [JoAnn & James Lawrence Sr Memorial Scholarship](https://cpcc.academicworks.com/opportunities/11715) | Varies | 01/31/2027 |
+| [John & Claudia Belk Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11129) | Varies | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
 | [CEENTA Angie Madigan Ophthalmic Medical Assisting Scholarship](https://cpcc.academicworks.com/opportunities/11619) | Varies | 02/14/2027 |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | 02/14/2027 |
@@ -436,6 +437,7 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
+| [NC State Employee Dependent's Tuition Scholarship](https://ncsu.academicworks.com/opportunities/176963) | Up to $2000 | 07/31/2026 |
 | [Goodnight Scholars Program](https://ncsu.academicworks.com/opportunities/180468) | 24,000 | 08/01/2026 |
 | [Aspirations in Computing Scholarship](https://ncsu.academicworks.com/opportunities/179334) | $1,000.00 | 08/01/2026 |
 | [DNU_SAS Institute Minority Scholarship in Computer Science](https://ncsu.academicworks.com/opportunities/177048) | $1,500.00 | 08/01/2026 |
@@ -705,6 +707,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [MIT Scholars](https://vt.academicworks.com/opportunities/66663) | Varies | 12/01/2026 |
 | [The Virginia Tech Tribal Match Scholarship](https://vt.academicworks.com/opportunities/60463) | Varies | 12/31/2026 |
 | [Public Service Education Institute Scholarship](https://vt.academicworks.com/opportunities/68071) | Varies | 04/15/2027 |
+| [VT News Survey and FERPA Release](https://vt.academicworks.com/opportunities/74374) | Varies | 07/01/2027 |
 | [Dallas Kinser & RT Johnson Scholarship](https://vt.academicworks.com/opportunities/5882) | Varies | N/A |
 | [zzzzz - Charles J. Sharitz Scholarship](https://vt.academicworks.com/opportunities/5375) | $0.00 | N/A |
 | [Cameron Smook Memorial Scholarship](https://vt.academicworks.com/opportunities/5205) | Varies | N/A |
@@ -750,7 +753,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [R & M Curry Graduate Fellowship for CEE-Inc](https://vt.academicworks.com/opportunities/20127) | $0.00 | N/A |
 | [Rec Sports Intramural Graduate Assistantship](https://vt.academicworks.com/opportunities/29664) | Varies | N/A |
 | [Robert B. Fetter Scholarship](https://vt.academicworks.com/opportunities/22357) | Varies | N/A |
-| [Robert C. and Catherine E. Luckner Fellowship](https://vt.academicworks.com/opportunities/22099) | Varies | N/A |
 
 ## VT-External
 
