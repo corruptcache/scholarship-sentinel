@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-07-30 15:34:56 UTC
+Last updated: 2026-07-31 15:40:17 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
