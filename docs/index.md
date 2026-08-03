@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-07-31 15:40:17 UTC
+Last updated: 2026-08-03 16:05:28 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -107,6 +107,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Jay O. Emry Endowed Scholarship (Cato)](https://cpcc.academicworks.com/opportunities/11352) | Varies | 01/31/2027 |
 | [JoAnn & James Lawrence Sr Memorial Scholarship](https://cpcc.academicworks.com/opportunities/11715) | Varies | 01/31/2027 |
 | [John & Claudia Belk Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11129) | Varies | 01/31/2027 |
+| [John Emory (Jack) Efird II Endowed Scholarship (Cato)](https://cpcc.academicworks.com/opportunities/11279) | Varies | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
 | [CEENTA Angie Madigan Ophthalmic Medical Assisting Scholarship](https://cpcc.academicworks.com/opportunities/11619) | Varies | 02/14/2027 |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | 02/14/2027 |
@@ -166,56 +167,56 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [The Graduate Security Studies Scholarship (R) (P)](https://ecu.academicworks.com/opportunities/38889) | $1,000 | 08/01/2026 |
-| [The Betsy Markowski Interior Design Scholarship](https://ecu.academicworks.com/opportunities/1472) | Varies | N/A |
-| [The Mel Markowski MedFT Scholarship](https://ecu.academicworks.com/opportunities/1271) | Varies | N/A |
-| [The Captain Christopher Cash Memorial Scholarship (Non-Military)](https://ecu.academicworks.com/opportunities/3348) | $0.00 | N/A |
-| [The Daniel Gluckman Scholarship](https://ecu.academicworks.com/opportunities/3408) | $2,000 | N/A |
-| [The Accounting Book Scholarship](https://ecu.academicworks.com/opportunities/4870) | $350 | N/A |
-| [The Andrew J. Pappas Memorial Scholarship](https://ecu.academicworks.com/opportunities/4436) | $700 | N/A |
-| [The Gamma Iota Sigma Scholarship](https://ecu.academicworks.com/opportunities/3767) | Varies | N/A |
-| [The Pitt-Greenville Board of Realtors Scholarship](https://ecu.academicworks.com/opportunities/4783) | $750 | N/A |
-| [The School of Hospitality Leadership Scholarship Pool](https://ecu.academicworks.com/opportunities/4602) | Varies | N/A |
-| [The Ward Accounting Scholarship](https://ecu.academicworks.com/opportunities/4807) | $3,000 | N/A |
-| [The Carol Stamper Memorial Scholarship](https://ecu.academicworks.com/opportunities/4123) | Varies | N/A |
-| [The Anthony and Phoebe Patterson Scholarship in Entrepreneurship](https://ecu.academicworks.com/opportunities/7318) | $2,500 | N/A |
-| [The Anthony J. Papalas Prize (Ancient History)](https://ecu.academicworks.com/opportunities/6034) | Varies | N/A |
-| [The CommCrew Scholarship](https://ecu.academicworks.com/opportunities/6040) | $1,000 | N/A |
-| [The Ellis-Roberson Scholarship Fund](https://ecu.academicworks.com/opportunities/8921) | Varies | N/A |
-| [The Engineering Department Sophomore Scholarship](https://ecu.academicworks.com/opportunities/6211) | Varies | N/A |
-| [The Page Family Scholarship](https://ecu.academicworks.com/opportunities/9047) | $2,500 | N/A |
-| [The Donald Y. Leggett Alumni Scholarship](https://ecu.academicworks.com/opportunities/9538) | Varies | N/A |
-| [The Anthony & Phoebe Patterson Scholarship in Entrepreneurship](https://ecu.academicworks.com/opportunities/9747) | $2,500 | N/A |
-| [The Gourley Scholarship](https://ecu.academicworks.com/opportunities/11969) | $500 | N/A |
-| [The Wanda Montano Scholarship Endowment for Leadership Excellence](https://ecu.academicworks.com/opportunities/12075) | Varies | N/A |
-| [The Jeffrey L. Griffin Scholarship](https://ecu.academicworks.com/opportunities/9476) | $1,000 | N/A |
-| [The Robert Gluckman Scholarship](https://ecu.academicworks.com/opportunities/9471) | $2,000 | N/A |
-| [The Collegiate Tartan Scholarship](https://ecu.academicworks.com/opportunities/9994) | Varies | N/A |
-| [The Craig and June Baker Scholarship in Athletic Training](https://ecu.academicworks.com/opportunities/11076) | Varies | N/A |
-| [The Department of Physical Therapy Scholarship](https://ecu.academicworks.com/opportunities/12283) | Varies | N/A |
-| [The Dr. Jerry McGee Scholarship](https://ecu.academicworks.com/opportunities/11221) | Varies | N/A |
-| [The Eugene Chewning Scholarship](https://ecu.academicworks.com/opportunities/12412) | $2,000 | N/A |
-| [The Gravely Foundation Admissions Scholarship](https://ecu.academicworks.com/opportunities/11556) | $1,000 | N/A |
-| [The Gravely Foundation Scholarship in CHE](https://ecu.academicworks.com/opportunities/10510) | Varies | N/A |
-| [The John Patrick Gaffney Scholarship (Air Force ROTC)](https://ecu.academicworks.com/opportunities/10476) | $1,000 | N/A |
-| [The Tom and Karen Bartik Interior Design Scholarship](https://ecu.academicworks.com/opportunities/9419) | Varies | N/A |
-| [The Dr. Katherine Bray Strickland Endowed Scholarship](https://ecu.academicworks.com/opportunities/14142) | Varies | N/A |
-| [The H. W. Wilson Foundation Scholarship](https://ecu.academicworks.com/opportunities/15266) | $1,850 | N/A |
-| [The Martha N. Jones Scholarship](https://ecu.academicworks.com/opportunities/13675) | Varies | N/A |
-| [The Carol Fleming Irons Nursing Honors Program Scholarship](https://ecu.academicworks.com/opportunities/14313) | Varies | N/A |
-| [The Anna D. and Bruce A. Biggs Scholarship](https://ecu.academicworks.com/opportunities/19048) | $5,000 | N/A |
-| [The First American Savings Bank Scholarship](https://ecu.academicworks.com/opportunities/18910) | $650 | N/A |
-| [The Andrew J. Pappas Memorial Scholarship (P)](https://ecu.academicworks.com/opportunities/17516) | $750 | N/A |
-| [The Anonymous Donor Accounting Scholarship (P)](https://ecu.academicworks.com/opportunities/17964) | $1,500 | N/A |
-| [The East Carolina University Foundation PAGE Scholarship](https://ecu.academicworks.com/opportunities/18393) | $2,500 | N/A |
-| [The Stumpo Family Scholarship (P)](https://ecu.academicworks.com/opportunities/16768) | $1,000 | N/A |
-| [The Brody Scholars Scholarship (R)](https://ecu.academicworks.com/opportunities/19192) | $28,500 | N/A |
-| [The Zeke Sigler Accounting Faculty Scholarship](https://ecu.academicworks.com/opportunities/20467) | $10,000 | N/A |
-| [The Lynn Schubert Scholar Award (P)](https://ecu.academicworks.com/opportunities/21139) | $3,000 per year for 4 years | N/A |
-| [The Daisy Carson Latham Memorial Scholarship](https://ecu.academicworks.com/opportunities/21716) | $3,000 | N/A |
-| [The Gerhard Kalmus Scholarship (P)](https://ecu.academicworks.com/opportunities/20644) | Varies | N/A |
-| [The Next Step Scholarship in Biology](https://ecu.academicworks.com/opportunities/21279) | Varies | N/A |
-| [The Harold H. Bate Study Abroad Scholarship - Thomas Harriot College of Arts and Sciences](https://ecu.academicworks.com/opportunities/22440) | Varies | N/A |
+| [The Dowdy Bookstore Scholarship](https://ecu.academicworks.com/opportunities/38936) | $500 | 10/30/2026 |
+| [The Passage Academic Merit Scholarship for Transfer Students](https://ecu.academicworks.com/opportunities/38952) | $1,250 | 10/30/2026 |
+| [The Academic Scholarship Pool](https://ecu.academicworks.com/opportunities/38301) | $1,000 | 01/15/2027 |
+| [The Access Scholarship (R)](https://ecu.academicworks.com/opportunities/38305) | $20,000 over 4 years | 01/15/2027 |
+| [The AJ Threewitts Family Scholarship](https://ecu.academicworks.com/opportunities/36349) | Varies | 01/15/2027 |
+| [The Alliance One International Scholarship](https://ecu.academicworks.com/opportunities/37383) | $1,000 | 01/15/2027 |
+| [The Allison and Gene Wright Scholarship](https://ecu.academicworks.com/opportunities/36321) | Varies | 01/15/2027 |
+| [The Alva Sawyer and Lee G. Williams Memorial Scholarship](https://ecu.academicworks.com/opportunities/37014) | Varies | 01/15/2027 |
+| [The Andrews Scholarship](https://ecu.academicworks.com/opportunities/36846) | $1,000 | 01/15/2027 |
+| [The Ballard S. and Genevieve H. Gay Scholarship](https://ecu.academicworks.com/opportunities/38171) | Varies | 01/15/2027 |
+| [The Battalion Chief Luther Alan Walters Public Service Scholarship](https://ecu.academicworks.com/opportunities/37234) | Varies | 01/15/2027 |
+| [The Baxter R. Ridenhour Scholarship](https://ecu.academicworks.com/opportunities/37429) | Varies | 01/15/2027 |
+| [The Beulah L. Raynor Scholarship](https://ecu.academicworks.com/opportunities/38161) | Varies | 01/15/2027 |
+| [The Beulah Little Mason Awards Scholarship](https://ecu.academicworks.com/opportunities/37932) | Varies | 01/15/2027 |
+| [The Brian and Sandra Meyerhoeffer Scholarship Endowment](https://ecu.academicworks.com/opportunities/36400) | Varies | 01/15/2027 |
+| [The Burgess Whitehurst Kopf Scholarship](https://ecu.academicworks.com/opportunities/38152) | Varies | 01/15/2027 |
+| [The Burney and Judy Warren Study Abroad Scholarship](https://ecu.academicworks.com/opportunities/38205) | Varies | 01/15/2027 |
+| [The Calvin Owens Scholarship](https://ecu.academicworks.com/opportunities/36560) | Varies | 01/15/2027 |
+| [The Captain David L. Beveridge and Geraldine Mayo Beveridge Scholarship](https://ecu.academicworks.com/opportunities/36800) | Varies | 01/15/2027 |
+| [The Carolyn M. Cuddy Memorial Scholarship](https://ecu.academicworks.com/opportunities/38321) | Varies | 01/15/2027 |
+| [The Catherine G. Fulcher Scholarship](https://ecu.academicworks.com/opportunities/36556) | $2,500 | 01/15/2027 |
+| [The Chall Ralph Little Scholarship](https://ecu.academicworks.com/opportunities/38060) | Varies | 01/15/2027 |
+| [The Charles Edward Saunders History Scholarship (R)](https://ecu.academicworks.com/opportunities/36831) | Varies | 01/15/2027 |
+| [The Charles Marion Vincent and Sandra Dough Vincent Scholarship](https://ecu.academicworks.com/opportunities/37906) | Varies | 01/15/2027 |
+| [The Chris Murphy Scholarship](https://ecu.academicworks.com/opportunities/37997) | Varies | 01/15/2027 |
+| [The Class of 1982 Scholarship](https://ecu.academicworks.com/opportunities/37681) | $500 | 01/15/2027 |
+| [The Cox-Roberts Tau Excellence Scholarship](https://ecu.academicworks.com/opportunities/36305) | Varies | 01/15/2027 |
+| [The Curtis G. and Jean L. Fields Scholarship](https://ecu.academicworks.com/opportunities/37243) | Varies | 01/15/2027 |
+| [The Dallas and Verena Paul Scholarship (R)](https://ecu.academicworks.com/opportunities/38131) | Varies | 01/15/2027 |
+| [The Dan and Joyce Gurganus Scholarship](https://ecu.academicworks.com/opportunities/38004) | Varies | 01/15/2027 |
+| [The Daughters for Dads Scholarship](https://ecu.academicworks.com/opportunities/37060) | Varies | 01/15/2027 |
+| [The David and B.J. Fisher Scholarship](https://ecu.academicworks.com/opportunities/37231) | Varies | 01/15/2027 |
+| [The David E. Harris Memorial Scholarship](https://ecu.academicworks.com/opportunities/38139) | Varies | 01/15/2027 |
+| [The Deborah A. Epley Scholarship](https://ecu.academicworks.com/opportunities/38353) | Varies | 01/15/2027 |
+| [The Dennis G. "Dick" Jones Scholarship](https://ecu.academicworks.com/opportunities/37023) | Varies | 01/15/2027 |
+| [The Dr. Art Rodriguez and Family Scholarship](https://ecu.academicworks.com/opportunities/36388) | Varies | 01/15/2027 |
+| [The ECTC Club Scholarship Fund](https://ecu.academicworks.com/opportunities/36685) | Varies | 01/15/2027 |
+| [The ECU General Scholarship Fund](https://ecu.academicworks.com/opportunities/38398) | Varies | 01/15/2027 |
+| [The ECU Retired Faculty Association Graduate Fellowship](https://ecu.academicworks.com/opportunities/37147) | Varies | 01/15/2027 |
+| [The ECU Retired Faculty Association Undergraduate Scholarship](https://ecu.academicworks.com/opportunities/37293) | Varies | 01/15/2027 |
+| [The Ella D. Broughton Memorial Scholarship](https://ecu.academicworks.com/opportunities/38067) | Varies | 01/15/2027 |
+| [The Ernest L. Ruffin, III Scholarship Endowment](https://ecu.academicworks.com/opportunities/36411) | Varies | 01/15/2027 |
+| [The Eugene G. Anderson Family Transfer Scholarship](https://ecu.academicworks.com/opportunities/36158) | Varies | 01/15/2027 |
+| [The Frank L. Rice, Jr. Memorial Scholarship (R)](https://ecu.academicworks.com/opportunities/37000) | Varies | 01/15/2027 |
+| [The Freddie Mayo Powell Scholarship Endowment](https://ecu.academicworks.com/opportunities/37812) | Varies | 01/15/2027 |
+| [The Frederick E. Klutey, Jr. Memorial Volunteer Scholarship](https://ecu.academicworks.com/opportunities/36904) | $5,000 | 01/15/2027 |
+| [The Garry and Monica Dudley Scholarship Endowment (R)](https://ecu.academicworks.com/opportunities/36708) | Varies | 01/15/2027 |
+| [The General Scholarship Fund](https://ecu.academicworks.com/opportunities/37538) | $1,000 | 01/15/2027 |
+| [The Georgia A. Gilbert Scholarship](https://ecu.academicworks.com/opportunities/36326) | $500 | 01/15/2027 |
+| [The Gillie S. and Riddick Revelle Scholarship](https://ecu.academicworks.com/opportunities/38164) | Varies | 01/15/2027 |
 
 ## ECU-External
 
@@ -230,11 +231,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Mike McGee Scholarship](https://fsu.academicworks.com/opportunities/39989) | Varies | 07/31/2026 |
-| [Michaela Thomas Heart of the RA Award](https://fsu.academicworks.com/opportunities/40560) | Varies | 07/31/2026 |
-| [Anderson-Darling Family Graduate Student Research Travel Award](https://fsu.academicworks.com/opportunities/36018) | Varies | 08/01/2026 |
-| [Andrew Coffey Memorial Scholarship](https://fsu.academicworks.com/opportunities/37673) | Varies | 08/01/2026 |
-| [Rosalina Gonzalez Book Award Scholarship](https://fsu.academicworks.com/opportunities/39425) | $250 | 08/01/2026 |
 | [Braden Lee Small Memorial Scholarship](https://fsu.academicworks.com/opportunities/40050) | Varies | 08/10/2026 |
 | [College of Arts and Sciences Study Abroad Awards - Spring Semester Abroad](https://fsu.academicworks.com/opportunities/37178) | $4,000 | 08/14/2026 |
 | [International Programs Scholarship - Spring Application](https://fsu.academicworks.com/opportunities/39501) | Varies | 08/19/2026 |
@@ -269,6 +265,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Patricia Sibley Endowed Scholarship in Mass Communication](https://fsu.academicworks.com/opportunities/36372) | Varies | 08/31/2026 |
 | [Philomene A. Gates Fund for Excellence in Oral Communication](https://fsu.academicworks.com/opportunities/37143) | Varies | 08/31/2026 |
 | [Steve Ellis Memorial Scholarship Fund](https://fsu.academicworks.com/opportunities/37201) | Varies | 08/31/2026 |
+| [Kimberly Wills Dunham Endowed Scholarship](https://fsu.academicworks.com/opportunities/39943) | Varies | 09/01/2026 |
 | [Curtis and Jo Ellen Hicks Falany Graduate Student Stipend for Speech Language Pathology](https://fsu.academicworks.com/opportunities/36440) | Varies | 09/04/2026 |
 | [Doreen Brown Oyadomari Endowed Scholarship in Communication](https://fsu.academicworks.com/opportunities/36929) | Varies | 09/04/2026 |
 | [Dr. Avery Vaughn Fund for Excellence in Communication Science and Disorders](https://fsu.academicworks.com/opportunities/37255) | Varies | 09/04/2026 |
@@ -279,6 +276,11 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Robin Shari Parker Endowment in Speech-Language Pathology](https://fsu.academicworks.com/opportunities/37038) | Varies | 09/04/2026 |
 | [William G. and Alma S. Anderson Memorial Scholarship Fund](https://fsu.academicworks.com/opportunities/36798) | Varies | 09/04/2026 |
 | [College of Arts and Sciences Student Travel Awards](https://fsu.academicworks.com/opportunities/40344) | $500 | 09/18/2026 |
+| [A. Pauline "Polly" Shelley Endowment - Spring Application](https://fsu.academicworks.com/opportunities/35851) | Varies | 09/30/2026 |
+| [Beverly Health and Rehabilitation Services, Inc. Teaching Nursing Home Fund - Spring Application](https://fsu.academicworks.com/opportunities/35790) | Varies | 09/30/2026 |
+| [Carol McCormick Endowed Fund - Spring Application](https://fsu.academicworks.com/opportunities/35930) | Varies | 09/30/2026 |
+| [Christina Tully Memorial Fund - Spring Application](https://fsu.academicworks.com/opportunities/35894) | Varies | 09/30/2026 |
+| [Christine Elizabeth Sandefur Endowed Nursing Scholarship - Spring Application](https://fsu.academicworks.com/opportunities/35939) | Varies | 09/30/2026 |
 | [Barbara B. Vereen Family Scholarship](https://fsu.academicworks.com/opportunities/36809) | Varies | 10/01/2026 |
 | [Brand Ferland Advisors Scholarship](https://fsu.academicworks.com/opportunities/36746) | $3,000 | 10/01/2026 |
 | [Entrepreneurship Graduate Program](https://fsu.academicworks.com/opportunities/39414) | Varies | 10/01/2026 |
@@ -437,79 +439,56 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [NC State Employee Dependent's Tuition Scholarship](https://ncsu.academicworks.com/opportunities/176963) | Up to $2000 | 07/31/2026 |
-| [Goodnight Scholars Program](https://ncsu.academicworks.com/opportunities/180468) | 24,000 | 08/01/2026 |
-| [Aspirations in Computing Scholarship](https://ncsu.academicworks.com/opportunities/179334) | $1,000.00 | 08/01/2026 |
-| [DNU_SAS Institute Minority Scholarship in Computer Science](https://ncsu.academicworks.com/opportunities/177048) | $1,500.00 | 08/01/2026 |
-| [SAS Institute Scholarship in Computer Science](https://ncsu.academicworks.com/opportunities/179128) | $1,500.00 | 08/01/2026 |
-| [Alan and Theresa Stone Scholarship Endowment in Civil, Construction, and Environmental Engineering](https://ncsu.academicworks.com/opportunities/180558) | Varies | 08/01/2026 |
-| [1976 Alumnus Accounting Scholarship](https://ncsu.academicworks.com/opportunities/179854) | Varies | 08/01/2026 |
-| [A. Gordon and Patricia L. Neville Animal Science Scholarship](https://ncsu.academicworks.com/opportunities/179281) | varies | 08/01/2026 |
-| [A. J. Haynes Scholarship](https://ncsu.academicworks.com/opportunities/177695) | varies | 08/01/2026 |
-| [A. M. Fountain Award](https://ncsu.academicworks.com/opportunities/176532) | Varies | 08/01/2026 |
-| [A. Tab Williams, Jr. Endowed Scholarship](https://ncsu.academicworks.com/opportunities/176525) | varies | 08/01/2026 |
-| [A.B. Parker, Jr. / Parker's Landscape Services Agricultural Institute Scholarship](https://ncsu.academicworks.com/opportunities/177727) | varies | 08/01/2026 |
-| [ACS-Hach Land Grant Scholarship--A](https://ncsu.academicworks.com/opportunities/179660) | Varies | 08/01/2026 |
-| [ACS-Hach Land Grant Scholarship--B](https://ncsu.academicworks.com/opportunities/179653) | $0.00 | 08/01/2026 |
-| [Adam Brent Jackson Memorial Scholarship](https://ncsu.academicworks.com/opportunities/177118) | varies | 08/01/2026 |
-| [ADAMA Scholarship](https://ncsu.academicworks.com/opportunities/179892) | Varies | 08/01/2026 |
-| [Adama Tyndle Washington Undergraduate Scholarship](https://ncsu.academicworks.com/opportunities/179842) | Varies | 08/01/2026 |
-| [Advanced Textiles Association Extraordinary Opportunity Schp](https://ncsu.academicworks.com/opportunities/180146) | Varies | 08/01/2026 |
-| [AgCarolina Farm Credit](https://ncsu.academicworks.com/opportunities/178600) | $13,750.00 | 08/01/2026 |
-| [Agnes H. & Sarah L. Browning Scholarship in Civil Engineering](https://ncsu.academicworks.com/opportunities/179162) | Varies | 08/01/2026 |
-| [Agribusiness Club Scholarship Honoring Bob Usry](https://ncsu.academicworks.com/opportunities/176464) | varies | 08/01/2026 |
-| [Agricultural Institute Alumni Scholarship](https://ncsu.academicworks.com/opportunities/179339) | varies | 08/01/2026 |
-| [Agricultural Institute Club Scholarship](https://ncsu.academicworks.com/opportunities/177138) | varies | 08/01/2026 |
-| [Agricultural Institute Scholarship Endowment](https://ncsu.academicworks.com/opportunities/177654) | varies | 08/01/2026 |
-| [Agronomy Club Scholarship](https://ncsu.academicworks.com/opportunities/179066) | increments of $250 | 08/01/2026 |
-| [AgSouth Farm Credit Scholarship](https://ncsu.academicworks.com/opportunities/178605) | varies | 08/01/2026 |
-| [Ajinomoto Health and Nutrition North America Scholarship](https://ncsu.academicworks.com/opportunities/179716) | Varies | 08/01/2026 |
-| [Alan and Teresa Icenhour Scholarship in Nuclear Engineering Endowment](https://ncsu.academicworks.com/opportunities/179718) | $2,605.00 | 08/01/2026 |
-| [Alan Boe Beavers Memorial Scholarship](https://ncsu.academicworks.com/opportunities/177125) | varies | 08/01/2026 |
-| [Alan D. Metts Memorial Scholarship](https://ncsu.academicworks.com/opportunities/176068) | Varies | 08/01/2026 |
-| [Albert Gee Willcox Jr. Memorial Agricultural Scholarship](https://ncsu.academicworks.com/opportunities/180079) | Varies | 08/01/2026 |
-| [Albert Weaver III Scholarship in ISE](https://ncsu.academicworks.com/opportunities/178776) | Varies | 08/01/2026 |
-| [Alby Rose Marching Band Scholarship](https://ncsu.academicworks.com/opportunities/180483) | Varies | 08/01/2026 |
-| [Alexander Lee Stuber Memorial Scholarship](https://ncsu.academicworks.com/opportunities/178876) | Varies | 08/01/2026 |
-| [Alfred Edward Jenkins Scholarship](https://ncsu.academicworks.com/opportunities/177027) | Varies | 08/01/2026 |
-| [Alfred Kay Leach Memorial Scholarship](https://ncsu.academicworks.com/opportunities/178740) | varies | 08/01/2026 |
-| [Allen and Ruth Partin Scholarship](https://ncsu.academicworks.com/opportunities/178392) | varies | 08/01/2026 |
-| [Allen Beals and Herman Sampson Agricultural Institute Scholarship](https://ncsu.academicworks.com/opportunities/179240) | varies | 08/01/2026 |
-| [Allen F. and Beverly J. Gant Scholarship](https://ncsu.academicworks.com/opportunities/179227) | Varies | 08/01/2026 |
-| [Allen Jefferson and Frances Stalvey Fuller Scholarship](https://ncsu.academicworks.com/opportunities/175645) | Varies | 08/01/2026 |
-| [Allen Scholarship](https://ncsu.academicworks.com/opportunities/180470) | Varies | 08/01/2026 |
-| [Allsbrook Family Scholarship](https://ncsu.academicworks.com/opportunities/178068) | Varies | 08/01/2026 |
-| [Alpha Pi Mu/Franklin, Kenneth D. Outstanding Sophomore Scholarship](https://ncsu.academicworks.com/opportunities/179371) | Varies | 08/01/2026 |
-| [Altria Agricultural Institute Award of Excellence Scholarship](https://ncsu.academicworks.com/opportunities/175979) | varies | 08/01/2026 |
-| [Altria Agricultural Institute Scholarships in Agriculture Scholarship](https://ncsu.academicworks.com/opportunities/177641) | varies | 08/01/2026 |
-| [Altria Award in Agricultural and Extension Education Scholarship](https://ncsu.academicworks.com/opportunities/176166) | varies | 08/01/2026 |
-| [Altria Undergraduate Award for Excellence Scholarship](https://ncsu.academicworks.com/opportunities/179303) | varies | 08/01/2026 |
-| [Alva L. Finkner Scholarship](https://ncsu.academicworks.com/opportunities/176224) | varies | 08/01/2026 |
-| [Alvin and Eleanore Myrick Scholarship](https://ncsu.academicworks.com/opportunities/176744) | Varies | 08/01/2026 |
-| [Alvis & Imogene Clegg Scholarship](https://ncsu.academicworks.com/opportunities/176165) | Varies | 08/01/2026 |
-| [Amelia Notorangelo Mitta Memorial Scholarship](https://ncsu.academicworks.com/opportunities/178655) | Varies | 08/01/2026 |
-| [A.G. Raymond Forest Products Scholarship](https://ncsu.academicworks.com/opportunities/175668) | varies | 08/01/2026 |
-| [Amy and Jason Robertson Scholarship Endowment](https://ncsu.academicworks.com/opportunities/179700) | Varies | 08/01/2026 |
-| [Anderson Marlowe III Family Extraordinary Opportunity Scholarship](https://ncsu.academicworks.com/opportunities/179747) | Varies | 08/01/2026 |
-| [Andrew A. Adams Scholarship](https://ncsu.academicworks.com/opportunities/176228) | Varies | 08/01/2026 |
-| [Andrew Blaine & Ruby Johnston Memorial Scholarship](https://ncsu.academicworks.com/opportunities/178063) | Varies | 08/01/2026 |
-| [Andy and Jennifer Thomas MSE Scholarship Endowment](https://ncsu.academicworks.com/opportunities/179583) | varies | 08/01/2026 |
-| [Andy Sepelak Memorial Scholarship](https://ncsu.academicworks.com/opportunities/178882) | Varies | 08/01/2026 |
-| [Angel Family Foundation Scholarship](https://ncsu.academicworks.com/opportunities/177068) | Varies | 08/01/2026 |
-| [Angela C. Caraway and Family Scholarship](https://ncsu.academicworks.com/opportunities/180487) | $500.00 | 08/01/2026 |
-| [Ann Bumgardner and Myrtle Bumgardner Scholarship](https://ncsu.academicworks.com/opportunities/177028) | varies | 08/01/2026 |
-| [Ann C. and Charles F. Goodno Scholarship](https://ncsu.academicworks.com/opportunities/178958) | no more than 50% of tuition cost | 08/01/2026 |
-| [Ann Conner Kraynik Memorial Scholarship](https://ncsu.academicworks.com/opportunities/176920) | Varies | 08/01/2026 |
-| [Ann Price Silva Scholarship](https://ncsu.academicworks.com/opportunities/177039) | varies | 08/01/2026 |
-| [Anna & William J. Wilson, Jr. Scholarship](https://ncsu.academicworks.com/opportunities/179211) | $1,000.00 | 08/01/2026 |
-| [Anne-Marie and Chris Olinger CSC Scholarship](https://ncsu.academicworks.com/opportunities/175589) | Varies | 08/01/2026 |
-| [Annette and Steven McBrayer Scholarship](https://ncsu.academicworks.com/opportunities/179909) | Varies | 08/01/2026 |
-| [ARAI Charles R. Manning Scholarship](https://ncsu.academicworks.com/opportunities/176043) | Varies | 08/01/2026 |
-| [Arlan Thomas Brady Scholarship in Mechanical and Aerospace Engineering](https://ncsu.academicworks.com/opportunities/175458) | Varies | 08/01/2026 |
-| [Arrington Family Scholarship](https://ncsu.academicworks.com/opportunities/179508) | $0.00 | 08/01/2026 |
-| [Arthur Glenn Corpening Scholarship](https://ncsu.academicworks.com/opportunities/175684) | Varies | 08/01/2026 |
-| [American Dairy Products Association Scholarship](https://ncsu.academicworks.com/opportunities/179368) | varies | 08/01/2026 |
-| [Adams Oldcastle Werner-McQueen Architecture Scholarship Endowment](https://ncsu.academicworks.com/opportunities/177348) | Varies | 08/01/2026 |
+| [Adrianna Grant Kirkman Scholarship](https://ncsu.academicworks.com/opportunities/180084) | Varies | N/A |
+| [Advancing Careers in Education Scholarship (ACE)](https://ncsu.academicworks.com/opportunities/179879) | Varies | N/A |
+| [Agnes and Ed Weisiger Scholarship](https://ncsu.academicworks.com/opportunities/178714) | Varies | N/A |
+| [Alamance Kennel Club Scholarship](https://ncsu.academicworks.com/opportunities/176063) | Varies | N/A |
+| [Albany International Corporation Scholarship](https://ncsu.academicworks.com/opportunities/175791) | Varies | N/A |
+| [Albright and Wilson Americas Scholarship](https://ncsu.academicworks.com/opportunities/176218) | Varies | N/A |
+| [Alfred J. Stamm Scholarship](https://ncsu.academicworks.com/opportunities/176386) | varies | N/A |
+| [Alonzo Aldrich Endowed Scholarship](https://ncsu.academicworks.com/opportunities/177857) | Varies | N/A |
+| [Ambassador Animal Hospital Scholarship](https://ncsu.academicworks.com/opportunities/179015) | Varies | N/A |
+| [Amy & Rodney Isenhour Scholarship](https://ncsu.academicworks.com/opportunities/175402) | Varies | N/A |
+| [Anne & Fred L. Wilson Scholarship](https://ncsu.academicworks.com/opportunities/178608) | Varies | N/A |
+| [Anthony Maltese Scholarship](https://ncsu.academicworks.com/opportunities/176614) | Varies | N/A |
+| [Apollo Chemical Textile Scholarship](https://ncsu.academicworks.com/opportunities/178913) | Varies | N/A |
+| [Arroyo Family Enhancement Scholarship](https://ncsu.academicworks.com/opportunities/176017) | Varies | N/A |
+| [Arthur H. Rogers Scholarship Endowment](https://ncsu.academicworks.com/opportunities/179878) | Varies | N/A |
+| [Asea Brown Boveri Inc. Scholarship](https://ncsu.academicworks.com/opportunities/177208) | Varies | N/A |
+| [Asheville Veterinary Associates South Scholarship](https://ncsu.academicworks.com/opportunities/178657) | Varies | N/A |
+| [Asheville Veterinary Associates West Scholarship](https://ncsu.academicworks.com/opportunities/178418) | Varies | N/A |
+| [Aurora R. de Zarate Scholarship](https://ncsu.academicworks.com/opportunities/179776) | Varies | N/A |
+| [AVMA PLIT Student Scholarship](https://ncsu.academicworks.com/opportunities/176637) | Varies | N/A |
+| [B.J. Lanning Memorial Scholarship](https://ncsu.academicworks.com/opportunities/179222) | Varies | N/A |
+| [Babe and Yogi Scholarship](https://ncsu.academicworks.com/opportunities/175628) | Varies | N/A |
+| [Ball Family Scholarship](https://ncsu.academicworks.com/opportunities/179093) | Varies | N/A |
+| [Banixx Horse & Pet Care Graduate Award](https://ncsu.academicworks.com/opportunities/175474) | Varies | N/A |
+| [Barbara C. Joslin Scholarship](https://ncsu.academicworks.com/opportunities/175773) | Varies | N/A |
+| [Barbara Moss Inman MB-F Scholarship](https://ncsu.academicworks.com/opportunities/179340) | Varies | N/A |
+| [Barnhardt-Thomas Textiles Scholarship](https://ncsu.academicworks.com/opportunities/177534) | varies | N/A |
+| [Barnhill Textile Pioneer Sch](https://ncsu.academicworks.com/opportunities/179532) | Varies | N/A |
+| [Barre R. Mitchell Scholarship](https://ncsu.academicworks.com/opportunities/179050) | Varies | N/A |
+| [Bart and Pam Nicholson Scholarship](https://ncsu.academicworks.com/opportunities/175486) | Varies | N/A |
+| [Barton and Calder Endowment Industry Forestry Scholarship](https://ncsu.academicworks.com/opportunities/175718) | varies | N/A |
+| [BASF Corporation Scholarship](https://ncsu.academicworks.com/opportunities/175651) | Varies | N/A |
+| [Batts Family Scholarship](https://ncsu.academicworks.com/opportunities/179877) | Varies | N/A |
+| [Ben and Peggy Chilton Enhancement Scholarship](https://ncsu.academicworks.com/opportunities/178787) | Varies | N/A |
+| [Ben Cobb Scholarship for the Non-Traditional Students in PRTM](https://ncsu.academicworks.com/opportunities/179771) | Varies | N/A |
+| [Ben Harrington Scholarship](https://ncsu.academicworks.com/opportunities/176576) | Varies | N/A |
+| [BioResources Scholarship](https://ncsu.academicworks.com/opportunities/176686) | Varies | N/A |
+| [Blue Bell Pioneer Scholarship](https://ncsu.academicworks.com/opportunities/178636) | Varies | N/A |
+| [Bob and Regan Brown Scholarship](https://ncsu.academicworks.com/opportunities/177031) | varies | N/A |
+| [Bob Davis Scholarship](https://ncsu.academicworks.com/opportunities/176221) | Varies | N/A |
+| [Bob Menard Endowed Scholarship](https://ncsu.academicworks.com/opportunities/176279) | Varies | N/A |
+| [Bob Slocum Forestry Communication Scholarship](https://ncsu.academicworks.com/opportunities/176248) | varies | N/A |
+| [Boddie-Noell Foundation Scholarship](https://ncsu.academicworks.com/opportunities/177491) | Varies | N/A |
+| [Boise Cascade Corporation Endowed Scholarship](https://ncsu.academicworks.com/opportunities/176389) | Varies | N/A |
+| [Bonnie's Golden Boys Scholarship in Vet Med](https://ncsu.academicworks.com/opportunities/179573) | Varies | N/A |
+| [Boos Family International Experience Award](https://ncsu.academicworks.com/opportunities/176265) | Varies | N/A |
+| [Bowater Alumni Endowed Scholarship](https://ncsu.academicworks.com/opportunities/176292) | Varies | N/A |
+| [Bray Family Scholarship in Veterinary Medicine](https://ncsu.academicworks.com/opportunities/175385) | Varies | N/A |
+| [Brian Cardini Memorial Scholarship](https://ncsu.academicworks.com/opportunities/179024) | varies | N/A |
+| [Briton and Gladys LeCompte Natural Resources Scholarship](https://ncsu.academicworks.com/opportunities/176779) | Varies | N/A |
 
 ## NC State-Flexible
 
@@ -647,7 +626,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Graduation & Retention Network Student Fund](https://sc.academicworks.com/opportunities/12361) | Varies | 07/31/2026 |
 | [Clyde Shirley U.S. Constitution Scholarship](https://sc.academicworks.com/opportunities/11580) | Varies | 08/07/2026 |
 | [Donald J. Greiner Scholarship](https://sc.academicworks.com/opportunities/10545) | Varies | 08/14/2026 |
 | [A. C. Flora Memorial Scholarship](https://sc.academicworks.com/opportunities/11521) | Varies | 09/01/2026 |
@@ -705,54 +683,54 @@ This page contains all currently live scholarships detected by the sentinel.
 |------|--------|----------|
 | [Global Education Office (GEO) Scholarship Application](https://vt.academicworks.com/opportunities/74226) | Varies | 09/06/2026 |
 | [MIT Scholars](https://vt.academicworks.com/opportunities/66663) | Varies | 12/01/2026 |
+| [Lee R. and Regina Aultice Steeneck Experiential Learning Scholarship](https://vt.academicworks.com/opportunities/73580) | Varies | 12/10/2026 |
 | [The Virginia Tech Tribal Match Scholarship](https://vt.academicworks.com/opportunities/60463) | Varies | 12/31/2026 |
+| [Adam Ward '11 Memorial Scholarship](https://vt.academicworks.com/opportunities/74830) | Varies | 01/22/2027 |
+| [Alie Reichling Memorial Scholarship](https://vt.academicworks.com/opportunities/70276) | Varies | 01/22/2027 |
+| [Archie R. and Dorothy A. Moss Scholarship](https://vt.academicworks.com/opportunities/71169) | Varies | 01/22/2027 |
+| [Austin Michelle Cloyd Social Justice Scholarship](https://vt.academicworks.com/opportunities/69683) | Varies | 01/22/2027 |
+| [Blue Ridge Rubber Group Endowed Scholarship](https://vt.academicworks.com/opportunities/75204) | Varies | 01/22/2027 |
+| [Buzz's Bunch Scholarship](https://vt.academicworks.com/opportunities/68958) | Varies | 01/22/2027 |
+| [Caitlin Millar Hammaren Memorial Scholarship](https://vt.academicworks.com/opportunities/72156) | Varies | 01/22/2027 |
+| [Carol M. Newman Scholarship](https://vt.academicworks.com/opportunities/73648) | Varies | 01/22/2027 |
+| [Centennial Leadership Award](https://vt.academicworks.com/opportunities/73867) | Varies | 01/22/2027 |
+| [Cobb Office Products, Inc. Scholarship](https://vt.academicworks.com/opportunities/73058) | Varies | 01/22/2027 |
+| [College of Science Dean's Roundtable Scholarship](https://vt.academicworks.com/opportunities/71024) | Varies | 01/22/2027 |
+| [Dr. Barbara Lockee Native American Tribal Honors Scholarship](https://vt.academicworks.com/opportunities/69115) | Varies | 01/22/2027 |
+| [Dunham Charitable Scholarship Fund](https://vt.academicworks.com/opportunities/70304) | Varies | 01/22/2027 |
+| [English Family-Teacher Education Scholarship](https://vt.academicworks.com/opportunities/72359) | Varies | 01/22/2027 |
+| [Faculty-Staff Dependent and Spouse Scholarship](https://vt.academicworks.com/opportunities/68426) | Varies | 01/22/2027 |
+| [Graham Stedman Neal Diabetes Fund](https://vt.academicworks.com/opportunities/74880) | Varies | 01/22/2027 |
+| [Harold A. Schlenker Scholarship](https://vt.academicworks.com/opportunities/73860) | Varies | 01/22/2027 |
+| [Harry Bramhall Gilbert Meritorious Scholarship](https://vt.academicworks.com/opportunities/73139) | Varies | 01/22/2027 |
+| [Herman C. and Carrie Watson Scholarship](https://vt.academicworks.com/opportunities/69520) | Varies | 01/22/2027 |
+| [Hoban, Lee and Dance Scholarship](https://vt.academicworks.com/opportunities/69113) | Varies | 01/22/2027 |
+| [Holdren Family Scholarship (in Honor of Gary and Helen Holdren)](https://vt.academicworks.com/opportunities/72829) | Varies | 01/22/2027 |
+| [Lena L. Giannotti Scholarship for Family and Child Development](https://vt.academicworks.com/opportunities/72600) | Varies | 01/22/2027 |
+| [Martin Luther and Clara B. Vaughan Scholarship](https://vt.academicworks.com/opportunities/73349) | Varies | 01/22/2027 |
+| [Merryman Public Pupil Transportation (School Bus) Scholarship](https://vt.academicworks.com/opportunities/73376) | Varies | 01/22/2027 |
+| [Nagy & Jennifer Maalouf Scholarship](https://vt.academicworks.com/opportunities/68404) | Varies | 01/22/2027 |
+| [O. C. Thompson Scholarship](https://vt.academicworks.com/opportunities/73276) | Varies | 01/22/2027 |
+| [Rhonyll Seballos Endowed Scholarship](https://vt.academicworks.com/opportunities/72331) | Varies | 01/22/2027 |
+| [Robert C. Jones and Family Award for Student Leaders](https://vt.academicworks.com/opportunities/71526) | Varies | 01/22/2027 |
+| [Sadie H. Williamson Scholarship](https://vt.academicworks.com/opportunities/73975) | Varies | 01/22/2027 |
+| [Serving Spirit Graduate Fellowship](https://vt.academicworks.com/opportunities/70811) | Varies | 01/22/2027 |
+| [Stulb-Heffner Class of '77 - Motivation Matters Scholarship](https://vt.academicworks.com/opportunities/74367) | Varies | 01/22/2027 |
+| [Ted McCarty Memorial Scholarship](https://vt.academicworks.com/opportunities/74436) | $5,000.00 | 01/22/2027 |
+| [The Roost Living Learning Program - Housing Scholarship](https://vt.academicworks.com/opportunities/70682) | Varies | 01/22/2027 |
+| [Universal Leaf Tobacco Company Scholarship](https://vt.academicworks.com/opportunities/70952) | Varies | 01/22/2027 |
+| [Wayne H. Robinson End Scholarship](https://vt.academicworks.com/opportunities/73138) | Varies | 01/22/2027 |
+| [Harry Lynde Bradley Scholarship (1-2 awarded annually)](https://vt.academicworks.com/opportunities/72083) | Varies | 01/31/2027 |
+| [Mossberg Table Tennis Scholarship (Freshman)](https://vt.academicworks.com/opportunities/74386) | 2 - $30,000 will be awarded | 03/01/2027 |
+| [Virginia Tech - Virginia Community College System Transfer Achievement Scholarship](https://vt.academicworks.com/opportunities/72603) | Varies | 03/12/2027 |
+| [Richard E. Browning '71 Memorial Scholarship](https://vt.academicworks.com/opportunities/73063) | Varies | 03/15/2027 |
+| [McGuireWoods LLP Scholarship](https://vt.academicworks.com/opportunities/74482) | Varies | 03/18/2027 |
+| [William E. McCubbin Scholarship](https://vt.academicworks.com/opportunities/74531) | Varies | 03/19/2027 |
+| [Charles W. Schiffert and Dolores S. Schiffert Scholarship](https://vt.academicworks.com/opportunities/73481) | Varies | 03/31/2027 |
 | [Public Service Education Institute Scholarship](https://vt.academicworks.com/opportunities/68071) | Varies | 04/15/2027 |
+| [Smithfield Foundation Scholarship](https://vt.academicworks.com/opportunities/74537) | Varies | 05/15/2027 |
 | [VT News Survey and FERPA Release](https://vt.academicworks.com/opportunities/74374) | Varies | 07/01/2027 |
 | [Dallas Kinser & RT Johnson Scholarship](https://vt.academicworks.com/opportunities/5882) | Varies | N/A |
-| [zzzzz - Charles J. Sharitz Scholarship](https://vt.academicworks.com/opportunities/5375) | $0.00 | N/A |
-| [Cameron Smook Memorial Scholarship](https://vt.academicworks.com/opportunities/5205) | Varies | N/A |
-| [Martin-Marietta Aircraft Scholarship](https://vt.academicworks.com/opportunities/3773) | Varies | N/A |
-| [J. Ambler Johnston Scholarship](https://vt.academicworks.com/opportunities/3146) | Varies | N/A |
-| [McNair Alumni Fund](https://vt.academicworks.com/opportunities/15155) | Varies | N/A |
-| [MLSoC Annual Scholarship Fund](https://vt.academicworks.com/opportunities/5141) | $2,625.00 | N/A |
-| [BC Capstone Senior Project Award](https://vt.academicworks.com/opportunities/5611) | Varies | N/A |
-| [Dr. Donald Zantop Memorial Scholarship Sponsored by Harford County Veterinary Medical Association Scholarship](https://vt.academicworks.com/opportunities/9539) | Varies | N/A |
-| [Harry M. and Mildred M. Raulet Memorial Award](https://vt.academicworks.com/opportunities/9606) | Varies | N/A |
-| [Heather N. Hendrickson Memorial Scholarship](https://vt.academicworks.com/opportunities/9654) | Varies | N/A |
-| [James & Bernardine Cornelison Scholarship](https://vt.academicworks.com/opportunities/9484) | Varies | N/A |
-| [Maryland Kennel Club Scholarship](https://vt.academicworks.com/opportunities/9674) | Varies | N/A |
-| [Nestle Purina Award for Excellence in Companion Animal Nutrition](https://vt.academicworks.com/opportunities/9691) | Varies | N/A |
-| [Jack and Pat Raybourne Scholarship](https://vt.academicworks.com/opportunities/13214) | Varies | N/A |
-| [Patricia Gallagher History Scholars](https://vt.academicworks.com/opportunities/6016) | $0.00 | N/A |
-| [Dr. Thomas C. Ward Graduate Fellowship](https://vt.academicworks.com/opportunities/23644) | Varies | N/A |
-| [GA Pacific Deans Fellow WS & FP](https://vt.academicworks.com/opportunities/16725) | Varies | N/A |
-| [Population Health Science](https://vt.academicworks.com/opportunities/23647) | Varies | N/A |
-| [VTCC Baker Family Emerging Leader Scholarship](https://vt.academicworks.com/opportunities/23641) | Varies | N/A |
-| [VTCC Watts Family Scholarship](https://vt.academicworks.com/opportunities/15750) | Varies | N/A |
-| [Dr. Margaret Knoll Memorial Scholarship](https://vt.academicworks.com/opportunities/23674) | Varies | N/A |
-| [K.T. & Jerry Archer Animal Protection Student Support Fund](https://vt.academicworks.com/opportunities/23692) | Varies | N/A |
-| [Maddie's Shelter Medicine Externship Program](https://vt.academicworks.com/opportunities/23680) | Varies | N/A |
-| [MVF:  Dr. David Bogash Memorial Award](https://vt.academicworks.com/opportunities/23770) | Varies | N/A |
-| [MVF: Dr. A. Cleveland Brown Scholarship](https://vt.academicworks.com/opportunities/23875) | Varies | N/A |
-| [MVF: Dr. Charles G. Ziegler Memorial Scholarship](https://vt.academicworks.com/opportunities/23893) | Varies | N/A |
-| [MVF: Dr. Harry L. Schultz Jr. Memorial Award](https://vt.academicworks.com/opportunities/23887) | Varies | N/A |
-| [MVF: Dr. Robert C. Hammond Award](https://vt.academicworks.com/opportunities/23773) | Varies | N/A |
-| [MVF: Jane Nusz Foy Memorial Scholarship](https://vt.academicworks.com/opportunities/23878) | Varies | N/A |
-| [MVF: Maryland Veterinary Medical Association Auxiliary Scholarship](https://vt.academicworks.com/opportunities/23881) | Varies | N/A |
-| [MVF: Maryland Veterinary Medical Association's Past President's Scholarship](https://vt.academicworks.com/opportunities/23884) | Varies | N/A |
-| [MVF: Ray Thompson Communication Scholarship](https://vt.academicworks.com/opportunities/23890) | Varies | N/A |
-| [Northern Neck Kennel Club Veterinary Scholarship](https://vt.academicworks.com/opportunities/23683) | Varies | N/A |
-| [Rae & Rose Ehrhardt Special Recognition Scholarship](https://vt.academicworks.com/opportunities/23689) | Varies | N/A |
-| [Richard & Marie Venable Scholarship](https://vt.academicworks.com/opportunities/17917) | Varies | N/A |
-| [Roseanne Robertson Memorial Award for Ophthalmology](https://vt.academicworks.com/opportunities/23686) | Varies | N/A |
-| [Walter B. Gross, Cal Larsen and Charles Domermuth Scholarship for Excellence in Avian Medicine](https://vt.academicworks.com/opportunities/23749) | Varies | N/A |
-| [Analee Marshall Memorial Scholarship](https://vt.academicworks.com/opportunities/18100) | Varies | N/A |
-| [Charles O. Cornelison '67 Honorary Highty Tighty Scholarship](https://vt.academicworks.com/opportunities/22408) | Varies | N/A |
-| [Konrad-Steinmetz Scholarship](https://vt.academicworks.com/opportunities/20584) | Varies | N/A |
-| [Patricia & Joseph Love Scholarship](https://vt.academicworks.com/opportunities/20019) | Varies | N/A |
-| [R & M Curry Graduate Fellowship for CEE-Inc](https://vt.academicworks.com/opportunities/20127) | $0.00 | N/A |
-| [Rec Sports Intramural Graduate Assistantship](https://vt.academicworks.com/opportunities/29664) | Varies | N/A |
-| [Robert B. Fetter Scholarship](https://vt.academicworks.com/opportunities/22357) | Varies | N/A |
 
 ## VT-External
 
