@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-08-03 16:05:28 UTC
+Last updated: 2026-08-04 15:59:52 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -167,6 +167,7 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
+| [The Graduate Security Studies Scholarship (R) (P)](https://ecu.academicworks.com/opportunities/38889) | $1,000 | 08/04/2026 |
 | [The Dowdy Bookstore Scholarship](https://ecu.academicworks.com/opportunities/38936) | $500 | 10/30/2026 |
 | [The Passage Academic Merit Scholarship for Transfer Students](https://ecu.academicworks.com/opportunities/38952) | $1,250 | 10/30/2026 |
 | [The Academic Scholarship Pool](https://ecu.academicworks.com/opportunities/38301) | $1,000 | 01/15/2027 |
