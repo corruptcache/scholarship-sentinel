@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-08-04 15:59:52 UTC
+Last updated: 2026-08-05 15:42:09 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -108,6 +108,8 @@ This page contains all currently live scholarships detected by the sentinel.
 | [JoAnn & James Lawrence Sr Memorial Scholarship](https://cpcc.academicworks.com/opportunities/11715) | Varies | 01/31/2027 |
 | [John & Claudia Belk Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11129) | Varies | 01/31/2027 |
 | [John Emory (Jack) Efird II Endowed Scholarship (Cato)](https://cpcc.academicworks.com/opportunities/11279) | Varies | 01/31/2027 |
+| [Ken Szymanski Scholarship](https://cpcc.academicworks.com/opportunities/11625) | Varies | 01/31/2027 |
+| [Kenneth R. Miller Veterans Scholarship](https://cpcc.academicworks.com/opportunities/11582) | Varies | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
 | [CEENTA Angie Madigan Ophthalmic Medical Assisting Scholarship](https://cpcc.academicworks.com/opportunities/11619) | Varies | 02/14/2027 |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | 02/14/2027 |
@@ -167,7 +169,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [The Graduate Security Studies Scholarship (R) (P)](https://ecu.academicworks.com/opportunities/38889) | $1,000 | 08/04/2026 |
 | [The Dowdy Bookstore Scholarship](https://ecu.academicworks.com/opportunities/38936) | $500 | 10/30/2026 |
 | [The Passage Academic Merit Scholarship for Transfer Students](https://ecu.academicworks.com/opportunities/38952) | $1,250 | 10/30/2026 |
 | [The Academic Scholarship Pool](https://ecu.academicworks.com/opportunities/38301) | $1,000 | 01/15/2027 |
