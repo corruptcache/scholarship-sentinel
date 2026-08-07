@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-08-05 15:42:09 UTC
+Last updated: 2026-08-07 14:35:03 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -59,7 +59,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Dickson Endowed Scholarship Program in Medical & Health Care Professions](https://cpcc.academicworks.com/opportunities/11178) | Varies | 01/31/2027 |
 | [Howard & Julie Levine Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11697) | Up to $10,000 over 2 years | 01/31/2027 |
 | [Hugh L. McColl Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11694) | Up to $10,000 over 2 years | 01/31/2027 |
-| [Merancas Technical Careers Scholarship](https://cpcc.academicworks.com/opportunities/11514) | Varies | 01/31/2027 |
+| [Merancas Tech Careers Scholarship](https://cpcc.academicworks.com/opportunities/11514) | Varies | 01/31/2027 |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11732) | Varies | 01/31/2027 |
 | [CEENTA Angie Madigan Ophthalmic Medical Assisting Scholarship](https://cpcc.academicworks.com/opportunities/11743) | Varies | 01/31/2027 |
 | [Dickson Licensed Practical Nursing Scholarship](https://cpcc.academicworks.com/opportunities/11395) | Varies | 01/31/2027 |
@@ -110,6 +110,17 @@ This page contains all currently live scholarships detected by the sentinel.
 | [John Emory (Jack) Efird II Endowed Scholarship (Cato)](https://cpcc.academicworks.com/opportunities/11279) | Varies | 01/31/2027 |
 | [Ken Szymanski Scholarship](https://cpcc.academicworks.com/opportunities/11625) | Varies | 01/31/2027 |
 | [Kenneth R. Miller Veterans Scholarship](https://cpcc.academicworks.com/opportunities/11582) | Varies | 01/31/2027 |
+| [Leon & Sandra Levine Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11700) | Up to $10,000 over 2 years | 01/31/2027 |
+| [Levine Scholarship](https://cpcc.academicworks.com/opportunities/11509) | Varies | 01/31/2027 |
+| [Levine Scholarship - Family Dollar/Dollar Tree Store Associates](https://cpcc.academicworks.com/opportunities/11247) | Varies | 01/31/2027 |
+| [Lou & Edwin Jones Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11393) | Varies | 01/31/2027 |
+| [Marvin B. Rorie Marketing Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11319) | Varies | 01/31/2027 |
+| [Mary Goddard Pickens Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11409) | Varies | 01/31/2027 |
+| [Mayor Anthony Foxx Scholarship](https://cpcc.academicworks.com/opportunities/11576) | Varies | 01/31/2027 |
+| [McRee Family Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11418) | Varies | 01/31/2027 |
+| [Mia Goodwin Memorial Scholarship](https://cpcc.academicworks.com/opportunities/11225) | Varies | 01/31/2027 |
+| [Mitchell Hagler Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11375) | Varies | 01/31/2027 |
+| [Mr. & Mrs. Emil J. Kratt Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11280) | Varies | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
 | [CEENTA Angie Madigan Ophthalmic Medical Assisting Scholarship](https://cpcc.academicworks.com/opportunities/11619) | Varies | 02/14/2027 |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | 02/14/2027 |
@@ -133,6 +144,7 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
+| [Woodfin Creative Writing Scholarship](https://cofc.academicworks.com/opportunities/12811) | Varies | 08/07/2026 |
 | [Macy Ezell Cooke Scholarship Endowment](https://cofc.academicworks.com/opportunities/12363) | Varies | 09/03/2026 |
 | [Deutscher Bruderliche Bund Scholarship](https://cofc.academicworks.com/opportunities/12490) | Varies | 09/18/2026 |
 | [German Friendly Society Scholarship](https://cofc.academicworks.com/opportunities/12545) | Varies | 09/18/2026 |
@@ -169,6 +181,7 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
+| [The Graduate Security Studies Scholarship (R) (P)](https://ecu.academicworks.com/opportunities/38889) | $1,000 | 08/10/2026 |
 | [The Dowdy Bookstore Scholarship](https://ecu.academicworks.com/opportunities/38936) | $500 | 10/30/2026 |
 | [The Passage Academic Merit Scholarship for Transfer Students](https://ecu.academicworks.com/opportunities/38952) | $1,250 | 10/30/2026 |
 | [The Academic Scholarship Pool](https://ecu.academicworks.com/opportunities/38301) | $1,000 | 01/15/2027 |
@@ -277,6 +290,9 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Richard Wright Endowed Fellowship in Communication Disorders](https://fsu.academicworks.com/opportunities/37484) | Varies | 09/04/2026 |
 | [Robin Shari Parker Endowment in Speech-Language Pathology](https://fsu.academicworks.com/opportunities/37038) | Varies | 09/04/2026 |
 | [William G. and Alma S. Anderson Memorial Scholarship Fund](https://fsu.academicworks.com/opportunities/36798) | Varies | 09/04/2026 |
+| [Cheryl and Joel Rosenfield - C&I](https://fsu.academicworks.com/opportunities/36184) | Varies | 09/12/2026 |
+| [Christine M. Koontz and Persis E. Rockwood Endowed Fund](https://fsu.academicworks.com/opportunities/38339) | Varies | 09/12/2026 |
+| [Jeffrey and Cathy Hewlett Endowed Fund for Student Excellence](https://fsu.academicworks.com/opportunities/36419) | Varies | 09/16/2026 |
 | [College of Arts and Sciences Student Travel Awards](https://fsu.academicworks.com/opportunities/40344) | $500 | 09/18/2026 |
 | [A. Pauline "Polly" Shelley Endowment - Spring Application](https://fsu.academicworks.com/opportunities/35851) | Varies | 09/30/2026 |
 | [Beverly Health and Rehabilitation Services, Inc. Teaching Nursing Home Fund - Spring Application](https://fsu.academicworks.com/opportunities/35790) | Varies | 09/30/2026 |
