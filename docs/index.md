@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-08-07 14:35:03 UTC
+Last updated: 2026-08-10 14:40:19 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -10,7 +10,6 @@ This page contains all currently live scholarships detected by the sentinel.
 |------|--------|----------|
 | [Opportunity Scholars Program](https://cpcc.academicworks.com/opportunities/11668) | Up to $10,000 over 2 years | 08/31/2026 |
 | [Wilton & Mary Parr Arts & Humanity Endowed Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11706) | Up to $10,000 over 2 years | 08/31/2026 |
-| [NUCOR Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11680) | Up to $10,000 over 2 years | 09/01/2026 |
 | [Aasha Scholarship](https://cpcc.academicworks.com/opportunities/11429) | Varies | 01/31/2027 |
 | [Alli & Aiden Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11646) | Varies | 01/31/2027 |
 | [American Schlafhorst Foundation Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11132) | Varies | 01/31/2027 |
@@ -59,6 +58,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Dickson Endowed Scholarship Program in Medical & Health Care Professions](https://cpcc.academicworks.com/opportunities/11178) | Varies | 01/31/2027 |
 | [Howard & Julie Levine Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11697) | Up to $10,000 over 2 years | 01/31/2027 |
 | [Hugh L. McColl Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11694) | Up to $10,000 over 2 years | 01/31/2027 |
+| [NUCOR Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11680) | Up to $10,000 over 2 years | 01/31/2027 |
 | [Merancas Tech Careers Scholarship](https://cpcc.academicworks.com/opportunities/11514) | Varies | 01/31/2027 |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11732) | Varies | 01/31/2027 |
 | [CEENTA Angie Madigan Ophthalmic Medical Assisting Scholarship](https://cpcc.academicworks.com/opportunities/11743) | Varies | 01/31/2027 |
@@ -144,7 +144,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Woodfin Creative Writing Scholarship](https://cofc.academicworks.com/opportunities/12811) | Varies | 08/07/2026 |
 | [Macy Ezell Cooke Scholarship Endowment](https://cofc.academicworks.com/opportunities/12363) | Varies | 09/03/2026 |
 | [Deutscher Bruderliche Bund Scholarship](https://cofc.academicworks.com/opportunities/12490) | Varies | 09/18/2026 |
 | [German Friendly Society Scholarship](https://cofc.academicworks.com/opportunities/12545) | Varies | 09/18/2026 |
@@ -644,7 +643,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Clyde Shirley U.S. Constitution Scholarship](https://sc.academicworks.com/opportunities/11580) | Varies | 08/07/2026 |
 | [Donald J. Greiner Scholarship](https://sc.academicworks.com/opportunities/10545) | Varies | 08/14/2026 |
 | [A. C. Flora Memorial Scholarship](https://sc.academicworks.com/opportunities/11521) | Varies | 09/01/2026 |
 | [Abney Foundation Scholarship](https://sc.academicworks.com/opportunities/10975) | Varies | 09/01/2026 |
@@ -694,12 +692,14 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Marion A Knox, Sr. Scholarship](https://sc.academicworks.com/opportunities/11140) | Varies | 09/01/2026 |
 | [Martha Anne Boseski Scholarship](https://sc.academicworks.com/opportunities/10537) | $500.00 | 09/01/2026 |
 | [Mary and Tommy Johnson Scholarship](https://sc.academicworks.com/opportunities/11918) | $500.00 | 09/01/2026 |
+| [Mary Booth Hickman Scholarship](https://sc.academicworks.com/opportunities/10674) | Varies | 09/01/2026 |
 
 ## VT
 
 | Name | Amount | Deadline |
 |------|--------|----------|
 | [Global Education Office (GEO) Scholarship Application](https://vt.academicworks.com/opportunities/74226) | Varies | 09/06/2026 |
+| [College of Science Course Materials Assistance Award](https://vt.academicworks.com/opportunities/70375) | Varies | 09/30/2026 |
 | [MIT Scholars](https://vt.academicworks.com/opportunities/66663) | Varies | 12/01/2026 |
 | [Lee R. and Regina Aultice Steeneck Experiential Learning Scholarship](https://vt.academicworks.com/opportunities/73580) | Varies | 12/10/2026 |
 | [The Virginia Tech Tribal Match Scholarship](https://vt.academicworks.com/opportunities/60463) | Varies | 12/31/2026 |
@@ -748,7 +748,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Public Service Education Institute Scholarship](https://vt.academicworks.com/opportunities/68071) | Varies | 04/15/2027 |
 | [Smithfield Foundation Scholarship](https://vt.academicworks.com/opportunities/74537) | Varies | 05/15/2027 |
 | [VT News Survey and FERPA Release](https://vt.academicworks.com/opportunities/74374) | Varies | 07/01/2027 |
-| [Dallas Kinser & RT Johnson Scholarship](https://vt.academicworks.com/opportunities/5882) | Varies | N/A |
 
 ## VT-External
 
