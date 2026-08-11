@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-08-10 14:40:19 UTC
+Last updated: 2026-08-11 14:39:09 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -180,7 +180,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [The Graduate Security Studies Scholarship (R) (P)](https://ecu.academicworks.com/opportunities/38889) | $1,000 | 08/10/2026 |
 | [The Dowdy Bookstore Scholarship](https://ecu.academicworks.com/opportunities/38936) | $500 | 10/30/2026 |
 | [The Passage Academic Merit Scholarship for Transfer Students](https://ecu.academicworks.com/opportunities/38952) | $1,250 | 10/30/2026 |
 | [The Academic Scholarship Pool](https://ecu.academicworks.com/opportunities/38301) | $1,000 | 01/15/2027 |
@@ -245,7 +244,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Braden Lee Small Memorial Scholarship](https://fsu.academicworks.com/opportunities/40050) | Varies | 08/10/2026 |
 | [College of Arts and Sciences Study Abroad Awards - Spring Semester Abroad](https://fsu.academicworks.com/opportunities/37178) | $4,000 | 08/14/2026 |
 | [International Programs Scholarship - Spring Application](https://fsu.academicworks.com/opportunities/39501) | Varies | 08/19/2026 |
 | [Charles Richter Reusing Fund](https://fsu.academicworks.com/opportunities/39801) | Varies | 08/28/2026 |
@@ -738,6 +736,20 @@ This page contains all currently live scholarships detected by the sentinel.
 | [The Roost Living Learning Program - Housing Scholarship](https://vt.academicworks.com/opportunities/70682) | Varies | 01/22/2027 |
 | [Universal Leaf Tobacco Company Scholarship](https://vt.academicworks.com/opportunities/70952) | Varies | 01/22/2027 |
 | [Wayne H. Robinson End Scholarship](https://vt.academicworks.com/opportunities/73138) | Varies | 01/22/2027 |
+| [CLAHS Faculty Campaign Scholarship](https://vt.academicworks.com/opportunities/70928) | Varies | 01/22/2027 |
+| [CLAHS Staff Association Student Scholarship](https://vt.academicworks.com/opportunities/75142) | Varies | 01/22/2027 |
+| [Donald F. Morris Endowed Scholarship](https://vt.academicworks.com/opportunities/70049) | Varies | 01/22/2027 |
+| [Hallie L. Hughes Scholarship](https://vt.academicworks.com/opportunities/70704) | Varies | 01/22/2027 |
+| [Hulick Scholarship for Leadership, Friendship, and Service](https://vt.academicworks.com/opportunities/74287) | Varies | 01/22/2027 |
+| [James D. Moran Memorial Scholarship](https://vt.academicworks.com/opportunities/75074) | Varies | 01/22/2027 |
+| [Kathryn Thompson Leckie Memorial Scholarship](https://vt.academicworks.com/opportunities/74431) | Varies | 01/22/2027 |
+| [Margaret Groseclose Skelton Scholarship](https://vt.academicworks.com/opportunities/71673) | Varies | 01/22/2027 |
+| [Melinda Marie Somers Memorial Scholarship](https://vt.academicworks.com/opportunities/69435) | Varies | 01/22/2027 |
+| [Mo Donaldson Memorial Scholarship](https://vt.academicworks.com/opportunities/71410) | Varies | 01/22/2027 |
+| [Robin Reed Journalism Scholarship](https://vt.academicworks.com/opportunities/69904) | Varies | 01/22/2027 |
+| [Samuel G. Riley III Memorial Scholarship](https://vt.academicworks.com/opportunities/70985) | Varies | 01/22/2027 |
+| [Tamera Loan Overcash Award](https://vt.academicworks.com/opportunities/70340) | Varies | 01/22/2027 |
+| [Tech Sideline- Scholarship for Sports Journalism](https://vt.academicworks.com/opportunities/71472) | Varies | 01/22/2027 |
 | [Harry Lynde Bradley Scholarship (1-2 awarded annually)](https://vt.academicworks.com/opportunities/72083) | Varies | 01/31/2027 |
 | [Mossberg Table Tennis Scholarship (Freshman)](https://vt.academicworks.com/opportunities/74386) | 2 - $30,000 will be awarded | 03/01/2027 |
 | [Virginia Tech - Virginia Community College System Transfer Achievement Scholarship](https://vt.academicworks.com/opportunities/72603) | Varies | 03/12/2027 |
