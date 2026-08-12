@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-08-11 14:39:09 UTC
+Last updated: 2026-08-12 14:39:37 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -121,6 +121,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Mia Goodwin Memorial Scholarship](https://cpcc.academicworks.com/opportunities/11225) | Varies | 01/31/2027 |
 | [Mitchell Hagler Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11375) | Varies | 01/31/2027 |
 | [Mr. & Mrs. Emil J. Kratt Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11280) | Varies | 01/31/2027 |
+| [Overcash Book Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11437) | Varies | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
 | [CEENTA Angie Madigan Ophthalmic Medical Assisting Scholarship](https://cpcc.academicworks.com/opportunities/11619) | Varies | 02/14/2027 |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | 02/14/2027 |
@@ -144,6 +145,7 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
+| [CharlestonLIFE™ Scholarship Fund (formerly REACH)](https://cofc.academicworks.com/opportunities/11846) | Varies | 08/17/2026 |
 | [Macy Ezell Cooke Scholarship Endowment](https://cofc.academicworks.com/opportunities/12363) | Varies | 09/03/2026 |
 | [Deutscher Bruderliche Bund Scholarship](https://cofc.academicworks.com/opportunities/12490) | Varies | 09/18/2026 |
 | [German Friendly Society Scholarship](https://cofc.academicworks.com/opportunities/12545) | Varies | 09/18/2026 |
