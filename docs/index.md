@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-08-13 14:39:48 UTC
+Last updated: 2026-08-14 14:34:06 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -149,7 +149,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Macy Ezell Cooke Scholarship Endowment](https://cofc.academicworks.com/opportunities/12363) | Varies | 09/03/2026 |
 | [Deutscher Bruderliche Bund Scholarship](https://cofc.academicworks.com/opportunities/12490) | Varies | 09/18/2026 |
 | [German Friendly Society Scholarship](https://cofc.academicworks.com/opportunities/12545) | Varies | 09/18/2026 |
-| [Stephanie Sheffield Travel Scholarship](https://cofc.academicworks.com/opportunities/12903) | Varies | 01/15/2027 |
+| [Stephanie Sheffield Travel Scholarship](https://cofc.academicworks.com/opportunities/12903) | Varies | 02/13/2027 |
 | [Chick-fil-A Graduate Leadership Scholarship](https://cofc.academicworks.com/opportunities/11757) | Varies | N/A |
 | [College of Charleston Young Alumni Scholarship](https://cofc.academicworks.com/opportunities/11993) | Varies | N/A |
 | [Forvis Mazars Scholarship Fund](https://cofc.academicworks.com/opportunities/11771) | Varies | N/A |
@@ -519,6 +519,9 @@ This page contains all currently live scholarships detected by the sentinel.
 |------|--------|----------|
 | [Eden Academic Excellence Award](https://sfsu.academicworks.com/opportunities/23209) | $3,000 | 08/19/2026 |
 | [Music Department Scholarship Fund](https://sfsu.academicworks.com/opportunities/23694) | varies | 10/01/2026 |
+| [Deborah Tolman Honorary Scholarship](https://sfsu.academicworks.com/opportunities/23740) | $2000 | 10/31/2026 |
+| [Dr. John Paul DeCecco Graduate Fellowships in Sexuality Studies](https://sfsu.academicworks.com/opportunities/23738) | $1000 | 10/31/2026 |
+| [Generation to Generation Graduate School Award](https://sfsu.academicworks.com/opportunities/23742) | Varies | 10/31/2026 |
 | [Ginwala Family Music Endowment Fund](https://sfsu.academicworks.com/opportunities/23536) | Varies | N/A |
 | [Pone Forgivable Loan/Scholarship](https://sfsu.academicworks.com/opportunities/22647) | varies | N/A |
 | [Robert L. Liu Family Endowment:French Language and Culture Proficiency Award](https://sfsu.academicworks.com/opportunities/23275) | $750.00 | N/A |
@@ -564,9 +567,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Dr. Robert Dreher & Dr. Robert Suczek Memorial Scholarship](https://sfsu.academicworks.com/opportunities/9517) | $5,000.00 | N/A |
 | [Dr. Wan-Lee Cheng Design Innovation, Honors & Merit Award](https://sfsu.academicworks.com/opportunities/9694) | varies | N/A |
 | [Paul Zee Lyons Memorial Scholarships For Chinese Translation Studies, The](https://sfsu.academicworks.com/opportunities/9618) | varies | N/A |
-| [Dianne Francis Derby Memorial Scholarship](https://sfsu.academicworks.com/opportunities/7016) | $300 | N/A |
-| [Sierra Nevada Field Campus Scholarship](https://sfsu.academicworks.com/opportunities/2032) | Varies | N/A |
-| [Costco Scholarship Fund](https://sfsu.academicworks.com/opportunities/9805) | Equivalent to tuition | N/A |
 
 ## SFSU-External
 
