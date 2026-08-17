@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-08-14 14:34:06 UTC
+Last updated: 2026-08-17 14:04:20 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -122,6 +122,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Mitchell Hagler Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11375) | Varies | 01/31/2027 |
 | [Mr. & Mrs. Emil J. Kratt Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11280) | Varies | 01/31/2027 |
 | [Overcash Book Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11437) | Varies | 01/31/2027 |
+| [Overcash Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11221) | Varies | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
 | [CEENTA Angie Madigan Ophthalmic Medical Assisting Scholarship](https://cpcc.academicworks.com/opportunities/11619) | Varies | 02/14/2027 |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | 02/14/2027 |
@@ -157,7 +158,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Joanna Endowed Scholarship-Masters in Environmental Studies](https://cofc.academicworks.com/opportunities/12510) | Varies | N/A |
 | [Joanna Foundation Deep Water Fund](https://cofc.academicworks.com/opportunities/11811) | Varies | N/A |
 | [Katuna Endowed Scholarship in Environmental Studies](https://cofc.academicworks.com/opportunities/11762) | Varies | N/A |
-| [Lisa Perea Hane Endowed/Annual Scholarship](https://cofc.academicworks.com/opportunities/11773) | Varies | N/A |
 | [The Environmental Protection Endowed Scholarship](https://cofc.academicworks.com/opportunities/12853) | Varies | N/A |
 | [Zucker Family Engineering Scholars Program](https://cofc.academicworks.com/opportunities/11635) | Varies | N/A |
 | [Casa Hispana Scholarship](https://cofc.academicworks.com/opportunities/12199) | Varies | N/A |
@@ -182,8 +182,14 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
+| [The Global Understanding Scholarship](https://ecu.academicworks.com/opportunities/38968) | $500 | 10/15/2026 |
+| [The Mary Paschal & Marguerite Perry Endowment Fund for Study in France](https://ecu.academicworks.com/opportunities/38950) | Varies | 10/15/2026 |
+| [The Scholarship for Study Abroad at Manchester Metropolitan University](https://ecu.academicworks.com/opportunities/38946) | $2,000 | 10/15/2026 |
+| [The Scholarship for Study Abroad at the Universite de Tours](https://ecu.academicworks.com/opportunities/38948) | $2,000 | 10/15/2026 |
+| [The Thomas W. Rivers Foreign Exchange Scholarship](https://ecu.academicworks.com/opportunities/38938) | Varies | 10/15/2026 |
 | [The Dowdy Bookstore Scholarship](https://ecu.academicworks.com/opportunities/38936) | $500 | 10/30/2026 |
 | [The Passage Academic Merit Scholarship for Transfer Students](https://ecu.academicworks.com/opportunities/38952) | $1,250 | 10/30/2026 |
+| [The Bedford Falls Foundation Advanced Military Medics Scholarship](https://ecu.academicworks.com/opportunities/37220) | Varies | 10/30/2026 |
 | [The Academic Scholarship Pool](https://ecu.academicworks.com/opportunities/38301) | $1,000 | 01/15/2027 |
 | [The Access Scholarship (R)](https://ecu.academicworks.com/opportunities/38305) | $20,000 over 4 years | 01/15/2027 |
 | [The AJ Threewitts Family Scholarship](https://ecu.academicworks.com/opportunities/36349) | Varies | 01/15/2027 |
@@ -246,7 +252,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [College of Arts and Sciences Study Abroad Awards - Spring Semester Abroad](https://fsu.academicworks.com/opportunities/37178) | $4,000 | 08/14/2026 |
 | [International Programs Scholarship - Spring Application](https://fsu.academicworks.com/opportunities/39501) | Varies | 08/19/2026 |
 | [Charles Richter Reusing Fund](https://fsu.academicworks.com/opportunities/39801) | Varies | 08/28/2026 |
 | [Corey D. Dahlem Memorial Endowed Scholarships](https://fsu.academicworks.com/opportunities/39782) | Varies | 08/28/2026 |
@@ -291,6 +296,12 @@ This page contains all currently live scholarships detected by the sentinel.
 | [William G. and Alma S. Anderson Memorial Scholarship Fund](https://fsu.academicworks.com/opportunities/36798) | Varies | 09/04/2026 |
 | [Cheryl and Joel Rosenfield - C&I](https://fsu.academicworks.com/opportunities/36184) | Varies | 09/12/2026 |
 | [Christine M. Koontz and Persis E. Rockwood Endowed Fund](https://fsu.academicworks.com/opportunities/38339) | Varies | 09/12/2026 |
+| [Ben and Karen Thrower Award within the Department of Biological Science](https://fsu.academicworks.com/opportunities/37419) | Varies | 09/15/2026 |
+| [Biological Science Alumni Scholarship Fund](https://fsu.academicworks.com/opportunities/36818) | Varies | 09/15/2026 |
+| [Brenda Weems Bennison Endowment](https://fsu.academicworks.com/opportunities/36282) | Varies | 09/15/2026 |
+| [Charles M. McAllister Biological Studies Student Support Fund](https://fsu.academicworks.com/opportunities/36623) | Varies | 09/15/2026 |
+| [Faculty Undergraduate Scholarship Fund](https://fsu.academicworks.com/opportunities/36745) | $1,350 | 09/15/2026 |
+| [Francenia E. Fisher Scholarship](https://fsu.academicworks.com/opportunities/37658) | $2,500 | 09/15/2026 |
 | [Jeffrey and Cathy Hewlett Endowed Fund for Student Excellence](https://fsu.academicworks.com/opportunities/36419) | Varies | 09/16/2026 |
 | [College of Arts and Sciences Student Travel Awards](https://fsu.academicworks.com/opportunities/40344) | $500 | 09/18/2026 |
 | [A. Pauline "Polly" Shelley Endowment - Spring Application](https://fsu.academicworks.com/opportunities/35851) | Varies | 09/30/2026 |
@@ -519,6 +530,8 @@ This page contains all currently live scholarships detected by the sentinel.
 |------|--------|----------|
 | [Eden Academic Excellence Award](https://sfsu.academicworks.com/opportunities/23209) | $3,000 | 08/19/2026 |
 | [Music Department Scholarship Fund](https://sfsu.academicworks.com/opportunities/23694) | varies | 10/01/2026 |
+| [Shereen Paff Special Education Scholarship](https://sfsu.academicworks.com/opportunities/23690) | Varies - up to $4,000 | 10/15/2026 |
+| [John Irwin Memorial Scholarship](https://sfsu.academicworks.com/opportunities/23202) | Varies | 10/30/2026 |
 | [Deborah Tolman Honorary Scholarship](https://sfsu.academicworks.com/opportunities/23740) | $2000 | 10/31/2026 |
 | [Dr. John Paul DeCecco Graduate Fellowships in Sexuality Studies](https://sfsu.academicworks.com/opportunities/23738) | $1000 | 10/31/2026 |
 | [Generation to Generation Graduate School Award](https://sfsu.academicworks.com/opportunities/23742) | Varies | 10/31/2026 |
@@ -565,8 +578,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [San Francisco Chapter Society for Technical Communication Scholarship for TPW Students](https://sfsu.academicworks.com/opportunities/8597) | up to $500 | N/A |
 | [Nikon Precision College of Business Scholarship Fund](https://sfsu.academicworks.com/opportunities/9254) | $1,500.00 | N/A |
 | [Dr. Robert Dreher & Dr. Robert Suczek Memorial Scholarship](https://sfsu.academicworks.com/opportunities/9517) | $5,000.00 | N/A |
-| [Dr. Wan-Lee Cheng Design Innovation, Honors & Merit Award](https://sfsu.academicworks.com/opportunities/9694) | varies | N/A |
-| [Paul Zee Lyons Memorial Scholarships For Chinese Translation Studies, The](https://sfsu.academicworks.com/opportunities/9618) | varies | N/A |
 
 ## SFSU-External
 
@@ -643,7 +654,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Donald J. Greiner Scholarship](https://sc.academicworks.com/opportunities/10545) | Varies | 08/14/2026 |
 | [A. C. Flora Memorial Scholarship](https://sc.academicworks.com/opportunities/11521) | Varies | 09/01/2026 |
 | [Abney Foundation Scholarship](https://sc.academicworks.com/opportunities/10975) | Varies | 09/01/2026 |
 | [Andrew and Mary Poliakoff Scholarship](https://sc.academicworks.com/opportunities/11713) | Varies | 09/01/2026 |
@@ -693,6 +703,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Martha Anne Boseski Scholarship](https://sc.academicworks.com/opportunities/10537) | $500.00 | 09/01/2026 |
 | [Mary and Tommy Johnson Scholarship](https://sc.academicworks.com/opportunities/11918) | $500.00 | 09/01/2026 |
 | [Mary Booth Hickman Scholarship](https://sc.academicworks.com/opportunities/10674) | Varies | 09/01/2026 |
+| [Nancy Phillips Mayer Presidential Scholarship](https://sc.academicworks.com/opportunities/10558) | Varies | 09/01/2026 |
 
 ## VT
 
