@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-08-17 14:04:20 UTC
+Last updated: 2026-08-18 14:09:34 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -123,6 +123,9 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Mr. & Mrs. Emil J. Kratt Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11280) | Varies | 01/31/2027 |
 | [Overcash Book Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11437) | Varies | 01/31/2027 |
 | [Overcash Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11221) | Varies | 01/31/2027 |
+| [Patrice Burnside Award Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11551) | Varies | 01/31/2027 |
+| [Peggy B. & Robert D. Culbertson General Scholarship](https://cpcc.academicworks.com/opportunities/11442) | Varies | 01/31/2027 |
+| [Philip L. Van Every Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11511) | Varies | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
 | [CEENTA Angie Madigan Ophthalmic Medical Assisting Scholarship](https://cpcc.academicworks.com/opportunities/11619) | Varies | 02/14/2027 |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | 02/14/2027 |
@@ -146,7 +149,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [CharlestonLIFE™ Scholarship Fund (formerly REACH)](https://cofc.academicworks.com/opportunities/11846) | Varies | 08/17/2026 |
 | [Macy Ezell Cooke Scholarship Endowment](https://cofc.academicworks.com/opportunities/12363) | Varies | 09/03/2026 |
 | [Deutscher Bruderliche Bund Scholarship](https://cofc.academicworks.com/opportunities/12490) | Varies | 09/18/2026 |
 | [German Friendly Society Scholarship](https://cofc.academicworks.com/opportunities/12545) | Varies | 09/18/2026 |
@@ -496,7 +498,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Barnhardt-Thomas Textiles Scholarship](https://ncsu.academicworks.com/opportunities/177534) | varies | N/A |
 | [Barnhill Textile Pioneer Sch](https://ncsu.academicworks.com/opportunities/179532) | Varies | N/A |
 | [Barre R. Mitchell Scholarship](https://ncsu.academicworks.com/opportunities/179050) | Varies | N/A |
-| [Bart and Pam Nicholson Scholarship](https://ncsu.academicworks.com/opportunities/175486) | Varies | N/A |
 | [Barton and Calder Endowment Industry Forestry Scholarship](https://ncsu.academicworks.com/opportunities/175718) | varies | N/A |
 | [BASF Corporation Scholarship](https://ncsu.academicworks.com/opportunities/175651) | Varies | N/A |
 | [Batts Family Scholarship](https://ncsu.academicworks.com/opportunities/179877) | Varies | N/A |
@@ -517,6 +518,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Bray Family Scholarship in Veterinary Medicine](https://ncsu.academicworks.com/opportunities/175385) | Varies | N/A |
 | [Brian Cardini Memorial Scholarship](https://ncsu.academicworks.com/opportunities/179024) | varies | N/A |
 | [Briton and Gladys LeCompte Natural Resources Scholarship](https://ncsu.academicworks.com/opportunities/176779) | Varies | N/A |
+| [Brown and Root, Inc. Endowed Scholarship](https://ncsu.academicworks.com/opportunities/178840) | Varies | N/A |
 
 ## NC State-Flexible
 
@@ -711,6 +713,7 @@ This page contains all currently live scholarships detected by the sentinel.
 |------|--------|----------|
 | [Global Education Office (GEO) Scholarship Application](https://vt.academicworks.com/opportunities/74226) | Varies | 09/06/2026 |
 | [College of Science Course Materials Assistance Award](https://vt.academicworks.com/opportunities/70375) | Varies | 09/30/2026 |
+| [School of Architecture Annual Technology Support Fund](https://vt.academicworks.com/opportunities/75638) | Varies | 11/16/2026 |
 | [MIT Scholars](https://vt.academicworks.com/opportunities/66663) | Varies | 12/01/2026 |
 | [Lee R. and Regina Aultice Steeneck Experiential Learning Scholarship](https://vt.academicworks.com/opportunities/73580) | Varies | 12/10/2026 |
 | [The Virginia Tech Tribal Match Scholarship](https://vt.academicworks.com/opportunities/60463) | Varies | 12/31/2026 |
