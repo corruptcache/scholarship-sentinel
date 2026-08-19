@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-08-18 14:09:34 UTC
+Last updated: 2026-08-19 14:09:45 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -126,6 +126,16 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Patrice Burnside Award Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11551) | Varies | 01/31/2027 |
 | [Peggy B. & Robert D. Culbertson General Scholarship](https://cpcc.academicworks.com/opportunities/11442) | Varies | 01/31/2027 |
 | [Philip L. Van Every Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11511) | Varies | 01/31/2027 |
+| [Pittenger-Bahakel Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11166) | Varies | 01/31/2027 |
+| [Powell Majors Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11366) | Varies | 01/31/2027 |
+| [PSA Airlines Scholarship](https://cpcc.academicworks.com/opportunities/11738) | Varies | 01/31/2027 |
+| [Reggie Daniel Motorhead Scholarship](https://cpcc.academicworks.com/opportunities/11227) | Varies | 01/31/2027 |
+| [Riggins Veterans Scholarship](https://cpcc.academicworks.com/opportunities/11635) | Varies | 01/31/2027 |
+| [Robert Powell Hodges Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11432) | Varies | 01/31/2027 |
+| [Ron & Katherine Harper Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11186) | Varies | 01/31/2027 |
+| [Schug Technical Scholarship](https://cpcc.academicworks.com/opportunities/11529) | Varies | 01/31/2027 |
+| [Simonini Builders Endowed Scholarship (Simonini Employees and Family)](https://cpcc.academicworks.com/opportunities/11391) | Varies | 01/31/2027 |
+| [Sparrow-Tyson Scholarship](https://cpcc.academicworks.com/opportunities/11652) | Varies | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
 | [CEENTA Angie Madigan Ophthalmic Medical Assisting Scholarship](https://cpcc.academicworks.com/opportunities/11619) | Varies | 02/14/2027 |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | 02/14/2027 |
@@ -537,6 +547,9 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Deborah Tolman Honorary Scholarship](https://sfsu.academicworks.com/opportunities/23740) | $2000 | 10/31/2026 |
 | [Dr. John Paul DeCecco Graduate Fellowships in Sexuality Studies](https://sfsu.academicworks.com/opportunities/23738) | $1000 | 10/31/2026 |
 | [Generation to Generation Graduate School Award](https://sfsu.academicworks.com/opportunities/23742) | Varies | 10/31/2026 |
+| [Grant A. Larsen Scholarship](https://sfsu.academicworks.com/opportunities/23752) | 1,000 | 10/31/2026 |
+| [Hediye Gurtuna Youth Advocacy Scholarships](https://sfsu.academicworks.com/opportunities/23750) | varies | 10/31/2026 |
+| [Pepper Schwartz Honorary Scholarship in Sexuality Studies](https://sfsu.academicworks.com/opportunities/23754) | $2000 | 10/31/2026 |
 | [Ginwala Family Music Endowment Fund](https://sfsu.academicworks.com/opportunities/23536) | Varies | N/A |
 | [Pone Forgivable Loan/Scholarship](https://sfsu.academicworks.com/opportunities/22647) | varies | N/A |
 | [Robert L. Liu Family Endowment:French Language and Culture Proficiency Award](https://sfsu.academicworks.com/opportunities/23275) | $750.00 | N/A |
@@ -577,9 +590,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Boundaries of Life Scholarship](https://sfsu.academicworks.com/opportunities/8867) | $7,000.00 | N/A |
 | [Abel/Kolterman Scholarship](https://sfsu.academicworks.com/opportunities/1414) | varies | N/A |
 | [William L. Neer Scholarship](https://sfsu.academicworks.com/opportunities/8816) | varies | N/A |
-| [San Francisco Chapter Society for Technical Communication Scholarship for TPW Students](https://sfsu.academicworks.com/opportunities/8597) | up to $500 | N/A |
-| [Nikon Precision College of Business Scholarship Fund](https://sfsu.academicworks.com/opportunities/9254) | $1,500.00 | N/A |
-| [Dr. Robert Dreher & Dr. Robert Suczek Memorial Scholarship](https://sfsu.academicworks.com/opportunities/9517) | $5,000.00 | N/A |
 
 ## SFSU-External
 
