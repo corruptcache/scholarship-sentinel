@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-08-20 14:11:18 UTC
+Last updated: 2026-08-21 14:09:21 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -163,6 +163,7 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
+| [CharlestonLIFE™ Scholarship Fund (formerly REACH)](https://cofc.academicworks.com/opportunities/11846) | Varies | 08/22/2026 |
 | [Macy Ezell Cooke Scholarship Endowment](https://cofc.academicworks.com/opportunities/12363) | Varies | 09/03/2026 |
 | [Deutscher Bruderliche Bund Scholarship](https://cofc.academicworks.com/opportunities/12490) | Varies | 09/18/2026 |
 | [German Friendly Society Scholarship](https://cofc.academicworks.com/opportunities/12545) | Varies | 09/18/2026 |
