@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-08-21 14:09:21 UTC
+Last updated: 2026-08-24 14:21:22 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -163,7 +163,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [CharlestonLIFE™ Scholarship Fund (formerly REACH)](https://cofc.academicworks.com/opportunities/11846) | Varies | 08/22/2026 |
 | [Macy Ezell Cooke Scholarship Endowment](https://cofc.academicworks.com/opportunities/12363) | Varies | 09/03/2026 |
 | [Deutscher Bruderliche Bund Scholarship](https://cofc.academicworks.com/opportunities/12490) | Varies | 09/18/2026 |
 | [German Friendly Society Scholarship](https://cofc.academicworks.com/opportunities/12545) | Varies | 09/18/2026 |
@@ -556,6 +555,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Kathleen Fraser Memorial Scholarship in Poetry](https://sfsu.academicworks.com/opportunities/23716) | $5,000.00 | 10/20/2026 |
 | [Kathryn A. Manoogian Schol in Creative Writing](https://sfsu.academicworks.com/opportunities/22427) | $1,500 | 10/20/2026 |
 | [Marcus Second Year Graduate Student Scholarship](https://sfsu.academicworks.com/opportunities/22296) | 2,500 | 10/20/2026 |
+| [Willie L. Brown Jr. Fellowship](https://sfsu.academicworks.com/opportunities/23674) | $4,000 | 10/21/2026 |
 | [John Irwin Memorial Scholarship](https://sfsu.academicworks.com/opportunities/23202) | Varies | 10/30/2026 |
 | [Tripwire Graduate Student Support Fund](https://sfsu.academicworks.com/opportunities/23713) | $5,000.00 | 10/30/2026 |
 | [Deborah Tolman Honorary Scholarship](https://sfsu.academicworks.com/opportunities/23740) | $2000 | 10/31/2026 |
@@ -564,6 +564,21 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Grant A. Larsen Scholarship](https://sfsu.academicworks.com/opportunities/23752) | 1,000 | 10/31/2026 |
 | [Hediye Gurtuna Youth Advocacy Scholarships](https://sfsu.academicworks.com/opportunities/23750) | varies | 10/31/2026 |
 | [Pepper Schwartz Honorary Scholarship in Sexuality Studies](https://sfsu.academicworks.com/opportunities/23754) | $2000 | 10/31/2026 |
+| [Amy Love Memorial Scholarship](https://sfsu.academicworks.com/opportunities/22426) | Varies | 11/01/2026 |
+| [ASW Scholarship Fund](https://sfsu.academicworks.com/opportunities/23161) | varies | 11/01/2026 |
+| [Debra Plousha Moore Scholarship](https://sfsu.academicworks.com/opportunities/22783) | varies | 11/01/2026 |
+| [Ellanore and Maurice Bassan English Dept. Schol.](https://sfsu.academicworks.com/opportunities/23131) | varies | 11/01/2026 |
+| [Gail E. Weinstein Fellowship in Community Literacy Education Scholarship](https://sfsu.academicworks.com/opportunities/22409) | $1000 | 11/01/2026 |
+| [Gant Family Pathways to MA TESOL Award](https://sfsu.academicworks.com/opportunities/23410) | Varies | 11/01/2026 |
+| [Jim Brogan and Jack Post Scholarship](https://sfsu.academicworks.com/opportunities/22185) | varies | 11/01/2026 |
+| [Michael Krasny Award in English Literature](https://sfsu.academicworks.com/opportunities/23150) | up to $4000 | 11/01/2026 |
+| [R. Joel Dorius Memorial Scholarship](https://sfsu.academicworks.com/opportunities/22300) | varies | 11/01/2026 |
+| [Siguenza-Menendez Scholarship](https://sfsu.academicworks.com/opportunities/23263) | $0.00 | 11/01/2026 |
+| [Stephen Arkin Distinguished Student Award Endowment in English Language and Literature](https://sfsu.academicworks.com/opportunities/22905) | $3,000.00 | 11/01/2026 |
+| [TESOL Convention Scholarship](https://sfsu.academicworks.com/opportunities/22534) | $500.00 | 11/01/2026 |
+| [TESOL Legacy Fellowship](https://sfsu.academicworks.com/opportunities/22353) | varies | 11/01/2026 |
+| [The Cunningham Scholarship in English Literature](https://sfsu.academicworks.com/opportunities/22302) | varies | 11/01/2026 |
+| [Vicente Narciso Marcelo Scholarship in English](https://sfsu.academicworks.com/opportunities/22939) | $1,000.00 | 11/01/2026 |
 | [Ginwala Family Music Endowment Fund](https://sfsu.academicworks.com/opportunities/23536) | Varies | N/A |
 | [Pone Forgivable Loan/Scholarship](https://sfsu.academicworks.com/opportunities/22647) | varies | N/A |
 | [Robert L. Liu Family Endowment:French Language and Culture Proficiency Award](https://sfsu.academicworks.com/opportunities/23275) | $750.00 | N/A |
@@ -580,22 +595,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Remembrance of Anne Markevich Scholarship](https://sfsu.academicworks.com/opportunities/6978) | varies | N/A |
 | [Somatica Scholarship](https://sfsu.academicworks.com/opportunities/7138) | Varies | N/A |
 | [Jim Kohn Scholarship Award](https://sfsu.academicworks.com/opportunities/1921) | varies | N/A |
-| [Jan Gregory Postsecondary Reading Comp Scholarship](https://sfsu.academicworks.com/opportunities/6563) | $500 | N/A |
-| [Helen Ortega Memorial Fund Scholarship](https://sfsu.academicworks.com/opportunities/2488) | $1,257.00 | N/A |
-| [Teddi Herrera Omohundro Memorial Medical Technology Scholarship](https://sfsu.academicworks.com/opportunities/1792) | $1,810.00 | N/A |
-| [Western Pathologists Quality Assurance Association Scholarship](https://sfsu.academicworks.com/opportunities/1822) | varies | N/A |
-| [Philip Johnson/Cynthia Kolb Memorial Award Scholarship](https://sfsu.academicworks.com/opportunities/6541) | $500 | N/A |
-| [Chinese Hospital Nursing Scholarship](https://sfsu.academicworks.com/opportunities/6062) | $8,000/Academic Year | N/A |
-| [BOMA of San Francisco Foundation Scholarship Fund](https://sfsu.academicworks.com/opportunities/6610) | $3,500.00 | N/A |
-| [Ekaterini Vitale Scholarship Fund in Modern Greek Studies](https://sfsu.academicworks.com/opportunities/7062) | up to $1000 | N/A |
-| [Sara Ruth Prize - English](https://sfsu.academicworks.com/opportunities/7632) | varies | N/A |
-| [Psychology Department Scholarship](https://sfsu.academicworks.com/opportunities/6285) | varies | N/A |
-| [Linda Leary Reliable Caregivers Nursing Scholarship](https://sfsu.academicworks.com/opportunities/7353) | $1,250.00 | N/A |
-| [Hearth Homes Inclusive Design Scholarship](https://sfsu.academicworks.com/opportunities/7963) | $5,000 | N/A |
-| [Jeff Clavin Memorial Scholarship](https://sfsu.academicworks.com/opportunities/7848) | Varies | N/A |
-| [SKAL International Scholarship](https://sfsu.academicworks.com/opportunities/8348) | $1,000.00 | N/A |
-| [Kimball L. Hamberger Scholarship](https://sfsu.academicworks.com/opportunities/8233) | $300.00 | N/A |
-| [Shenson Foundation Award](https://sfsu.academicworks.com/opportunities/8115) | up to $1500 | N/A |
 
 ## SFSU-External
 
@@ -656,7 +655,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Science Research Initiative (SRI) Application](https://utah.academicworks.com/opportunities/44917) | Varies | 08/23/2026 |
 | [Theatre Scholarship for Incoming Freshman](https://utah.academicworks.com/opportunities/45048) | $0.00 | 08/30/2026 |
 
 ## UTAH-External
