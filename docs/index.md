@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-08-24 14:21:22 UTC
+Last updated: 2026-08-25 14:23:45 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -164,8 +164,8 @@ This page contains all currently live scholarships detected by the sentinel.
 | Name | Amount | Deadline |
 |------|--------|----------|
 | [Macy Ezell Cooke Scholarship Endowment](https://cofc.academicworks.com/opportunities/12363) | Varies | 09/03/2026 |
-| [Deutscher Bruderliche Bund Scholarship](https://cofc.academicworks.com/opportunities/12490) | Varies | 09/18/2026 |
-| [German Friendly Society Scholarship](https://cofc.academicworks.com/opportunities/12545) | Varies | 09/18/2026 |
+| [Deutscher Bruderliche Bund Scholarship](https://cofc.academicworks.com/opportunities/12490) | Varies | 01/15/2027 |
+| [German Friendly Society Scholarship](https://cofc.academicworks.com/opportunities/12545) | Varies | 01/15/2027 |
 | [Stephanie Sheffield Travel Scholarship](https://cofc.academicworks.com/opportunities/12903) | Varies | 02/13/2027 |
 | [Chick-fil-A Graduate Leadership Scholarship](https://cofc.academicworks.com/opportunities/11757) | Varies | N/A |
 | [College of Charleston Young Alumni Scholarship](https://cofc.academicworks.com/opportunities/11993) | Varies | N/A |
@@ -203,6 +203,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [The Scholarship for Study Abroad at Manchester Metropolitan University](https://ecu.academicworks.com/opportunities/38946) | $2,000 | 10/15/2026 |
 | [The Scholarship for Study Abroad at the Universite de Tours](https://ecu.academicworks.com/opportunities/38948) | $2,000 | 10/15/2026 |
 | [The Thomas W. Rivers Foreign Exchange Scholarship](https://ecu.academicworks.com/opportunities/38938) | Varies | 10/15/2026 |
+| [The ECU Tuscany Scholarship](https://ecu.academicworks.com/opportunities/38958) | Varies | 10/15/2026 |
 | [The Dowdy Bookstore Scholarship](https://ecu.academicworks.com/opportunities/38936) | $500 | 10/30/2026 |
 | [The Passage Academic Merit Scholarship for Transfer Students](https://ecu.academicworks.com/opportunities/38952) | $1,250 | 10/30/2026 |
 | [The Bedford Falls Foundation Advanced Military Medics Scholarship](https://ecu.academicworks.com/opportunities/37220) | Varies | 10/30/2026 |
