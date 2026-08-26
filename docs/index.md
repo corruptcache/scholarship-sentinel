@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-08-25 14:23:45 UTC
+Last updated: 2026-08-26 14:21:16 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -311,6 +311,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Richard Wright Endowed Fellowship in Communication Disorders](https://fsu.academicworks.com/opportunities/37484) | Varies | 09/04/2026 |
 | [Robin Shari Parker Endowment in Speech-Language Pathology](https://fsu.academicworks.com/opportunities/37038) | Varies | 09/04/2026 |
 | [William G. and Alma S. Anderson Memorial Scholarship Fund](https://fsu.academicworks.com/opportunities/36798) | Varies | 09/04/2026 |
+| [CCI Student Leadership Award](https://fsu.academicworks.com/opportunities/36369) | Varies | 09/08/2026 |
 | [Cheryl and Joel Rosenfield - C&I](https://fsu.academicworks.com/opportunities/36184) | Varies | 09/12/2026 |
 | [Christine M. Koontz and Persis E. Rockwood Endowed Fund](https://fsu.academicworks.com/opportunities/38339) | Varies | 09/12/2026 |
 | [Ben and Karen Thrower Award within the Department of Biological Science](https://fsu.academicworks.com/opportunities/37419) | Varies | 09/15/2026 |
@@ -580,6 +581,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [TESOL Legacy Fellowship](https://sfsu.academicworks.com/opportunities/22353) | varies | 11/01/2026 |
 | [The Cunningham Scholarship in English Literature](https://sfsu.academicworks.com/opportunities/22302) | varies | 11/01/2026 |
 | [Vicente Narciso Marcelo Scholarship in English](https://sfsu.academicworks.com/opportunities/22939) | $1,000.00 | 11/01/2026 |
+| [Willie L Brown Graduate Fellowship Program](https://sfsu.academicworks.com/opportunities/22324) | $22,000 (disbursed over 4 semesters, beginning Spring 2027 | 11/05/2026 |
 | [Ginwala Family Music Endowment Fund](https://sfsu.academicworks.com/opportunities/23536) | Varies | N/A |
 | [Pone Forgivable Loan/Scholarship](https://sfsu.academicworks.com/opportunities/22647) | varies | N/A |
 | [Robert L. Liu Family Endowment:French Language and Culture Proficiency Award](https://sfsu.academicworks.com/opportunities/23275) | $750.00 | N/A |
@@ -595,7 +597,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Magalios Family Scholarship - Humanities Dept.](https://sfsu.academicworks.com/opportunities/3968) | $1,000 | N/A |
 | [Remembrance of Anne Markevich Scholarship](https://sfsu.academicworks.com/opportunities/6978) | varies | N/A |
 | [Somatica Scholarship](https://sfsu.academicworks.com/opportunities/7138) | Varies | N/A |
-| [Jim Kohn Scholarship Award](https://sfsu.academicworks.com/opportunities/1921) | varies | N/A |
 
 ## SFSU-External
 
