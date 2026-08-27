@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-08-26 14:21:16 UTC
+Last updated: 2026-08-27 23:04:07 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -10,6 +10,7 @@ This page contains all currently live scholarships detected by the sentinel.
 |------|--------|----------|
 | [Opportunity Scholars Program](https://cpcc.academicworks.com/opportunities/11668) | Up to $10,000 over 2 years | 08/31/2026 |
 | [Wilton & Mary Parr Arts & Humanity Endowed Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11706) | Up to $10,000 over 2 years | 08/31/2026 |
+| [Phil & Linda Sterner Scholarship](https://cpcc.academicworks.com/opportunities/11654) | Varies | 10/16/2026 |
 | [Aasha Scholarship](https://cpcc.academicworks.com/opportunities/11429) | Varies | 01/31/2027 |
 | [Alli & Aiden Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11646) | Varies | 01/31/2027 |
 | [American Schlafhorst Foundation Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11132) | Varies | 01/31/2027 |
@@ -140,6 +141,9 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Steele's Mechanical Veterans Scholarship](https://cpcc.academicworks.com/opportunities/11658) | Varies | 01/31/2027 |
 | [Steve Gore Honorary Scholarship](https://cpcc.academicworks.com/opportunities/11719) | Varies | 01/31/2027 |
 | [Stone Estate Trust Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11397) | Varies | 01/31/2027 |
+| [Surtman Foundation Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11410) | Varies | 01/31/2027 |
+| [Sylvia Ingram Eagle Scholarship](https://cpcc.academicworks.com/opportunities/11615) | Varies | 01/31/2027 |
+| [Textbook Scholarship](https://cpcc.academicworks.com/opportunities/11713) | Varies | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
 | [CEENTA Angie Madigan Ophthalmic Medical Assisting Scholarship](https://cpcc.academicworks.com/opportunities/11619) | Varies | 02/14/2027 |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | 02/14/2027 |
@@ -164,6 +168,12 @@ This page contains all currently live scholarships detected by the sentinel.
 | Name | Amount | Deadline |
 |------|--------|----------|
 | [Macy Ezell Cooke Scholarship Endowment](https://cofc.academicworks.com/opportunities/12363) | Varies | 09/03/2026 |
+| [Anna B. Cox Scholarship](https://cofc.academicworks.com/opportunities/12892) | Varies | 10/04/2026 |
+| [Cain Family International Scholarship](https://cofc.academicworks.com/opportunities/12893) | Varies | 10/04/2026 |
+| [CIE Abroad Scholarship](https://cofc.academicworks.com/opportunities/12889) | Varies | 10/04/2026 |
+| [Global Access Scholarship](https://cofc.academicworks.com/opportunities/12522) | Varies | 10/04/2026 |
+| [Joe Milligan Australian Scholarship Endowed Fund](https://cofc.academicworks.com/opportunities/12896) | Varies | 10/04/2026 |
+| [John L. Covington, Jr. & Robert J. Lukey Endowed/Annual Scholarship for Study Abroad](https://cofc.academicworks.com/opportunities/12902) | Varies | 10/04/2026 |
 | [Deutscher Bruderliche Bund Scholarship](https://cofc.academicworks.com/opportunities/12490) | Varies | 01/15/2027 |
 | [German Friendly Society Scholarship](https://cofc.academicworks.com/opportunities/12545) | Varies | 01/15/2027 |
 | [Stephanie Sheffield Travel Scholarship](https://cofc.academicworks.com/opportunities/12903) | Varies | 02/13/2027 |
@@ -302,6 +312,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Philomene A. Gates Fund for Excellence in Oral Communication](https://fsu.academicworks.com/opportunities/37143) | Varies | 08/31/2026 |
 | [Steve Ellis Memorial Scholarship Fund](https://fsu.academicworks.com/opportunities/37201) | Varies | 08/31/2026 |
 | [Kimberly Wills Dunham Endowed Scholarship](https://fsu.academicworks.com/opportunities/39943) | Varies | 09/01/2026 |
+| [Robert Fichter Graduate Support Fund in Art](https://fsu.academicworks.com/opportunities/40651) | $0.00 | 09/02/2026 |
 | [Curtis and Jo Ellen Hicks Falany Graduate Student Stipend for Speech Language Pathology](https://fsu.academicworks.com/opportunities/36440) | Varies | 09/04/2026 |
 | [Doreen Brown Oyadomari Endowed Scholarship in Communication](https://fsu.academicworks.com/opportunities/36929) | Varies | 09/04/2026 |
 | [Dr. Avery Vaughn Fund for Excellence in Communication Science and Disorders](https://fsu.academicworks.com/opportunities/37255) | Varies | 09/04/2026 |
@@ -547,6 +558,7 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
+| [Eden Academic Excellence Award](https://sfsu.academicworks.com/opportunities/23209) | $3,000 | 09/30/2026 |
 | [Music Department Scholarship Fund](https://sfsu.academicworks.com/opportunities/23694) | varies | 10/01/2026 |
 | [Shereen Paff Special Education Scholarship](https://sfsu.academicworks.com/opportunities/23690) | Varies - up to $4,000 | 10/15/2026 |
 | [Clark-Gross Award in the Novel](https://sfsu.academicworks.com/opportunities/22922) | $100 | 10/20/2026 |
@@ -596,7 +608,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Sergio Martins Scholarship](https://sfsu.academicworks.com/opportunities/6702) | $1,000 | N/A |
 | [Magalios Family Scholarship - Humanities Dept.](https://sfsu.academicworks.com/opportunities/3968) | $1,000 | N/A |
 | [Remembrance of Anne Markevich Scholarship](https://sfsu.academicworks.com/opportunities/6978) | varies | N/A |
-| [Somatica Scholarship](https://sfsu.academicworks.com/opportunities/7138) | Varies | N/A |
 
 ## SFSU-External
 
