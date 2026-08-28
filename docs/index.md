@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-08-27 23:04:07 UTC
+Last updated: 2026-08-28 23:11:58 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -144,6 +144,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Surtman Foundation Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11410) | Varies | 01/31/2027 |
 | [Sylvia Ingram Eagle Scholarship](https://cpcc.academicworks.com/opportunities/11615) | Varies | 01/31/2027 |
 | [Textbook Scholarship](https://cpcc.academicworks.com/opportunities/11713) | Varies | 01/31/2027 |
+| [Thomas J. Sills Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11385) | Varies | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
 | [CEENTA Angie Madigan Ophthalmic Medical Assisting Scholarship](https://cpcc.academicworks.com/opportunities/11619) | Varies | 02/14/2027 |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | 02/14/2027 |
@@ -594,6 +595,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [The Cunningham Scholarship in English Literature](https://sfsu.academicworks.com/opportunities/22302) | varies | 11/01/2026 |
 | [Vicente Narciso Marcelo Scholarship in English](https://sfsu.academicworks.com/opportunities/22939) | $1,000.00 | 11/01/2026 |
 | [Willie L Brown Graduate Fellowship Program](https://sfsu.academicworks.com/opportunities/22324) | $22,000 (disbursed over 4 semesters, beginning Spring 2027 | 11/05/2026 |
+| [Jean Vance Award](https://sfsu.academicworks.com/opportunities/23760) | varies | 11/06/2026 |
 | [Ginwala Family Music Endowment Fund](https://sfsu.academicworks.com/opportunities/23536) | Varies | N/A |
 | [Pone Forgivable Loan/Scholarship](https://sfsu.academicworks.com/opportunities/22647) | varies | N/A |
 | [Robert L. Liu Family Endowment:French Language and Culture Proficiency Award](https://sfsu.academicworks.com/opportunities/23275) | $750.00 | N/A |
@@ -607,7 +609,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Daniel Schirra Memorial Scholarship](https://sfsu.academicworks.com/opportunities/6258) | $2,000.00 | N/A |
 | [Sergio Martins Scholarship](https://sfsu.academicworks.com/opportunities/6702) | $1,000 | N/A |
 | [Magalios Family Scholarship - Humanities Dept.](https://sfsu.academicworks.com/opportunities/3968) | $1,000 | N/A |
-| [Remembrance of Anne Markevich Scholarship](https://sfsu.academicworks.com/opportunities/6978) | varies | N/A |
 
 ## SFSU-External
 
