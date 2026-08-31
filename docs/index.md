@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-08-28 23:11:58 UTC
+Last updated: 2026-08-31 19:36:58 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -281,18 +281,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Charles Richter Reusing Fund](https://fsu.academicworks.com/opportunities/39801) | Varies | 08/28/2026 |
-| [Corey D. Dahlem Memorial Endowed Scholarships](https://fsu.academicworks.com/opportunities/39782) | Varies | 08/28/2026 |
-| [Crockett Family Fund for Excellence](https://fsu.academicworks.com/opportunities/39783) | Varies | 08/28/2026 |
-| [Darrel W. Stephens Future Police Leaders Fund](https://fsu.academicworks.com/opportunities/39792) | Varies | 08/28/2026 |
-| [Doyle E. and Janet T. Young Endowed Memorial Scholarship](https://fsu.academicworks.com/opportunities/39803) | Varies | 08/28/2026 |
-| [Eugene H. and Rosalind D. Czajkoski Scholarship Fund](https://fsu.academicworks.com/opportunities/39798) | Varies | 08/28/2026 |
-| [Fallen Officer Scholarship Fund](https://fsu.academicworks.com/opportunities/39785) | Varies | 08/28/2026 |
-| [Frank A. and Lynn W. Baker Endowed Scholarship Fund](https://fsu.academicworks.com/opportunities/39799) | Varies | 08/28/2026 |
-| [Jerry A. and Carolyn S. Glass Endowed Scholarship Fund](https://fsu.academicworks.com/opportunities/39796) | Varies | 08/28/2026 |
-| [Kelly R. Ivey Endowed Memorial Fund](https://fsu.academicworks.com/opportunities/39793) | Varies | 08/28/2026 |
-| [Relgalf Scholarships](https://fsu.academicworks.com/opportunities/39804) | Varies | 08/28/2026 |
-| [Rob Williams Endowed Scholarship Fund](https://fsu.academicworks.com/opportunities/39794) | Varies | 08/28/2026 |
 | [Ashley Elizabeth Nugent Endowed Scholarship](https://fsu.academicworks.com/opportunities/36944) | Varies | 08/31/2026 |
 | [Bill and Eloise Mills Scholarship in Communication](https://fsu.academicworks.com/opportunities/36173) | Varies | 08/31/2026 |
 | [Bill McGrotha Endowed Scholarship Fund](https://fsu.academicworks.com/opportunities/36124) | Varies | 08/31/2026 |
@@ -333,6 +321,16 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Faculty Undergraduate Scholarship Fund](https://fsu.academicworks.com/opportunities/36745) | $1,350 | 09/15/2026 |
 | [Francenia E. Fisher Scholarship](https://fsu.academicworks.com/opportunities/37658) | $2,500 | 09/15/2026 |
 | [Graduate Student Publication Award](https://fsu.academicworks.com/opportunities/37480) | Varies | 09/15/2026 |
+| [Horace Loftin Endowment](https://fsu.academicworks.com/opportunities/36991) | Varies | 09/15/2026 |
+| [Jack Winn Gramling Endowment](https://fsu.academicworks.com/opportunities/36954) | Varies | 09/15/2026 |
+| [John Mark Caffrey Memorial Scholarship Fund](https://fsu.academicworks.com/opportunities/37151) | Varies | 09/15/2026 |
+| [Kevin L. McKeown Memorial Scholarship Fund](https://fsu.academicworks.com/opportunities/37135) | Varies | 09/15/2026 |
+| [Lamarr and Edith Trott Endowed Scholarship](https://fsu.academicworks.com/opportunities/37428) | Varies | 09/15/2026 |
+| [Margaret Y. Menzel Award Fund](https://fsu.academicworks.com/opportunities/36198) | Varies | 09/15/2026 |
+| [Robert B. Short Scholarship in Biological Science](https://fsu.academicworks.com/opportunities/36847) | Varies | 09/15/2026 |
+| [Robert J. Goldstein Graduate Fellowship](https://fsu.academicworks.com/opportunities/39243) | Varies | 09/15/2026 |
+| [Robert K. Godfrey Endowment for the Study of Botany](https://fsu.academicworks.com/opportunities/37017) | Varies | 09/15/2026 |
+| [Varina Vaughn and Winona Jordan Scholarship Fund in Botanical Sciences](https://fsu.academicworks.com/opportunities/36732) | Varies | 09/15/2026 |
 | [Jeffrey and Cathy Hewlett Endowed Fund for Student Excellence](https://fsu.academicworks.com/opportunities/36419) | Varies | 09/16/2026 |
 | [College of Arts and Sciences Student Travel Awards](https://fsu.academicworks.com/opportunities/40344) | $500 | 09/18/2026 |
 | [A. Pauline "Polly" Shelley Endowment - Spring Application](https://fsu.academicworks.com/opportunities/35851) | Varies | 09/30/2026 |
@@ -561,6 +559,7 @@ This page contains all currently live scholarships detected by the sentinel.
 |------|--------|----------|
 | [Eden Academic Excellence Award](https://sfsu.academicworks.com/opportunities/23209) | $3,000 | 09/30/2026 |
 | [Music Department Scholarship Fund](https://sfsu.academicworks.com/opportunities/23694) | varies | 10/01/2026 |
+| [The Ariana Mae Hatami Scholarship for Victims of Domestic Violence](https://sfsu.academicworks.com/opportunities/20729) | $1,000 | 10/05/2026 |
 | [Shereen Paff Special Education Scholarship](https://sfsu.academicworks.com/opportunities/23690) | Varies - up to $4,000 | 10/15/2026 |
 | [Clark-Gross Award in the Novel](https://sfsu.academicworks.com/opportunities/22922) | $100 | 10/20/2026 |
 | [Creative Writing Scholarship (Daniel Langton Poetry Prize)](https://sfsu.academicworks.com/opportunities/22304) | $100.00 | 10/20/2026 |
@@ -608,7 +607,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Sarah Josef Dietetics Scholarship](https://sfsu.academicworks.com/opportunities/4198) | $600 | N/A |
 | [Daniel Schirra Memorial Scholarship](https://sfsu.academicworks.com/opportunities/6258) | $2,000.00 | N/A |
 | [Sergio Martins Scholarship](https://sfsu.academicworks.com/opportunities/6702) | $1,000 | N/A |
-| [Magalios Family Scholarship - Humanities Dept.](https://sfsu.academicworks.com/opportunities/3968) | $1,000 | N/A |
 
 ## SFSU-External
 
@@ -664,12 +662,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Asian American Government Executives Network (AAGEN)](https://sfsu.academicworks.com/opportunities/7160) | $1,000 -  $1,500 | N/A |
 | [Asian Pacific Community Fund-Chen Foundation Scholarship](https://sfsu.academicworks.com/opportunities/4652) | $2,000-renewable | N/A |
 | [Association of Environmental Professionals Schol.](https://sfsu.academicworks.com/opportunities/4661) | $1,000 | N/A |
-
-## UTAH
-
-| Name | Amount | Deadline |
-|------|--------|----------|
-| [Theatre Scholarship for Incoming Freshman](https://utah.academicworks.com/opportunities/45048) | $0.00 | 08/30/2026 |
 
 ## UTAH-External
 
