@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-09-02 17:17:47 UTC
+Last updated: 2026-09-03 17:09:46 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -223,6 +223,8 @@ This page contains all currently live scholarships detected by the sentinel.
 | [The Dowdy Bookstore Scholarship](https://ecu.academicworks.com/opportunities/38936) | $500 | 10/30/2026 |
 | [The Passage Academic Merit Scholarship for Transfer Students](https://ecu.academicworks.com/opportunities/38952) | $1,250 | 10/30/2026 |
 | [The Bedford Falls Foundation Advanced Military Medics Scholarship](https://ecu.academicworks.com/opportunities/37220) | Varies | 10/30/2026 |
+| [The Bob and Jenny Rippy Scholarship Endowment](https://ecu.academicworks.com/opportunities/36917) | $1,000 | 11/15/2026 |
+| [The ECU Coastal Studies Scholarship](https://ecu.academicworks.com/opportunities/36767) | Varies | 11/15/2026 |
 | [The Honors College Scholarship for International Students](https://ecu.academicworks.com/opportunities/37412) | Varies | 12/01/2026 |
 | [The Academic Scholarship Pool](https://ecu.academicworks.com/opportunities/38301) | $1,000 | 01/15/2027 |
 | [The Access Scholarship (R)](https://ecu.academicworks.com/opportunities/38305) | $20,000 over 4 years | 01/15/2027 |
@@ -286,7 +288,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Robert Fichter Graduate Support Fund in Art](https://fsu.academicworks.com/opportunities/40651) | $0.00 | 09/02/2026 |
 | [Curtis and Jo Ellen Hicks Falany Graduate Student Stipend for Speech Language Pathology](https://fsu.academicworks.com/opportunities/36440) | Varies | 09/04/2026 |
 | [Doreen Brown Oyadomari Endowed Scholarship in Communication](https://fsu.academicworks.com/opportunities/36929) | Varies | 09/04/2026 |
 | [Dr. Avery Vaughn Fund for Excellence in Communication Science and Disorders](https://fsu.academicworks.com/opportunities/37255) | Varies | 09/04/2026 |
@@ -337,6 +338,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Frederick C. and Marjorie A. Doepke Scholarship Fund - Spring Application](https://fsu.academicworks.com/opportunities/35843) | Varies | 09/30/2026 |
 | [Frueauff Scholarship Endowment Fund - Spring Application](https://fsu.academicworks.com/opportunities/35847) | Varies | 09/30/2026 |
 | [Gertrude E. Skelly Emergency Fund for Nursing Students - Spring Application](https://fsu.academicworks.com/opportunities/35922) | Varies | 09/30/2026 |
+| [Greta Mason College of Nursing Endowed Scholarship Fund - Spring Application](https://fsu.academicworks.com/opportunities/35806) | Varies | 09/30/2026 |
 | [Barbara B. Vereen Family Scholarship](https://fsu.academicworks.com/opportunities/36809) | Varies | 10/01/2026 |
 | [Brand Ferland Advisors Scholarship](https://fsu.academicworks.com/opportunities/36746) | $3,000 | 10/01/2026 |
 | [Entrepreneurship Graduate Program](https://fsu.academicworks.com/opportunities/39414) | Varies | 10/01/2026 |
@@ -725,6 +727,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [MBA](https://sc.academicworks.com/opportunities/11596) | $0.00 | N/A |
 | [Melayne McInnes Memorial Fund](https://sc.academicworks.com/opportunities/12272) | $0.00 | N/A |
 | [MHR Fellowships](https://sc.academicworks.com/opportunities/11621) | $0.00 | N/A |
+| [MIB Fellowships](https://sc.academicworks.com/opportunities/11442) | $0.00 | N/A |
 
 ## VT
 
