@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-09-03 17:09:46 UTC
+Last updated: 2026-09-04 17:01:12 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -167,7 +167,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Macy Ezell Cooke Scholarship Endowment](https://cofc.academicworks.com/opportunities/12363) | Varies | 09/03/2026 |
 | [Anna B. Cox Scholarship](https://cofc.academicworks.com/opportunities/12892) | Varies | 10/04/2026 |
 | [Cain Family International Scholarship](https://cofc.academicworks.com/opportunities/12893) | Varies | 10/04/2026 |
 | [CIE Abroad Scholarship](https://cofc.academicworks.com/opportunities/12889) | Varies | 10/04/2026 |
