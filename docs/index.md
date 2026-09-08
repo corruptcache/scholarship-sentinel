@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-09-07 18:23:17 UTC
+Last updated: 2026-09-08 17:24:55 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -207,6 +207,8 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
+| [The International Graduate Student Award](https://ecu.academicworks.com/opportunities/37354) | Varies | 10/09/2026 |
+| [The International Undergraduate Student Award](https://ecu.academicworks.com/opportunities/36439) | Varies | 10/09/2026 |
 | [The Global Understanding Scholarship](https://ecu.academicworks.com/opportunities/38968) | $500 | 10/15/2026 |
 | [The Mary Paschal & Marguerite Perry Endowment Fund for Study in France](https://ecu.academicworks.com/opportunities/38950) | Varies | 10/15/2026 |
 | [The Scholarship for Study Abroad at Manchester Metropolitan University](https://ecu.academicworks.com/opportunities/38946) | $2,000 | 10/15/2026 |
