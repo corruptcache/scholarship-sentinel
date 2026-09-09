@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-09-08 17:24:55 UTC
+Last updated: 2026-09-09 17:16:05 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -144,6 +144,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Textbook Scholarship](https://cpcc.academicworks.com/opportunities/11713) | Varies | 01/31/2027 |
 | [Thomas J. Sills Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11385) | Varies | 01/31/2027 |
 | [Robert & Eleanor Gossett Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11187) | Varies | 01/31/2027 |
+| [Leon Levine Health Sciences Scholarship](https://cpcc.academicworks.com/opportunities/11596) | Varies | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
 | [CEENTA Angie Madigan Ophthalmic Medical Assisting Scholarship](https://cpcc.academicworks.com/opportunities/11619) | Varies | 02/14/2027 |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | 02/14/2027 |
@@ -289,7 +290,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [CCI Student Leadership Award](https://fsu.academicworks.com/opportunities/36369) | Varies | 09/08/2026 |
 | [Cheryl and Joel Rosenfield - C&I](https://fsu.academicworks.com/opportunities/36184) | Varies | 09/12/2026 |
 | [Christine M. Koontz and Persis E. Rockwood Endowed Fund](https://fsu.academicworks.com/opportunities/38339) | Varies | 09/12/2026 |
 | [Ben and Karen Thrower Award within the Department of Biological Science](https://fsu.academicworks.com/opportunities/37419) | Varies | 09/15/2026 |
@@ -340,6 +340,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Katherine Prichard Memorial Scholarship Fund - Spring Application](https://fsu.academicworks.com/opportunities/35816) | Varies | 09/30/2026 |
 | [Katherine Rogers Wade Scholarship Fund - Spring Application](https://fsu.academicworks.com/opportunities/35834) | Varies | 09/30/2026 |
 | [Kristie Rastatter Endowed Nursing Scholarship - Spring Application](https://fsu.academicworks.com/opportunities/35943) | Varies | 09/30/2026 |
+| [Lance Corporal Daniel B. Chaires Nursing Scholarship Fund - Spring Application](https://fsu.academicworks.com/opportunities/35871) | Varies | 09/30/2026 |
 | [Barbara B. Vereen Family Scholarship](https://fsu.academicworks.com/opportunities/36809) | Varies | 10/01/2026 |
 | [Brand Ferland Advisors Scholarship](https://fsu.academicworks.com/opportunities/36746) | $3,000 | 10/01/2026 |
 | [Entrepreneurship Graduate Program](https://fsu.academicworks.com/opportunities/39414) | Varies | 10/01/2026 |
