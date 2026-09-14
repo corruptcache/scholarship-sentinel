@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-09-11 17:09:15 UTC
+Last updated: 2026-09-14 18:51:53 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -150,8 +150,11 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Wilton & Mary Parr Arts & Humanity Endowed Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11706) | Up to $10,000 over 2 years | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
 | [CEENTA Angie Madigan Ophthalmic Medical Assisting Scholarship](https://cpcc.academicworks.com/opportunities/11619) | Varies | 02/14/2027 |
-| [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | N/A |
-| [Pete & Marcia Sloan Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11127) | Varies | N/A |
+| [Peer Mentoring Scholars](https://cpcc.academicworks.com/opportunities/5755) | up to $2,000 | N/A |
+| [Cunningham Endowed Scholarship](https://cpcc.academicworks.com/opportunities/7966) | Varies | N/A |
+| [Dental Hygiene Anniversary Endowed Scholarship](https://cpcc.academicworks.com/opportunities/6889) | Varies | N/A |
+| [Jeanette Martinez Memorial Endowed Scholarship](https://cpcc.academicworks.com/opportunities/7007) | Varies | N/A |
+| [Mary Zeiss Office Technology Endowed Scholarship](https://cpcc.academicworks.com/opportunities/7424) | Varies | N/A |
 
 ## CPCC-External
 
@@ -295,8 +298,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Cheryl and Joel Rosenfield - C&I](https://fsu.academicworks.com/opportunities/36184) | Varies | 09/12/2026 |
-| [Christine M. Koontz and Persis E. Rockwood Endowed Fund](https://fsu.academicworks.com/opportunities/38339) | Varies | 09/12/2026 |
 | [Ben and Karen Thrower Award within the Department of Biological Science](https://fsu.academicworks.com/opportunities/37419) | Varies | 09/15/2026 |
 | [Biological Science Alumni Scholarship Fund](https://fsu.academicworks.com/opportunities/36818) | Varies | 09/15/2026 |
 | [Brenda Weems Bennison Endowment](https://fsu.academicworks.com/opportunities/36282) | Varies | 09/15/2026 |
@@ -346,6 +347,8 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Katherine Rogers Wade Scholarship Fund - Spring Application](https://fsu.academicworks.com/opportunities/35834) | Varies | 09/30/2026 |
 | [Kristie Rastatter Endowed Nursing Scholarship - Spring Application](https://fsu.academicworks.com/opportunities/35943) | Varies | 09/30/2026 |
 | [Lance Corporal Daniel B. Chaires Nursing Scholarship Fund - Spring Application](https://fsu.academicworks.com/opportunities/35871) | Varies | 09/30/2026 |
+| [Laurie Grubbs Nursing Scholarship Fund - Spring Application](https://fsu.academicworks.com/opportunities/35955) | Varies | 09/30/2026 |
+| [Leona Van Hyfte Bradley Scholarship-Loan Fund - Spring Application](https://fsu.academicworks.com/opportunities/35794) | Varies | 09/30/2026 |
 | [Barbara B. Vereen Family Scholarship](https://fsu.academicworks.com/opportunities/36809) | Varies | 10/01/2026 |
 | [Brand Ferland Advisors Scholarship](https://fsu.academicworks.com/opportunities/36746) | $3,000 | 10/01/2026 |
 | [Entrepreneurship Graduate Program](https://fsu.academicworks.com/opportunities/39414) | Varies | 10/01/2026 |
@@ -565,10 +568,17 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
+| [Dietrich Becker Endowed Scholarship](https://sfsu.academicworks.com/opportunities/23078) | Varies | 09/28/2026 |
 | [Eden Academic Excellence Award](https://sfsu.academicworks.com/opportunities/23209) | $3,000 | 09/30/2026 |
 | [Music Department Scholarship Fund](https://sfsu.academicworks.com/opportunities/23694) | varies | 10/01/2026 |
 | [Burr G. & Virginia G. Burbank Physics Scholarship](https://sfsu.academicworks.com/opportunities/23765) | varies | 10/01/2026 |
 | [Kazuko Walson Scholarship](https://sfsu.academicworks.com/opportunities/23767) | varies | 10/01/2026 |
+| [Christy Kearney Award in Nursing & Holistic Health Scholarship](https://sfsu.academicworks.com/opportunities/23748) | $1,500.00 | 10/04/2026 |
+| [Dorothy L. Davis Endowed Memorial Scholarship in Nursing, The](https://sfsu.academicworks.com/opportunities/22271) | Varies | 10/04/2026 |
+| [James J. Finley RN Class of '86 Nursing Scholarship](https://sfsu.academicworks.com/opportunities/22538) | $1000 | 10/04/2026 |
+| [Julie Morgan Memorial Endowed Scholarship in Health and the Environment](https://sfsu.academicworks.com/opportunities/22215) | Varies | 10/04/2026 |
+| [Lucinda K. Lordan Nursing Scholarship](https://sfsu.academicworks.com/opportunities/22839) | Varies | 10/04/2026 |
+| [Pawan Tewari Goldman Sachs Scholarship Fund](https://sfsu.academicworks.com/opportunities/23314) | $6,650 | 10/04/2026 |
 | [The Ariana Mae Hatami Scholarship for Victims of Domestic Violence](https://sfsu.academicworks.com/opportunities/20729) | $1,000 | 10/05/2026 |
 | [Shereen Paff Special Education Scholarship](https://sfsu.academicworks.com/opportunities/23690) | Varies - up to $4,000 | 10/15/2026 |
 | [2026-2027 "Comfort Women" Research and Creative Scholarship Fund - Student Award](https://sfsu.academicworks.com/opportunities/23302) | $4,000.00 | 10/15/2026 |
@@ -582,6 +592,9 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Marcus Second Year Graduate Student Scholarship](https://sfsu.academicworks.com/opportunities/22296) | 2,500 | 10/20/2026 |
 | [Kyria Hontalas Petuskey Memorial Scholarship Fund](https://sfsu.academicworks.com/opportunities/23703) | Amount up to $2000 | 10/20/2026 |
 | [Willie L. Brown Jr. Fellowship](https://sfsu.academicworks.com/opportunities/23674) | $4,000 | 10/21/2026 |
+| [Amy Hittner Scholarship](https://sfsu.academicworks.com/opportunities/23771) | $500 | 10/23/2026 |
+| [Ida Sweeney LeBlanc Scholarship](https://sfsu.academicworks.com/opportunities/23775) | $1000 | 10/23/2026 |
+| [John Blando Distinguished Service Award](https://sfsu.academicworks.com/opportunities/23773) | $1000 | 10/23/2026 |
 | [John Irwin Memorial Scholarship](https://sfsu.academicworks.com/opportunities/23202) | Varies | 10/30/2026 |
 | [Tripwire Graduate Student Support Fund](https://sfsu.academicworks.com/opportunities/23713) | $5,000.00 | 10/30/2026 |
 | [Florence Hale Stephenson Alumnae Scholarship Fund](https://sfsu.academicworks.com/opportunities/23701) | $1,000 | 10/30/2026 |
@@ -612,9 +625,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Sophie Hittner Scholarship](https://sfsu.academicworks.com/opportunities/22073) | $500.00 | 11/02/2026 |
 | [Willie L Brown Graduate Fellowship Program](https://sfsu.academicworks.com/opportunities/22324) | $22,000 (disbursed over 4 semesters, beginning Spring 2027 | 11/05/2026 |
 | [Jean Vance Award](https://sfsu.academicworks.com/opportunities/23760) | varies | 11/06/2026 |
-| [Ginwala Family Music Endowment Fund](https://sfsu.academicworks.com/opportunities/23536) | Varies | N/A |
-| [Pone Forgivable Loan/Scholarship](https://sfsu.academicworks.com/opportunities/22647) | varies | N/A |
-| [Robert L. Liu Family Endowment:French Language and Culture Proficiency Award](https://sfsu.academicworks.com/opportunities/23275) | $750.00 | N/A |
 
 ## SFSU-External
 
