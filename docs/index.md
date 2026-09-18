@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-09-17 17:44:36 UTC
+Last updated: 2026-09-18 17:11:29 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -149,12 +149,13 @@ This page contains all currently live scholarships detected by the sentinel.
 | [William Randolph Hearst Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11381) | Varies | 01/31/2027 |
 | [Wilton & Mary Parr Arts & Humanity Endowed Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11706) | Up to $10,000 over 2 years | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
-| [Pete & Marcia Sloan Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11127) | Varies | N/A |
-| [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | N/A |
-| [Mark Helms Service Learning Scholarship](https://cpcc.academicworks.com/opportunities/11660) | Varies | N/A |
-| [CEENTA Angie Madigan Ophthalmic Medical Assisting Scholarship](https://cpcc.academicworks.com/opportunities/11619) | Varies | N/A |
-| [WINGS Scholarship](https://cpcc.academicworks.com/opportunities/11503) | Varies | N/A |
-| [Mint Hill Womens Club Scholarship](https://cpcc.academicworks.com/opportunities/11237) | Varies | N/A |
+| [Peer Mentoring Scholars](https://cpcc.academicworks.com/opportunities/5755) | up to $2,000 | N/A |
+| [Dental Hygiene Anniversary Endowed Scholarship](https://cpcc.academicworks.com/opportunities/6889) | Varies | N/A |
+| [Jeanette Martinez Memorial Endowed Scholarship](https://cpcc.academicworks.com/opportunities/7007) | Varies | N/A |
+| [Medical Laboratory Technology Student Scholarship](https://cpcc.academicworks.com/opportunities/7062) | Up to $500 | N/A |
+| [National Board of Respiratory Care Scholarship](https://cpcc.academicworks.com/opportunities/7101) | Up to $1,600 | N/A |
+| [Red Wood Memorial Endowed Scholarship](https://cpcc.academicworks.com/opportunities/7799) | Varies | N/A |
+| [Vincent James Endowed Scholarship](https://cpcc.academicworks.com/opportunities/7978) | Varies | N/A |
 
 ## CPCC-External
 
@@ -350,6 +351,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Suzanne Kelly Impagliazzo College of Nursing Scholarship - Spring Application](https://fsu.academicworks.com/opportunities/35966) | $2,500 | 09/30/2026 |
 | [V. B. Culpepper Scholarship - Spring Application](https://fsu.academicworks.com/opportunities/35803) | Varies | 09/30/2026 |
 | [Winter Haven Hospital Foundation Nursing Scholarship - Spring Application](https://fsu.academicworks.com/opportunities/40640) | $6,500 | 09/30/2026 |
+| [Wylie and Robyn Green Scholarship in Nursing - Spring Application](https://fsu.academicworks.com/opportunities/35917) | Varies | 09/30/2026 |
 | [Barbara B. Vereen Family Scholarship](https://fsu.academicworks.com/opportunities/36809) | Varies | 10/01/2026 |
 | [Brand Ferland Advisors Scholarship](https://fsu.academicworks.com/opportunities/36746) | $3,000 | 10/01/2026 |
 | [Entrepreneurship Graduate Program](https://fsu.academicworks.com/opportunities/39414) | Varies | 10/01/2026 |
@@ -581,6 +583,9 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Lucinda K. Lordan Nursing Scholarship](https://sfsu.academicworks.com/opportunities/22839) | Varies | 10/04/2026 |
 | [Pawan Tewari Goldman Sachs Scholarship Fund](https://sfsu.academicworks.com/opportunities/23314) | $6,650 | 10/04/2026 |
 | [The Ariana Mae Hatami Scholarship for Victims of Domestic Violence](https://sfsu.academicworks.com/opportunities/20729) | $1,000 | 10/05/2026 |
+| [Devlin Neil O'Connor Scholarship Endowment](https://sfsu.academicworks.com/opportunities/23847) | $1,000 | 10/14/2026 |
+| [Janice and John Gumas Endowed Marketing Scholarship](https://sfsu.academicworks.com/opportunities/23849) | $1000 | 10/14/2026 |
+| [Manny Mashouf Endowed Scholarship in Marketing](https://sfsu.academicworks.com/opportunities/23851) | $1000 | 10/14/2026 |
 | [Shereen Paff Special Education Scholarship](https://sfsu.academicworks.com/opportunities/23690) | Varies - up to $4,000 | 10/15/2026 |
 | [2026-2027 "Comfort Women" Research and Creative Scholarship Fund - Student Award](https://sfsu.academicworks.com/opportunities/23302) | $4,000.00 | 10/15/2026 |
 | [Ernest C. Dillard Sr. Endowed Scholarship in Labor Studies](https://sfsu.academicworks.com/opportunities/23783) | $500 | 10/19/2026 |
@@ -691,52 +696,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Asian Pacific Community Fund-Chen Foundation Scholarship](https://sfsu.academicworks.com/opportunities/4652) | $2,000-renewable | N/A |
 | [Association of Environmental Professionals Schol.](https://sfsu.academicworks.com/opportunities/4661) | $1,000 | N/A |
 
-## UTAH
-
-| Name | Amount | Deadline |
-|------|--------|----------|
-| [Utah NASA Space Grant Consortium Scholarship](https://utah.academicworks.com/opportunities/37132) | $750.00 | N/A |
-| [Recovery at the U Scholarship](https://utah.academicworks.com/opportunities/37273) | Varies | N/A |
-| [ROTC FUTURE LEADERS SCHOLARSHIP](https://utah.academicworks.com/opportunities/38310) | $500 - $2,000 | N/A |
-| [SERVICE MEMBER EXCELLENCE SCHOLARSHIP](https://utah.academicworks.com/opportunities/38316) | $1,000 - $2000 | N/A |
-| [STOKER FAMILY ENDOWED SCHOLARSHIP FOR UNDERGRADUATE MILITARY/VETERAN STUDENTS](https://utah.academicworks.com/opportunities/38337) | $1,000 | N/A |
-| [The Tsuya â€“ Stephens Endowed Veteran Scholarship](https://utah.academicworks.com/opportunities/38340) | $750 - $1500 | N/A |
-| [UNDERGRADUATE   VETERAN/MILITARY HEROâ€™S SCHOLARSHIP](https://utah.academicworks.com/opportunities/38325) | $1,000 - $3,000 | N/A |
-| [UNDERGRADUATE MILITARY/VETERAN    DEPENDENT VOLUNTEERISM SCHOLARSHIP](https://utah.academicworks.com/opportunities/38319) | $1,000 - $3,000 | N/A |
-| [UNDERGRADUATE SPOUSE VOLUNTEERISM SCHOLARSHIP](https://utah.academicworks.com/opportunities/38322) | $1,000 - $3,000 | N/A |
-| [UNDERGRADUATE VETERAN/MILITARY STUDENT   VOLUNTEERISM OR ENGAGEMENT SCHOLARSHIP](https://utah.academicworks.com/opportunities/38328) | $1,000 - $2000 | N/A |
-| [VETERAN/MILITARY EXCELLENCE SCHOLARSHIP](https://utah.academicworks.com/opportunities/38334) | $1,000 - $2000 | N/A |
-| [VETERAN/MILITARY STUDENT LEADERSHIP SCHOLARSHIP](https://utah.academicworks.com/opportunities/38331) | $1,000 - $3,000 | N/A |
-| [Kessler Family Endowed Scholarship](https://utah.academicworks.com/opportunities/35695) | $2,000.00 | N/A |
-| [E. J. Bird](https://utah.academicworks.com/opportunities/39178) | $5,000.00 | N/A |
-| [Samuel and Hermila Alba Scholarship](https://utah.academicworks.com/opportunities/37151) | $5,000.00 | N/A |
-| [Utah Opportunity Scholarship](https://utah.academicworks.com/opportunities/37135) | Varies | N/A |
-| [Atmospheric Sciences Departmental Scholarship](https://utah.academicworks.com/opportunities/36861) | Varies | N/A |
-| [Alice O Bronson Graduate Scholarship](https://utah.academicworks.com/opportunities/35551) | Varies | N/A |
-| [Rick Dwore Memorial Fund](https://utah.academicworks.com/opportunities/36652) | $255.00 | N/A |
-| [Garr Cutler Energy Prize](https://utah.academicworks.com/opportunities/36531) | $1,500.00 | N/A |
-| [LGBT Resource Center Scholarship](https://utah.academicworks.com/opportunities/35635) | Varies | N/A |
-| [Sankofa Visionary Paths Scholarship](https://utah.academicworks.com/opportunities/38383) | $5,000.00 | N/A |
-| [The Beverlee K. Lombardi Utah Physician Assistant Program (UPAP) Scholarship](https://utah.academicworks.com/opportunities/38480) | $2,500.00 | N/A |
-| [The Maggie Snyder, RN, PA-C  Endowed Scholarship in Physician Assistant Studies](https://utah.academicworks.com/opportunities/36994) | $500 | N/A |
-| [U Alumni Community Care Scholarship](https://utah.academicworks.com/opportunities/35794) | Varies | N/A |
-| [U Alumni Trans Futures Scholarship](https://utah.academicworks.com/opportunities/35981) | Varies | N/A |
-| [Wilkes Scholars - Climate Science and Policy Scholarship](https://utah.academicworks.com/opportunities/38448) | Up to $5000 per semester | N/A |
-| [The Adam Rose Family Scholarship for Refugee Students](https://utah.academicworks.com/opportunities/38847) | Varies | N/A |
-| [Hardy Family Completion Endowed Scholarship](https://utah.academicworks.com/opportunities/38703) | $0.00 | N/A |
-| [D. R. LeDuc Scholarship](https://utah.academicworks.com/opportunities/39238) | Varies | N/A |
-| [WRC Summer Osher Re-entry Scholarship](https://utah.academicworks.com/opportunities/39228) | Varies | N/A |
-| [WRC - Beatrice F. Kroesche Memorial Scholarship](https://utah.academicworks.com/opportunities/36984) | $3,000.00 | N/A |
-| [Clark Ivory and Natalie Gochnour Public Service Scholarship](https://utah.academicworks.com/opportunities/39231) | Varies | N/A |
-| [Debra and Peter Cole Scholarship](https://utah.academicworks.com/opportunities/39330) | Tuition and Housing | N/A |
-| [Assistance League of Salt Lake City Scholarship](https://utah.academicworks.com/opportunities/36950) | Varies | N/A |
-| [CSAR U Alumni Completion](https://utah.academicworks.com/opportunities/42502) | $1000 | N/A |
-| [Bluth Family Scholarship](https://utah.academicworks.com/opportunities/40865) | $0.00 | N/A |
-| [J. William Gordon Scholarship](https://utah.academicworks.com/opportunities/43621) | $2,000.00 | N/A |
-| [Jeff C. Herring Scholarship](https://utah.academicworks.com/opportunities/43613) | $1,000.00 | N/A |
-| [Dirk Meyer MemoriaÅ‚ Endowed Scholarship](https://utah.academicworks.com/opportunities/44277) | Varies | N/A |
-| [E.J. Bird](https://utah.academicworks.com/opportunities/44295) | $5,000.00 | N/A |
-
 ## UTAH-External
 
 | Name | Amount | Deadline |
@@ -772,7 +731,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Dr. Marcia J.  Avedon Master of Human Resources Endowed Fellowship](https://sc.academicworks.com/opportunities/10472) | $0.00 | N/A |
 | [E. Craig Wall, Jr. Fellowship](https://sc.academicworks.com/opportunities/11724) | $0.00 | N/A |
 | [Elliott Davis LLC Fellowship Fund](https://sc.academicworks.com/opportunities/11844) | $0.00 | N/A |
-| [Ernst & Young Accounting Scholars Endowment Fund](https://sc.academicworks.com/opportunities/10569) | $2,824.00 | N/A |
+| [Ernst & Young Accounting Scholars Endowment Fund](https://sc.academicworks.com/opportunities/10569) | $2,824.30 | N/A |
 | [Fennell Endowed Fellowship Fund](https://sc.academicworks.com/opportunities/10850) | $0.00 | N/A |
 | [Forvis Fund](https://sc.academicworks.com/opportunities/11466) | $0.00 | N/A |
 | [Founders Budgeted Fellowship/Scholarship](https://sc.academicworks.com/opportunities/11605) | $0.00 | N/A |
@@ -885,54 +844,54 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Paragon Bank Scholarship](https://waketech.academicworks.com/opportunities/1771) | $1,250.00 | N/A |
-| [S&ME Malone Scholarship](https://waketech.academicworks.com/opportunities/1775) | $1,750.00 | N/A |
-| [Raleigh Radiology Associates Scholarship](https://waketech.academicworks.com/opportunities/1760) | $550.00 | N/A |
-| [VisionPoint Marketing Scholarship](https://waketech.academicworks.com/opportunities/2125) | $1,000.00 | N/A |
-| [Wake Tech Completion Scholarship](https://waketech.academicworks.com/opportunities/2140) | $1,000.00 | N/A |
-| [Brandecker-Mecca Scholarship](https://waketech.academicworks.com/opportunities/2253) | $1,000.00 | N/A |
-| [The Karen R. Dawes Scholarship](https://waketech.academicworks.com/opportunities/2467) | $1,250 | N/A |
-| [Lenovo Endowed Scholarship](https://waketech.academicworks.com/opportunities/2553) | $1,000.00 | N/A |
-| [The Elizabeth McGeachin McKee Foundation College Transfer Scholarship](https://waketech.academicworks.com/opportunities/2882) | $1,250.00 | N/A |
-| [KI/Institutional Interiors/Interior Systems Scholarship](https://waketech.academicworks.com/opportunities/2557) | $1,000.00 | N/A |
-| [National Pawn Scholarship](https://waketech.academicworks.com/opportunities/2604) | $500.00 | N/A |
-| [Affordable Communities Scholarship](https://waketech.academicworks.com/opportunities/2625) | $2,500.00 | N/A |
-| [Agarwal Foundation Scholarship](https://waketech.academicworks.com/opportunities/2659) | $1,687.50 | N/A |
-| [Edge Office Scholarship](https://waketech.academicworks.com/opportunities/2559) | $1,250 | N/A |
-| [North Raleigh Exchangette Scholarship](https://waketech.academicworks.com/opportunities/2716) | $2,250.00 | N/A |
-| [Promotional Products Educational Foundation – Brand Fuel Scholarship](https://waketech.academicworks.com/opportunities/2717) | $1,250.00 | N/A |
-| [Raleigh Professional Women's Forum Scholarship](https://waketech.academicworks.com/opportunities/2537) | $625.00 | N/A |
-| [Ted Ray Edwards Endowed Scholarship](https://waketech.academicworks.com/opportunities/2693) | $1,000.00 | N/A |
-| [Women Business Owners Network Scholarship](https://waketech.academicworks.com/opportunities/2667) | $1,000.00 | N/A |
-| [Finlayson Nursing Scholarship](https://waketech.academicworks.com/opportunities/2538) | $1,184.00 | N/A |
-| [David John DeSantis Memorial Scholarship](https://waketech.academicworks.com/opportunities/3009) | $1,000.00 | N/A |
-| [The 200 Club Scholarship](https://waketech.academicworks.com/opportunities/3135) | $1000.00 | N/A |
-| [Samanage Success Scholarship for Computer Science](https://waketech.academicworks.com/opportunities/3267) | $2,500.00 | N/A |
-| [Charlie & Linda Bell - Scholarship for Achievement in Hospitality Studies](https://waketech.academicworks.com/opportunities/3279) | $2,000.00 | N/A |
-| [Connected Women of North Carolina Scholarship](https://waketech.academicworks.com/opportunities/2982) | $2,000.00 | N/A |
-| [RATIO Architects Scholarship](https://waketech.academicworks.com/opportunities/3045) | $1,250.00 | N/A |
-| [Rotary Club of West Raleigh Associates Degree Scholarship](https://waketech.academicworks.com/opportunities/3132) | $1,000.00 | N/A |
-| [Rotary Club of West Raleigh GED Scholarship](https://waketech.academicworks.com/opportunities/3183) | $1,000.00 | N/A |
-| [Wilkinson Memorial Scholarship Fund](https://waketech.academicworks.com/opportunities/3358) | $1,200.00 | N/A |
-| [AT&T STEM Leadership Scholarship](https://waketech.academicworks.com/opportunities/3638) | $1,250.00 | N/A |
-| [Charles & Colvard Women's Empowerment Scholarship](https://waketech.academicworks.com/opportunities/3502) | $1,250.00 | N/A |
-| [First Generation Scholarship](https://waketech.academicworks.com/opportunities/3640) | $1,000.00 | N/A |
-| [James Cox Financial Need Scholarship](https://waketech.academicworks.com/opportunities/3644) | $1310.00 | N/A |
-| [CALYX/NV5 Technical Excellence Scholarships](https://waketech.academicworks.com/opportunities/3898) | $1,250.00 | N/A |
-| [Mary Quinerly Longino Memorial Scholarship](https://waketech.academicworks.com/opportunities/3856) | $1000.00 | N/A |
-| [Sammie C. Thornton Memorial Scholarship](https://waketech.academicworks.com/opportunities/3806) | $1,625.00 | N/A |
-| [Tiffany Vuncannon Memorial Scholarship](https://waketech.academicworks.com/opportunities/3692) | $1,350.00 | N/A |
-| [Raleigh-Wake County Dental Society Scholarship](https://waketech.academicworks.com/opportunities/3904) | $500.00 | N/A |
-| [Hendrick Cary Auto Mall Scholarship](https://waketech.academicworks.com/opportunities/4248) | $1,000.00 | N/A |
-| [The Bob Picklesimer, Jr. Memorial Scholarship](https://waketech.academicworks.com/opportunities/4138) | $1,000.00 | N/A |
-| [Wake Tech Road Scholar 5K Scholarship](https://waketech.academicworks.com/opportunities/4091) | $0.00 | N/A |
-| [David Weekley Homes Building Dreams Scholarship](https://waketech.academicworks.com/opportunities/4288) | $1,250.00 | N/A |
-| [Raleigh Foot and Ankle Center Scholarship](https://waketech.academicworks.com/opportunities/4157) | $1,000.00 | N/A |
-| [Andre' M. Jones Veterans Memorial Scholarship](https://waketech.academicworks.com/opportunities/4060) | $1,000.00 | N/A |
-| [Poe Family Scholarship](https://waketech.academicworks.com/opportunities/4301) | $1,650.00 | N/A |
-| [Riley Contracting Group Veterans Scholarship](https://waketech.academicworks.com/opportunities/4267) | $1,000.00 | N/A |
-| [Sandra and Terry Dangler Scholarship](https://waketech.academicworks.com/opportunities/4205) | $3,000.00 | N/A |
-| [Splash Car Wash Scholarship](https://waketech.academicworks.com/opportunities/4320) | $1,000.00 | N/A |
-| [The Poehlman Family Engineering Scholarship](https://waketech.academicworks.com/opportunities/4063) | $3,000.00 | N/A |
-| [UNC Rex Healthcare Care in Excellence Scholarship](https://waketech.academicworks.com/opportunities/4054) | $0.00 | N/A |
+| [ABB Endowed Scholarship](https://waketech.academicworks.com/opportunities/5803) | $2,000.00 | N/A |
+| [AFCOM North Carolina Chapter Scholarship](https://waketech.academicworks.com/opportunities/5873) | $1,000.00 | N/A |
+| [Alicia Elliott Goodwill Industries of Eastern North Carolina](https://waketech.academicworks.com/opportunities/5782) | $2,500.00 | N/A |
+| [Anita White Memorial Scholarship](https://waketech.academicworks.com/opportunities/5786) | $500.00 | N/A |
+| [Apex Rotary Club Scholarship](https://waketech.academicworks.com/opportunities/5992) | $3,000.00 | N/A |
+| [Ashworth Scholarship](https://waketech.academicworks.com/opportunities/5842) | $1,000.00 | N/A |
+| [Aspiration Scholarship](https://waketech.academicworks.com/opportunities/5830) | $2,200.00 | N/A |
+| [Ball-Aspnes Future Teachers Excellence Award](https://waketech.academicworks.com/opportunities/5739) | $2,000.00 | N/A |
+| [BE + K Leadership Scholarship](https://waketech.academicworks.com/opportunities/5948) | $1,500.00 | N/A |
+| [Bertha Drew Harris Endowed Scholarship](https://waketech.academicworks.com/opportunities/5723) | $1000.00 | N/A |
+| [Bojangles/Tri-Arc Foods Systems, Inc. Scholarship](https://waketech.academicworks.com/opportunities/5900) | $1,000.00 | N/A |
+| [Bonnie Fischer's Hope for the Future Scholarship](https://waketech.academicworks.com/opportunities/5933) | $3,000.00 | N/A |
+| [Brasfield & Gorrie Founder’s Award](https://waketech.academicworks.com/opportunities/5899) | $1,250.00 | N/A |
+| [Breakthrough Scholarships NDT](https://waketech.academicworks.com/opportunities/5738) | $3,750.00 | N/A |
+| [Bridge the Gap: Scholarship for Transfer Students](https://waketech.academicworks.com/opportunities/5735) | $1,250.00 | N/A |
+| [Bruce I. Howell Endowed Scholarship](https://waketech.academicworks.com/opportunities/5980) | $1,500.00 | N/A |
+| [BSA Lifestructures Nursing Scholarship](https://waketech.academicworks.com/opportunities/5970) | $2,000.00 | N/A |
+| [Capital Automotive Group Student Scholarship](https://waketech.academicworks.com/opportunities/5845) | $2,000.00 | N/A |
+| [Carla G. Price Endowed Memorial Scholarship](https://waketech.academicworks.com/opportunities/5858) | $2,000.00 | N/A |
+| [Carol Ann and Richard Theuer Scholarship](https://waketech.academicworks.com/opportunities/5925) | $2,500.00 | N/A |
+| [Caroline Staley Memorial Scholarship Fund](https://waketech.academicworks.com/opportunities/6053) | $2,000.00 | N/A |
+| [Cary Central Rotary Club Boyce Brown Scholarship](https://waketech.academicworks.com/opportunities/5753) | $1,500.00 | N/A |
+| [Cary MacGregor Rotary Scholarship](https://waketech.academicworks.com/opportunities/5789) | $2,500.00 | N/A |
+| [Cary Woman's Club Mature Person Scholarship](https://waketech.academicworks.com/opportunities/5961) | $2,000.00 | N/A |
+| [Chaine des Rotisseurs Mel and Bambi Levine Memorial Scholarship](https://waketech.academicworks.com/opportunities/5999) | $2,000.00 | N/A |
+| [Cheryl Ward CMA Program](https://waketech.academicworks.com/opportunities/5724) | $3,000.00 | N/A |
+| [Chuck Wolfe Memorial Scholarship](https://waketech.academicworks.com/opportunities/5760) | $1,000.00 | N/A |
+| [Clark Nexsen Architecture & Engineering Scholarship](https://waketech.academicworks.com/opportunities/5990) | $2,000.00 | N/A |
+| [Clean Shine Scholarship](https://waketech.academicworks.com/opportunities/5955) | $3,000.00 | N/A |
+| [CMAA Building Leaders Endowed Scholarship](https://waketech.academicworks.com/opportunities/5870) | $1,500.00 | N/A |
+| [Coles-Daniel Scholarship](https://waketech.academicworks.com/opportunities/5757) | $1,500.00 | N/A |
+| [Connie Mack Price Jr. Memorial Scholarship](https://waketech.academicworks.com/opportunities/5748) | $1,250.00 | N/A |
+| [Construction Financial Management Association Endowed Scholarship](https://waketech.academicworks.com/opportunities/5872) | $2,000.00 | N/A |
+| [Corvettes International Student Scholarship](https://waketech.academicworks.com/opportunities/6010) | $1,500.00 | N/A |
+| [Curtis and Jackie Dail Endowed Scholarship](https://waketech.academicworks.com/opportunities/5783) | $1,500.00 | N/A |
+| [Custom Brick Company Endowed Scholarship](https://waketech.academicworks.com/opportunities/5839) | $1,500.00 | N/A |
+| [Cynthia Parker Memorial Scholarship](https://waketech.academicworks.com/opportunities/5798) | $1,000.00 | N/A |
+| [Dorothy Schmelzeis Scholarship](https://waketech.academicworks.com/opportunities/5891) | $1400.00 | N/A |
+| [Dr. C. Neill McLeod Endowed Scholarship](https://waketech.academicworks.com/opportunities/5959) | $1,500.00 | N/A |
+| [Dr. Grover S. & Annie E. Cox Scholarship](https://waketech.academicworks.com/opportunities/6068) | $1,500.00 | N/A |
+| [Dr. John Hazlehurst Health Science Award](https://waketech.academicworks.com/opportunities/5837) | $2,500.00 | N/A |
+| [Dr. Nilima Bhirud and Dr. Ravi Bhirud Scholarship](https://waketech.academicworks.com/opportunities/6084) | $2,500.00 | N/A |
+| [Dr. Stephen C. Scott Scholars Program](https://waketech.academicworks.com/opportunities/5876) | $5,000.00 | N/A |
+| [Duke Raleigh Health Care Scholarship](https://waketech.academicworks.com/opportunities/5957) | $1,000.00 | N/A |
+| [E.E. Swanson Endowed Scholarship](https://waketech.academicworks.com/opportunities/5958) | $1,200.00 | N/A |
+| [Edward J. Krynicki Culinary Arts Scholarship](https://waketech.academicworks.com/opportunities/5911) | $1,000.00 | N/A |
+| [Elizabeth McGeachin McKee Foundation College Transfer Scholarship](https://waketech.academicworks.com/opportunities/5931) | $1,250.00 | N/A |
+| [Elizabeth McGeachin McKee Foundation GED/ AHS Scholarship](https://waketech.academicworks.com/opportunities/5749) | $1,250.00 | N/A |
+| [Elizabeth Young Holding Nursing Scholarship](https://waketech.academicworks.com/opportunities/5778) | $1,200.00 | N/A |
+| [EwingCole Design Endowed Scholarship](https://waketech.academicworks.com/opportunities/5926) | $1,500.00 | N/A |
 
