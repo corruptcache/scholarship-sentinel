@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-09-18 17:11:29 UTC
+Last updated: 2026-09-21 18:54:47 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -150,12 +150,12 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Wilton & Mary Parr Arts & Humanity Endowed Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11706) | Up to $10,000 over 2 years | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
 | [Peer Mentoring Scholars](https://cpcc.academicworks.com/opportunities/5755) | up to $2,000 | N/A |
+| [Cunningham Endowed Scholarship](https://cpcc.academicworks.com/opportunities/7966) | Varies | N/A |
 | [Dental Hygiene Anniversary Endowed Scholarship](https://cpcc.academicworks.com/opportunities/6889) | Varies | N/A |
 | [Jeanette Martinez Memorial Endowed Scholarship](https://cpcc.academicworks.com/opportunities/7007) | Varies | N/A |
+| [Mary Zeiss Office Technology Endowed Scholarship](https://cpcc.academicworks.com/opportunities/7424) | Varies | N/A |
 | [Medical Laboratory Technology Student Scholarship](https://cpcc.academicworks.com/opportunities/7062) | Up to $500 | N/A |
 | [National Board of Respiratory Care Scholarship](https://cpcc.academicworks.com/opportunities/7101) | Up to $1,600 | N/A |
-| [Red Wood Memorial Endowed Scholarship](https://cpcc.academicworks.com/opportunities/7799) | Varies | N/A |
-| [Vincent James Endowed Scholarship](https://cpcc.academicworks.com/opportunities/7978) | Varies | N/A |
 
 ## CPCC-External
 
@@ -232,6 +232,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [The Krissy Richardson Memorial (MRCF) Scholarship](https://ecu.academicworks.com/opportunities/36782) | Varies | 10/15/2026 |
 | [The Addictions and Rehabilitation Studies Study Abroad Scholarship](https://ecu.academicworks.com/opportunities/38378) | Varies | 10/15/2026 |
 | [The McMahon Distinguished Professor Scholarship to Study in Madrid and Buenos Aries](https://ecu.academicworks.com/opportunities/36662) | Varies | 10/15/2026 |
+| [The Biology Field Intensive Lab Study Abroad Scholarship](https://ecu.academicworks.com/opportunities/36646) | Varies | 10/15/2026 |
 | [The Honors College Study Abroad Scholarship](https://ecu.academicworks.com/opportunities/38964) | Varies | 10/21/2026 |
 | [The Dowdy Bookstore Scholarship](https://ecu.academicworks.com/opportunities/38936) | $500 | 10/30/2026 |
 | [The Passage Academic Merit Scholarship for Transfer Students](https://ecu.academicworks.com/opportunities/38952) | $1,250 | 10/30/2026 |
@@ -301,7 +302,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [College of Arts and Sciences Student Travel Awards](https://fsu.academicworks.com/opportunities/40344) | $500 | 09/18/2026 |
 | [Friends of Dance Fund (1st semester)](https://fsu.academicworks.com/opportunities/40370) | Varies | 09/21/2026 |
 | [Sharon Maxwell Ferguson and Howell Ferguson Scholarship Fund](https://fsu.academicworks.com/opportunities/39731) | Varies | 09/21/2026 |
 | [A. Pauline "Polly" Shelley Endowment - Spring Application](https://fsu.academicworks.com/opportunities/35851) | Varies | 09/30/2026 |
@@ -731,7 +731,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Dr. Marcia J.  Avedon Master of Human Resources Endowed Fellowship](https://sc.academicworks.com/opportunities/10472) | $0.00 | N/A |
 | [E. Craig Wall, Jr. Fellowship](https://sc.academicworks.com/opportunities/11724) | $0.00 | N/A |
 | [Elliott Davis LLC Fellowship Fund](https://sc.academicworks.com/opportunities/11844) | $0.00 | N/A |
-| [Ernst & Young Accounting Scholars Endowment Fund](https://sc.academicworks.com/opportunities/10569) | $2,824.30 | N/A |
+| [Ernst & Young Accounting Scholars Endowment Fund](https://sc.academicworks.com/opportunities/10569) | $2,824.00 | N/A |
 | [Fennell Endowed Fellowship Fund](https://sc.academicworks.com/opportunities/10850) | $0.00 | N/A |
 | [Forvis Fund](https://sc.academicworks.com/opportunities/11466) | $0.00 | N/A |
 | [Founders Budgeted Fellowship/Scholarship](https://sc.academicworks.com/opportunities/11605) | $0.00 | N/A |
