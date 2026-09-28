@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-09-25 18:04:25 UTC
+Last updated: 2026-09-28 20:13:47 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -150,6 +150,8 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Wilton & Mary Parr Arts & Humanity Endowed Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11706) | Up to $10,000 over 2 years | 01/31/2027 |
 | [Joe Summer Horticulture Scholarship](https://cpcc.academicworks.com/opportunities/11663) | Varies | 01/31/2027 |
 | [Teacher Residency Scholarship](https://cpcc.academicworks.com/opportunities/11542) | Up to $1,250 | 01/31/2027 |
+| [Mint Hill Womens Club Scholarship](https://cpcc.academicworks.com/opportunities/11237) | Varies | 01/31/2027 |
+| [Rotary Club of Charlotte Scholarship](https://cpcc.academicworks.com/opportunities/11621) | Varies | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
 
 ## CPCC-External
@@ -585,6 +587,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [CIO Scholarship Fund](https://sfsu.academicworks.com/opportunities/23859) | $1,500 | 10/14/2026 |
 | [Kawaguchi Family Scholarship](https://sfsu.academicworks.com/opportunities/23863) | $1,500 | 10/14/2026 |
 | [Yarnold Family Scholarship](https://sfsu.academicworks.com/opportunities/23861) | $5,000 | 10/14/2026 |
+| [Paul Wiese Memorial Scholarship](https://sfsu.academicworks.com/opportunities/23874) | $2,500.00 | 10/14/2026 |
 | [Shereen Paff Special Education Scholarship](https://sfsu.academicworks.com/opportunities/23690) | Varies - up to $4,000 | 10/15/2026 |
 | [2026-2027 "Comfort Women" Research and Creative Scholarship Fund - Student Award](https://sfsu.academicworks.com/opportunities/23302) | $4,000.00 | 10/15/2026 |
 | [Ernest C. Dillard Sr. Endowed Scholarship in Labor Studies](https://sfsu.academicworks.com/opportunities/23783) | $500 | 10/19/2026 |
