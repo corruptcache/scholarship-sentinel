@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-09-28 20:13:47 UTC
+Last updated: 2026-09-29 18:50:52 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -560,13 +560,12 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Caldwell Fellows Application](https://ncsu.academicworks.com/opportunities/175352) | Varies | N/A |
+| [Caldwell Fellows Application](https://ncsu.academicworks.com/opportunities/182834) | Varies | N/A |
 
 ## SFSU
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Dietrich Becker Endowed Scholarship](https://sfsu.academicworks.com/opportunities/23078) | Varies | 09/28/2026 |
 | [Eden Academic Excellence Award](https://sfsu.academicworks.com/opportunities/23209) | $3,000 | 09/30/2026 |
 | [Music Department Scholarship Fund](https://sfsu.academicworks.com/opportunities/23694) | varies | 10/01/2026 |
 | [Burr G. & Virginia G. Burbank Physics Scholarship](https://sfsu.academicworks.com/opportunities/23765) | varies | 10/01/2026 |
