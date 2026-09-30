@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-09-29 18:50:52 UTC
+Last updated: 2026-09-30 18:33:08 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -568,8 +568,6 @@ This page contains all currently live scholarships detected by the sentinel.
 |------|--------|----------|
 | [Eden Academic Excellence Award](https://sfsu.academicworks.com/opportunities/23209) | $3,000 | 09/30/2026 |
 | [Music Department Scholarship Fund](https://sfsu.academicworks.com/opportunities/23694) | varies | 10/01/2026 |
-| [Burr G. & Virginia G. Burbank Physics Scholarship](https://sfsu.academicworks.com/opportunities/23765) | varies | 10/01/2026 |
-| [Kazuko Walson Scholarship](https://sfsu.academicworks.com/opportunities/23767) | varies | 10/01/2026 |
 | [Christy Kearney Award in Nursing & Holistic Health Scholarship](https://sfsu.academicworks.com/opportunities/23748) | $1,500.00 | 10/04/2026 |
 | [Dorothy L. Davis Endowed Memorial Scholarship in Nursing, The](https://sfsu.academicworks.com/opportunities/22271) | Varies | 10/04/2026 |
 | [James J. Finley RN Class of '86 Nursing Scholarship](https://sfsu.academicworks.com/opportunities/22538) | $1000 | 10/04/2026 |
@@ -607,6 +605,8 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Tripwire Graduate Student Support Fund](https://sfsu.academicworks.com/opportunities/23713) | $5,000.00 | 10/30/2026 |
 | [Florence Hale Stephenson Alumnae Scholarship Fund](https://sfsu.academicworks.com/opportunities/23701) | $1,000 | 10/30/2026 |
 | [Kasey Miller Fund in Kinesiology](https://sfsu.academicworks.com/opportunities/23699) | up to $2000 | 10/30/2026 |
+| [Burr G. & Virginia G. Burbank Physics Scholarship](https://sfsu.academicworks.com/opportunities/23765) | varies | 10/30/2026 |
+| [Kazuko Walson Scholarship](https://sfsu.academicworks.com/opportunities/23767) | varies | 10/30/2026 |
 | [Deborah Tolman Honorary Scholarship](https://sfsu.academicworks.com/opportunities/23740) | $2000 | 10/31/2026 |
 | [Dr. John Paul DeCecco Graduate Fellowships in Sexuality Studies](https://sfsu.academicworks.com/opportunities/23738) | $1000 | 10/31/2026 |
 | [Generation to Generation Graduate School Award](https://sfsu.academicworks.com/opportunities/23742) | Varies | 10/31/2026 |
@@ -769,6 +769,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [College of Science Course Materials Assistance Award](https://vt.academicworks.com/opportunities/70375) | Varies | 09/30/2026 |
 | [Pamplin College of Business Study Abroad Application](https://vt.academicworks.com/opportunities/71249) | Varies | 10/01/2026 |
 | [Global Engineering Scholarship](https://vt.academicworks.com/opportunities/74507) | Varies | 10/01/2026 |
+| [Dean's International Study Scholarship](https://vt.academicworks.com/opportunities/74446) | Varies | 11/01/2026 |
 | [School of Architecture Annual Technology Support Fund](https://vt.academicworks.com/opportunities/75638) | Varies | 11/16/2026 |
 | [MIT Scholars](https://vt.academicworks.com/opportunities/66663) | Varies | 12/01/2026 |
 | [Lee R. and Regina Aultice Steeneck Experiential Learning Scholarship](https://vt.academicworks.com/opportunities/73580) | Varies | 12/10/2026 |
