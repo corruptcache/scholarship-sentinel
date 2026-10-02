@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-10-01 19:01:26 UTC
+Last updated: 2026-10-02 18:40:48 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -153,6 +153,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Mint Hill Womens Club Scholarship](https://cpcc.academicworks.com/opportunities/11237) | Varies | 01/31/2027 |
 | [Rotary Club of Charlotte Scholarship](https://cpcc.academicworks.com/opportunities/11621) | Varies | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
+| [Peer Mentoring Scholars](https://cpcc.academicworks.com/opportunities/5755) | up to $2,000 | N/A |
 
 ## CPCC-External
 
@@ -299,20 +300,8 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Barbara B. Vereen Family Scholarship](https://fsu.academicworks.com/opportunities/36809) | Varies | 10/01/2026 |
-| [Brand Ferland Advisors Scholarship](https://fsu.academicworks.com/opportunities/36746) | $3,000 | 10/01/2026 |
-| [Entrepreneurship Graduate Program](https://fsu.academicworks.com/opportunities/39414) | Varies | 10/01/2026 |
-| [Entrepreneurship Graduate Program (LAC)](https://fsu.academicworks.com/opportunities/39406) | Varies | 10/01/2026 |
-| [Frank Vicino Endowed Scholarship for Entrepreneurs](https://fsu.academicworks.com/opportunities/36621) | Varies | 10/01/2026 |
-| [Jim McLaughlin Endowed Scholarship](https://fsu.academicworks.com/opportunities/36127) | Varies | 10/01/2026 |
-| [Louise Román Aymerich López and Gerald Arthur López Endowment Fund](https://fsu.academicworks.com/opportunities/40031) | Varies | 10/01/2026 |
-| [Peter Boulware Toyota Scholarship](https://fsu.academicworks.com/opportunities/36025) | Varies | 10/01/2026 |
-| [Ronald & Jakie Pepper Merchandising Scholarship](https://fsu.academicworks.com/opportunities/36968) | Varies | 10/01/2026 |
-| [Thomas M. & Eileen Rhodes Culligan Scholarship Endowment Fund in Human Sciences](https://fsu.academicworks.com/opportunities/36227) | Varies | 10/01/2026 |
-| [Tom Gould Scholarship Fund](https://fsu.academicworks.com/opportunities/37062) | Varies | 10/01/2026 |
-| [Toys "R" Us Endowed Scholarship](https://fsu.academicworks.com/opportunities/36913) | Varies | 10/01/2026 |
-| [Wal-Mart Stores, Inc. Endowed Scholarship](https://fsu.academicworks.com/opportunities/36906) | Varies | 10/01/2026 |
-| [Younkers Scholarship in Textiles and Consumer Sciences](https://fsu.academicworks.com/opportunities/37039) | Varies | 10/01/2026 |
+| [College of Arts and Sciences Student Travel Awards](https://fsu.academicworks.com/opportunities/40344) | $500 | 10/09/2026 |
+| [Winthrop King Summer Undergraduate Scholarship for French Studies](https://fsu.academicworks.com/opportunities/37264) | $6,000 | 10/12/2026 |
 | [Adam P. Arias ABA Autism Scholarship](https://fsu.academicworks.com/opportunities/37752) | Varies | 10/15/2026 |
 | [Alex Alfred Ankiewicz and Lucy Elizabeth Ankiewicz Scholarship Endowment](https://fsu.academicworks.com/opportunities/36723) | Varies | 10/15/2026 |
 | [Alexander Rochell Opportunity Scholarship in Engineering](https://fsu.academicworks.com/opportunities/36481) | Varies | 10/15/2026 |
@@ -323,37 +312,36 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Angel David Endowed Memorial Scholarship](https://fsu.academicworks.com/opportunities/36243) | Varies | 10/15/2026 |
 | [Anita Darlene Freeman Memorial Endowed Scholarship](https://fsu.academicworks.com/opportunities/37712) | Varies | 10/15/2026 |
 | [Ashley Cowie Memorial Scholarship in Interior Design](https://fsu.academicworks.com/opportunities/36533) | Varies | 10/15/2026 |
+| [Alan C. Rhodes Endowment for Excellence](https://fsu.academicworks.com/opportunities/40695) | $5,000.00 | 10/15/2026 |
+| [Atkins Endowed Scholarship](https://fsu.academicworks.com/opportunities/37023) | Varies | 10/15/2026 |
+| [Audrey Wilson Endowment for the Humanities](https://fsu.academicworks.com/opportunities/36831) | Varies | 10/15/2026 |
+| [Austin Ekern Memorial Endowed Scholarship](https://fsu.academicworks.com/opportunities/37230) | Varies | 10/15/2026 |
+| [Bay County Chamber of Commerce Past Chairpersons Endowed Scholarship](https://fsu.academicworks.com/opportunities/38077) | Varies | 10/15/2026 |
+| [Bay Education Foundation Endowed Scholarship Fund](https://fsu.academicworks.com/opportunities/36856) | Varies | 10/15/2026 |
+| [Ben Graham Optimist Club of the Beaches Endowed Scholarship](https://fsu.academicworks.com/opportunities/36346) | Varies | 10/15/2026 |
+| [Berg Steel Pipe Corporation Endowed Scholarship](https://fsu.academicworks.com/opportunities/37517) | Varies | 10/15/2026 |
+| [Bettye Anne Busbee Case Graduate Fellowship](https://fsu.academicworks.com/opportunities/37003) | Varies | 10/15/2026 |
+| [Bruce W. McNeilage Endowed Scholarship](https://fsu.academicworks.com/opportunities/40657) | Varies | 10/15/2026 |
+| [Century 21 Bay Brokers Council Endowed Scholarship Fund](https://fsu.academicworks.com/opportunities/37649) | Varies | 10/15/2026 |
+| [Charles Haworth Awards for Student Veterans](https://fsu.academicworks.com/opportunities/40224) | Varies | 10/15/2026 |
+| [Chevron Scholarships](https://fsu.academicworks.com/opportunities/39284) | Varies | 10/15/2026 |
+| [Coach Bill Peterson Distinguished Economic Education Scholarship](https://fsu.academicworks.com/opportunities/36105) | Varies | 10/15/2026 |
+| [Colonel William W. Wood Endowed Memorial Scholarship](https://fsu.academicworks.com/opportunities/36202) | $2,000 to $2,500 | 10/15/2026 |
+| [Community Services Foundation of Bay County, Inc. 2004 Scholarship Fund](https://fsu.academicworks.com/opportunities/36108) | Varies | 10/15/2026 |
+| [Community Services Foundation of Bay County, Inc. Scholarship Fund](https://fsu.academicworks.com/opportunities/36133) | Varies | 10/15/2026 |
+| [Cummings Scientific Scholarship for Chemical and Biomedical Engineering](https://fsu.academicworks.com/opportunities/36073) | Varies | 10/15/2026 |
+| [Curtis E. and Jo Ellen Hicks Falany Scholarship for Engineering Marching Chiefs](https://fsu.academicworks.com/opportunities/36792) | Varies | 10/15/2026 |
+| [D.J.M.T. O'Brien Endowed Scholarship](https://fsu.academicworks.com/opportunities/38105) | Varies | 10/15/2026 |
+| [Danfoss FAMU-FSU College of Engineering Fund](https://fsu.academicworks.com/opportunities/39259) | Varies | 10/15/2026 |
+| [David and Trish Warriner Endowed Scholarship](https://fsu.academicworks.com/opportunities/38351) | Varies | 10/15/2026 |
+| [Death by Chocolate Endowed Scholarship](https://fsu.academicworks.com/opportunities/36722) | Varies | 10/15/2026 |
+| [Dempsey J. Barron Endowed Scholarship](https://fsu.academicworks.com/opportunities/36178) | Varies | 10/15/2026 |
 
 ## Fay Tech
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Arthur E. Taylor Memorial Scholarship](https://faytechcc.academicworks.com/opportunities/1754) | Varies | N/A |
-| [Bill Shaw Scholarship](https://faytechcc.academicworks.com/opportunities/1958) | Varies | N/A |
-| [Carolina Regional Radiology Scholarship](https://faytechcc.academicworks.com/opportunities/1726) | $250 | N/A |
-| [Cynthia Rose Shatterly Memorial Scholarship](https://faytechcc.academicworks.com/opportunities/1908) | $700.00 | N/A |
-| [Dr. Herbert Boyd Ayers Memorial Scholarship](https://faytechcc.academicworks.com/opportunities/1666) | $500.00 | N/A |
-| [Flora MacDonald Garden Club Scholarship](https://faytechcc.academicworks.com/opportunities/1682) | $350.00 | N/A |
-| [FTCC Industrial Scholarship](https://faytechcc.academicworks.com/opportunities/1664) | $456.80 | N/A |
-| [J. Elwood McCall Veterans Scholarship](https://faytechcc.academicworks.com/opportunities/1961) | Varies | N/A |
-| [Langley Nursing Scholarship](https://faytechcc.academicworks.com/opportunities/1822) | Varies | N/A |
-| [Low Enrollment Vocational Programs Scholarship](https://faytechcc.academicworks.com/opportunities/1832) | Varies | N/A |
-| [Nitta Gelatin USA, Inc. Scholarship](https://faytechcc.academicworks.com/opportunities/1714) | $500.00 | N/A |
-| [Robert H. Short / Cumberland Community Foundation Scholars Program](https://faytechcc.academicworks.com/opportunities/1916) | Varies | N/A |
-| [Tom Graves Memorial Scholarship](https://faytechcc.academicworks.com/opportunities/1890) | Varies | N/A |
-| [FTCC Trades Scholarship](https://faytechcc.academicworks.com/opportunities/2476) | Varies | N/A |
 | [Cumberland County Extension Master Gardener Volunteer Association Scholarship](https://faytechcc.academicworks.com/opportunities/2263) | $1,000.00 | N/A |
-| [Bear Creek Arsenal Gunsmithing Scholarship](https://faytechcc.academicworks.com/opportunities/3027) | $1,000.00 | N/A |
-| [Bear Creek Arsenal Machining Scholarship](https://faytechcc.academicworks.com/opportunities/3029) | $1,000.00 | N/A |
-| [Cumberland County Schools Association Teacher Assistants / Ed Melvin Scholarship](https://faytechcc.academicworks.com/opportunities/2989) | $500.00 | N/A |
-| [Garden Club Council of Fayetteville Scholarship](https://faytechcc.academicworks.com/opportunities/2897) | Varies | N/A |
-| [Yen L. Phung Memorial Scholarship](https://faytechcc.academicworks.com/opportunities/2923) | $500.00 | N/A |
-| [Grainger Community Scholarship - Collision Repair & Refinishing Technology](https://faytechcc.academicworks.com/opportunities/3318) | $250.00 | N/A |
-| [Grainger Community Scholarship - HVAC](https://faytechcc.academicworks.com/opportunities/3105) | Varies | N/A |
-| [Mike Harvell Memorial Scholarship](https://faytechcc.academicworks.com/opportunities/3290) | Varies | N/A |
-| [Myron Reynolds Curl Memorial Scholarship](https://faytechcc.academicworks.com/opportunities/3328) | Varies | N/A |
-| [Staff Sergeant Dennis L. Yates Scholarship](https://faytechcc.academicworks.com/opportunities/3147) | Varies | N/A |
-| [The Smith Grimes Nuclear Medicine Charitable Trust](https://faytechcc.academicworks.com/opportunities/3107) | Varies | N/A |
 | [H.B. Murray Memorial Scholarship](https://faytechcc.academicworks.com/opportunities/4048) | Varies | N/A |
 | [Larry N. Sullivan Memorial Scholarship](https://faytechcc.academicworks.com/opportunities/4007) | Varies | N/A |
 | [100th Infantry Division Private Roland Giduz Endowed Fund](https://faytechcc.academicworks.com/opportunities/4453) | Varies | N/A |
@@ -378,6 +366,31 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Charles A. Bell Endowed Scholarship](https://faytechcc.academicworks.com/opportunities/4499) | Varies | N/A |
 | [Chef Alan J. Dover Memorial Culinary Scholarship](https://faytechcc.academicworks.com/opportunities/4368) | $300 | N/A |
 | [Col. Retired and Mrs. John E. McDaniels Endowed Scholarship](https://faytechcc.academicworks.com/opportunities/4411) | $1000 | N/A |
+| [Colonel Frederick W. Best, Jr., USA & Chief Petty Officer Frederick W. Best, Sr., USN Scholarship](https://faytechcc.academicworks.com/opportunities/4378) | 1,500 | N/A |
+| [Constance C. Boyle Memorial / Physical Therapy Assistant Endowed Scholarship](https://faytechcc.academicworks.com/opportunities/4580) | Varies | N/A |
+| [Cumberland County Extension Master Gardeners Volunteer Association (CCEMGVA) Scholarship](https://faytechcc.academicworks.com/opportunities/4608) | $1500 | N/A |
+| [Cumberland County Medical Society Alliance - HEF Health Professional Endowment Fund of Cumberland Community Foundation, Inc.](https://faytechcc.academicworks.com/opportunities/4514) | Varies | N/A |
+| [Cumberland County Paralegal Association Scholarship](https://faytechcc.academicworks.com/opportunities/4432) | $375 | N/A |
+| [Cumberland County School Nutrition Association Scholarship](https://faytechcc.academicworks.com/opportunities/4529) | $500 | N/A |
+| [CVS Health Career Scholarship](https://faytechcc.academicworks.com/opportunities/4596) | Varies | N/A |
+| [Daniel F. & Norma Hein Currie Memorial Endowed Scholarship](https://faytechcc.academicworks.com/opportunities/4388) | $1000 | N/A |
+| [Devasthali Family Endowed Scholarship](https://faytechcc.academicworks.com/opportunities/4412) | Varies | N/A |
+| [Dogwood Adult High School Endowed Scholarship](https://faytechcc.academicworks.com/opportunities/4422) | $1500.00 | N/A |
+| [Dr. Donald Whitehead Memorial Endowed Scholarship](https://faytechcc.academicworks.com/opportunities/4335) | $1000 | N/A |
+| [Dr. Edward & Eleanor Jackson Memorial Scholarship](https://faytechcc.academicworks.com/opportunities/4471) | $1000 | N/A |
+| [Dr. Helen Capps Winstead Endowed Scholarship](https://faytechcc.academicworks.com/opportunities/4321) | $1000 | N/A |
+| [Dr. Hubert E. Batten Endowed Scholarship](https://faytechcc.academicworks.com/opportunities/4447) | Varies | N/A |
+| [Dr. J. Larry & Vicki Keen Endowed Scholarship](https://faytechcc.academicworks.com/opportunities/4457) | $500 | N/A |
+| [Dr. James Pilgrim Scholarship](https://faytechcc.academicworks.com/opportunities/4505) | $500.00 | N/A |
+| [Dr. Larry B. Norris Endowed Scholarship](https://faytechcc.academicworks.com/opportunities/4502) | $1000 | N/A |
+| [Dr. Mark and Mrs. Leslie Sorrells Presidential Scholarship](https://faytechcc.academicworks.com/opportunities/4531) | $500 | N/A |
+| [Dr. Paul Eric Cotter Memorial Endowed Scholarship](https://faytechcc.academicworks.com/opportunities/4495) | Varies | N/A |
+| [Dr. Phillip Warren Physical Therapist Assistant Scholarship](https://faytechcc.academicworks.com/opportunities/4574) | Varies | N/A |
+| [Dr. Wilson A. Lacy for MLK Committee Scholarship](https://faytechcc.academicworks.com/opportunities/4373) | Varies | N/A |
+| [Earl Melvin Memorial Endowed Scholarship](https://faytechcc.academicworks.com/opportunities/4570) | $500 | N/A |
+| [Emergency Medical Services Scholarship Fund](https://faytechcc.academicworks.com/opportunities/4454) | $500.00 | N/A |
+| [English Department Memorial Endowed Scholarship](https://faytechcc.academicworks.com/opportunities/4598) | Varies | N/A |
+| [Esther L. Motte Memorial Scholarship](https://faytechcc.academicworks.com/opportunities/4504) | Varies | N/A |
 
 ## Fay Tech-External
 
@@ -518,7 +531,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Music Department Scholarship Fund](https://sfsu.academicworks.com/opportunities/23694) | varies | 10/01/2026 |
 | [Christy Kearney Award in Nursing & Holistic Health Scholarship](https://sfsu.academicworks.com/opportunities/23748) | $1,500.00 | 10/04/2026 |
 | [Dorothy L. Davis Endowed Memorial Scholarship in Nursing, The](https://sfsu.academicworks.com/opportunities/22271) | Varies | 10/04/2026 |
 | [James J. Finley RN Class of '86 Nursing Scholarship](https://sfsu.academicworks.com/opportunities/22538) | $1000 | 10/04/2026 |
@@ -721,8 +733,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Pamplin College of Business Study Abroad Application](https://vt.academicworks.com/opportunities/71249) | Varies | 10/01/2026 |
-| [Global Engineering Scholarship](https://vt.academicworks.com/opportunities/74507) | Varies | 10/01/2026 |
 | [Dean's International Study Scholarship](https://vt.academicworks.com/opportunities/74446) | Varies | 11/01/2026 |
 | [School of Architecture Annual Technology Support Fund](https://vt.academicworks.com/opportunities/75638) | Varies | 11/16/2026 |
 | [MIT Scholars](https://vt.academicworks.com/opportunities/66663) | Varies | 12/01/2026 |
