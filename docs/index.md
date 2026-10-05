@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-10-02 18:40:48 UTC
+Last updated: 2026-10-05 21:14:14 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -8,6 +8,7 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
+| [Levine Scholarship](https://cpcc.academicworks.com/opportunities/11509) | Varies | 10/07/2026 |
 | [Phil & Linda Sterner Scholarship](https://cpcc.academicworks.com/opportunities/11654) | Varies | 10/16/2026 |
 | [Aasha Scholarship](https://cpcc.academicworks.com/opportunities/11429) | Varies | 01/31/2027 |
 | [Alli & Aiden Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11646) | Varies | 01/31/2027 |
@@ -110,7 +111,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Ken Szymanski Scholarship](https://cpcc.academicworks.com/opportunities/11625) | Varies | 01/31/2027 |
 | [Kenneth R. Miller Veterans Scholarship](https://cpcc.academicworks.com/opportunities/11582) | Varies | 01/31/2027 |
 | [Leon & Sandra Levine Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11700) | Up to $10,000 over 2 years | 01/31/2027 |
-| [Levine Scholarship](https://cpcc.academicworks.com/opportunities/11509) | Varies | 01/31/2027 |
 | [Levine Scholarship - Family Dollar/Dollar Tree Store Associates](https://cpcc.academicworks.com/opportunities/11247) | Varies | 01/31/2027 |
 | [Lou & Edwin Jones Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11393) | Varies | 01/31/2027 |
 | [Marvin B. Rorie Marketing Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11319) | Varies | 01/31/2027 |
@@ -153,7 +153,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Mint Hill Womens Club Scholarship](https://cpcc.academicworks.com/opportunities/11237) | Varies | 01/31/2027 |
 | [Rotary Club of Charlotte Scholarship](https://cpcc.academicworks.com/opportunities/11621) | Varies | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
-| [Peer Mentoring Scholars](https://cpcc.academicworks.com/opportunities/5755) | up to $2,000 | N/A |
+| [Pete & Marcia Sloan Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11127) | Varies | N/A |
 
 ## CPCC-External
 
@@ -174,12 +174,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Anna B. Cox Scholarship](https://cofc.academicworks.com/opportunities/12892) | Varies | 10/04/2026 |
-| [Cain Family International Scholarship](https://cofc.academicworks.com/opportunities/12893) | Varies | 10/04/2026 |
-| [CIE Abroad Scholarship](https://cofc.academicworks.com/opportunities/12889) | Varies | 10/04/2026 |
-| [Global Access Scholarship](https://cofc.academicworks.com/opportunities/12522) | Varies | 10/04/2026 |
-| [Joe Milligan Australian Scholarship Endowed Fund](https://cofc.academicworks.com/opportunities/12896) | Varies | 10/04/2026 |
-| [John L. Covington, Jr. & Robert J. Lukey Endowed/Annual Scholarship for Study Abroad](https://cofc.academicworks.com/opportunities/12902) | Varies | 10/04/2026 |
 | [Early Access Scholarship](https://cofc.academicworks.com/opportunities/13195) | Varies | 11/06/2026 |
 | [Deutscher Bruderliche Bund Scholarship](https://cofc.academicworks.com/opportunities/12490) | Varies | 01/15/2027 |
 | [German Friendly Society Scholarship](https://cofc.academicworks.com/opportunities/12545) | Varies | 01/15/2027 |
@@ -302,6 +296,14 @@ This page contains all currently live scholarships detected by the sentinel.
 |------|--------|----------|
 | [College of Arts and Sciences Student Travel Awards](https://fsu.academicworks.com/opportunities/40344) | $500 | 10/09/2026 |
 | [Winthrop King Summer Undergraduate Scholarship for French Studies](https://fsu.academicworks.com/opportunities/37264) | $6,000 | 10/12/2026 |
+| [Winthrop King Summer Undergraduate Scholarship for Arabic Studies](https://fsu.academicworks.com/opportunities/38875) | $6,000 | 10/12/2026 |
+| [Winthrop King Summer Undergraduate Scholarship for Chinese Studies](https://fsu.academicworks.com/opportunities/37180) | $6,000 | 10/12/2026 |
+| [Winthrop King Summer Undergraduate Scholarship for German Studies](https://fsu.academicworks.com/opportunities/37249) | $6,000 | 10/12/2026 |
+| [Winthrop King Summer Undergraduate Scholarship for Italian Studies](https://fsu.academicworks.com/opportunities/37340) | $6,000 | 10/12/2026 |
+| [Winthrop King Summer Undergraduate Scholarship for Japanese Studies](https://fsu.academicworks.com/opportunities/37299) | $6,000 | 10/12/2026 |
+| [Winthrop King Summer Undergraduate Scholarship for Russian Studies](https://fsu.academicworks.com/opportunities/37362) | $6,000 | 10/12/2026 |
+| [Winthrop King Summer Undergraduate Scholarship for Spanish Studies](https://fsu.academicworks.com/opportunities/37315) | $6,000 | 10/12/2026 |
+| [Winthrop King Summer Undergraduate Scholarship in Linguistics](https://fsu.academicworks.com/opportunities/39687) | $6,000 | 10/12/2026 |
 | [Adam P. Arias ABA Autism Scholarship](https://fsu.academicworks.com/opportunities/37752) | Varies | 10/15/2026 |
 | [Alex Alfred Ankiewicz and Lucy Elizabeth Ankiewicz Scholarship Endowment](https://fsu.academicworks.com/opportunities/36723) | Varies | 10/15/2026 |
 | [Alexander Rochell Opportunity Scholarship in Engineering](https://fsu.academicworks.com/opportunities/36481) | Varies | 10/15/2026 |
@@ -336,6 +338,12 @@ This page contains all currently live scholarships detected by the sentinel.
 | [David and Trish Warriner Endowed Scholarship](https://fsu.academicworks.com/opportunities/38351) | Varies | 10/15/2026 |
 | [Death by Chocolate Endowed Scholarship](https://fsu.academicworks.com/opportunities/36722) | Varies | 10/15/2026 |
 | [Dempsey J. Barron Endowed Scholarship](https://fsu.academicworks.com/opportunities/36178) | Varies | 10/15/2026 |
+| [Dennie Sebolt Optimist Club of the Beaches Endowed Scholarship](https://fsu.academicworks.com/opportunities/36264) | Varies | 10/15/2026 |
+| [Disciples of the Diamond Spring 81 Scholarship](https://fsu.academicworks.com/opportunities/39663) | Varies | 10/15/2026 |
+| [Don Crisp Endowed Scholarship](https://fsu.academicworks.com/opportunities/36279) | Varies | 10/15/2026 |
+| [Doug St. Angelo Scholarship Fund](https://fsu.academicworks.com/opportunities/36092) | Varies | 10/15/2026 |
+| [Douglas Peterson Vietnamese Scholarship in Arts and Sciences in Honor of Douglas "Pete" Peterson](https://fsu.academicworks.com/opportunities/37751) | $3,000 | 10/15/2026 |
+| [Dr. Byron McCormick Endowed Scholarship](https://fsu.academicworks.com/opportunities/36883) | Varies | 10/15/2026 |
 
 ## Fay Tech
 
@@ -531,12 +539,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Christy Kearney Award in Nursing & Holistic Health Scholarship](https://sfsu.academicworks.com/opportunities/23748) | $1,500.00 | 10/04/2026 |
-| [Dorothy L. Davis Endowed Memorial Scholarship in Nursing, The](https://sfsu.academicworks.com/opportunities/22271) | Varies | 10/04/2026 |
-| [James J. Finley RN Class of '86 Nursing Scholarship](https://sfsu.academicworks.com/opportunities/22538) | $1000 | 10/04/2026 |
-| [Julie Morgan Memorial Endowed Scholarship in Health and the Environment](https://sfsu.academicworks.com/opportunities/22215) | Varies | 10/04/2026 |
-| [Lucinda K. Lordan Nursing Scholarship](https://sfsu.academicworks.com/opportunities/22839) | Varies | 10/04/2026 |
-| [Pawan Tewari Goldman Sachs Scholarship Fund](https://sfsu.academicworks.com/opportunities/23314) | $6,650 | 10/04/2026 |
 | [The Ariana Mae Hatami Scholarship for Victims of Domestic Violence](https://sfsu.academicworks.com/opportunities/20729) | $1,000 | 10/05/2026 |
 | [Devlin Neil O'Connor Scholarship Endowment](https://sfsu.academicworks.com/opportunities/23847) | $1,000 | 10/14/2026 |
 | [Janice and John Gumas Endowed Marketing Scholarship](https://sfsu.academicworks.com/opportunities/23849) | $1000 | 10/14/2026 |
