@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-10-07 19:29:55 UTC
+Last updated: 2026-10-08 19:24:25 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -8,7 +8,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Levine Scholarship](https://cpcc.academicworks.com/opportunities/11509) | Varies | 10/07/2026 |
 | [Phil & Linda Sterner Scholarship](https://cpcc.academicworks.com/opportunities/11654) | Varies | 10/16/2026 |
 | [Aasha Scholarship](https://cpcc.academicworks.com/opportunities/11429) | Varies | 01/31/2027 |
 | [Alli & Aiden Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11646) | Varies | 01/31/2027 |
@@ -429,7 +428,9 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
+| [Arscott Family Scholarship](https://gvltec.academicworks.com/opportunities/2866) | Varies | N/A |
 | [Colonel Harold Premo Memorial Aviation/MTT Scholarship](https://gvltec.academicworks.com/opportunities/2749) | Varies | N/A |
+| [Gene Haas Endowed Scholarship](https://gvltec.academicworks.com/opportunities/3052) | Varies | N/A |
 | [Kinder Family Foundation Scholarship](https://gvltec.academicworks.com/opportunities/3136) | Varies | N/A |
 | [Laura Kohlmorgen Memorial Scholarship](https://gvltec.academicworks.com/opportunities/2923) | Varies | N/A |
 | [PMMI/Claude S. Breeden Scholarship](https://gvltec.academicworks.com/opportunities/3097) | Varies | N/A |
@@ -477,8 +478,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [CompX National Machine Tool Technology Endowed Scholarship](https://gvltec.academicworks.com/opportunities/6115) | varies | N/A |
 | [Construction Engineering Technology/Construction Specifications Institute (CSI) Endowed Scholarship](https://gvltec.academicworks.com/opportunities/6138) | varies | N/A |
 | [Crescent Community Club](https://gvltec.academicworks.com/opportunities/6160) | varies | N/A |
-| [D.L. Scurry Foundation Scholarship](https://gvltec.academicworks.com/opportunities/6022) | varies | N/A |
-| [DACA (Deferred Action of Childhood Arrival) Student Scholarship Fund](https://gvltec.academicworks.com/opportunities/5877) | varies | N/A |
 
 ## NC State
 
