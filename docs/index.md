@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-10-08 19:24:25 UTC
+Last updated: 2026-10-09 18:58:02 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -153,10 +153,10 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Rotary Club of Charlotte Scholarship](https://cpcc.academicworks.com/opportunities/11621) | Varies | 01/31/2027 |
 | [Tom Byrnes Scholarship For Advancement of Culinary Science and Arts](https://cpcc.academicworks.com/opportunities/11762) | Varies | 01/31/2027 |
 | [William & Harriet Barnhardt Scholarship](https://cpcc.academicworks.com/opportunities/11610) | Varies | 01/31/2027 |
+| [Jolly Good Samaritan Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11765) | Varies | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
 | [Pete & Marcia Sloan Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11127) | Varies | N/A |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | N/A |
-| [Mark Helms Service Learning Scholarship](https://cpcc.academicworks.com/opportunities/11660) | Varies | N/A |
 
 ## CPCC-External
 
@@ -428,9 +428,7 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Arscott Family Scholarship](https://gvltec.academicworks.com/opportunities/2866) | Varies | N/A |
 | [Colonel Harold Premo Memorial Aviation/MTT Scholarship](https://gvltec.academicworks.com/opportunities/2749) | Varies | N/A |
-| [Gene Haas Endowed Scholarship](https://gvltec.academicworks.com/opportunities/3052) | Varies | N/A |
 | [Kinder Family Foundation Scholarship](https://gvltec.academicworks.com/opportunities/3136) | Varies | N/A |
 | [Laura Kohlmorgen Memorial Scholarship](https://gvltec.academicworks.com/opportunities/2923) | Varies | N/A |
 | [PMMI/Claude S. Breeden Scholarship](https://gvltec.academicworks.com/opportunities/3097) | Varies | N/A |
@@ -478,6 +476,8 @@ This page contains all currently live scholarships detected by the sentinel.
 | [CompX National Machine Tool Technology Endowed Scholarship](https://gvltec.academicworks.com/opportunities/6115) | varies | N/A |
 | [Construction Engineering Technology/Construction Specifications Institute (CSI) Endowed Scholarship](https://gvltec.academicworks.com/opportunities/6138) | varies | N/A |
 | [Crescent Community Club](https://gvltec.academicworks.com/opportunities/6160) | varies | N/A |
+| [D.L. Scurry Foundation Scholarship](https://gvltec.academicworks.com/opportunities/6022) | varies | N/A |
+| [DACA (Deferred Action of Childhood Arrival) Student Scholarship Fund](https://gvltec.academicworks.com/opportunities/5877) | varies | N/A |
 
 ## NC State
 
