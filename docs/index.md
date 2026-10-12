@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-10-09 18:58:02 UTC
+Last updated: 2026-10-12 21:51:11 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -177,6 +177,7 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
+| [Honors College Study Abroad Award](https://cofc.academicworks.com/opportunities/13228) | Varies | 11/01/2026 |
 | [Early Access Scholarship](https://cofc.academicworks.com/opportunities/13195) | Varies | 11/06/2026 |
 | [Deutscher Bruderliche Bund Scholarship](https://cofc.academicworks.com/opportunities/12490) | Varies | 01/15/2027 |
 | [German Friendly Society Scholarship](https://cofc.academicworks.com/opportunities/12545) | Varies | 01/15/2027 |
@@ -214,8 +215,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [The International Graduate Student Award](https://ecu.academicworks.com/opportunities/37354) | Varies | 10/09/2026 |
-| [The International Undergraduate Student Award](https://ecu.academicworks.com/opportunities/36439) | Varies | 10/09/2026 |
 | [The Global Understanding Scholarship](https://ecu.academicworks.com/opportunities/38968) | $500 | 10/15/2026 |
 | [The Mary Paschal & Marguerite Perry Endowment Fund for Study in France](https://ecu.academicworks.com/opportunities/38950) | Varies | 10/15/2026 |
 | [The Scholarship for Study Abroad at Manchester Metropolitan University](https://ecu.academicworks.com/opportunities/38946) | $2,000 | 10/15/2026 |
@@ -299,7 +298,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [College of Arts and Sciences Student Travel Awards](https://fsu.academicworks.com/opportunities/40344) | $500 | 10/09/2026 |
 | [Winthrop King Summer Undergraduate Scholarship for French Studies](https://fsu.academicworks.com/opportunities/37264) | $6,000 | 10/12/2026 |
 | [Winthrop King Summer Undergraduate Scholarship for Arabic Studies](https://fsu.academicworks.com/opportunities/38875) | $6,000 | 10/12/2026 |
 | [Winthrop King Summer Undergraduate Scholarship for Chinese Studies](https://fsu.academicworks.com/opportunities/37180) | $6,000 | 10/12/2026 |
@@ -349,6 +347,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Doug St. Angelo Scholarship Fund](https://fsu.academicworks.com/opportunities/36092) | Varies | 10/15/2026 |
 | [Douglas Peterson Vietnamese Scholarship in Arts and Sciences in Honor of Douglas "Pete" Peterson](https://fsu.academicworks.com/opportunities/37751) | $3,000 | 10/15/2026 |
 | [Dr. Byron McCormick Endowed Scholarship](https://fsu.academicworks.com/opportunities/36883) | Varies | 10/15/2026 |
+| [Dr. Christopher M.S. Johns Fund for International Art History Study](https://fsu.academicworks.com/opportunities/40085) | Varies | 10/15/2026 |
 
 ## Fay Tech
 
@@ -574,6 +573,8 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Amy Hittner Scholarship](https://sfsu.academicworks.com/opportunities/23771) | $500 | 10/23/2026 |
 | [Ida Sweeney LeBlanc Scholarship](https://sfsu.academicworks.com/opportunities/23775) | $1000 | 10/23/2026 |
 | [John Blando Distinguished Service Award](https://sfsu.academicworks.com/opportunities/23773) | $1000 | 10/23/2026 |
+| [Julie Morgan Memorial Endowed Scholarship in Health and the Environment](https://sfsu.academicworks.com/opportunities/22215) | Varies | 10/25/2026 |
+| [Pawan Tewari Goldman Sachs Scholarship Fund](https://sfsu.academicworks.com/opportunities/23314) | $6,650 | 10/25/2026 |
 | [John Irwin Memorial Scholarship](https://sfsu.academicworks.com/opportunities/23202) | Varies | 10/30/2026 |
 | [Tripwire Graduate Student Support Fund](https://sfsu.academicworks.com/opportunities/23713) | $5,000.00 | 10/30/2026 |
 | [Florence Hale Stephenson Alumnae Scholarship Fund](https://sfsu.academicworks.com/opportunities/23701) | $1,000 | 10/30/2026 |
@@ -706,7 +707,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Dr. Marcia J.  Avedon Master of Human Resources Endowed Fellowship](https://sc.academicworks.com/opportunities/10472) | $0.00 | N/A |
 | [E. Craig Wall, Jr. Fellowship](https://sc.academicworks.com/opportunities/11724) | $0.00 | N/A |
 | [Elliott Davis LLC Fellowship Fund](https://sc.academicworks.com/opportunities/11844) | $0.00 | N/A |
-| [Ernst & Young Accounting Scholars Endowment Fund](https://sc.academicworks.com/opportunities/10569) | $2,824.00 | N/A |
+| [Ernst & Young Accounting Scholars Endowment Fund](https://sc.academicworks.com/opportunities/10569) | $2,824.30 | N/A |
 | [Fennell Endowed Fellowship Fund](https://sc.academicworks.com/opportunities/10850) | $0.00 | N/A |
 | [Forvis Fund](https://sc.academicworks.com/opportunities/11466) | $0.00 | N/A |
 | [Founders Budgeted Fellowship/Scholarship](https://sc.academicworks.com/opportunities/11605) | $0.00 | N/A |
@@ -741,6 +742,9 @@ This page contains all currently live scholarships detected by the sentinel.
 |------|--------|----------|
 | [Dean's International Study Scholarship](https://vt.academicworks.com/opportunities/74446) | Varies | 11/01/2026 |
 | [School of Architecture Annual Technology Support Fund](https://vt.academicworks.com/opportunities/75638) | Varies | 11/16/2026 |
+| [C.T. Tate Distinguished Co-op Senior Award](https://vt.academicworks.com/opportunities/75703) | Varies | 11/18/2026 |
+| [Kimberly Ware Outstanding Achievement Award](https://vt.academicworks.com/opportunities/62636) | Varies | 11/18/2026 |
+| [Timothy Owens Sheperd Service Award](https://vt.academicworks.com/opportunities/62735) | Varies | 11/18/2026 |
 | [MIT Scholars](https://vt.academicworks.com/opportunities/66663) | Varies | 12/01/2026 |
 | [Lee R. and Regina Aultice Steeneck Experiential Learning Scholarship](https://vt.academicworks.com/opportunities/73580) | Varies | 12/10/2026 |
 | [The Virginia Tech Tribal Match Scholarship](https://vt.academicworks.com/opportunities/60463) | Varies | 12/31/2026 |
