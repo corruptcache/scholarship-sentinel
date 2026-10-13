@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-10-12 21:51:11 UTC
+Last updated: 2026-10-13 19:57:38 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -298,15 +298,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Winthrop King Summer Undergraduate Scholarship for French Studies](https://fsu.academicworks.com/opportunities/37264) | $6,000 | 10/12/2026 |
-| [Winthrop King Summer Undergraduate Scholarship for Arabic Studies](https://fsu.academicworks.com/opportunities/38875) | $6,000 | 10/12/2026 |
-| [Winthrop King Summer Undergraduate Scholarship for Chinese Studies](https://fsu.academicworks.com/opportunities/37180) | $6,000 | 10/12/2026 |
-| [Winthrop King Summer Undergraduate Scholarship for German Studies](https://fsu.academicworks.com/opportunities/37249) | $6,000 | 10/12/2026 |
-| [Winthrop King Summer Undergraduate Scholarship for Italian Studies](https://fsu.academicworks.com/opportunities/37340) | $6,000 | 10/12/2026 |
-| [Winthrop King Summer Undergraduate Scholarship for Japanese Studies](https://fsu.academicworks.com/opportunities/37299) | $6,000 | 10/12/2026 |
-| [Winthrop King Summer Undergraduate Scholarship for Russian Studies](https://fsu.academicworks.com/opportunities/37362) | $6,000 | 10/12/2026 |
-| [Winthrop King Summer Undergraduate Scholarship for Spanish Studies](https://fsu.academicworks.com/opportunities/37315) | $6,000 | 10/12/2026 |
-| [Winthrop King Summer Undergraduate Scholarship in Linguistics](https://fsu.academicworks.com/opportunities/39687) | $6,000 | 10/12/2026 |
 | [Adam P. Arias ABA Autism Scholarship](https://fsu.academicworks.com/opportunities/37752) | Varies | 10/15/2026 |
 | [Alex Alfred Ankiewicz and Lucy Elizabeth Ankiewicz Scholarship Endowment](https://fsu.academicworks.com/opportunities/36723) | Varies | 10/15/2026 |
 | [Alexander Rochell Opportunity Scholarship in Engineering](https://fsu.academicworks.com/opportunities/36481) | Varies | 10/15/2026 |
@@ -348,6 +339,15 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Douglas Peterson Vietnamese Scholarship in Arts and Sciences in Honor of Douglas "Pete" Peterson](https://fsu.academicworks.com/opportunities/37751) | $3,000 | 10/15/2026 |
 | [Dr. Byron McCormick Endowed Scholarship](https://fsu.academicworks.com/opportunities/36883) | Varies | 10/15/2026 |
 | [Dr. Christopher M.S. Johns Fund for International Art History Study](https://fsu.academicworks.com/opportunities/40085) | Varies | 10/15/2026 |
+| [Dr. Gail Skofronick-Jackson Memorial Scholarship Fund](https://fsu.academicworks.com/opportunities/39257) | Varies | 10/15/2026 |
+| [Dr. Hulon and Dinah Crayton Endowed Scholarship](https://fsu.academicworks.com/opportunities/38241) | Varies | 10/15/2026 |
+| [Dr. Jason Gallant and Mr. Evan Teitler Scholarship Supporting Students Impacted by Parental Cancer](https://fsu.academicworks.com/opportunities/39404) | Varies | 10/15/2026 |
+| [Dr. Kenneth L. and Ann K. Shaw Endowed Scholarship](https://fsu.academicworks.com/opportunities/36214) | Varies | 10/15/2026 |
+| [Dr. Martin Luther King, Jr. Book Stipend](https://fsu.academicworks.com/opportunities/36371) | $350 | 10/15/2026 |
+| [Dr. Michael J. Piette Graduate Scholarship Endowment Fund](https://fsu.academicworks.com/opportunities/36172) | Varies | 10/15/2026 |
+| [Dr. Thomas J. Harrison Scholarship](https://fsu.academicworks.com/opportunities/37022) | Varies | 10/15/2026 |
+| [Dr. Yaw A. Owusu Memorial Scholarship Fund](https://fsu.academicworks.com/opportunities/39276) | Varies | 10/15/2026 |
+| [Drs. Charles and Persis Rockwood Graduate Fellowship Endowment Fund](https://fsu.academicworks.com/opportunities/35753) | Varies | 10/15/2026 |
 
 ## Fay Tech
 
@@ -707,7 +707,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Dr. Marcia J.  Avedon Master of Human Resources Endowed Fellowship](https://sc.academicworks.com/opportunities/10472) | $0.00 | N/A |
 | [E. Craig Wall, Jr. Fellowship](https://sc.academicworks.com/opportunities/11724) | $0.00 | N/A |
 | [Elliott Davis LLC Fellowship Fund](https://sc.academicworks.com/opportunities/11844) | $0.00 | N/A |
-| [Ernst & Young Accounting Scholars Endowment Fund](https://sc.academicworks.com/opportunities/10569) | $2,824.30 | N/A |
+| [Ernst & Young Accounting Scholars Endowment Fund](https://sc.academicworks.com/opportunities/10569) | $2,824.00 | N/A |
 | [Fennell Endowed Fellowship Fund](https://sc.academicworks.com/opportunities/10850) | $0.00 | N/A |
 | [Forvis Fund](https://sc.academicworks.com/opportunities/11466) | $0.00 | N/A |
 | [Founders Budgeted Fellowship/Scholarship](https://sc.academicworks.com/opportunities/11605) | $0.00 | N/A |
