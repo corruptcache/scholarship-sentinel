@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-10-15 17:52:48 UTC
+Last updated: 2026-10-16 17:40:42 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -154,9 +154,9 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Tom Byrnes Scholarship For Advancement of Culinary Science and Arts](https://cpcc.academicworks.com/opportunities/11762) | Varies | 01/31/2027 |
 | [William & Harriet Barnhardt Scholarship](https://cpcc.academicworks.com/opportunities/11610) | Varies | 01/31/2027 |
 | [Jolly Good Samaritan Scholarship](https://cpcc.academicworks.com/opportunities/11765) | Varies | 01/31/2027 |
+| [Hollowell Workforce Ready Scholarship](https://cpcc.academicworks.com/opportunities/11768) | Varies | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
 | [Pete & Marcia Sloan Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11127) | Varies | N/A |
-| [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | N/A |
 
 ## CPCC-External
 
@@ -216,19 +216,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [The Global Understanding Scholarship](https://ecu.academicworks.com/opportunities/38968) | $500 | 10/15/2026 |
-| [The Mary Paschal & Marguerite Perry Endowment Fund for Study in France](https://ecu.academicworks.com/opportunities/38950) | Varies | 10/15/2026 |
-| [The Scholarship for Study Abroad at Manchester Metropolitan University](https://ecu.academicworks.com/opportunities/38946) | $2,000 | 10/15/2026 |
-| [The Scholarship for Study Abroad at the Universite de Tours](https://ecu.academicworks.com/opportunities/38948) | $2,000 | 10/15/2026 |
-| [The Thomas W. Rivers Foreign Exchange Scholarship](https://ecu.academicworks.com/opportunities/38938) | Varies | 10/15/2026 |
-| [The ECU Tuscany Scholarship](https://ecu.academicworks.com/opportunities/38958) | Varies | 10/15/2026 |
-| [The College of Business Gold Graduate Scholarship](https://ecu.academicworks.com/opportunities/37227) | Varies | 10/15/2026 |
-| [The College of Business Pirate Graduate Scholarship](https://ecu.academicworks.com/opportunities/36983) | Varies | 10/15/2026 |
-| [The College of Business Purple Graduate Scholarship](https://ecu.academicworks.com/opportunities/37363) | Varies | 10/15/2026 |
-| [The Caswell Center Foundation Internship in Social Work](https://ecu.academicworks.com/opportunities/36985) | Varies | 10/15/2026 |
-| [The Krissy Richardson Memorial (MRCF) Scholarship](https://ecu.academicworks.com/opportunities/36782) | Varies | 10/15/2026 |
-| [The Addictions and Rehabilitation Studies Study Abroad Scholarship](https://ecu.academicworks.com/opportunities/38378) | Varies | 10/15/2026 |
-| [The Biology Field Intensive Lab Study Abroad Scholarship](https://ecu.academicworks.com/opportunities/36646) | Varies | 10/15/2026 |
 | [The Honors College Study Abroad Scholarship](https://ecu.academicworks.com/opportunities/38964) | Varies | 10/21/2026 |
 | [The Dowdy Bookstore Scholarship](https://ecu.academicworks.com/opportunities/38936) | $500 | 10/30/2026 |
 | [The Passage Academic Merit Scholarship for Transfer Students](https://ecu.academicworks.com/opportunities/38952) | $1,250 | 10/30/2026 |
@@ -299,57 +286,56 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Adam P. Arias ABA Autism Scholarship](https://fsu.academicworks.com/opportunities/37752) | Varies | 10/15/2026 |
-| [Alex Alfred Ankiewicz and Lucy Elizabeth Ankiewicz Scholarship Endowment](https://fsu.academicworks.com/opportunities/36723) | Varies | 10/15/2026 |
-| [Alexander Rochell Opportunity Scholarship in Engineering](https://fsu.academicworks.com/opportunities/36481) | Varies | 10/15/2026 |
-| [Alfred I. duPont Foundation Scholarship Fund](https://fsu.academicworks.com/opportunities/37132) | Varies | 10/15/2026 |
-| [Alisa Butler Kinsaul Memorial Endowed Scholarship Fund](https://fsu.academicworks.com/opportunities/38030) | Varies | 10/15/2026 |
-| [Alumni Graduate Scholarship Fund in Economics](https://fsu.academicworks.com/opportunities/37627) | Varies | 10/15/2026 |
-| [Andy and Barbara Stein Endowed Scholarship Fund](https://fsu.academicworks.com/opportunities/37047) | Varies | 10/15/2026 |
-| [Angel David Endowed Memorial Scholarship](https://fsu.academicworks.com/opportunities/36243) | Varies | 10/15/2026 |
-| [Anita Darlene Freeman Memorial Endowed Scholarship](https://fsu.academicworks.com/opportunities/37712) | Varies | 10/15/2026 |
-| [Ashley Cowie Memorial Scholarship in Interior Design](https://fsu.academicworks.com/opportunities/36533) | Varies | 10/15/2026 |
-| [Alan C. Rhodes Endowment for Excellence](https://fsu.academicworks.com/opportunities/40695) | $5,000.00 | 10/15/2026 |
-| [Atkins Endowed Scholarship](https://fsu.academicworks.com/opportunities/37023) | Varies | 10/15/2026 |
-| [Audrey Wilson Endowment for the Humanities](https://fsu.academicworks.com/opportunities/36831) | Varies | 10/15/2026 |
-| [Austin Ekern Memorial Endowed Scholarship](https://fsu.academicworks.com/opportunities/37230) | Varies | 10/15/2026 |
-| [Bay County Chamber of Commerce Past Chairpersons Endowed Scholarship](https://fsu.academicworks.com/opportunities/38077) | Varies | 10/15/2026 |
-| [Bay Education Foundation Endowed Scholarship Fund](https://fsu.academicworks.com/opportunities/36856) | Varies | 10/15/2026 |
-| [Ben Graham Optimist Club of the Beaches Endowed Scholarship](https://fsu.academicworks.com/opportunities/36346) | Varies | 10/15/2026 |
-| [Berg Steel Pipe Corporation Endowed Scholarship](https://fsu.academicworks.com/opportunities/37517) | Varies | 10/15/2026 |
-| [Bettye Anne Busbee Case Graduate Fellowship](https://fsu.academicworks.com/opportunities/37003) | Varies | 10/15/2026 |
-| [Bruce W. McNeilage Endowed Scholarship](https://fsu.academicworks.com/opportunities/40657) | Varies | 10/15/2026 |
-| [Century 21 Bay Brokers Council Endowed Scholarship Fund](https://fsu.academicworks.com/opportunities/37649) | Varies | 10/15/2026 |
-| [Charles Haworth Awards for Student Veterans](https://fsu.academicworks.com/opportunities/40224) | Varies | 10/15/2026 |
-| [Chevron Scholarships](https://fsu.academicworks.com/opportunities/39284) | Varies | 10/15/2026 |
-| [Coach Bill Peterson Distinguished Economic Education Scholarship](https://fsu.academicworks.com/opportunities/36105) | Varies | 10/15/2026 |
-| [Colonel William W. Wood Endowed Memorial Scholarship](https://fsu.academicworks.com/opportunities/36202) | $2,000 to $2,500 | 10/15/2026 |
-| [Community Services Foundation of Bay County, Inc. 2004 Scholarship Fund](https://fsu.academicworks.com/opportunities/36108) | Varies | 10/15/2026 |
-| [Community Services Foundation of Bay County, Inc. Scholarship Fund](https://fsu.academicworks.com/opportunities/36133) | Varies | 10/15/2026 |
-| [Cummings Scientific Scholarship for Chemical and Biomedical Engineering](https://fsu.academicworks.com/opportunities/36073) | Varies | 10/15/2026 |
-| [Curtis E. and Jo Ellen Hicks Falany Scholarship for Engineering Marching Chiefs](https://fsu.academicworks.com/opportunities/36792) | Varies | 10/15/2026 |
-| [D.J.M.T. O'Brien Endowed Scholarship](https://fsu.academicworks.com/opportunities/38105) | Varies | 10/15/2026 |
-| [Danfoss FAMU-FSU College of Engineering Fund](https://fsu.academicworks.com/opportunities/39259) | Varies | 10/15/2026 |
-| [David and Trish Warriner Endowed Scholarship](https://fsu.academicworks.com/opportunities/38351) | Varies | 10/15/2026 |
-| [Death by Chocolate Endowed Scholarship](https://fsu.academicworks.com/opportunities/36722) | Varies | 10/15/2026 |
-| [Dempsey J. Barron Endowed Scholarship](https://fsu.academicworks.com/opportunities/36178) | Varies | 10/15/2026 |
-| [Dennie Sebolt Optimist Club of the Beaches Endowed Scholarship](https://fsu.academicworks.com/opportunities/36264) | Varies | 10/15/2026 |
-| [Disciples of the Diamond Spring 81 Scholarship](https://fsu.academicworks.com/opportunities/39663) | Varies | 10/15/2026 |
-| [Don Crisp Endowed Scholarship](https://fsu.academicworks.com/opportunities/36279) | Varies | 10/15/2026 |
-| [Doug St. Angelo Scholarship Fund](https://fsu.academicworks.com/opportunities/36092) | Varies | 10/15/2026 |
-| [Douglas Peterson Vietnamese Scholarship in Arts and Sciences in Honor of Douglas "Pete" Peterson](https://fsu.academicworks.com/opportunities/37751) | $3,000 | 10/15/2026 |
-| [Dr. Byron McCormick Endowed Scholarship](https://fsu.academicworks.com/opportunities/36883) | Varies | 10/15/2026 |
-| [Dr. Christopher M.S. Johns Fund for International Art History Study](https://fsu.academicworks.com/opportunities/40085) | Varies | 10/15/2026 |
-| [Dr. Gail Skofronick-Jackson Memorial Scholarship Fund](https://fsu.academicworks.com/opportunities/39257) | Varies | 10/15/2026 |
-| [Dr. Hulon and Dinah Crayton Endowed Scholarship](https://fsu.academicworks.com/opportunities/38241) | Varies | 10/15/2026 |
-| [Dr. Jason Gallant and Mr. Evan Teitler Scholarship Supporting Students Impacted by Parental Cancer](https://fsu.academicworks.com/opportunities/39404) | Varies | 10/15/2026 |
-| [Dr. Kenneth L. and Ann K. Shaw Endowed Scholarship](https://fsu.academicworks.com/opportunities/36214) | Varies | 10/15/2026 |
-| [Dr. Martin Luther King, Jr. Book Stipend](https://fsu.academicworks.com/opportunities/36371) | $350 | 10/15/2026 |
-| [Dr. Michael J. Piette Graduate Scholarship Endowment Fund](https://fsu.academicworks.com/opportunities/36172) | Varies | 10/15/2026 |
-| [Dr. Thomas J. Harrison Scholarship](https://fsu.academicworks.com/opportunities/37022) | Varies | 10/15/2026 |
-| [Dr. Yaw A. Owusu Memorial Scholarship Fund](https://fsu.academicworks.com/opportunities/39276) | Varies | 10/15/2026 |
-| [Drs. Charles and Persis Rockwood Graduate Fellowship Endowment Fund](https://fsu.academicworks.com/opportunities/35753) | Varies | 10/15/2026 |
-| [Dr. Abdus Suttar Khan Oxford Scholar Memorial Scholarship](https://fsu.academicworks.com/opportunities/40718) | $0.00 | 10/15/2026 |
+| [Ada Belle Winthrop-King Endowed Graduate Teaching Enhancement Scholarship Fund](https://fsu.academicworks.com/opportunities/40240) | Varies | 10/19/2026 |
+| [Dunaway Family Economics Excellence Scholarships](https://fsu.academicworks.com/opportunities/40154) | $1,000 | 10/31/2026 |
+| [Carter Opportunity Scholarship](https://fsu.academicworks.com/opportunities/40680) | Up to $20,000 | N/A |
+| [Dr. Christopher M.S. Johns Fund for International Art History Study](https://fsu.academicworks.com/opportunities/35531) | Varies | N/A |
+| [Frappier Scholarship for Unconquered Scholars](https://fsu.academicworks.com/opportunities/35605) | Varies | N/A |
+| [Jean Margaret Garvey Graduate Scholarship](https://fsu.academicworks.com/opportunities/40532) | $0.00 | N/A |
+| [Panhandle Engineering, Inc. Endowed Scholarship Fund](https://fsu.academicworks.com/opportunities/35373) | Varies | N/A |
+| [Paula Gerson Research Grant Fund](https://fsu.academicworks.com/opportunities/35525) | Varies | N/A |
+| [Raymond Flavious Bellamy Chair in Population Studies](https://fsu.academicworks.com/opportunities/40401) | $5,800 | N/A |
+| [The Fraternal Order of Eagles Memorial Professorship in the Pepper Institute on Aging and Public Policy](https://fsu.academicworks.com/opportunities/40391) | $1,000.00 | N/A |
+| [Wynne and Payne International Honors Scholarship](https://fsu.academicworks.com/opportunities/35348) | Varies | N/A |
+| [Winthrop King Summer High School Travel Award in French](https://fsu.academicworks.com/opportunities/5049) | $1,000 | N/A |
+| [Ashbel Williams Scholarship](https://fsu.academicworks.com/opportunities/193) | Varies | N/A |
+| [Victor Carrabino Scholarship](https://fsu.academicworks.com/opportunities/3958) | Varies | N/A |
+| [Brynes & Shelia Guillaume 1st Generation Matching Scholarship](https://fsu.academicworks.com/opportunities/5333) | Varies | N/A |
+| [Charee L. Williams 1st Generation Matching Scholarship](https://fsu.academicworks.com/opportunities/5342) | Varies | N/A |
+| [Elizabeth A. Reiter 1st Generation Matching Scholarship](https://fsu.academicworks.com/opportunities/5345) | Varies | N/A |
+| [Gregory & Deanna Phillips 1st Generation Matching Scholarship](https://fsu.academicworks.com/opportunities/5339) | Varies | N/A |
+| [Jennifer C. Charles 1st Generation Matching Scholarship](https://fsu.academicworks.com/opportunities/5324) | Varies | N/A |
+| [Messam Construction 1st Generation Matching Scholarship](https://fsu.academicworks.com/opportunities/5327) | Varies | N/A |
+| [Provost Sally McRorie 1st Generation Matching Scholarship](https://fsu.academicworks.com/opportunities/5348) | Varies | N/A |
+| [Robert & Karen Kirk 1st Generation Matching Scholarship](https://fsu.academicworks.com/opportunities/5321) | Varies | N/A |
+| [Seminole Club of Broward County 1st Generation Matching Scholarship](https://fsu.academicworks.com/opportunities/5330) | Varies | N/A |
+| [Steve & Diana Pattison 1st Generation Matching Scholarship](https://fsu.academicworks.com/opportunities/5336) | Varies | N/A |
+| [Dr. Charles J. & Lea A. Craig 1st Generation Matching Scholarship](https://fsu.academicworks.com/opportunities/5549) | $0.00 | N/A |
+| [Marilyn A. Hiller 1st Generation Matching Scholarship](https://fsu.academicworks.com/opportunities/5546) | $0.00 | N/A |
+| [Mark & Nancy C. Hillis 1st Generation Matching Scholarship](https://fsu.academicworks.com/opportunities/5558) | $0.00 | N/A |
+| [Mark S. Elam 1st Generation Matching Scholarship](https://fsu.academicworks.com/opportunities/5555) | $0.00 | N/A |
+| [Morgan Stanley Global Impact Funding Trust, Inc.1st Generation Matching Scholarship](https://fsu.academicworks.com/opportunities/5552) | $0.00 | N/A |
+| [William E. & Barbara S. Coen 1st Generation Matching Scholarship](https://fsu.academicworks.com/opportunities/5543) | $0.00 | N/A |
+| [YourCause, LLC 1st Generation Matching Scholarship](https://fsu.academicworks.com/opportunities/5561) | $0.00 | N/A |
+| [Budd Bell Scholarship](https://fsu.academicworks.com/opportunities/6427) | Varies | N/A |
+| [Maurice M. and Patricia V. Vance Fund](https://fsu.academicworks.com/opportunities/8988) | Varies | N/A |
+| [Barbara Reeves Menzies Scholarship](https://fsu.academicworks.com/opportunities/6127) | Varies | N/A |
+| [International Programs Spring Break Scholarship](https://fsu.academicworks.com/opportunities/9322) | Varies | N/A |
+| [Joy Sloan Jinks Endowed Fund to Promote Community Change through Research, Teaching & Training](https://fsu.academicworks.com/opportunities/11666) | Varies | N/A |
+| [Winthrop King Summer Undergraduate Scholarship for Portuguese Studies](https://fsu.academicworks.com/opportunities/11329) | $6,000 | N/A |
+| [International Programs Honors Program Scholarship Fund](https://fsu.academicworks.com/opportunities/17383) | Varies | N/A |
+| [Ahora Is Now Fund](https://fsu.academicworks.com/opportunities/19641) | Varies | N/A |
+| [International Programs CARE Scholarship Fund](https://fsu.academicworks.com/opportunities/23469) | Varies | N/A |
+| [Psychology in London Scholarship Fund](https://fsu.academicworks.com/opportunities/21107) | Varies | N/A |
+| [Bender/Plescia Family Endowment for the Visually Impaired](https://fsu.academicworks.com/opportunities/24123) | Varies | N/A |
+| [Hamilton Family Scholarship](https://fsu.academicworks.com/opportunities/23123) | Varies | N/A |
+| [Christina Tully Memorial Fund](https://fsu.academicworks.com/opportunities/25043) | Varies | N/A |
+| [Christine Elizabeth Sandefur Endowed Nursing Scholarship](https://fsu.academicworks.com/opportunities/25067) | Varies | N/A |
+| [College of Nursing Advancement Council's Scholarship for First-Generation Students](https://fsu.academicworks.com/opportunities/25063) | Varies | N/A |
+| [College of Nursing Graduate Student Scholarship Fund](https://fsu.academicworks.com/opportunities/25045) | Varies | N/A |
+| [College of Nursing Scholarship](https://fsu.academicworks.com/opportunities/25004) | Varies | N/A |
+| [CVS Health Foundation Family Nurse Practitioner Scholarship](https://fsu.academicworks.com/opportunities/25078) | $1,000 | N/A |
+| [David and Lucia Taxdal Endowed Fund](https://fsu.academicworks.com/opportunities/25059) | Varies | N/A |
 
 ## Fay Tech
 
@@ -545,8 +531,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Shereen Paff Special Education Scholarship](https://sfsu.academicworks.com/opportunities/23690) | Varies - up to $4,000 | 10/15/2026 |
-| [2026-2027 "Comfort Women" Research and Creative Scholarship Fund - Student Award](https://sfsu.academicworks.com/opportunities/23302) | $4,000.00 | 10/15/2026 |
 | [Robert Pasker-Laurie Pitman Fellowship](https://sfsu.academicworks.com/opportunities/22329) | varies | 10/16/2026 |
 | [Ernest C. Dillard Sr. Endowed Scholarship in Labor Studies](https://sfsu.academicworks.com/opportunities/23783) | $500 | 10/19/2026 |
 | [Clark-Gross Award in the Novel](https://sfsu.academicworks.com/opportunities/22922) | $100 | 10/20/2026 |
@@ -607,6 +591,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Early Childhood Special Education Scholarship](https://sfsu.academicworks.com/opportunities/23807) | Varies | 11/01/2026 |
 | [EdD in Educational Leadership Program Scholarship, The](https://sfsu.academicworks.com/opportunities/23809) | varies | 11/01/2026 |
 | [Elementary Education Scholarship Fund](https://sfsu.academicworks.com/opportunities/23811) | Amount up to $1500 | 11/01/2026 |
+| [Flora R Walter Scholarship](https://sfsu.academicworks.com/opportunities/23813) | $2,000.00 | 11/01/2026 |
 | [Jack R. and Marjorie J. Fraenkel Scholarship](https://sfsu.academicworks.com/opportunities/22071) | $1,000 | 11/02/2026 |
 | [Sophie Hittner Scholarship](https://sfsu.academicworks.com/opportunities/22073) | $500.00 | 11/02/2026 |
 | [Willie L Brown Graduate Fellowship Program](https://sfsu.academicworks.com/opportunities/22324) | $22,000 (disbursed over 4 semesters, beginning Spring 2027 | 11/05/2026 |
@@ -738,6 +723,7 @@ This page contains all currently live scholarships detected by the sentinel.
 |------|--------|----------|
 | [Dean's International Study Scholarship](https://vt.academicworks.com/opportunities/74446) | Varies | 11/01/2026 |
 | [School of Architecture Annual Technology Support Fund](https://vt.academicworks.com/opportunities/75638) | Varies | 11/16/2026 |
+| [Hokies on the Hill Scholarship](https://vt.academicworks.com/opportunities/75613) | Varies | 11/16/2026 |
 | [C.T. Tate Distinguished Co-op Senior Award](https://vt.academicworks.com/opportunities/75703) | Varies | 11/18/2026 |
 | [Kimberly Ware Outstanding Achievement Award](https://vt.academicworks.com/opportunities/62636) | Varies | 11/18/2026 |
 | [Timothy Owens Sheperd Service Award](https://vt.academicworks.com/opportunities/62735) | Varies | 11/18/2026 |
