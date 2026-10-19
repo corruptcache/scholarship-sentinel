@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-10-16 17:40:42 UTC
+Last updated: 2026-10-19 19:27:51 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -8,7 +8,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Phil & Linda Sterner Scholarship](https://cpcc.academicworks.com/opportunities/11654) | Varies | 10/16/2026 |
 | [Aasha Scholarship](https://cpcc.academicworks.com/opportunities/11429) | Varies | 01/31/2027 |
 | [Alli & Aiden Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11646) | Varies | 01/31/2027 |
 | [American Schlafhorst Foundation Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11132) | Varies | 01/31/2027 |
@@ -157,6 +156,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Hollowell Workforce Ready Scholarship](https://cpcc.academicworks.com/opportunities/11768) | Varies | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
 | [Pete & Marcia Sloan Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11127) | Varies | N/A |
+| [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | N/A |
 
 ## CPCC-External
 
@@ -288,6 +288,8 @@ This page contains all currently live scholarships detected by the sentinel.
 |------|--------|----------|
 | [Ada Belle Winthrop-King Endowed Graduate Teaching Enhancement Scholarship Fund](https://fsu.academicworks.com/opportunities/40240) | Varies | 10/19/2026 |
 | [Dunaway Family Economics Excellence Scholarships](https://fsu.academicworks.com/opportunities/40154) | $1,000 | 10/31/2026 |
+| [Ralph Kaul Fund in Applied Economics](https://fsu.academicworks.com/opportunities/35301) | Varies | 12/31/2026 |
+| [Ralph Kaul Fund in Applied Economics](https://fsu.academicworks.com/opportunities/35390) | Varies | 04/03/2027 |
 | [Carter Opportunity Scholarship](https://fsu.academicworks.com/opportunities/40680) | Up to $20,000 | N/A |
 | [Dr. Christopher M.S. Johns Fund for International Art History Study](https://fsu.academicworks.com/opportunities/35531) | Varies | N/A |
 | [Frappier Scholarship for Unconquered Scholars](https://fsu.academicworks.com/opportunities/35605) | Varies | N/A |
@@ -334,8 +336,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [College of Nursing Advancement Council's Scholarship for First-Generation Students](https://fsu.academicworks.com/opportunities/25063) | Varies | N/A |
 | [College of Nursing Graduate Student Scholarship Fund](https://fsu.academicworks.com/opportunities/25045) | Varies | N/A |
 | [College of Nursing Scholarship](https://fsu.academicworks.com/opportunities/25004) | Varies | N/A |
-| [CVS Health Foundation Family Nurse Practitioner Scholarship](https://fsu.academicworks.com/opportunities/25078) | $1,000 | N/A |
-| [David and Lucia Taxdal Endowed Fund](https://fsu.academicworks.com/opportunities/25059) | Varies | N/A |
 
 ## Fay Tech
 
@@ -495,6 +495,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Aurora R. de Zarate Scholarship](https://ncsu.academicworks.com/opportunities/179776) | Varies | N/A |
 | [AWM Attaviti Scholarship Endowment](https://ncsu.academicworks.com/opportunities/180160) | Varies | N/A |
 | [B. Frank Lewis Scholarship](https://ncsu.academicworks.com/opportunities/179915) | Varies | N/A |
+| [Baird Family Scholarship Endowment](https://ncsu.academicworks.com/opportunities/182885) | Varies | N/A |
 | [Banixx Horse & Pet Care Graduate Award](https://ncsu.academicworks.com/opportunities/175474) | Varies | N/A |
 | [Barbara and Curtis Freeze Marching Band Scholarship Endowment](https://ncsu.academicworks.com/opportunities/180489) | Varies | N/A |
 | [Barrangou Undergraduate Wolfpack Endowed Scholarship](https://ncsu.academicworks.com/opportunities/180077) | Varies | N/A |
@@ -519,7 +520,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Calabrese Scholarship](https://ncsu.academicworks.com/opportunities/179823) | Varies | N/A |
 | [Cammarene-Wessel CALS Scholarship Honoring CALS Advancement Endowment](https://ncsu.academicworks.com/opportunities/179901) | Varies | N/A |
 | [Carnell "Nelly" Griffin Never Quit Scholarship](https://ncsu.academicworks.com/opportunities/182168) | Varies | N/A |
-| [Carole & Robert Forloines Extraordinary Opportunity Scholarship Endowment](https://ncsu.academicworks.com/opportunities/179956) | Varies | N/A |
 
 ## NC State-Flexible
 
@@ -531,7 +531,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Robert Pasker-Laurie Pitman Fellowship](https://sfsu.academicworks.com/opportunities/22329) | varies | 10/16/2026 |
 | [Ernest C. Dillard Sr. Endowed Scholarship in Labor Studies](https://sfsu.academicworks.com/opportunities/23783) | $500 | 10/19/2026 |
 | [Clark-Gross Award in the Novel](https://sfsu.academicworks.com/opportunities/22922) | $100 | 10/20/2026 |
 | [Creative Writing Scholarship (Daniel Langton Poetry Prize)](https://sfsu.academicworks.com/opportunities/22304) | $100.00 | 10/20/2026 |
@@ -592,6 +591,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [EdD in Educational Leadership Program Scholarship, The](https://sfsu.academicworks.com/opportunities/23809) | varies | 11/01/2026 |
 | [Elementary Education Scholarship Fund](https://sfsu.academicworks.com/opportunities/23811) | Amount up to $1500 | 11/01/2026 |
 | [Flora R Walter Scholarship](https://sfsu.academicworks.com/opportunities/23813) | $2,000.00 | 11/01/2026 |
+| [Friends of Teachers Visual Impairments and Orientation & Mobility (TVI and O&M)](https://sfsu.academicworks.com/opportunities/23815) | varies | 11/01/2026 |
 | [Jack R. and Marjorie J. Fraenkel Scholarship](https://sfsu.academicworks.com/opportunities/22071) | $1,000 | 11/02/2026 |
 | [Sophie Hittner Scholarship](https://sfsu.academicworks.com/opportunities/22073) | $500.00 | 11/02/2026 |
 | [Willie L Brown Graduate Fellowship Program](https://sfsu.academicworks.com/opportunities/22324) | $22,000 (disbursed over 4 semesters, beginning Spring 2027 | 11/05/2026 |
