@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-10-19 19:27:51 UTC
+Last updated: 2026-10-20 18:06:16 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -182,7 +182,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Dr. Lancelot Minor Harris Scholarship Fund in English](https://cofc.academicworks.com/opportunities/12710) | Varies | 11/06/2026 |
 | [Deutscher Bruderliche Bund Scholarship](https://cofc.academicworks.com/opportunities/12490) | Varies | 01/15/2027 |
 | [German Friendly Society Scholarship](https://cofc.academicworks.com/opportunities/12545) | Varies | 01/15/2027 |
-| [Stephanie Sheffield Travel Scholarship](https://cofc.academicworks.com/opportunities/12903) | Varies | 02/13/2027 |
+| [Stephanie Sheffield Travel Scholarship](https://cofc.academicworks.com/opportunities/12903) | Varies | 02/14/2027 |
 | [Lannie-Zlatoper Endowed Travel Scholarship](https://cofc.academicworks.com/opportunities/12521) | Varies | 02/14/2027 |
 | [International Scholars Program](https://cofc.academicworks.com/opportunities/12415) | Varies | 04/01/2027 |
 | [Chick-fil-A Graduate Leadership Scholarship](https://cofc.academicworks.com/opportunities/11757) | Varies | N/A |
@@ -286,7 +286,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Ada Belle Winthrop-King Endowed Graduate Teaching Enhancement Scholarship Fund](https://fsu.academicworks.com/opportunities/40240) | Varies | 10/19/2026 |
 | [Dunaway Family Economics Excellence Scholarships](https://fsu.academicworks.com/opportunities/40154) | $1,000 | 10/31/2026 |
 | [Ralph Kaul Fund in Applied Economics](https://fsu.academicworks.com/opportunities/35301) | Varies | 12/31/2026 |
 | [Ralph Kaul Fund in Applied Economics](https://fsu.academicworks.com/opportunities/35390) | Varies | 04/03/2027 |
@@ -336,6 +335,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [College of Nursing Advancement Council's Scholarship for First-Generation Students](https://fsu.academicworks.com/opportunities/25063) | Varies | N/A |
 | [College of Nursing Graduate Student Scholarship Fund](https://fsu.academicworks.com/opportunities/25045) | Varies | N/A |
 | [College of Nursing Scholarship](https://fsu.academicworks.com/opportunities/25004) | Varies | N/A |
+| [CVS Health Foundation Family Nurse Practitioner Scholarship](https://fsu.academicworks.com/opportunities/25078) | $1,000 | N/A |
 
 ## Fay Tech
 
@@ -531,7 +531,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Ernest C. Dillard Sr. Endowed Scholarship in Labor Studies](https://sfsu.academicworks.com/opportunities/23783) | $500 | 10/19/2026 |
 | [Clark-Gross Award in the Novel](https://sfsu.academicworks.com/opportunities/22922) | $100 | 10/20/2026 |
 | [Creative Writing Scholarship (Daniel Langton Poetry Prize)](https://sfsu.academicworks.com/opportunities/22304) | $100.00 | 10/20/2026 |
 | [Elizabeth June Madden-Zibman Creative Writing Endowed Scholarship](https://sfsu.academicworks.com/opportunities/22299) | At least $5,000 | 10/20/2026 |
