@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-10-20 18:06:16 UTC
+Last updated: 2026-10-21 18:14:13 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -531,15 +531,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Clark-Gross Award in the Novel](https://sfsu.academicworks.com/opportunities/22922) | $100 | 10/20/2026 |
-| [Creative Writing Scholarship (Daniel Langton Poetry Prize)](https://sfsu.academicworks.com/opportunities/22304) | $100.00 | 10/20/2026 |
-| [Elizabeth June Madden-Zibman Creative Writing Endowed Scholarship](https://sfsu.academicworks.com/opportunities/22299) | At least $5,000 | 10/20/2026 |
-| [James Milton Highsmith Drama Award](https://sfsu.academicworks.com/opportunities/22424) | $1,000 | 10/20/2026 |
-| [Joan Gelfand Creative Writing Scholarship](https://sfsu.academicworks.com/opportunities/22854) | $1,000.00 | 10/20/2026 |
-| [Kathleen Fraser Memorial Scholarship in Poetry](https://sfsu.academicworks.com/opportunities/23716) | $5,000.00 | 10/20/2026 |
-| [Kathryn A. Manoogian Schol in Creative Writing](https://sfsu.academicworks.com/opportunities/22427) | $1,500 | 10/20/2026 |
-| [Marcus Second Year Graduate Student Scholarship](https://sfsu.academicworks.com/opportunities/22296) | 2,500 | 10/20/2026 |
-| [Kyria Hontalas Petuskey Memorial Scholarship Fund](https://sfsu.academicworks.com/opportunities/23703) | Amount up to $2000 | 10/20/2026 |
 | [Willie L. Brown Jr. Fellowship](https://sfsu.academicworks.com/opportunities/23674) | $4,000 | 10/21/2026 |
 | [Amy Hittner Scholarship](https://sfsu.academicworks.com/opportunities/23771) | $500 | 10/23/2026 |
 | [Ida Sweeney LeBlanc Scholarship](https://sfsu.academicworks.com/opportunities/23775) | $1000 | 10/23/2026 |
@@ -591,6 +582,13 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Elementary Education Scholarship Fund](https://sfsu.academicworks.com/opportunities/23811) | Amount up to $1500 | 11/01/2026 |
 | [Flora R Walter Scholarship](https://sfsu.academicworks.com/opportunities/23813) | $2,000.00 | 11/01/2026 |
 | [Friends of Teachers Visual Impairments and Orientation & Mobility (TVI and O&M)](https://sfsu.academicworks.com/opportunities/23815) | varies | 11/01/2026 |
+| [Hall Family Scholarship](https://sfsu.academicworks.com/opportunities/22294) | Varies | 11/01/2026 |
+| [Irvin W. and Velma C. Hartman Family Schol. - Edu](https://sfsu.academicworks.com/opportunities/23817) | varies | 11/01/2026 |
+| [Jacques E. Johnet Trust Scholarship for Native American](https://sfsu.academicworks.com/opportunities/23130) | Varies | 11/01/2026 |
+| [Jane Wheeler-Dubin Memorial Scholarship](https://sfsu.academicworks.com/opportunities/22197) | $750.00 | 11/01/2026 |
+| [Julie Gin Endowed Scholarship in Elementary Education](https://sfsu.academicworks.com/opportunities/23819) | $0.00 | 11/01/2026 |
+| [Louise M. Mangini Scholarship](https://sfsu.academicworks.com/opportunities/23821) | varies | 11/01/2026 |
+| [Mabel Whitehead Special Education Scholarship](https://sfsu.academicworks.com/opportunities/23823) | $300.00 | 11/01/2026 |
 | [Jack R. and Marjorie J. Fraenkel Scholarship](https://sfsu.academicworks.com/opportunities/22071) | $1,000 | 11/02/2026 |
 | [Sophie Hittner Scholarship](https://sfsu.academicworks.com/opportunities/22073) | $500.00 | 11/02/2026 |
 | [Willie L Brown Graduate Fellowship Program](https://sfsu.academicworks.com/opportunities/22324) | $22,000 (disbursed over 4 semesters, beginning Spring 2027 | 11/05/2026 |
