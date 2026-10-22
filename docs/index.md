@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-10-21 18:14:13 UTC
+Last updated: 2026-10-22 18:09:08 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -157,6 +157,8 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
 | [Pete & Marcia Sloan Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11127) | Varies | N/A |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | N/A |
+| [Mark Helms Service Learning Scholarship](https://cpcc.academicworks.com/opportunities/11660) | Varies | N/A |
+| [CEENTA Angie Madigan Ophthalmic Medical Assisting Scholarship](https://cpcc.academicworks.com/opportunities/11619) | Varies | N/A |
 
 ## CPCC-External
 
@@ -216,7 +218,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [The Honors College Study Abroad Scholarship](https://ecu.academicworks.com/opportunities/38964) | Varies | 10/21/2026 |
 | [The Dowdy Bookstore Scholarship](https://ecu.academicworks.com/opportunities/38936) | $500 | 10/30/2026 |
 | [The Passage Academic Merit Scholarship for Transfer Students](https://ecu.academicworks.com/opportunities/38952) | $1,250 | 10/30/2026 |
 | [The Bedford Falls Foundation Advanced Military Medics Scholarship](https://ecu.academicworks.com/opportunities/37220) | Varies | 10/30/2026 |
@@ -531,7 +532,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Willie L. Brown Jr. Fellowship](https://sfsu.academicworks.com/opportunities/23674) | $4,000 | 10/21/2026 |
 | [Amy Hittner Scholarship](https://sfsu.academicworks.com/opportunities/23771) | $500 | 10/23/2026 |
 | [Ida Sweeney LeBlanc Scholarship](https://sfsu.academicworks.com/opportunities/23775) | $1000 | 10/23/2026 |
 | [John Blando Distinguished Service Award](https://sfsu.academicworks.com/opportunities/23773) | $1000 | 10/23/2026 |
@@ -589,6 +589,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Julie Gin Endowed Scholarship in Elementary Education](https://sfsu.academicworks.com/opportunities/23819) | $0.00 | 11/01/2026 |
 | [Louise M. Mangini Scholarship](https://sfsu.academicworks.com/opportunities/23821) | varies | 11/01/2026 |
 | [Mabel Whitehead Special Education Scholarship](https://sfsu.academicworks.com/opportunities/23823) | $300.00 | 11/01/2026 |
+| [Margaret McIntosh Curia Scholarship](https://sfsu.academicworks.com/opportunities/23825) | $750.00 | 11/01/2026 |
 | [Jack R. and Marjorie J. Fraenkel Scholarship](https://sfsu.academicworks.com/opportunities/22071) | $1,000 | 11/02/2026 |
 | [Sophie Hittner Scholarship](https://sfsu.academicworks.com/opportunities/22073) | $500.00 | 11/02/2026 |
 | [Willie L Brown Graduate Fellowship Program](https://sfsu.academicworks.com/opportunities/22324) | $22,000 (disbursed over 4 semesters, beginning Spring 2027 | 11/05/2026 |
@@ -728,6 +729,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Paul L. & Lynne Taylor Knox Study Abroad Scholarship](https://vt.academicworks.com/opportunities/75582) | Varies | 11/30/2026 |
 | [Skelton Honors Scholarship](https://vt.academicworks.com/opportunities/75584) | Varies | 11/30/2026 |
 | [MIT Scholars](https://vt.academicworks.com/opportunities/66663) | Varies | 12/01/2026 |
+| [Global Education Office (GEO) Scholarship Application](https://vt.academicworks.com/opportunities/75713) | Varies | 12/06/2026 |
 | [Lee R. and Regina Aultice Steeneck Experiential Learning Scholarship](https://vt.academicworks.com/opportunities/73580) | Varies | 12/10/2026 |
 | [The Virginia Tech Tribal Match Scholarship](https://vt.academicworks.com/opportunities/60463) | Varies | 12/31/2026 |
 | [Honors College Scholarship Application](https://vt.academicworks.com/opportunities/73429) | Varies | 01/08/2027 |
