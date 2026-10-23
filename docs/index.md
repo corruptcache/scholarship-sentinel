@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-10-22 18:09:08 UTC
+Last updated: 2026-10-23 17:58:05 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -159,6 +159,8 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | N/A |
 | [Mark Helms Service Learning Scholarship](https://cpcc.academicworks.com/opportunities/11660) | Varies | N/A |
 | [CEENTA Angie Madigan Ophthalmic Medical Assisting Scholarship](https://cpcc.academicworks.com/opportunities/11619) | Varies | N/A |
+| [WINGS Scholarship](https://cpcc.academicworks.com/opportunities/11503) | Varies | N/A |
+| [Paul Zayicek Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11594) | Varies | N/A |
 
 ## CPCC-External
 
@@ -293,7 +295,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Carter Opportunity Scholarship](https://fsu.academicworks.com/opportunities/40680) | Up to $20,000 | N/A |
 | [Dr. Christopher M.S. Johns Fund for International Art History Study](https://fsu.academicworks.com/opportunities/35531) | Varies | N/A |
 | [Frappier Scholarship for Unconquered Scholars](https://fsu.academicworks.com/opportunities/35605) | Varies | N/A |
-| [Jean Margaret Garvey Graduate Scholarship](https://fsu.academicworks.com/opportunities/40532) | $0.00 | N/A |
 | [Panhandle Engineering, Inc. Endowed Scholarship Fund](https://fsu.academicworks.com/opportunities/35373) | Varies | N/A |
 | [Paula Gerson Research Grant Fund](https://fsu.academicworks.com/opportunities/35525) | Varies | N/A |
 | [Raymond Flavious Bellamy Chair in Population Studies](https://fsu.academicworks.com/opportunities/40401) | $5,800 | N/A |
@@ -337,6 +338,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [College of Nursing Graduate Student Scholarship Fund](https://fsu.academicworks.com/opportunities/25045) | Varies | N/A |
 | [College of Nursing Scholarship](https://fsu.academicworks.com/opportunities/25004) | Varies | N/A |
 | [CVS Health Foundation Family Nurse Practitioner Scholarship](https://fsu.academicworks.com/opportunities/25078) | $1,000 | N/A |
+| [David and Lucia Taxdal Endowed Fund](https://fsu.academicworks.com/opportunities/25059) | Varies | N/A |
 
 ## Fay Tech
 
@@ -533,10 +535,10 @@ This page contains all currently live scholarships detected by the sentinel.
 | Name | Amount | Deadline |
 |------|--------|----------|
 | [Amy Hittner Scholarship](https://sfsu.academicworks.com/opportunities/23771) | $500 | 10/23/2026 |
-| [Ida Sweeney LeBlanc Scholarship](https://sfsu.academicworks.com/opportunities/23775) | $1000 | 10/23/2026 |
 | [John Blando Distinguished Service Award](https://sfsu.academicworks.com/opportunities/23773) | $1000 | 10/23/2026 |
 | [Julie Morgan Memorial Endowed Scholarship in Health and the Environment](https://sfsu.academicworks.com/opportunities/22215) | Varies | 10/25/2026 |
 | [Pawan Tewari Goldman Sachs Scholarship Fund](https://sfsu.academicworks.com/opportunities/23314) | $6,650 | 10/25/2026 |
+| [Ida Sweeney LeBlanc Scholarship](https://sfsu.academicworks.com/opportunities/23775) | $1000 | 10/26/2026 |
 | [John Irwin Memorial Scholarship](https://sfsu.academicworks.com/opportunities/23202) | Varies | 10/30/2026 |
 | [Tripwire Graduate Student Support Fund](https://sfsu.academicworks.com/opportunities/23713) | $5,000.00 | 10/30/2026 |
 | [Florence Hale Stephenson Alumnae Scholarship Fund](https://sfsu.academicworks.com/opportunities/23701) | $1,000 | 10/30/2026 |
