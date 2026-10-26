@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-10-23 17:58:05 UTC
+Last updated: 2026-10-26 19:32:04 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -189,14 +189,12 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Stephanie Sheffield Travel Scholarship](https://cofc.academicworks.com/opportunities/12903) | Varies | 02/14/2027 |
 | [Lannie-Zlatoper Endowed Travel Scholarship](https://cofc.academicworks.com/opportunities/12521) | Varies | 02/14/2027 |
 | [International Scholars Program](https://cofc.academicworks.com/opportunities/12415) | Varies | 04/01/2027 |
+| [Joanna Foundation Deep Water Fund](https://cofc.academicworks.com/opportunities/11811) | Varies | 04/25/2027 |
 | [Chick-fil-A Graduate Leadership Scholarship](https://cofc.academicworks.com/opportunities/11757) | Varies | N/A |
-| [College of Charleston Young Alumni Scholarship](https://cofc.academicworks.com/opportunities/11993) | Varies | N/A |
 | [Forvis Mazars Scholarship Fund](https://cofc.academicworks.com/opportunities/11771) | Varies | N/A |
 | [Hispanic Studies Advisory Board Trujillo Study Abroad Scholarship](https://cofc.academicworks.com/opportunities/11911) | Varies | N/A |
 | [Joanna Endowed Scholarship-Masters in Environmental Studies](https://cofc.academicworks.com/opportunities/12510) | Varies | N/A |
-| [Joanna Foundation Deep Water Fund](https://cofc.academicworks.com/opportunities/11811) | Varies | N/A |
 | [Katuna Endowed Scholarship in Environmental Studies](https://cofc.academicworks.com/opportunities/11762) | Varies | N/A |
-| [The Environmental Protection Endowed Scholarship](https://cofc.academicworks.com/opportunities/12853) | Varies | N/A |
 | [Zucker Family Engineering Scholars Program](https://cofc.academicworks.com/opportunities/11635) | Varies | N/A |
 | [Casa Hispana Scholarship](https://cofc.academicworks.com/opportunities/12199) | Varies | N/A |
 | [Charleston Federation of Women's Clubs Endowed Scholarship](https://cofc.academicworks.com/opportunities/12705) | Varies | N/A |
@@ -293,10 +291,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Ralph Kaul Fund in Applied Economics](https://fsu.academicworks.com/opportunities/35301) | Varies | 12/31/2026 |
 | [Ralph Kaul Fund in Applied Economics](https://fsu.academicworks.com/opportunities/35390) | Varies | 04/03/2027 |
 | [Carter Opportunity Scholarship](https://fsu.academicworks.com/opportunities/40680) | Up to $20,000 | N/A |
-| [Dr. Christopher M.S. Johns Fund for International Art History Study](https://fsu.academicworks.com/opportunities/35531) | Varies | N/A |
 | [Frappier Scholarship for Unconquered Scholars](https://fsu.academicworks.com/opportunities/35605) | Varies | N/A |
-| [Panhandle Engineering, Inc. Endowed Scholarship Fund](https://fsu.academicworks.com/opportunities/35373) | Varies | N/A |
-| [Paula Gerson Research Grant Fund](https://fsu.academicworks.com/opportunities/35525) | Varies | N/A |
 | [Raymond Flavious Bellamy Chair in Population Studies](https://fsu.academicworks.com/opportunities/40401) | $5,800 | N/A |
 | [The Fraternal Order of Eagles Memorial Professorship in the Pepper Institute on Aging and Public Policy](https://fsu.academicworks.com/opportunities/40391) | $1,000.00 | N/A |
 | [Wynne and Payne International Honors Scholarship](https://fsu.academicworks.com/opportunities/35348) | Varies | N/A |
@@ -339,6 +334,9 @@ This page contains all currently live scholarships detected by the sentinel.
 | [College of Nursing Scholarship](https://fsu.academicworks.com/opportunities/25004) | Varies | N/A |
 | [CVS Health Foundation Family Nurse Practitioner Scholarship](https://fsu.academicworks.com/opportunities/25078) | $1,000 | N/A |
 | [David and Lucia Taxdal Endowed Fund](https://fsu.academicworks.com/opportunities/25059) | Varies | N/A |
+| [Dorothy E. Valerius Endowed Scholarships in Nursing](https://fsu.academicworks.com/opportunities/25007) | Varies | N/A |
+| [Eileen Marie Mahan Endowed Scholarship](https://fsu.academicworks.com/opportunities/25017) | Varies | N/A |
+| [Ellen Martin Berry Nursing Scholarship](https://fsu.academicworks.com/opportunities/25001) | Varies | N/A |
 
 ## Fay Tech
 
@@ -534,10 +532,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Amy Hittner Scholarship](https://sfsu.academicworks.com/opportunities/23771) | $500 | 10/23/2026 |
-| [John Blando Distinguished Service Award](https://sfsu.academicworks.com/opportunities/23773) | $1000 | 10/23/2026 |
-| [Julie Morgan Memorial Endowed Scholarship in Health and the Environment](https://sfsu.academicworks.com/opportunities/22215) | Varies | 10/25/2026 |
-| [Pawan Tewari Goldman Sachs Scholarship Fund](https://sfsu.academicworks.com/opportunities/23314) | $6,650 | 10/25/2026 |
 | [Ida Sweeney LeBlanc Scholarship](https://sfsu.academicworks.com/opportunities/23775) | $1000 | 10/26/2026 |
 | [John Irwin Memorial Scholarship](https://sfsu.academicworks.com/opportunities/23202) | Varies | 10/30/2026 |
 | [Tripwire Graduate Student Support Fund](https://sfsu.academicworks.com/opportunities/23713) | $5,000.00 | 10/30/2026 |
@@ -592,6 +586,10 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Louise M. Mangini Scholarship](https://sfsu.academicworks.com/opportunities/23821) | varies | 11/01/2026 |
 | [Mabel Whitehead Special Education Scholarship](https://sfsu.academicworks.com/opportunities/23823) | $300.00 | 11/01/2026 |
 | [Margaret McIntosh Curia Scholarship](https://sfsu.academicworks.com/opportunities/23825) | $750.00 | 11/01/2026 |
+| [Margaret Voorhees Endowed Scholarship](https://sfsu.academicworks.com/opportunities/23827) | $0.00 | 11/01/2026 |
+| [Mark D. Voorhies Scholarship Endowment in Special Education for the Blind & Visually Impaired](https://sfsu.academicworks.com/opportunities/23829) | $0.00 | 11/01/2026 |
+| [Masters in Early Childhood Educ. Scholarship](https://sfsu.academicworks.com/opportunities/23831) | $1,000.00 | 11/01/2026 |
+| [Mayme Chinn Endowed Scholarship in Elementary Education](https://sfsu.academicworks.com/opportunities/23833) | $0.00 | 11/01/2026 |
 | [Jack R. and Marjorie J. Fraenkel Scholarship](https://sfsu.academicworks.com/opportunities/22071) | $1,000 | 11/02/2026 |
 | [Sophie Hittner Scholarship](https://sfsu.academicworks.com/opportunities/22073) | $500.00 | 11/02/2026 |
 | [Willie L Brown Graduate Fellowship Program](https://sfsu.academicworks.com/opportunities/22324) | $22,000 (disbursed over 4 semesters, beginning Spring 2027 | 11/05/2026 |
