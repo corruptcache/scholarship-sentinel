@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-10-26 19:32:04 UTC
+Last updated: 2026-10-27 18:53:42 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -278,8 +278,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [The Henry O. Stone Memorial Endowed Scholarship](https://ecu.academicworks.com/opportunities/38589) | Varies | N/A |
-| [The Paul V. Phibbs, Jr., Graduate Training (PPGTP) Fund](https://ecu.academicworks.com/opportunities/36626) | Varies | N/A |
 | [The Lamont-Husted Music Therapy Scholarship](https://ecu.academicworks.com/opportunities/19717) | Varies | N/A |
 | [The Thomas Clay Williams Memorial Award](https://ecu.academicworks.com/opportunities/6003) | Varies | N/A |
 
@@ -532,7 +530,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Ida Sweeney LeBlanc Scholarship](https://sfsu.academicworks.com/opportunities/23775) | $1000 | 10/26/2026 |
 | [John Irwin Memorial Scholarship](https://sfsu.academicworks.com/opportunities/23202) | Varies | 10/30/2026 |
 | [Tripwire Graduate Student Support Fund](https://sfsu.academicworks.com/opportunities/23713) | $5,000.00 | 10/30/2026 |
 | [Florence Hale Stephenson Alumnae Scholarship Fund](https://sfsu.academicworks.com/opportunities/23701) | $1,000 | 10/30/2026 |
