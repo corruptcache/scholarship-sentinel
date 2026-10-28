@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-10-27 18:53:42 UTC
+Last updated: 2026-10-28 19:03:10 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -196,23 +196,23 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Joanna Endowed Scholarship-Masters in Environmental Studies](https://cofc.academicworks.com/opportunities/12510) | Varies | N/A |
 | [Katuna Endowed Scholarship in Environmental Studies](https://cofc.academicworks.com/opportunities/11762) | Varies | N/A |
 | [Zucker Family Engineering Scholars Program](https://cofc.academicworks.com/opportunities/11635) | Varies | N/A |
-| [Casa Hispana Scholarship](https://cofc.academicworks.com/opportunities/12199) | Varies | N/A |
-| [Charleston Federation of Women's Clubs Endowed Scholarship](https://cofc.academicworks.com/opportunities/12705) | Varies | N/A |
-| [College of Charleston Foundation Scholarships- Meeting Street Charleston Compact](https://cofc.academicworks.com/opportunities/12263) | Varies | N/A |
-| [David F. Aylor Endowed Memorial Scholarship](https://cofc.academicworks.com/opportunities/11726) | Varies | N/A |
-| [Father Scott J. A. Buchanan Endowed Memorial Scholarship](https://cofc.academicworks.com/opportunities/12806) | Varies | N/A |
-| [Howard B. Sherman Endowed/Annual Scholarship](https://cofc.academicworks.com/opportunities/11684) | Varies | N/A |
-| [Jean and Tap Johnson 1967 Legacy Endowed Scholarship](https://cofc.academicworks.com/opportunities/12192) | Varies | N/A |
-| [John L. Covington, Jr. and Robert J. Lukey Scholarship for Political Science](https://cofc.academicworks.com/opportunities/12475) | Varies | N/A |
-| [Pantazis/Bell Scholarship Fund](https://cofc.academicworks.com/opportunities/11678) | Varies | N/A |
-| [Stephen Baumrind Annual Music Scholarship](https://cofc.academicworks.com/opportunities/11693) | Varies | N/A |
-| [Stephen Baumrind Annual Volleyball Scholarship](https://cofc.academicworks.com/opportunities/11696) | Varies | N/A |
-| [Stephen C. and Mary Osborne Endowed Scholarship](https://cofc.academicworks.com/opportunities/11687) | Varies | N/A |
-| [Stephen C. Reed Education Scholarship](https://cofc.academicworks.com/opportunities/11666) | Varies | N/A |
-| [Swanson Scholars Endowed Legacy Fund](https://cofc.academicworks.com/opportunities/12439) | $0.00 | N/A |
-| [Jeffrey A. Foster Endowed French Travel Fund](https://cofc.academicworks.com/opportunities/12871) | Varies | N/A |
 | [Kathleen Hudson Rivers Foreign Language Scholarship](https://cofc.academicworks.com/opportunities/12405) | Varies | N/A |
-| [Giving Tree Scholarship](https://cofc.academicworks.com/opportunities/13104) | Varies | N/A |
+| [Casa Hispana Scholarship](https://cofc.academicworks.com/opportunities/13258) | Varies | N/A |
+| [Charleston Federation of Women's Clubs Endowed Scholarship](https://cofc.academicworks.com/opportunities/13928) | Varies | N/A |
+| [College of Charleston Foundation Scholarships- Meeting Street Charleston Compact](https://cofc.academicworks.com/opportunities/13678) | Varies | N/A |
+| [David F. Aylor Endowed Memorial Scholarship](https://cofc.academicworks.com/opportunities/14356) | Varies | N/A |
+| [Father Scott J. A. Buchanan Endowed Memorial Scholarship](https://cofc.academicworks.com/opportunities/14186) | Varies | N/A |
+| [Giving Tree Scholarship](https://cofc.academicworks.com/opportunities/13360) | Varies | N/A |
+| [Howard B. Sherman Endowed/Annual Scholarship](https://cofc.academicworks.com/opportunities/13854) | Varies | N/A |
+| [Jean and Tap Johnson 1967 Legacy Endowed Scholarship](https://cofc.academicworks.com/opportunities/14348) | Varies | N/A |
+| [Jeffrey A. Foster Endowed French Travel Fund](https://cofc.academicworks.com/opportunities/14253) | Varies | N/A |
+| [John L. Covington, Jr. and Robert J. Lukey Scholarship for Political Science](https://cofc.academicworks.com/opportunities/13263) | Varies | N/A |
+| [Pantazis/Bell Scholarship Fund](https://cofc.academicworks.com/opportunities/13481) | Varies | N/A |
+| [Stephen Baumrind Annual Music Scholarship](https://cofc.academicworks.com/opportunities/13255) | Varies | N/A |
+| [Stephen Baumrind Annual Volleyball Scholarship](https://cofc.academicworks.com/opportunities/13721) | Varies | N/A |
+| [Stephen C. and Mary Osborne Endowed Scholarship](https://cofc.academicworks.com/opportunities/13859) | Varies | N/A |
+| [Stephen C. Reed Education Scholarship](https://cofc.academicworks.com/opportunities/13783) | Varies | N/A |
+| [Swanson Scholars Endowed Legacy Fund](https://cofc.academicworks.com/opportunities/14061) | $0.00 | N/A |
 
 ## ECU
 
@@ -335,6 +335,8 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Dorothy E. Valerius Endowed Scholarships in Nursing](https://fsu.academicworks.com/opportunities/25007) | Varies | N/A |
 | [Eileen Marie Mahan Endowed Scholarship](https://fsu.academicworks.com/opportunities/25017) | Varies | N/A |
 | [Ellen Martin Berry Nursing Scholarship](https://fsu.academicworks.com/opportunities/25001) | Varies | N/A |
+| [Emilie D. Henning-Schaefer & Walter A. Schaefer Scholarship Fund](https://fsu.academicworks.com/opportunities/25032) | Varies | N/A |
+| [Frederick C. and Marjorie A. Doepke Scholarship Fund](https://fsu.academicworks.com/opportunities/25018) | Varies | N/A |
 
 ## Fay Tech
 
