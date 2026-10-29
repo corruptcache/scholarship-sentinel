@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-10-28 19:03:10 UTC
+Last updated: 2026-10-29 19:10:28 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -182,12 +182,18 @@ This page contains all currently live scholarships detected by the sentinel.
 | Name | Amount | Deadline |
 |------|--------|----------|
 | [Honors College Study Abroad Award](https://cofc.academicworks.com/opportunities/13228) | Varies | 11/01/2026 |
-| [Early Access Scholarship](https://cofc.academicworks.com/opportunities/13195) | Varies | 11/06/2026 |
 | [Dr. Lancelot Minor Harris Scholarship Fund in English](https://cofc.academicworks.com/opportunities/12710) | Varies | 11/06/2026 |
+| [Early Access Scholarship](https://cofc.academicworks.com/opportunities/13195) | Varies | 11/15/2026 |
 | [Deutscher Bruderliche Bund Scholarship](https://cofc.academicworks.com/opportunities/12490) | Varies | 01/15/2027 |
 | [German Friendly Society Scholarship](https://cofc.academicworks.com/opportunities/12545) | Varies | 01/15/2027 |
 | [Stephanie Sheffield Travel Scholarship](https://cofc.academicworks.com/opportunities/12903) | Varies | 02/14/2027 |
 | [Lannie-Zlatoper Endowed Travel Scholarship](https://cofc.academicworks.com/opportunities/12521) | Varies | 02/14/2027 |
+| [Andrew Sobiesuo Scholarship](https://cofc.academicworks.com/opportunities/14390) | Varies | 02/14/2027 |
+| [Beatrice Stiglitz Scholarship in French](https://cofc.academicworks.com/opportunities/12400) | Varies | 02/14/2027 |
+| [CIE Abroad Scholarship](https://cofc.academicworks.com/opportunities/12889) | Varies | 02/14/2027 |
+| [Friedgen Family Italian Study Abroad Endowed/Annual Scholarship](https://cofc.academicworks.com/opportunities/12476) | Varies | 02/14/2027 |
+| [Jeffrey A. Foster Endowed French Travel Fund](https://cofc.academicworks.com/opportunities/12871) | Varies | 02/14/2027 |
+| [Kathleen Hudson Rivers Foreign Language Scholarship](https://cofc.academicworks.com/opportunities/12405) | Varies | 02/14/2027 |
 | [International Scholars Program](https://cofc.academicworks.com/opportunities/12415) | Varies | 04/01/2027 |
 | [Joanna Foundation Deep Water Fund](https://cofc.academicworks.com/opportunities/11811) | Varies | 04/25/2027 |
 | [Chick-fil-A Graduate Leadership Scholarship](https://cofc.academicworks.com/opportunities/11757) | Varies | N/A |
@@ -196,7 +202,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Joanna Endowed Scholarship-Masters in Environmental Studies](https://cofc.academicworks.com/opportunities/12510) | Varies | N/A |
 | [Katuna Endowed Scholarship in Environmental Studies](https://cofc.academicworks.com/opportunities/11762) | Varies | N/A |
 | [Zucker Family Engineering Scholars Program](https://cofc.academicworks.com/opportunities/11635) | Varies | N/A |
-| [Kathleen Hudson Rivers Foreign Language Scholarship](https://cofc.academicworks.com/opportunities/12405) | Varies | N/A |
 | [Casa Hispana Scholarship](https://cofc.academicworks.com/opportunities/13258) | Varies | N/A |
 | [Charleston Federation of Women's Clubs Endowed Scholarship](https://cofc.academicworks.com/opportunities/13928) | Varies | N/A |
 | [College of Charleston Foundation Scholarships- Meeting Street Charleston Compact](https://cofc.academicworks.com/opportunities/13678) | Varies | N/A |
@@ -205,14 +210,12 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Giving Tree Scholarship](https://cofc.academicworks.com/opportunities/13360) | Varies | N/A |
 | [Howard B. Sherman Endowed/Annual Scholarship](https://cofc.academicworks.com/opportunities/13854) | Varies | N/A |
 | [Jean and Tap Johnson 1967 Legacy Endowed Scholarship](https://cofc.academicworks.com/opportunities/14348) | Varies | N/A |
-| [Jeffrey A. Foster Endowed French Travel Fund](https://cofc.academicworks.com/opportunities/14253) | Varies | N/A |
 | [John L. Covington, Jr. and Robert J. Lukey Scholarship for Political Science](https://cofc.academicworks.com/opportunities/13263) | Varies | N/A |
 | [Pantazis/Bell Scholarship Fund](https://cofc.academicworks.com/opportunities/13481) | Varies | N/A |
 | [Stephen Baumrind Annual Music Scholarship](https://cofc.academicworks.com/opportunities/13255) | Varies | N/A |
 | [Stephen Baumrind Annual Volleyball Scholarship](https://cofc.academicworks.com/opportunities/13721) | Varies | N/A |
 | [Stephen C. and Mary Osborne Endowed Scholarship](https://cofc.academicworks.com/opportunities/13859) | Varies | N/A |
 | [Stephen C. Reed Education Scholarship](https://cofc.academicworks.com/opportunities/13783) | Varies | N/A |
-| [Swanson Scholars Endowed Legacy Fund](https://cofc.academicworks.com/opportunities/14061) | $0.00 | N/A |
 
 ## ECU
 
