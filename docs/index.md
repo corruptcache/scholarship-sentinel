@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-10-29 19:10:28 UTC
+Last updated: 2026-10-30 18:48:21 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -198,6 +198,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Joanna Foundation Deep Water Fund](https://cofc.academicworks.com/opportunities/11811) | Varies | 04/25/2027 |
 | [Chick-fil-A Graduate Leadership Scholarship](https://cofc.academicworks.com/opportunities/11757) | Varies | N/A |
 | [Forvis Mazars Scholarship Fund](https://cofc.academicworks.com/opportunities/11771) | Varies | N/A |
+| [German Studies Scholarship](https://cofc.academicworks.com/opportunities/14402) | Varies | N/A |
 | [Hispanic Studies Advisory Board Trujillo Study Abroad Scholarship](https://cofc.academicworks.com/opportunities/11911) | Varies | N/A |
 | [Joanna Endowed Scholarship-Masters in Environmental Studies](https://cofc.academicworks.com/opportunities/12510) | Varies | N/A |
 | [Katuna Endowed Scholarship in Environmental Studies](https://cofc.academicworks.com/opportunities/11762) | Varies | N/A |
@@ -592,6 +593,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Mark D. Voorhies Scholarship Endowment in Special Education for the Blind & Visually Impaired](https://sfsu.academicworks.com/opportunities/23829) | $0.00 | 11/01/2026 |
 | [Masters in Early Childhood Educ. Scholarship](https://sfsu.academicworks.com/opportunities/23831) | $1,000.00 | 11/01/2026 |
 | [Mayme Chinn Endowed Scholarship in Elementary Education](https://sfsu.academicworks.com/opportunities/23833) | $0.00 | 11/01/2026 |
+| [Norma Williams Endowed Scholarship in Secondary Education](https://sfsu.academicworks.com/opportunities/23835) | $0.00 | 11/01/2026 |
 | [Jack R. and Marjorie J. Fraenkel Scholarship](https://sfsu.academicworks.com/opportunities/22071) | $1,000 | 11/02/2026 |
 | [Sophie Hittner Scholarship](https://sfsu.academicworks.com/opportunities/22073) | $500.00 | 11/02/2026 |
 | [Willie L Brown Graduate Fellowship Program](https://sfsu.academicworks.com/opportunities/22324) | $22,000 (disbursed over 4 semesters, beginning Spring 2027 | 11/05/2026 |
