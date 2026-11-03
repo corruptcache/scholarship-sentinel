@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-11-02 22:28:16 UTC
+Last updated: 2026-11-03 20:15:38 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -52,7 +52,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Cy Bahakel Family Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11210) | Varies | 01/31/2027 |
 | [David T. Cloer Endowed Scholarship (Cato)](https://cpcc.academicworks.com/opportunities/11302) | Varies | 01/31/2027 |
 | [Debbie Antshel Memorial Scholarship](https://cpcc.academicworks.com/opportunities/11226) | Varies | 01/31/2027 |
-| [Dental Hygiene Anniversary Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11140) | Varies | 01/31/2027 |
 | [Dickson Endowed Scholarship Program in Medical & Health Care Professions](https://cpcc.academicworks.com/opportunities/11178) | Varies | 01/31/2027 |
 | [Howard & Julie Levine Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11697) | Up to $10,000 over 2 years | 01/31/2027 |
 | [Hugh L. McColl Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11694) | Up to $10,000 over 2 years | 01/31/2027 |
@@ -155,12 +154,15 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Jolly Good Samaritan Scholarship](https://cpcc.academicworks.com/opportunities/11765) | Varies | 01/31/2027 |
 | [Hollowell Workforce Ready Scholarship](https://cpcc.academicworks.com/opportunities/11768) | Varies | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
+| [Dental Hygiene Anniversary Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11140) | Varies | N/A |
 | [Pete & Marcia Sloan Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11127) | Varies | N/A |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | N/A |
 | [Mark Helms Service Learning Scholarship](https://cpcc.academicworks.com/opportunities/11660) | Varies | N/A |
 | [CEENTA Angie Madigan Ophthalmic Medical Assisting Scholarship](https://cpcc.academicworks.com/opportunities/11619) | Varies | N/A |
 | [WINGS Scholarship](https://cpcc.academicworks.com/opportunities/11503) | Varies | N/A |
 | [Paul Zayicek Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11594) | Varies | N/A |
+| [Dr. & Mrs. Spurgeon Webber Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11179) | Varies | N/A |
+| [Laurie Barringer Werner Memorial Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11267) | Varies | N/A |
 
 ## CPCC-External
 
@@ -222,8 +224,8 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Charleston Wine + Food Festival Excellence Scholarship](https://cofc.academicworks.com/opportunities/13839) | Varies | N/A |
 | [Charleston Wine + Food Festival Senior Scholarship](https://cofc.academicworks.com/opportunities/14281) | Varies | N/A |
 | [CharlestonLIFE™ Scholarship Fund (formerly REACH)](https://cofc.academicworks.com/opportunities/13314) | Varies | N/A |
-| [Chick-fil-A Graduate Leadership Scholarship](https://cofc.academicworks.com/opportunities/13853) | Varies | N/A |
 | [Chick-fil-A Graduate Leadership Scholarship](https://cofc.academicworks.com/opportunities/11757) | Varies | N/A |
+| [Chick-fil-A Graduate Leadership Scholarship](https://cofc.academicworks.com/opportunities/13853) | Varies | N/A |
 | [CIE Abroad Scholarship](https://cofc.academicworks.com/opportunities/14140) | Varies | N/A |
 | [Class of 1965 Scholarship](https://cofc.academicworks.com/opportunities/13401) | Varies | N/A |
 | [College of Charleston Foundation Faculty/Staff Dependent Scholarships](https://cofc.academicworks.com/opportunities/14022) | Varies | N/A |
@@ -594,17 +596,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Jack R. and Marjorie J. Fraenkel Scholarship](https://sfsu.academicworks.com/opportunities/22071) | $1,000 | 11/02/2026 |
-| [Sophie Hittner Scholarship](https://sfsu.academicworks.com/opportunities/22073) | $500.00 | 11/02/2026 |
-| [Business Certificate in Ethics & Compliance Scholarship](https://sfsu.academicworks.com/opportunities/23171) | $3,000.00 | 11/02/2026 |
-| [Mary M. Geong Endowed Scholarship in Accounting](https://sfsu.academicworks.com/opportunities/23899) | $500 | 11/02/2026 |
-| [Paul Wiese Memorial Scholarship](https://sfsu.academicworks.com/opportunities/23874) | $2,500.00 | 11/02/2026 |
-| [Scholten Family Endowed Scholarship in Journalism](https://sfsu.academicworks.com/opportunities/23564) | $1,000 | 11/02/2026 |
-| [Skal International Fund](https://sfsu.academicworks.com/opportunities/23896) | $2,500 | 11/02/2026 |
-| [The Accounting Student Organization (ASO) Scholarship](https://sfsu.academicworks.com/opportunities/23880) | $1,000 | 11/02/2026 |
-| [The ASCEND Scholarship](https://sfsu.academicworks.com/opportunities/23882) | $1,000 | 11/02/2026 |
-| [The Association of Latino Professionals for America (ALPFA) Scholarship](https://sfsu.academicworks.com/opportunities/22748) | $1,000 | 11/02/2026 |
-| [The National Association of Black Accountants (NABA) Scholarship](https://sfsu.academicworks.com/opportunities/23392) | $1,000 | 11/02/2026 |
 | [Jean Vance Award](https://sfsu.academicworks.com/opportunities/23760) | varies | 11/06/2026 |
 | [Continue the Dream for Academic Excellence Scholarship](https://sfsu.academicworks.com/opportunities/23868) | varies | 11/08/2026 |
 | [Mitsuko Saito Duerr Scholarship](https://sfsu.academicworks.com/opportunities/23924) | $2,500 | 11/09/2026 |
@@ -644,6 +635,17 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Jim Kohn Scholarship Award](https://sfsu.academicworks.com/opportunities/1921) | varies | N/A |
 | [Jan Gregory Postsecondary Reading Comp Scholarship](https://sfsu.academicworks.com/opportunities/6563) | $500 | N/A |
 | [Helen Ortega Memorial Fund Scholarship](https://sfsu.academicworks.com/opportunities/2488) | $1,257.00 | N/A |
+| [Teddi Herrera Omohundro Memorial Medical Technology Scholarship](https://sfsu.academicworks.com/opportunities/1792) | $1,810.00 | N/A |
+| [Western Pathologists Quality Assurance Association Scholarship](https://sfsu.academicworks.com/opportunities/1822) | varies | N/A |
+| [Philip Johnson/Cynthia Kolb Memorial Award Scholarship](https://sfsu.academicworks.com/opportunities/6541) | $500 | N/A |
+| [Chinese Hospital Nursing Scholarship](https://sfsu.academicworks.com/opportunities/6062) | $8,000/Academic Year | N/A |
+| [BOMA of San Francisco Foundation Scholarship Fund](https://sfsu.academicworks.com/opportunities/6610) | $3,500.00 | N/A |
+| [Ekaterini Vitale Scholarship Fund in Modern Greek Studies](https://sfsu.academicworks.com/opportunities/7062) | up to $1000 | N/A |
+| [Sara Ruth Prize - English](https://sfsu.academicworks.com/opportunities/7632) | varies | N/A |
+| [Psychology Department Scholarship](https://sfsu.academicworks.com/opportunities/6285) | varies | N/A |
+| [Linda Leary Reliable Caregivers Nursing Scholarship](https://sfsu.academicworks.com/opportunities/7353) | $1,250.00 | N/A |
+| [Hearth Homes Inclusive Design Scholarship](https://sfsu.academicworks.com/opportunities/7963) | $5,000 | N/A |
+| [Jeff Clavin Memorial Scholarship](https://sfsu.academicworks.com/opportunities/7848) | Varies | N/A |
 
 ## SFSU-External
 
@@ -713,7 +715,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [The Joe and Melissa Blanchard Gamecock Guarantee Endowed Scholarship Fund for Study Abroad](https://sc.academicworks.com/opportunities/11778) | Varies | 11/02/2026 |
 | [Graduation & Retention Network Student Fund](https://sc.academicworks.com/opportunities/12400) | Varies | 12/04/2026 |
 | [Linda M. Summers Social Work Pioneer Fellowship](https://sc.academicworks.com/opportunities/12091) | Varies | 04/30/2030 |
 | [AVX/Kyocera Fellowship](https://sc.academicworks.com/opportunities/11737) | $0.00 | N/A |
@@ -764,6 +765,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Melayne McInnes Memorial Fund](https://sc.academicworks.com/opportunities/12272) | $0.00 | N/A |
 | [MHR Fellowships](https://sc.academicworks.com/opportunities/11621) | $0.00 | N/A |
 | [MIB Fellowships](https://sc.academicworks.com/opportunities/11442) | $0.00 | N/A |
+| [Michelin North America, Inc., Endowment Fund in the Darla Moore School of Business](https://sc.academicworks.com/opportunities/11886) | $0.00 | N/A |
 
 ## VT
 
