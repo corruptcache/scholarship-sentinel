@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-11-03 20:15:38 UTC
+Last updated: 2026-11-04 20:32:09 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -9,7 +9,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | Name | Amount | Deadline |
 |------|--------|----------|
 | [Aasha Scholarship](https://cpcc.academicworks.com/opportunities/11429) | Varies | 01/31/2027 |
-| [Alli & Aiden Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11646) | Varies | 01/31/2027 |
 | [American Schlafhorst Foundation Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11132) | Varies | 01/31/2027 |
 | [American Society of Highway Engineers Scholarship](https://cpcc.academicworks.com/opportunities/11584) | Varies | 01/31/2027 |
 | [Bank of America Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11407) | Varies | 01/31/2027 |
@@ -154,15 +153,17 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Jolly Good Samaritan Scholarship](https://cpcc.academicworks.com/opportunities/11765) | Varies | 01/31/2027 |
 | [Hollowell Workforce Ready Scholarship](https://cpcc.academicworks.com/opportunities/11768) | Varies | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
-| [Dental Hygiene Anniversary Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11140) | Varies | N/A |
+| [Alli & Aiden Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11646) | Varies | N/A |
 | [Pete & Marcia Sloan Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11127) | Varies | N/A |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | N/A |
 | [Mark Helms Service Learning Scholarship](https://cpcc.academicworks.com/opportunities/11660) | Varies | N/A |
 | [CEENTA Angie Madigan Ophthalmic Medical Assisting Scholarship](https://cpcc.academicworks.com/opportunities/11619) | Varies | N/A |
 | [WINGS Scholarship](https://cpcc.academicworks.com/opportunities/11503) | Varies | N/A |
 | [Paul Zayicek Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11594) | Varies | N/A |
+| [Dental Hygiene Anniversary Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11140) | Varies | N/A |
 | [Dr. & Mrs. Spurgeon Webber Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11179) | Varies | N/A |
 | [Laurie Barringer Werner Memorial Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11267) | Varies | N/A |
+| [Pat Locke Williamson Scholarship](https://cpcc.academicworks.com/opportunities/11656) | Varies | N/A |
 
 ## CPCC-External
 
@@ -224,8 +225,8 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Charleston Wine + Food Festival Excellence Scholarship](https://cofc.academicworks.com/opportunities/13839) | Varies | N/A |
 | [Charleston Wine + Food Festival Senior Scholarship](https://cofc.academicworks.com/opportunities/14281) | Varies | N/A |
 | [CharlestonLIFE™ Scholarship Fund (formerly REACH)](https://cofc.academicworks.com/opportunities/13314) | Varies | N/A |
-| [Chick-fil-A Graduate Leadership Scholarship](https://cofc.academicworks.com/opportunities/11757) | Varies | N/A |
 | [Chick-fil-A Graduate Leadership Scholarship](https://cofc.academicworks.com/opportunities/13853) | Varies | N/A |
+| [Chick-fil-A Graduate Leadership Scholarship](https://cofc.academicworks.com/opportunities/11757) | Varies | N/A |
 | [CIE Abroad Scholarship](https://cofc.academicworks.com/opportunities/14140) | Varies | N/A |
 | [Class of 1965 Scholarship](https://cofc.academicworks.com/opportunities/13401) | Varies | N/A |
 | [College of Charleston Foundation Faculty/Staff Dependent Scholarships](https://cofc.academicworks.com/opportunities/14022) | Varies | N/A |
@@ -613,6 +614,8 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Ramona K First Scholarship Endowment in Economics](https://sfsu.academicworks.com/opportunities/23785) | $500.00 | 11/15/2026 |
 | [Ramona K. First Award](https://sfsu.academicworks.com/opportunities/23787) | $500.00 | 11/15/2026 |
 | [Shoulder to Shoulder College Counseling & Advocacy Scholarship Endowment](https://sfsu.academicworks.com/opportunities/23908) | $1,000.00 | 11/15/2026 |
+| [Kyria Hontalas Petuskey Memorial Scholarship Fund](https://sfsu.academicworks.com/opportunities/23703) | Amount up to $2000 | 11/17/2026 |
+| [Carol Severin Memorial Scholarship](https://sfsu.academicworks.com/opportunities/22704) | $1,000 | 11/18/2026 |
 | [Kenny & Maria Chin Scholarship in China Studies](https://sfsu.academicworks.com/opportunities/23710) | $5,000 | 11/20/2026 |
 | [Marcyliena Morgan Student Fund](https://sfsu.academicworks.com/opportunities/23911) | $500 to $1,000 | 03/19/2027 |
 | [Graduate Equity Fellowship Program](https://sfsu.academicworks.com/opportunities/23756) | Up to $3,500 Masters; $5,000 Doctoral | 05/21/2027 |
@@ -644,8 +647,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Sara Ruth Prize - English](https://sfsu.academicworks.com/opportunities/7632) | varies | N/A |
 | [Psychology Department Scholarship](https://sfsu.academicworks.com/opportunities/6285) | varies | N/A |
 | [Linda Leary Reliable Caregivers Nursing Scholarship](https://sfsu.academicworks.com/opportunities/7353) | $1,250.00 | N/A |
-| [Hearth Homes Inclusive Design Scholarship](https://sfsu.academicworks.com/opportunities/7963) | $5,000 | N/A |
-| [Jeff Clavin Memorial Scholarship](https://sfsu.academicworks.com/opportunities/7848) | Varies | N/A |
 
 ## SFSU-External
 
@@ -785,6 +786,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [The Virginia Tech Tribal Match Scholarship](https://vt.academicworks.com/opportunities/60463) | Varies | 12/31/2026 |
 | [Honors College Scholarship Application](https://vt.academicworks.com/opportunities/73429) | Varies | 01/08/2027 |
 | [Pamplin Leadership Award](https://vt.academicworks.com/opportunities/73725) | Varies | 01/08/2027 |
+| [IMPACT Scholarships (Inclusion improving Medicine, Patient outcomes And Community health with Talent)](https://vt.academicworks.com/opportunities/72037) | Varies | 01/15/2027 |
 | [Adam Ward '11 Memorial Scholarship](https://vt.academicworks.com/opportunities/74830) | Varies | 01/22/2027 |
 | [Alie Reichling Memorial Scholarship](https://vt.academicworks.com/opportunities/70276) | Varies | 01/22/2027 |
 | [Archie R. and Dorothy A. Moss Scholarship](https://vt.academicworks.com/opportunities/71169) | Varies | 01/22/2027 |
