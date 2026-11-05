@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-11-04 20:32:09 UTC
+Last updated: 2026-11-05 20:48:42 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -153,7 +153,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Jolly Good Samaritan Scholarship](https://cpcc.academicworks.com/opportunities/11765) | Varies | 01/31/2027 |
 | [Hollowell Workforce Ready Scholarship](https://cpcc.academicworks.com/opportunities/11768) | Varies | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
-| [Alli & Aiden Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11646) | Varies | N/A |
 | [Pete & Marcia Sloan Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11127) | Varies | N/A |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | N/A |
 | [Mark Helms Service Learning Scholarship](https://cpcc.academicworks.com/opportunities/11660) | Varies | N/A |
@@ -163,6 +162,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Dental Hygiene Anniversary Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11140) | Varies | N/A |
 | [Dr. & Mrs. Spurgeon Webber Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11179) | Varies | N/A |
 | [Laurie Barringer Werner Memorial Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11267) | Varies | N/A |
+| [Alli & Aiden Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11646) | Varies | N/A |
 | [Pat Locke Williamson Scholarship](https://cpcc.academicworks.com/opportunities/11656) | Varies | N/A |
 
 ## CPCC-External
@@ -330,6 +330,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [The Barbara and Matthew Landers Graduate Fellowship in History](https://ecu.academicworks.com/opportunities/37592) | Varies | 01/15/2027 |
 | [The Barbara B. Newman Scholarship Endowment](https://ecu.academicworks.com/opportunities/36890) | Varies | 01/15/2027 |
 | [The Barbara Hood Hatch and Donald L. Hatch Endowed Scholarship](https://ecu.academicworks.com/opportunities/37214) | Varies | 01/15/2027 |
+| [The Barry and Karen Carter Endowed Scholarship](https://ecu.academicworks.com/opportunities/37347) | Varies | 01/15/2027 |
 
 ## ECU-External
 
@@ -350,6 +351,7 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
+| [Michaela Thomas Heart of the RA Award](https://fsu.academicworks.com/opportunities/42142) | Varies | 11/05/2026 |
 | [Alumni Graduate Scholarship Fund in Economics](https://fsu.academicworks.com/opportunities/44520) | Varies | 11/15/2026 |
 | [Brian Andrew McLachlin Arts Enrichment Fund](https://fsu.academicworks.com/opportunities/44545) | Varies | 11/15/2026 |
 | [Bruce W. McNeilage Endowed Scholarship](https://fsu.academicworks.com/opportunities/42916) | Varies | 11/15/2026 |
@@ -600,6 +602,9 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Jean Vance Award](https://sfsu.academicworks.com/opportunities/23760) | varies | 11/06/2026 |
 | [Continue the Dream for Academic Excellence Scholarship](https://sfsu.academicworks.com/opportunities/23868) | varies | 11/08/2026 |
 | [Mitsuko Saito Duerr Scholarship](https://sfsu.academicworks.com/opportunities/23924) | $2,500 | 11/09/2026 |
+| [Mary M. Geong Endowed Scholarship in Accounting](https://sfsu.academicworks.com/opportunities/23899) | $500 | 11/11/2026 |
+| [The ASCEND Scholarship](https://sfsu.academicworks.com/opportunities/23882) | $1,000 | 11/11/2026 |
+| [The National Association of Black Accountants (NABA) Scholarship](https://sfsu.academicworks.com/opportunities/23392) | $1,000 | 11/11/2026 |
 | [Willie L Brown Graduate Fellowship Program](https://sfsu.academicworks.com/opportunities/22324) | $22,000 (disbursed over 4 semesters, beginning Spring 2027 | 11/12/2026 |
 | [John Blake West Scholarship](https://sfsu.academicworks.com/opportunities/23124) | $5,000.00 | 11/13/2026 |
 | [Fehrman/Spinney Scholarship in Interior Design](https://sfsu.academicworks.com/opportunities/23719) | $1,200.00 | 11/14/2026 |
@@ -644,9 +649,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Chinese Hospital Nursing Scholarship](https://sfsu.academicworks.com/opportunities/6062) | $8,000/Academic Year | N/A |
 | [BOMA of San Francisco Foundation Scholarship Fund](https://sfsu.academicworks.com/opportunities/6610) | $3,500.00 | N/A |
 | [Ekaterini Vitale Scholarship Fund in Modern Greek Studies](https://sfsu.academicworks.com/opportunities/7062) | up to $1000 | N/A |
-| [Sara Ruth Prize - English](https://sfsu.academicworks.com/opportunities/7632) | varies | N/A |
-| [Psychology Department Scholarship](https://sfsu.academicworks.com/opportunities/6285) | varies | N/A |
-| [Linda Leary Reliable Caregivers Nursing Scholarship](https://sfsu.academicworks.com/opportunities/7353) | $1,250.00 | N/A |
 
 ## SFSU-External
 
