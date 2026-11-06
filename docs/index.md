@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-11-05 20:48:42 UTC
+Last updated: 2026-11-06 20:04:15 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -8,7 +8,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Aasha Scholarship](https://cpcc.academicworks.com/opportunities/11429) | Varies | 01/31/2027 |
 | [American Schlafhorst Foundation Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11132) | Varies | 01/31/2027 |
 | [American Society of Highway Engineers Scholarship](https://cpcc.academicworks.com/opportunities/11584) | Varies | 01/31/2027 |
 | [Bank of America Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11407) | Varies | 01/31/2027 |
@@ -153,6 +152,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Jolly Good Samaritan Scholarship](https://cpcc.academicworks.com/opportunities/11765) | Varies | 01/31/2027 |
 | [Hollowell Workforce Ready Scholarship](https://cpcc.academicworks.com/opportunities/11768) | Varies | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
+| [Aasha Scholarship](https://cpcc.academicworks.com/opportunities/11429) | Varies | N/A |
 | [Pete & Marcia Sloan Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11127) | Varies | N/A |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | N/A |
 | [Mark Helms Service Learning Scholarship](https://cpcc.academicworks.com/opportunities/11660) | Varies | N/A |
@@ -225,8 +225,8 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Charleston Wine + Food Festival Excellence Scholarship](https://cofc.academicworks.com/opportunities/13839) | Varies | N/A |
 | [Charleston Wine + Food Festival Senior Scholarship](https://cofc.academicworks.com/opportunities/14281) | Varies | N/A |
 | [CharlestonLIFE™ Scholarship Fund (formerly REACH)](https://cofc.academicworks.com/opportunities/13314) | Varies | N/A |
-| [Chick-fil-A Graduate Leadership Scholarship](https://cofc.academicworks.com/opportunities/13853) | Varies | N/A |
 | [Chick-fil-A Graduate Leadership Scholarship](https://cofc.academicworks.com/opportunities/11757) | Varies | N/A |
+| [Chick-fil-A Graduate Leadership Scholarship](https://cofc.academicworks.com/opportunities/13853) | Varies | N/A |
 | [CIE Abroad Scholarship](https://cofc.academicworks.com/opportunities/14140) | Varies | N/A |
 | [Class of 1965 Scholarship](https://cofc.academicworks.com/opportunities/13401) | Varies | N/A |
 | [College of Charleston Foundation Faculty/Staff Dependent Scholarships](https://cofc.academicworks.com/opportunities/14022) | Varies | N/A |
@@ -351,7 +351,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Michaela Thomas Heart of the RA Award](https://fsu.academicworks.com/opportunities/42142) | Varies | 11/05/2026 |
 | [Alumni Graduate Scholarship Fund in Economics](https://fsu.academicworks.com/opportunities/44520) | Varies | 11/15/2026 |
 | [Brian Andrew McLachlin Arts Enrichment Fund](https://fsu.academicworks.com/opportunities/44545) | Varies | 11/15/2026 |
 | [Bruce W. McNeilage Endowed Scholarship](https://fsu.academicworks.com/opportunities/42916) | Varies | 11/15/2026 |
