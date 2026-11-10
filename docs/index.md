@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-11-09 23:08:01 UTC
+Last updated: 2026-11-10 20:35:19 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -150,8 +150,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Jolly Good Samaritan Scholarship](https://cpcc.academicworks.com/opportunities/11765) | Varies | 01/31/2027 |
 | [Hollowell Workforce Ready Scholarship](https://cpcc.academicworks.com/opportunities/11768) | Varies | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
-| [Bragg Financial Advisors Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11316) | Varies | N/A |
-| [Cindy Collins Memorial Nursing Scholarship](https://cpcc.academicworks.com/opportunities/11176) | Varies | N/A |
 | [Pete & Marcia Sloan Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11127) | Varies | N/A |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | N/A |
 | [Mark Helms Service Learning Scholarship](https://cpcc.academicworks.com/opportunities/11660) | Varies | N/A |
@@ -164,6 +162,9 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Alli & Aiden Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11646) | Varies | N/A |
 | [Pat Locke Williamson Scholarship](https://cpcc.academicworks.com/opportunities/11656) | Varies | N/A |
 | [Aasha Scholarship](https://cpcc.academicworks.com/opportunities/11429) | Varies | N/A |
+| [Cindy Collins Memorial Nursing Scholarship](https://cpcc.academicworks.com/opportunities/11176) | Varies | N/A |
+| [Bragg Financial Advisors Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11316) | Varies | N/A |
+| [Ruth G. Shaw Scholarship](https://cpcc.academicworks.com/opportunities/11501) | up to $2000 | N/A |
 
 ## CPCC-External
 
@@ -201,45 +202,48 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Catherine Wood Parker Memorial Scholarship](https://cofc.academicworks.com/opportunities/12486) | Varies | 03/02/2027 |
 | [Jon Morter Memorial Endowment in Anthropology](https://cofc.academicworks.com/opportunities/12530) | Varies | 03/02/2027 |
 | [Winthrop Endowed History Study Abroad Scholarship](https://cofc.academicworks.com/opportunities/12330) | Varies | 03/02/2027 |
+| ["Mother" Emanuel AME Church Endowed/Annual Scholarship](https://cofc.academicworks.com/opportunities/13987) | Varies | 03/15/2027 |
+| [402 Scholarship](https://cofc.academicworks.com/opportunities/13287) | Varies | 03/15/2027 |
+| [Alexander C. Dick Endowed Scholarship in Pre-Law](https://cofc.academicworks.com/opportunities/13972) | Varies | 03/15/2027 |
+| [Alison Piepmeier Endowed/Annual Scholarship](https://cofc.academicworks.com/opportunities/14058) | Varies | 03/15/2027 |
+| [Anna B. Cox Scholarship](https://cofc.academicworks.com/opportunities/14148) | Varies | 03/15/2027 |
+| [Anne Marley and Allen Lyndrup Endowed/Annual Theatre Scholarship](https://cofc.academicworks.com/opportunities/13398) | Varies | 03/15/2027 |
+| [B.A. Hagood-SCE&G Company Scholarship](https://cofc.academicworks.com/opportunities/14220) | Varies | 03/15/2027 |
+| [Carrie Kilgore Endowed/Annual Scholarship](https://cofc.academicworks.com/opportunities/14252) | Varies | 03/15/2027 |
+| [Carter Holland Memorial Scholarship in Communication](https://cofc.academicworks.com/opportunities/13888) | Varies | 03/15/2027 |
+| [Chad V. Adams '18 Memorial Scholarship](https://cofc.academicworks.com/opportunities/13352) | Varies | 03/15/2027 |
+| [Charleston Antiques Symposium Arts Management Intern Fund](https://cofc.academicworks.com/opportunities/13947) | Varies | 03/15/2027 |
+| [Charleston Restaurant Association Scholarship](https://cofc.academicworks.com/opportunities/13961) | Varies | 03/15/2027 |
+| [Charleston Wine + Food Festival Excellence Scholarship](https://cofc.academicworks.com/opportunities/13839) | Varies | 03/15/2027 |
+| [Charleston Wine + Food Festival Senior Scholarship](https://cofc.academicworks.com/opportunities/14281) | Varies | 03/15/2027 |
+| [CharlestonLIFE™ Scholarship Fund (formerly REACH)](https://cofc.academicworks.com/opportunities/13314) | Varies | 03/15/2027 |
+| [Chick-fil-A Graduate Leadership Scholarship](https://cofc.academicworks.com/opportunities/13853) | Varies | 03/15/2027 |
+| [CIE Abroad Scholarship](https://cofc.academicworks.com/opportunities/14140) | Varies | 03/15/2027 |
+| [Class of 1965 Scholarship](https://cofc.academicworks.com/opportunities/13401) | Varies | 03/15/2027 |
+| [College of Charleston Young Alumni Scholarship](https://cofc.academicworks.com/opportunities/14041) | Varies | 03/15/2027 |
+| [Conseula Francis Annual Scholarship](https://cofc.academicworks.com/opportunities/13395) | Varies | 03/15/2027 |
+| [Constantina P. Padgett Endowed/Annual Education Scholarship](https://cofc.academicworks.com/opportunities/14182) | Varies | 03/15/2027 |
+| [David F. Aylor Endowed Memorial Scholarship](https://cofc.academicworks.com/opportunities/14356) | Varies | 03/15/2027 |
+| [Dean Frances C. Welch Endowed/Annual Scholarship](https://cofc.academicworks.com/opportunities/14017) | Varies | 03/15/2027 |
+| [Dorie and George Spaulding Endowed/Annual Scholarship](https://cofc.academicworks.com/opportunities/13604) | Varies | 03/15/2027 |
+| [Douglas and Elizabeth Clark Memorial Scholarship in History](https://cofc.academicworks.com/opportunities/14153) | Varies | 03/15/2027 |
+| [Dr. Deborah A. Miller Public Health Scholarship](https://cofc.academicworks.com/opportunities/14037) | Varies | 03/15/2027 |
+| [Dr. Lancelot Minor Harris Scholarship Fund in English](https://cofc.academicworks.com/opportunities/13945) | Varies | 03/15/2027 |
+| [Dr. Rene Ravenel Endowed Scholarship](https://cofc.academicworks.com/opportunities/13357) | Varies | 03/15/2027 |
+| [Dr. Stephanie Dellis Memorial Scholarship](https://cofc.academicworks.com/opportunities/14229) | Varies | 03/15/2027 |
+| [Dr. Susan J. Morrison Scholarship in Biology](https://cofc.academicworks.com/opportunities/14055) | Varies | 03/15/2027 |
+| [Edgar T. Cato Scholarship Fund](https://cofc.academicworks.com/opportunities/14154) | Varies | 03/15/2027 |
+| [Edward Emerson Towell Scholarship](https://cofc.academicworks.com/opportunities/13461) | Varies | 03/15/2027 |
+| [Elizabeth Anne Eady Memorial Scholarship](https://cofc.academicworks.com/opportunities/13807) | Varies | 03/15/2027 |
+| [First-Year Classics Scholarship](https://cofc.academicworks.com/opportunities/14166) | Varies | 03/15/2027 |
 | [International Scholars Program](https://cofc.academicworks.com/opportunities/12415) | Varies | 04/01/2027 |
 | [Joanna Foundation Deep Water Fund](https://cofc.academicworks.com/opportunities/11811) | Varies | 04/25/2027 |
-| ["Mother" Emanuel AME Church Endowed/Annual Scholarship](https://cofc.academicworks.com/opportunities/13987) | Varies | N/A |
-| [402 Scholarship](https://cofc.academicworks.com/opportunities/13287) | Varies | N/A |
-| [Alexander C. Dick Endowed Scholarship in Pre-Law](https://cofc.academicworks.com/opportunities/13972) | Varies | N/A |
-| [Alison Piepmeier Endowed/Annual Scholarship](https://cofc.academicworks.com/opportunities/14058) | Varies | N/A |
-| [Alumni Association General Scholarship](https://cofc.academicworks.com/opportunities/13763) | Varies | N/A |
-| [Alumni Greek Life Scholarships](https://cofc.academicworks.com/opportunities/13247) | Varies | N/A |
-| [Anna B. Cox Scholarship](https://cofc.academicworks.com/opportunities/14148) | Varies | N/A |
-| [Anne Marley and Allen Lyndrup Endowed/Annual Theatre Scholarship](https://cofc.academicworks.com/opportunities/13398) | Varies | N/A |
-| [B.A. Hagood-SCE&G Company Scholarship](https://cofc.academicworks.com/opportunities/14220) | Varies | N/A |
-| [Booz Allen Hamilton Endowed/Annual Computing Scholarship](https://cofc.academicworks.com/opportunities/13661) | Varies | N/A |
-| [Cain Family International Scholarship](https://cofc.academicworks.com/opportunities/14146) | Varies | N/A |
-| [Carrie Kilgore Endowed/Annual Scholarship](https://cofc.academicworks.com/opportunities/14252) | Varies | N/A |
-| [Carter Holland Memorial Scholarship in Communication](https://cofc.academicworks.com/opportunities/13888) | Varies | N/A |
-| [Casa Hispana Scholarship](https://cofc.academicworks.com/opportunities/13258) | Varies | N/A |
-| [Chad V. Adams '18 Memorial Scholarship](https://cofc.academicworks.com/opportunities/13352) | Varies | N/A |
-| [Charleston Antiques Symposium Arts Management Intern Fund](https://cofc.academicworks.com/opportunities/13947) | Varies | N/A |
-| [Charleston Federation of Women's Clubs Endowed Scholarship](https://cofc.academicworks.com/opportunities/13928) | Varies | N/A |
-| [Charleston Restaurant Association Scholarship](https://cofc.academicworks.com/opportunities/13961) | Varies | N/A |
-| [Charleston Wine + Food Festival Excellence Scholarship](https://cofc.academicworks.com/opportunities/13839) | Varies | N/A |
-| [Charleston Wine + Food Festival Senior Scholarship](https://cofc.academicworks.com/opportunities/14281) | Varies | N/A |
-| [CharlestonLIFE™ Scholarship Fund (formerly REACH)](https://cofc.academicworks.com/opportunities/13314) | Varies | N/A |
-| [Chick-fil-A Graduate Leadership Scholarship](https://cofc.academicworks.com/opportunities/11757) | Varies | N/A |
-| [Chick-fil-A Graduate Leadership Scholarship](https://cofc.academicworks.com/opportunities/13853) | Varies | N/A |
-| [CIE Abroad Scholarship](https://cofc.academicworks.com/opportunities/14140) | Varies | N/A |
-| [Class of 1965 Scholarship](https://cofc.academicworks.com/opportunities/13401) | Varies | N/A |
-| [College of Charleston Foundation Faculty/Staff Dependent Scholarships](https://cofc.academicworks.com/opportunities/14022) | Varies | N/A |
-| [College of Charleston Foundation Scholarships- Meeting Street Charleston Compact](https://cofc.academicworks.com/opportunities/13678) | Varies | N/A |
-| [College of Charleston Young Alumni Scholarship](https://cofc.academicworks.com/opportunities/14041) | Varies | N/A |
-| [Conseula Francis Annual Scholarship](https://cofc.academicworks.com/opportunities/13395) | Varies | N/A |
-| [Constantina P. Padgett Endowed/Annual Education Scholarship](https://cofc.academicworks.com/opportunities/14182) | Varies | N/A |
-| [David F. Aylor Endowed Memorial Scholarship](https://cofc.academicworks.com/opportunities/14356) | Varies | N/A |
-| [Dean Frances C. Welch Endowed/Annual Scholarship](https://cofc.academicworks.com/opportunities/14017) | Varies | N/A |
 
 ## ECU
 
 | Name | Amount | Deadline |
 |------|--------|----------|
+| [The College of Business Gold Graduate Scholarship](https://ecu.academicworks.com/opportunities/37227) | Varies | 11/10/2026 |
 | [The Bob and Jenny Rippy Scholarship Endowment](https://ecu.academicworks.com/opportunities/36917) | $1,000 | 11/15/2026 |
 | [The ECU Coastal Studies Scholarship](https://ecu.academicworks.com/opportunities/36767) | Varies | 11/15/2026 |
 | [The Honors College Scholarship for International Students](https://ecu.academicworks.com/opportunities/37412) | Varies | 12/01/2026 |
@@ -538,55 +542,55 @@ This page contains all currently live scholarships detected by the sentinel.
 | Name | Amount | Deadline |
 |------|--------|----------|
 | [Armand Cooke Industrial Design Student Fund Scholarship](https://ncsu.academicworks.com/opportunities/135742) | $0.00 | N/A |
-| [Karen & Donald Wagoner Scholarship](https://ncsu.academicworks.com/opportunities/182061) | Varies | N/A |
-| [Scott Mabry and Barbara Jackson Scholarship](https://ncsu.academicworks.com/opportunities/182064) | Varies | N/A |
-| [NC State Employee Dependent's Tuition Scholarship](https://ncsu.academicworks.com/opportunities/176963) | Up to $2000 | N/A |
-| [1976 Alumnus Accounting Scholarship](https://ncsu.academicworks.com/opportunities/179854) | Varies | N/A |
-| [ADAMA Scholarship](https://ncsu.academicworks.com/opportunities/179892) | Varies | N/A |
-| [Advanced Textiles Association Extraordinary Opportunity Schp](https://ncsu.academicworks.com/opportunities/180146) | Varies | N/A |
-| [Ajinomoto Health and Nutrition North America Scholarship](https://ncsu.academicworks.com/opportunities/179716) | Varies | N/A |
-| [Albert Gee Willcox Jr. Memorial Agricultural Scholarship](https://ncsu.academicworks.com/opportunities/180079) | Varies | N/A |
-| [Albert Weaver III Scholarship in ISE](https://ncsu.academicworks.com/opportunities/178776) | Varies | N/A |
-| [Allen Scholarship](https://ncsu.academicworks.com/opportunities/180470) | Varies | N/A |
-| [Alvin and Eleanore Myrick Scholarship](https://ncsu.academicworks.com/opportunities/176744) | Varies | N/A |
-| [Amy & Rodney Isenhour Scholarship](https://ncsu.academicworks.com/opportunities/175402) | Varies | N/A |
-| [Anderson Marlowe III Family Extraordinary Opportunity Scholarship](https://ncsu.academicworks.com/opportunities/179747) | Varies | N/A |
-| [Angel Family Foundation Scholarship](https://ncsu.academicworks.com/opportunities/177068) | Varies | N/A |
-| [Ann Bumgardner and Myrtle Bumgardner Scholarship](https://ncsu.academicworks.com/opportunities/177028) | varies | N/A |
-| [Anne-Marie and Chris Olinger CSC Scholarship](https://ncsu.academicworks.com/opportunities/175589) | Varies | N/A |
-| [Annette and Steven McBrayer Scholarship](https://ncsu.academicworks.com/opportunities/179909) | Varies | N/A |
-| [Apollo Chemical Textile Scholarship](https://ncsu.academicworks.com/opportunities/178913) | Varies | N/A |
-| [Arlan Thomas Brady Scholarship in Mechanical and Aerospace Engineering](https://ncsu.academicworks.com/opportunities/175458) | Varies | N/A |
-| [Armstrong Family Animal Science Scholarship](https://ncsu.academicworks.com/opportunities/175427) | Varies | N/A |
-| [Arthur H. Rogers Scholarship Endowment](https://ncsu.academicworks.com/opportunities/179878) | Varies | N/A |
-| [Aurora R. de Zarate Scholarship](https://ncsu.academicworks.com/opportunities/179776) | Varies | N/A |
-| [AWM Attaviti Scholarship Endowment](https://ncsu.academicworks.com/opportunities/180160) | Varies | N/A |
-| [B. Frank Lewis Scholarship](https://ncsu.academicworks.com/opportunities/179915) | Varies | N/A |
-| [Baird Family Scholarship Endowment](https://ncsu.academicworks.com/opportunities/182885) | Varies | N/A |
-| [Banixx Horse & Pet Care Graduate Award](https://ncsu.academicworks.com/opportunities/175474) | Varies | N/A |
-| [Barbara and Curtis Freeze Marching Band Scholarship Endowment](https://ncsu.academicworks.com/opportunities/180489) | Varies | N/A |
-| [Barrangou Undergraduate Wolfpack Endowed Scholarship](https://ncsu.academicworks.com/opportunities/180077) | Varies | N/A |
-| [Beam Construction Company Scholarship Endowment](https://ncsu.academicworks.com/opportunities/177377) | Varies | N/A |
-| [Beth and Joey Smith Scholarship](https://ncsu.academicworks.com/opportunities/179678) | varies | N/A |
-| [Bette and Mez Lubischer Scholarship](https://ncsu.academicworks.com/opportunities/179793) | Varies | N/A |
-| [Bette and Mez Lubischer Scholarship Endowment](https://ncsu.academicworks.com/opportunities/182745) | varies | N/A |
-| [Blue Bell Pioneer Scholarship](https://ncsu.academicworks.com/opportunities/178636) | Varies | N/A |
-| [Bob Davis Scholarship](https://ncsu.academicworks.com/opportunities/176221) | Varies | N/A |
-| [Bourne Family Extraordinary Opportunity Scholarship Endowment](https://ncsu.academicworks.com/opportunities/179510) | Varies | N/A |
-| [Brad and Anna Sullivan Family Scholarship](https://ncsu.academicworks.com/opportunities/180006) | Varies | N/A |
-| [Brian Higgins Family Scholarship](https://ncsu.academicworks.com/opportunities/179801) | Varies | N/A |
-| [BridgePoint Scholarship](https://ncsu.academicworks.com/opportunities/176849) | Varies | N/A |
-| [Brighter Futures Extraordinary Opportunity Scholarship Endowment](https://ncsu.academicworks.com/opportunities/179914) | Varies | N/A |
-| [Briton and Gladys LeCompte Natural Resources Scholarship](https://ncsu.academicworks.com/opportunities/176779) | Varies | N/A |
-| [Brooke Wilner Scholarship for Benjamin Franklin Scholars](https://ncsu.academicworks.com/opportunities/180143) | Varies | N/A |
-| [Brotherton Family CALS Scholarship Endowment](https://ncsu.academicworks.com/opportunities/180076) | Varies | N/A |
-| [Bryan and Kellie Huffman Family Scholarship](https://ncsu.academicworks.com/opportunities/179516) | $1,625.00 | N/A |
-| [Buckless Thacker Family Scholarship Endowment](https://ncsu.academicworks.com/opportunities/180203) | Varies | N/A |
-| [Burke Endowment](https://ncsu.academicworks.com/opportunities/177642) | Varies | N/A |
-| [Burke Endowment 2](https://ncsu.academicworks.com/opportunities/178638) | Varies | N/A |
-| [Calabrese Scholarship](https://ncsu.academicworks.com/opportunities/179823) | Varies | N/A |
-| [Cammarene-Wessel CALS Scholarship Honoring CALS Advancement Endowment](https://ncsu.academicworks.com/opportunities/179901) | Varies | N/A |
-| [Carnell "Nelly" Griffin Never Quit Scholarship](https://ncsu.academicworks.com/opportunities/182168) | Varies | N/A |
+| [1976 Alumnus Accounting Scholarship](https://ncsu.academicworks.com/opportunities/187262) | Varies | N/A |
+| [ADAMA Scholarship](https://ncsu.academicworks.com/opportunities/183006) | Varies | N/A |
+| [Advanced Textiles Association Extraordinary Opportunity Schp](https://ncsu.academicworks.com/opportunities/183788) | Varies | N/A |
+| [Ajinomoto Health and Nutrition North America Scholarship](https://ncsu.academicworks.com/opportunities/187417) | Varies | N/A |
+| [Albert Gee Willcox Jr. Memorial Agricultural Scholarship](https://ncsu.academicworks.com/opportunities/183744) | Varies | N/A |
+| [Albert Weaver III Scholarship in ISE](https://ncsu.academicworks.com/opportunities/185889) | Varies | N/A |
+| [Allen Scholarship](https://ncsu.academicworks.com/opportunities/187584) | Varies | N/A |
+| [Alvin and Eleanore Myrick Scholarship](https://ncsu.academicworks.com/opportunities/184596) | Varies | N/A |
+| [Amy & Rodney Isenhour Scholarship](https://ncsu.academicworks.com/opportunities/187045) | Varies | N/A |
+| [Anderson Marlowe III Family Extraordinary Opportunity Scholarship](https://ncsu.academicworks.com/opportunities/186846) | Varies | N/A |
+| [Angel Family Foundation Scholarship](https://ncsu.academicworks.com/opportunities/185665) | Varies | N/A |
+| [Ann Bumgardner and Myrtle Bumgardner Scholarship](https://ncsu.academicworks.com/opportunities/185509) | varies | N/A |
+| [Anne-Marie and Chris Olinger CSC Scholarship](https://ncsu.academicworks.com/opportunities/183969) | Varies | N/A |
+| [Annette and Steven McBrayer Scholarship](https://ncsu.academicworks.com/opportunities/183223) | Varies | N/A |
+| [Apollo Chemical Textile Scholarship](https://ncsu.academicworks.com/opportunities/187093) | Varies | N/A |
+| [Arlan Thomas Brady Scholarship in Mechanical and Aerospace Engineering](https://ncsu.academicworks.com/opportunities/183403) | Varies | N/A |
+| [Armstrong Family Animal Science Scholarship](https://ncsu.academicworks.com/opportunities/183335) | Varies | N/A |
+| [Arthur H. Rogers Scholarship Endowment](https://ncsu.academicworks.com/opportunities/187237) | Varies | N/A |
+| [Aurora R. de Zarate Scholarship](https://ncsu.academicworks.com/opportunities/184175) | Varies | N/A |
+| [AWM Attaviti Scholarship Endowment](https://ncsu.academicworks.com/opportunities/183963) | Varies | N/A |
+| [B. Frank Lewis Scholarship](https://ncsu.academicworks.com/opportunities/183053) | Varies | N/A |
+| [Baird Family Scholarship Endowment](https://ncsu.academicworks.com/opportunities/185088) | Varies | N/A |
+| [Banixx Horse & Pet Care Graduate Award](https://ncsu.academicworks.com/opportunities/185530) | Varies | N/A |
+| [Barbara and Curtis Freeze Marching Band Scholarship Endowment](https://ncsu.academicworks.com/opportunities/184522) | Varies | N/A |
+| [Barrangou Undergraduate Wolfpack Endowed Scholarship](https://ncsu.academicworks.com/opportunities/183912) | Varies | N/A |
+| [Beam Construction Company Scholarship Endowment](https://ncsu.academicworks.com/opportunities/183255) | Varies | N/A |
+| [Beth and Joey Smith Scholarship](https://ncsu.academicworks.com/opportunities/186795) | varies | N/A |
+| [Bette and Mez Lubischer Scholarship](https://ncsu.academicworks.com/opportunities/187003) | Varies | N/A |
+| [Bette and Mez Lubischer Scholarship Endowment](https://ncsu.academicworks.com/opportunities/186762) | varies | N/A |
+| [Blue Bell Pioneer Scholarship](https://ncsu.academicworks.com/opportunities/185893) | Varies | N/A |
+| [Bob Davis Scholarship](https://ncsu.academicworks.com/opportunities/186321) | Varies | N/A |
+| [Bourne Family Extraordinary Opportunity Scholarship Endowment](https://ncsu.academicworks.com/opportunities/185841) | Varies | N/A |
+| [Brad and Anna Sullivan Family Scholarship](https://ncsu.academicworks.com/opportunities/183531) | Varies | N/A |
+| [Brian Higgins Family Scholarship](https://ncsu.academicworks.com/opportunities/187091) | Varies | N/A |
+| [BridgePoint Scholarship](https://ncsu.academicworks.com/opportunities/185073) | Varies | N/A |
+| [Brighter Futures Extraordinary Opportunity Scholarship Endowment](https://ncsu.academicworks.com/opportunities/187390) | Varies | N/A |
+| [Briton and Gladys LeCompte Natural Resources Scholarship](https://ncsu.academicworks.com/opportunities/184346) | Varies | N/A |
+| [Brooke Wilner Scholarship for Benjamin Franklin Scholars](https://ncsu.academicworks.com/opportunities/187788) | Varies | N/A |
+| [Brotherton Family CALS Scholarship Endowment](https://ncsu.academicworks.com/opportunities/183613) | Varies | N/A |
+| [Bryan and Kellie Huffman Family Scholarship](https://ncsu.academicworks.com/opportunities/186101) | $1,625.00 | N/A |
+| [Buckless Thacker Family Scholarship Endowment](https://ncsu.academicworks.com/opportunities/184307) | Varies | N/A |
+| [Burke Endowment](https://ncsu.academicworks.com/opportunities/184285) | Varies | N/A |
+| [Burke Endowment 2](https://ncsu.academicworks.com/opportunities/185393) | Varies | N/A |
+| [Calabrese Scholarship](https://ncsu.academicworks.com/opportunities/186842) | Varies | N/A |
+| [Cammarene-Wessel CALS Scholarship Honoring CALS Advancement Endowment](https://ncsu.academicworks.com/opportunities/187379) | Varies | N/A |
+| [Carnell "Nelly" Griffin Never Quit Scholarship](https://ncsu.academicworks.com/opportunities/185355) | Varies | N/A |
+| [Carole & Robert Forloines Extraordinary Opportunity Scholarship Endowment](https://ncsu.academicworks.com/opportunities/183231) | Varies | N/A |
+| [Carolinas Community College Transfer Scholarship Endowment](https://ncsu.academicworks.com/opportunities/186695) | Varies | N/A |
+| [Carter Family Textile Pioneer Scholarship](https://ncsu.academicworks.com/opportunities/183740) | Varies | N/A |
 
 ## NC State-Flexible
 
@@ -598,7 +602,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Mitsuko Saito Duerr Scholarship](https://sfsu.academicworks.com/opportunities/23924) | $2,500 | 11/09/2026 |
 | [Mary M. Geong Endowed Scholarship in Accounting](https://sfsu.academicworks.com/opportunities/23899) | $500 | 11/11/2026 |
 | [The ASCEND Scholarship](https://sfsu.academicworks.com/opportunities/23882) | $1,000 | 11/11/2026 |
 | [The National Association of Black Accountants (NABA) Scholarship](https://sfsu.academicworks.com/opportunities/23392) | $1,000 | 11/11/2026 |
@@ -648,6 +651,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Teddi Herrera Omohundro Memorial Medical Technology Scholarship](https://sfsu.academicworks.com/opportunities/1792) | $1,810.00 | N/A |
 | [Western Pathologists Quality Assurance Association Scholarship](https://sfsu.academicworks.com/opportunities/1822) | varies | N/A |
 | [Philip Johnson/Cynthia Kolb Memorial Award Scholarship](https://sfsu.academicworks.com/opportunities/6541) | $500 | N/A |
+| [Chinese Hospital Nursing Scholarship](https://sfsu.academicworks.com/opportunities/6062) | $8,000/Academic Year | N/A |
 
 ## SFSU-External
 
