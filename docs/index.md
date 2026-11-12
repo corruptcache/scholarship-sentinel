@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-11-10 20:35:19 UTC
+Last updated: 2026-11-12 21:02:50 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -236,6 +236,11 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Edward Emerson Towell Scholarship](https://cofc.academicworks.com/opportunities/13461) | Varies | 03/15/2027 |
 | [Elizabeth Anne Eady Memorial Scholarship](https://cofc.academicworks.com/opportunities/13807) | Varies | 03/15/2027 |
 | [First-Year Classics Scholarship](https://cofc.academicworks.com/opportunities/14166) | Varies | 03/15/2027 |
+| [Alumni Association General Scholarship](https://cofc.academicworks.com/opportunities/13763) | Varies | 03/15/2027 |
+| [Booz Allen Hamilton Endowed/Annual Computing Scholarship](https://cofc.academicworks.com/opportunities/13661) | Varies | 03/15/2027 |
+| [Donald R. Hagan '78 and Bobby S. Hagan '77 Endowed Scholarship](https://cofc.academicworks.com/opportunities/13726) | Varies | 03/15/2027 |
+| [Dr. Andrew and Josephine Lewis Endowed/Annual Scholarship](https://cofc.academicworks.com/opportunities/13751) | Varies | 03/15/2027 |
+| [Dr. Gregory A. Brewer and Dr. Cynthia Tate Brewer Scholarship](https://cofc.academicworks.com/opportunities/13527) | Varies | 03/15/2027 |
 | [International Scholars Program](https://cofc.academicworks.com/opportunities/12415) | Varies | 04/01/2027 |
 | [Joanna Foundation Deep Water Fund](https://cofc.academicworks.com/opportunities/11811) | Varies | 04/25/2027 |
 
@@ -243,7 +248,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [The College of Business Gold Graduate Scholarship](https://ecu.academicworks.com/opportunities/37227) | Varies | 11/10/2026 |
 | [The Bob and Jenny Rippy Scholarship Endowment](https://ecu.academicworks.com/opportunities/36917) | $1,000 | 11/15/2026 |
 | [The ECU Coastal Studies Scholarship](https://ecu.academicworks.com/opportunities/36767) | Varies | 11/15/2026 |
 | [The Honors College Scholarship for International Students](https://ecu.academicworks.com/opportunities/37412) | Varies | 12/01/2026 |
@@ -602,9 +606,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Mary M. Geong Endowed Scholarship in Accounting](https://sfsu.academicworks.com/opportunities/23899) | $500 | 11/11/2026 |
-| [The ASCEND Scholarship](https://sfsu.academicworks.com/opportunities/23882) | $1,000 | 11/11/2026 |
-| [The National Association of Black Accountants (NABA) Scholarship](https://sfsu.academicworks.com/opportunities/23392) | $1,000 | 11/11/2026 |
 | [Willie L Brown Graduate Fellowship Program](https://sfsu.academicworks.com/opportunities/22324) | $22,000 (disbursed over 4 semesters, beginning Spring 2027 | 11/12/2026 |
 | [John Blake West Scholarship](https://sfsu.academicworks.com/opportunities/23124) | $5,000.00 | 11/13/2026 |
 | [Fehrman/Spinney Scholarship in Interior Design](https://sfsu.academicworks.com/opportunities/23719) | $1,200.00 | 11/14/2026 |
@@ -627,6 +628,9 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Dr. Salvador Chavez and Dr. Edward O. Hascall Scholarship](https://sfsu.academicworks.com/opportunities/23933) | $2000 | 11/20/2026 |
 | [Peggy H. Smith Outstanding Student Award](https://sfsu.academicworks.com/opportunities/23930) | $2000 | 11/20/2026 |
 | [Continue the Dream for Academic Excellence Scholarship](https://sfsu.academicworks.com/opportunities/23868) | varies | 11/22/2026 |
+| [Aidan M. Dunne Endowed Scholarship for Accounting Students](https://sfsu.academicworks.com/opportunities/23938) | $1,000 | 11/30/2026 |
+| [Paul Wiese Memorial Scholarship](https://sfsu.academicworks.com/opportunities/23874) | $2,500.00 | 11/30/2026 |
+| [The ASCEND Scholarship](https://sfsu.academicworks.com/opportunities/23882) | $1,000 | 11/30/2026 |
 | [Marcyliena Morgan Student Fund](https://sfsu.academicworks.com/opportunities/23911) | $500 to $1,000 | 03/19/2027 |
 | [Graduate Equity Fellowship Program](https://sfsu.academicworks.com/opportunities/23756) | Up to $3,500 Masters; $5,000 Doctoral | 05/21/2027 |
 | [Bacigalupi University Scholarship](https://sfsu.academicworks.com/opportunities/22593) | $5,992.00 | N/A |
