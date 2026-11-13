@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-11-12 21:02:50 UTC
+Last updated: 2026-11-13 20:39:06 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -8,6 +8,7 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
+| [Levine Scholarship](https://cpcc.academicworks.com/opportunities/11509) | Varies | 11/14/2026 |
 | [American Schlafhorst Foundation Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11132) | Varies | 01/31/2027 |
 | [American Society of Highway Engineers Scholarship](https://cpcc.academicworks.com/opportunities/11584) | Varies | 01/31/2027 |
 | [Bank of America Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11407) | Varies | 01/31/2027 |
@@ -15,7 +16,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Bettie Dibrell Memorial Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11184) | Varies | 01/31/2027 |
 | [Bettie W. McEwen Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11343) | Varies | 01/31/2027 |
 | [Beverly McKeithen Memorial Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11464) | Varies | 01/31/2027 |
-| [BFB Foundation STEM Scholarship](https://cpcc.academicworks.com/opportunities/11602) | Varies | 01/31/2027 |
 | [Bible Church 7 at the Lake Scholarship](https://cpcc.academicworks.com/opportunities/11386) | Varies | 01/31/2027 |
 | [Bill & Jane Disher Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11143) | Varies | 01/31/2027 |
 | [Bill Kemper Memorial Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11536) | Varies | 01/31/2027 |
@@ -150,6 +150,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Jolly Good Samaritan Scholarship](https://cpcc.academicworks.com/opportunities/11765) | Varies | 01/31/2027 |
 | [Hollowell Workforce Ready Scholarship](https://cpcc.academicworks.com/opportunities/11768) | Varies | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
+| [BFB Foundation STEM Scholarship](https://cpcc.academicworks.com/opportunities/11602) | Varies | N/A |
 | [Pete & Marcia Sloan Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11127) | Varies | N/A |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | N/A |
 | [Mark Helms Service Learning Scholarship](https://cpcc.academicworks.com/opportunities/11660) | Varies | N/A |
@@ -165,6 +166,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Cindy Collins Memorial Nursing Scholarship](https://cpcc.academicworks.com/opportunities/11176) | Varies | N/A |
 | [Bragg Financial Advisors Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11316) | Varies | N/A |
 | [Ruth G. Shaw Scholarship](https://cpcc.academicworks.com/opportunities/11501) | up to $2000 | N/A |
+| [Southminster Scholarship for Aging Services](https://cpcc.academicworks.com/opportunities/11234) | Varies | N/A |
 
 ## CPCC-External
 
@@ -241,6 +243,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Donald R. Hagan '78 and Bobby S. Hagan '77 Endowed Scholarship](https://cofc.academicworks.com/opportunities/13726) | Varies | 03/15/2027 |
 | [Dr. Andrew and Josephine Lewis Endowed/Annual Scholarship](https://cofc.academicworks.com/opportunities/13751) | Varies | 03/15/2027 |
 | [Dr. Gregory A. Brewer and Dr. Cynthia Tate Brewer Scholarship](https://cofc.academicworks.com/opportunities/13527) | Varies | 03/15/2027 |
+| [Blue Monarch Scholarship for Arts Management](https://cofc.academicworks.com/opportunities/14422) | Varies | 03/15/2027 |
 | [International Scholars Program](https://cofc.academicworks.com/opportunities/12415) | Varies | 04/01/2027 |
 | [Joanna Foundation Deep Water Fund](https://cofc.academicworks.com/opportunities/11811) | Varies | 04/25/2027 |
 
@@ -606,7 +609,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Willie L Brown Graduate Fellowship Program](https://sfsu.academicworks.com/opportunities/22324) | $22,000 (disbursed over 4 semesters, beginning Spring 2027 | 11/12/2026 |
 | [John Blake West Scholarship](https://sfsu.academicworks.com/opportunities/23124) | $5,000.00 | 11/13/2026 |
 | [Fehrman/Spinney Scholarship in Interior Design](https://sfsu.academicworks.com/opportunities/23719) | $1,200.00 | 11/14/2026 |
 | [Helen Mau Scholarship in Dietetics](https://sfsu.academicworks.com/opportunities/23721) | $1,000.00 | 11/14/2026 |
@@ -656,6 +658,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Western Pathologists Quality Assurance Association Scholarship](https://sfsu.academicworks.com/opportunities/1822) | varies | N/A |
 | [Philip Johnson/Cynthia Kolb Memorial Award Scholarship](https://sfsu.academicworks.com/opportunities/6541) | $500 | N/A |
 | [Chinese Hospital Nursing Scholarship](https://sfsu.academicworks.com/opportunities/6062) | $8,000/Academic Year | N/A |
+| [BOMA of San Francisco Foundation Scholarship Fund](https://sfsu.academicworks.com/opportunities/6610) | $3,500.00 | N/A |
 
 ## SFSU-External
 
