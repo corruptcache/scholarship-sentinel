@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-11-16 23:01:24 UTC
+Last updated: 2026-11-17 21:53:42 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -148,6 +148,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [William & Harriet Barnhardt Scholarship](https://cpcc.academicworks.com/opportunities/11610) | Varies | 01/31/2027 |
 | [Jolly Good Samaritan Scholarship](https://cpcc.academicworks.com/opportunities/11765) | Varies | 01/31/2027 |
 | [Hollowell Workforce Ready Scholarship](https://cpcc.academicworks.com/opportunities/11768) | Varies | 01/31/2027 |
+| [Chick-fil-A Charlotte Scholarship](https://cpcc.academicworks.com/opportunities/11759) | Varies | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
 | [Pete & Marcia Sloan Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11127) | Varies | N/A |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | N/A |
@@ -783,8 +784,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [School of Architecture Annual Technology Support Fund](https://vt.academicworks.com/opportunities/75638) | Varies | 11/16/2026 |
-| [Hokies on the Hill Scholarship](https://vt.academicworks.com/opportunities/75613) | Varies | 11/16/2026 |
 | [C.T. Tate Distinguished Co-op Senior Award](https://vt.academicworks.com/opportunities/75703) | Varies | 11/18/2026 |
 | [Kimberly Ware Outstanding Achievement Award](https://vt.academicworks.com/opportunities/62636) | Varies | 11/18/2026 |
 | [Timothy Owens Sheperd Service Award](https://vt.academicworks.com/opportunities/62735) | Varies | 11/18/2026 |
