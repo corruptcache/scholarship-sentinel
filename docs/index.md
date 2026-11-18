@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-11-17 21:53:42 UTC
+Last updated: 2026-11-18 21:33:13 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -167,7 +167,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Ruth G. Shaw Scholarship](https://cpcc.academicworks.com/opportunities/11501) | up to $2000 | N/A |
 | [Southminster Scholarship for Aging Services](https://cpcc.academicworks.com/opportunities/11234) | Varies | N/A |
 | [BFB Foundation STEM Scholarship](https://cpcc.academicworks.com/opportunities/11602) | Varies | N/A |
-| [Red Wood Memorial Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11453) | Varies | N/A |
 
 ## CPCC-External
 
@@ -608,7 +607,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Kyria Hontalas Petuskey Memorial Scholarship Fund](https://sfsu.academicworks.com/opportunities/23703) | Amount up to $2000 | 11/17/2026 |
 | [Carol Severin Memorial Scholarship](https://sfsu.academicworks.com/opportunities/22704) | $1,000 | 11/18/2026 |
 | [Nina Roberts Memorial Scholarship](https://sfsu.academicworks.com/opportunities/23942) | $1,000 | 11/18/2026 |
 | [Recreation, Parks & Tourism Department Internship Fund (2 scholarships)](https://sfsu.academicworks.com/opportunities/23179) | $500.00 | 11/18/2026 |
@@ -658,6 +656,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Kimball L. Hamberger Scholarship](https://sfsu.academicworks.com/opportunities/8233) | $300.00 | N/A |
 | [Shenson Foundation Award](https://sfsu.academicworks.com/opportunities/8115) | up to $1500 | N/A |
 | [Society for Classical and Comparative Studies Travel Scholarship](https://sfsu.academicworks.com/opportunities/7620) | $750.00 | N/A |
+| [Dr. Gloria M. Hing Scholarship](https://sfsu.academicworks.com/opportunities/8186) | $743 | N/A |
 
 ## SFSU-External
 
