@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-11-18 21:33:13 UTC
+Last updated: 2026-11-19 21:45:53 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -607,9 +607,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Carol Severin Memorial Scholarship](https://sfsu.academicworks.com/opportunities/22704) | $1,000 | 11/18/2026 |
-| [Nina Roberts Memorial Scholarship](https://sfsu.academicworks.com/opportunities/23942) | $1,000 | 11/18/2026 |
-| [Recreation, Parks & Tourism Department Internship Fund (2 scholarships)](https://sfsu.academicworks.com/opportunities/23179) | $500.00 | 11/18/2026 |
 | [Kenny & Maria Chin Scholarship in China Studies](https://sfsu.academicworks.com/opportunities/23710) | $5,000 | 11/20/2026 |
 | [Dr. Salvador Chavez and Dr. Edward O. Hascall Scholarship](https://sfsu.academicworks.com/opportunities/23933) | $2000 | 11/20/2026 |
 | [Peggy H. Smith Outstanding Student Award](https://sfsu.academicworks.com/opportunities/23930) | $2000 | 11/20/2026 |
@@ -657,6 +654,9 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Shenson Foundation Award](https://sfsu.academicworks.com/opportunities/8115) | up to $1500 | N/A |
 | [Society for Classical and Comparative Studies Travel Scholarship](https://sfsu.academicworks.com/opportunities/7620) | $750.00 | N/A |
 | [Dr. Gloria M. Hing Scholarship](https://sfsu.academicworks.com/opportunities/8186) | $743 | N/A |
+| [Hysinger Award](https://sfsu.academicworks.com/opportunities/8427) | $2,000.00 | N/A |
+| [Community Service Student Awards - Student Awards for Excellence in Community Engagement](https://sfsu.academicworks.com/opportunities/7312) | $350.00 | N/A |
+| [Community Service Student Awards - Student Awards for Excellence in Service Learning](https://sfsu.academicworks.com/opportunities/1498) | $350.00 | N/A |
 
 ## SFSU-External
 
@@ -783,9 +783,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [C.T. Tate Distinguished Co-op Senior Award](https://vt.academicworks.com/opportunities/75703) | Varies | 11/18/2026 |
-| [Kimberly Ware Outstanding Achievement Award](https://vt.academicworks.com/opportunities/62636) | Varies | 11/18/2026 |
-| [Timothy Owens Sheperd Service Award](https://vt.academicworks.com/opportunities/62735) | Varies | 11/18/2026 |
 | [Leslie Geraldine Sherman Memorial Scholarship](https://vt.academicworks.com/opportunities/75580) | Varies | 11/30/2026 |
 | [Paul L. & Lynne Taylor Knox Study Abroad Scholarship](https://vt.academicworks.com/opportunities/75582) | Varies | 11/30/2026 |
 | [Skelton Honors Scholarship](https://vt.academicworks.com/opportunities/75584) | Varies | 11/30/2026 |
