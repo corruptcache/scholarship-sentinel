@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-11-19 21:45:53 UTC
+Last updated: 2026-11-20 21:29:03 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -167,6 +167,8 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Ruth G. Shaw Scholarship](https://cpcc.academicworks.com/opportunities/11501) | up to $2000 | N/A |
 | [Southminster Scholarship for Aging Services](https://cpcc.academicworks.com/opportunities/11234) | Varies | N/A |
 | [BFB Foundation STEM Scholarship](https://cpcc.academicworks.com/opportunities/11602) | Varies | N/A |
+| [Red Wood Memorial Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11453) | Varies | N/A |
+| [Ricky Hendrick Memorial Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11406) | Varies | N/A |
 
 ## CPCC-External
 
