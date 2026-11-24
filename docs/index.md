@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-11-20 21:29:03 UTC
+Last updated: 2026-11-24 01:10:29 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -21,7 +21,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Board of Trustees Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11130) | Varies | 01/31/2027 |
 | [Bob L. Moss Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11398) | Varies | 01/31/2027 |
 | [Brevard Myers Merit Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11133) | Varies | 01/31/2027 |
-| [Bryan Bailey Pigg Memorial Scholarship](https://cpcc.academicworks.com/opportunities/11562) | Varies | 01/31/2027 |
 | [Carl & Katharine Cornell Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11270) | Varies | 01/31/2027 |
 | [Carolina Green Industry Network Scholarship](https://cpcc.academicworks.com/opportunities/11627) | Varies | 01/31/2027 |
 | [Cato Adult Career Enhancement Scholarship](https://cpcc.academicworks.com/opportunities/11136) | Varies | 01/31/2027 |
@@ -150,6 +149,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Hollowell Workforce Ready Scholarship](https://cpcc.academicworks.com/opportunities/11768) | Varies | 01/31/2027 |
 | [Chick-fil-A Charlotte Scholarship](https://cpcc.academicworks.com/opportunities/11759) | Varies | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
+| [Bryan Bailey Pigg Memorial Scholarship](https://cpcc.academicworks.com/opportunities/11562) | Varies | N/A |
 | [Pete & Marcia Sloan Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11127) | Varies | N/A |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | N/A |
 | [Mark Helms Service Learning Scholarship](https://cpcc.academicworks.com/opportunities/11660) | Varies | N/A |
@@ -609,10 +609,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Kenny & Maria Chin Scholarship in China Studies](https://sfsu.academicworks.com/opportunities/23710) | $5,000 | 11/20/2026 |
-| [Dr. Salvador Chavez and Dr. Edward O. Hascall Scholarship](https://sfsu.academicworks.com/opportunities/23933) | $2000 | 11/20/2026 |
-| [Peggy H. Smith Outstanding Student Award](https://sfsu.academicworks.com/opportunities/23930) | $2000 | 11/20/2026 |
-| [Continue the Dream for Academic Excellence Scholarship](https://sfsu.academicworks.com/opportunities/23868) | varies | 11/22/2026 |
 | [Aidan M. Dunne Endowed Scholarship for Accounting Students](https://sfsu.academicworks.com/opportunities/23938) | $1,000 | 11/30/2026 |
 | [Paul Wiese Memorial Scholarship](https://sfsu.academicworks.com/opportunities/23874) | $2,500.00 | 11/30/2026 |
 | [The ASCEND Scholarship](https://sfsu.academicworks.com/opportunities/23882) | $1,000 | 11/30/2026 |
@@ -659,6 +655,10 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Hysinger Award](https://sfsu.academicworks.com/opportunities/8427) | $2,000.00 | N/A |
 | [Community Service Student Awards - Student Awards for Excellence in Community Engagement](https://sfsu.academicworks.com/opportunities/7312) | $350.00 | N/A |
 | [Community Service Student Awards - Student Awards for Excellence in Service Learning](https://sfsu.academicworks.com/opportunities/1498) | $350.00 | N/A |
+| [Boundaries of Life Scholarship](https://sfsu.academicworks.com/opportunities/8867) | $7,000.00 | N/A |
+| [Abel/Kolterman Scholarship](https://sfsu.academicworks.com/opportunities/1414) | varies | N/A |
+| [William L. Neer Scholarship](https://sfsu.academicworks.com/opportunities/8816) | varies | N/A |
+| [San Francisco Chapter Society for Technical Communication Scholarship for TPW Students](https://sfsu.academicworks.com/opportunities/8597) | up to $500 | N/A |
 
 ## SFSU-External
 
@@ -729,6 +729,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | Name | Amount | Deadline |
 |------|--------|----------|
 | [Graduation & Retention Network Student Fund](https://sc.academicworks.com/opportunities/12400) | Varies | 12/04/2026 |
+| [Graduation & Retention Network Student Fund](https://sc.academicworks.com/opportunities/12553) | Varies | 05/07/2027 |
 | [John H. Fain Computer Science Scholarship](https://sc.academicworks.com/opportunities/13637) | Varies | 06/01/2027 |
 | [Senator John G. Blackmon Mechanical Engineering Scholarship](https://sc.academicworks.com/opportunities/13641) | Varies | 06/01/2027 |
 | [Linda M. Summers Social Work Pioneer Fellowship](https://sc.academicworks.com/opportunities/12091) | Varies | 04/30/2030 |
@@ -779,7 +780,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Barney O. Smith National Trial Competition Award](https://sc.academicworks.com/opportunities/1200) | Varies | N/A |
 | [Bernie and Bobby Hood Academic Endowed Scholarship Fund](https://sc.academicworks.com/opportunities/1203) | Varies | N/A |
 | [Billy C. Coleman Scholarship Endowment Fund](https://sc.academicworks.com/opportunities/1206) | Varies | N/A |
-| [Boone Foundation Scholarship Fund for Law](https://sc.academicworks.com/opportunities/1209) | Varies | N/A |
 
 ## VT
 
