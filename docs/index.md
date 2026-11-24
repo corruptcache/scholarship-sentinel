@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-11-24 01:10:29 UTC
+Last updated: 2026-11-24 23:14:54 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -8,6 +8,7 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
+| [Cato Adult Career Enhancement Scholarship](https://cpcc.academicworks.com/opportunities/11136) | Varies | 11/25/2026 |
 | [American Schlafhorst Foundation Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11132) | Varies | 01/31/2027 |
 | [American Society of Highway Engineers Scholarship](https://cpcc.academicworks.com/opportunities/11584) | Varies | 01/31/2027 |
 | [Bank of America Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11407) | Varies | 01/31/2027 |
@@ -23,7 +24,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Brevard Myers Merit Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11133) | Varies | 01/31/2027 |
 | [Carl & Katharine Cornell Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11270) | Varies | 01/31/2027 |
 | [Carolina Green Industry Network Scholarship](https://cpcc.academicworks.com/opportunities/11627) | Varies | 01/31/2027 |
-| [Cato Adult Career Enhancement Scholarship](https://cpcc.academicworks.com/opportunities/11136) | Varies | 01/31/2027 |
 | [Cato Corporation Future Nurses Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11233) | Varies | 01/31/2027 |
 | [Cato Corporation Future Teachers Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11274) | Varies | 01/31/2027 |
 | [Central High School Legacy Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11173) | Varies | 01/31/2027 |
@@ -149,7 +149,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Hollowell Workforce Ready Scholarship](https://cpcc.academicworks.com/opportunities/11768) | Varies | 01/31/2027 |
 | [Chick-fil-A Charlotte Scholarship](https://cpcc.academicworks.com/opportunities/11759) | Varies | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
-| [Bryan Bailey Pigg Memorial Scholarship](https://cpcc.academicworks.com/opportunities/11562) | Varies | N/A |
 | [Pete & Marcia Sloan Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11127) | Varies | N/A |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | N/A |
 | [Mark Helms Service Learning Scholarship](https://cpcc.academicworks.com/opportunities/11660) | Varies | N/A |
