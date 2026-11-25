@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-11-24 23:14:54 UTC
+Last updated: 2026-11-25 22:42:35 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -33,7 +33,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Charles Fonville Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11373) | Varies | 01/31/2027 |
 | [Charles Vance "Van" Abernethy - Chef Van Scholarship](https://cpcc.academicworks.com/opportunities/11170) | Varies | 01/31/2027 |
 | [Charles W. Wray III Scholarship](https://cpcc.academicworks.com/opportunities/11334) | Varies | 01/31/2027 |
-| [Charlotte Area Hotel Association Scholarship](https://cpcc.academicworks.com/opportunities/11612) | Varies | 01/31/2027 |
 | [Charlotte Chamber Airport Chapter Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11231) | Varies | 01/31/2027 |
 | [Charlotte Douglas International Airport Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11688) | Up to $10,000 over 2 years | 01/31/2027 |
 | [Charlotte Garden Club Scholarship](https://cpcc.academicworks.com/opportunities/11540) | Varies | 01/31/2027 |
@@ -149,6 +148,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Hollowell Workforce Ready Scholarship](https://cpcc.academicworks.com/opportunities/11768) | Varies | 01/31/2027 |
 | [Chick-fil-A Charlotte Scholarship](https://cpcc.academicworks.com/opportunities/11759) | Varies | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
+| [Charlotte Area Hotel Association Scholarship](https://cpcc.academicworks.com/opportunities/11612) | Varies | N/A |
 | [Pete & Marcia Sloan Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11127) | Varies | N/A |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | N/A |
 | [Mark Helms Service Learning Scholarship](https://cpcc.academicworks.com/opportunities/11660) | Varies | N/A |
@@ -168,6 +168,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [BFB Foundation STEM Scholarship](https://cpcc.academicworks.com/opportunities/11602) | Varies | N/A |
 | [Red Wood Memorial Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11453) | Varies | N/A |
 | [Ricky Hendrick Memorial Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11406) | Varies | N/A |
+| [Bryan Bailey Pigg Memorial Scholarship](https://cpcc.academicworks.com/opportunities/11562) | Varies | N/A |
 
 ## CPCC-External
 
