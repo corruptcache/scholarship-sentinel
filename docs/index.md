@@ -1,6 +1,6 @@
 # Scholarship Sentinel - Live Catalog
 
-Last updated: 2026-11-25 22:42:35 UTC
+Last updated: 2026-11-26 22:32:23 UTC
 
 This page contains all currently live scholarships detected by the sentinel.
 
@@ -8,7 +8,6 @@ This page contains all currently live scholarships detected by the sentinel.
 
 | Name | Amount | Deadline |
 |------|--------|----------|
-| [Cato Adult Career Enhancement Scholarship](https://cpcc.academicworks.com/opportunities/11136) | Varies | 11/25/2026 |
 | [American Schlafhorst Foundation Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11132) | Varies | 01/31/2027 |
 | [American Society of Highway Engineers Scholarship](https://cpcc.academicworks.com/opportunities/11584) | Varies | 01/31/2027 |
 | [Bank of America Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11407) | Varies | 01/31/2027 |
@@ -148,7 +147,6 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Hollowell Workforce Ready Scholarship](https://cpcc.academicworks.com/opportunities/11768) | Varies | 01/31/2027 |
 | [Chick-fil-A Charlotte Scholarship](https://cpcc.academicworks.com/opportunities/11759) | Varies | 01/31/2027 |
 | [Cato Corporation Opportunity Scholarship](https://cpcc.academicworks.com/opportunities/11685) | Up to $10,000 over 2 years | 02/14/2027 |
-| [Charlotte Area Hotel Association Scholarship](https://cpcc.academicworks.com/opportunities/11612) | Varies | N/A |
 | [Pete & Marcia Sloan Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11127) | Varies | N/A |
 | [Bottle Cap Group Scholarship](https://cpcc.academicworks.com/opportunities/11711) | Varies | N/A |
 | [Mark Helms Service Learning Scholarship](https://cpcc.academicworks.com/opportunities/11660) | Varies | N/A |
@@ -169,6 +167,7 @@ This page contains all currently live scholarships detected by the sentinel.
 | [Red Wood Memorial Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11453) | Varies | N/A |
 | [Ricky Hendrick Memorial Endowed Scholarship](https://cpcc.academicworks.com/opportunities/11406) | Varies | N/A |
 | [Bryan Bailey Pigg Memorial Scholarship](https://cpcc.academicworks.com/opportunities/11562) | Varies | N/A |
+| [Charlotte Area Hotel Association Scholarship](https://cpcc.academicworks.com/opportunities/11612) | Varies | N/A |
 
 ## CPCC-External
 
